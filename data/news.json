@@ -1,14 +1,32 @@
 {
-  "updated": "2026-09-08T04:41:41.235588+00:00",
+  "updated": "2026-09-08T05:10:31.719639+00:00",
   "items": [
+    {
+      "title": "You can now check your precinct online for the BARMM polls",
+      "link": "https://www.rappler.com/philippines/elections/check-comelec-precinct-finder-barmm-polls-online/",
+      "description": "Contact your local Office of the Election Officer if you need to verify details regarding your voter information",
+      "date": "2026-09-08T05:07:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-08T04:40:37+00:00",
+      "date": "2026-09-08T04:55:50+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/pJYnYEl8eNU"
+      "image": "https://www.youtube.com/embed/xEQ2iRMNftE"
+    },
+    {
+      "title": "ABS-CBN gets first P2 billion of P6-billion lifeline",
+      "link": "https://www.rappler.com/business/abs-cbn-gets-billion-lifeline/",
+      "description": "The P6-billion rescue package, anchored by private investment firm I&#038;C Holdings’ P3.5-billion investment and backed by Gabby Lopez III and other Lopez family investors, has begun flowing into the ailing media company",
+      "date": "2026-09-08T04:46:30+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/08/ABSCBN-GAMBLE.jpg?resize=75%2C75&crop=594px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "Bank lending up 10.4% in July",
@@ -128,15 +146,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2021/12/Putin-300x200.jpg"
     },
     {
-      "title": "Indonesia reopens Jakarta airport, 4 others after ash clears",
-      "link": "https://www.rappler.com/world/asia-pacific/indonesia-reopens-jakarta-airport-ash-clears-september-2026/",
-      "description": "Around 341,000 people have been affected by the delay, diversion, or cancellation of 2,961 flights",
-      "date": "2026-09-08T02:13:03+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Romualdez seeks hospital custody until medically cleared",
       "link": "https://www.philstar.com/headlines/2026/09/08/2554844/romualdez-seeks-hospital-custody-until-medically-cleared",
       "description": "The former speaker cited Manuel Bonoan who was allowed to remain hospitalized while in custody.",
@@ -171,15 +180,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-08T01:16:59+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/3YZPtSCEA10"
     },
     {
       "title": "Habagat rains to persist over Luzon, Visayas",
