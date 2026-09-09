@@ -1,10 +1,28 @@
 {
-  "updated": "2026-09-09T11:11:04.011777+00:00",
+  "updated": "2026-09-09T11:41:05.477138+00:00",
   "items": [
+    {
+      "title": "The problem with replatforming Alfred ‘Krip’ Yuson",
+      "link": "https://www.rappler.com/people/artists/alfred-krip-yuson-book-republishing-controversy/",
+      "description": "Publishing house Exploding Galaxies announces that it will no longer republish and circulate Yuson's novel 'Great Philippine Jungle Energy Café'",
+      "date": "2026-09-09T11:20:47+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Bullying, cyberbullying rise among Filipino students — PISA",
+      "link": "https://bworldonline.com/the-nation/2026/09/09/775669/bullying-cyberbullying-rise-among-filipino-students-pisa/",
+      "description": "Nearly half of Filipino 15-year-olds experienced bullying at least several times a month in 2025, more than twice the average across OECD countries, the latest Programme for International Student Assessment (PISA) showed. The Organization for Economic Cooperation and Development (OECD) said 47% of students in the Philippines reported being victims of at least one form [&#8230;]",
+      "date": "2026-09-09T11:20:10+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/09/students-300x169.jpg"
+    },
     {
       "title": "Supreme Court acquits Imelda Marcos in 7 counts of graft",
       "link": "https://www.rappler.com/philippines/supreme-court-acquittal-imelda-marcos-graft-september-2026/",
-      "description": "The SC says the prosecution failed to prove Marcos' guilt beyond reasonable doubt",
+      "description": "(1st UPDATE) The SC says the prosecution failed to prove Marcos' guilt beyond reasonable doubt",
       "date": "2026-09-09T10:42:33+00:00",
       "source": "Rappler",
       "category": "news",
@@ -189,15 +207,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/SGyHBoL9v6k"
-    },
-    {
-      "title": "[OPINION] Next decade of Philippine climate action set in new but incomplete NDC",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-philippines-new-nationally-determined-contribution-incomplete/",
-      "description": "It is true that we need to secure finance, technologies, and means for capacity-building from developed countries. Yet the impacts of the climate crisis would not stop affecting our economy and society if we just wait for developed countries to fulfill their obligations.",
-      "date": "2026-09-09T07:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/08/We-dont-have-enough-in-the-national-budget-for-climate-solutions.jpg?resize=75%2C75&crop=438px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "'We have his address': Philippines renews push for Zaldy Co Red Notice",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2024/07/BTr-Bureau-of-the-Treasury-logo-300x169.jpg"
-    },
-    {
-      "title": "BoI grants registration to P19.82-B SteelAsia Batangas plant",
-      "link": "https://bworldonline.com/corporate/2026/09/09/775418/boi-grants-registration-to-p19-82-b-steelasia-batangas-plant/",
-      "description": "THE Board of Investments (BoI) has granted a Certificate of Registration to SteelAsia Lemery Works, Inc. (SLWI) for its P19.82-billion steel manufacturing facility in Batangas. In a statement on Tuesday, the BoI said the project will be the country’s first manufacturing facility for medium steel sections. The 72-hectare facility will be located in Barangay Mataas [&#8230;]",
-      "date": "2026-09-08T16:06:34+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SteelAsia-Batangas-plant-300x169.jpg"
     }
   ]
 }
