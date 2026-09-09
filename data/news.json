@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-09T03:41:40.129882+00:00",
+  "updated": "2026-09-09T04:11:05.319197+00:00",
   "items": [
+    {
+      "title": "[Pinoy Criminology] Like Martin Romualdez, can ordinary accused avail themselves of hospital arrest?",
+      "link": "https://www.rappler.com/voices/thought-leaders/pinoy-criminology-martin-romualdez-hospital-arrest-equal-treatment-poor-accused/",
+      "description": "I cannot help but comment on the arrest of former House speaker Martin Romualdez. He was arrested for plunder involving",
+      "date": "2026-09-09T04:03:05+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Romualdez joins list of officials who cite illness to delay custody",
+      "link": "https://www.rappler.com/philippines/romualdez-list-officials-invoke-illness-delay-custody/",
+      "description": "The Leyte lawmaker adds to a growing list of political figures who invoked health concerns amid legal cases",
+      "date": "2026-09-09T03:44:37+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/10/martin-romualdez-independnet-commission-for-infrastructure-october-14-2025.jpg?resize=75%2C75&crop=109px%2C0px%2C797px%2C797px"
+    },
+    {
+      "title": "Corona precedent: Can constitutional provision hamper bid to summon Sara Duterte?",
+      "link": "https://www.rappler.com/philippines/corona-precedent-constitutional-provision-impact-bid-summon-sara-duterte-impeachment-trial/",
+      "description": "Months before then-chief justice Renato Corona voluntarily testified in his own trial in 2012, the impeachment court junked the prosecution's request to compel him to take the witness stand",
+      "date": "2026-09-09T03:42:40+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/ACogwRn0d7M"
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
@@ -378,33 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[Walang Pasok] Class suspensions, Wednesday, September 9, 2026",
-      "link": "https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-9-2026/",
-      "description": "Here is a list of areas where classes are suspended for Wednesday, September 9, 2026, due to the effects of the southwest monsoon",
-      "date": "2026-09-08T13:15:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Civic Circles: How can we keep our children and schools safe?",
-      "link": "https://www.rappler.com/moveph/civic-circles-how-keep-children-schools-safe/",
-      "description": "The panel discussion starting at 12:30 pm on September 10 brings together stakeholders to identify safety gaps and develop community-led solutions to protect children",
-      "date": "2026-09-08T12:11:41+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "IN CHARTS: Literacy of Filipino students in Grades 1 to 3",
-      "link": "https://www.rappler.com/philippines/comprehensive-rapid-literacy-assessment-results-school-year-2025-2026/",
-      "description": "Around half of all students in Grades 1 to 3 still did not have proficient reading skills by the end of SY 2025-2026, the Department of Education's assessment shows",
-      "date": "2026-09-08T12:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/public.flourish.studio/visualisation/30181131/thumbnail"
     }
   ]
 }
