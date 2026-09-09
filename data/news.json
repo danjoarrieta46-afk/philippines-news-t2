@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-09T09:41:59.114437+00:00",
+  "updated": "2026-09-09T10:11:33.326531+00:00",
   "items": [
+    {
+      "title": "Southwest monsoon brings rainfall across the country — PAGASA",
+      "link": "https://bworldonline.com/the-nation/2026/09/09/775670/southwest-monsoon-brings-rainfall-across-the-country-pagasa/",
+      "description": "The southwest monsoon is expected to bring rainfall across Luzon, Visayas, and parts of Mindanao in the next 24 hours, heightening risks of flooding and landslides, especially in high-risk areas, according to the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) on Wednesday. In a 5:00 p.m. weather advisory, PAGASA said that intense downpours, or [&#8230;]",
+      "date": "2026-09-09T10:02:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-9-300x225.jpg"
+    },
+    {
+      "title": "[DECODED] Why gamifying abuse impacts all of us",
+      "link": "https://www.rappler.com/voices/newsletters/decoded-gamifying-abuse-impacts/",
+      "description": "Gamified abuse scales the way it does not only because of the bad actors that exploit them, but for the lack of accountability from the online platforms in which they thrive",
+      "date": "2026-09-09T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/image-3.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-09T09:59:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
+    },
+    {
+      "title": "AI security seen as key to scaling enterprise adoption",
+      "link": "https://bworldonline.com/technology/2026/09/09/775672/ai-security-seen-as-key-to-scaling-enterprise-adoption/",
+      "description": "The growing use of autonomous artificial intelligence (AI) agents is pushing Philippine companies to rethink how they secure corporate data and systems as businesses move to scale AI beyond pilot projects, according to identity security firm SailPoint. SailPoint ASEAN Managing Director Eric Kong said companies need to build identity security into AI deployments from the [&#8230;]",
+      "date": "2026-09-09T09:46:12+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Eric-Kong-300x200.jpg"
+    },
     {
       "title": "Run or hide? Benguet school tests active-attack response without fake gunfire",
       "link": "https://www.rappler.com/philippines/luzon/benguet-school-drill-active-attack-response/",
@@ -45,6 +81,15 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
+    },
+    {
+      "title": "Saan Aabot ang Pag-IBIG Mo? SMDC and Pag-IBIG Fund MoU bring homeownership closer",
+      "link": "https://bworldonline.com/spotlight/2026/09/09/775688/saan-aabot-ang-pag-ibig-mo-smdc-and-pag-ibig-fund-mou-bring-homeownership-closer/",
+      "description": "The SMDC × Pag-IBIG Fund MoU brings together selected Pag-IBIG-accredited SMDC projects, buyer education, and planned homebuyer programs for Filipino workers here and abroad. Kaya ko na ba? For many Filipinos, that is where the home search begins. Pag-IBIG Fund’s recent increase of its maximum housing loan amount to P10 million has widened the financing possibilities for qualified members. But [&#8230;]",
+      "date": "2026-09-09T09:00:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SMDC-x-Pagibig-1-OL-300x201.jpg"
     },
     {
       "title": "Pag-IBIG, SMDC partner as more developers widen home options under Marcos’ Expanded 4PH",
@@ -144,24 +189,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/philippines_asean_score_progression-scaled.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Google warns of lower quality as it revamps Europe search results to avoid EU fines",
-      "link": "https://www.rappler.com/technology/google-warns-lower-quality-search-results-europe-revamp/",
-      "description": "Google says the changes mark the largest reduction in quality of service at the world's most popular internet search engine in its 29-year search history",
-      "date": "2026-09-09T05:28:35+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "US accuses Chinese AI firms of ‘malicious’ copying of technology",
-      "link": "https://www.rappler.com/technology/us-accuses-china-ai-firms-malicious-copying/",
-      "description": "(1st UPDATE) Chinese foreign ministry spokesperson Mao Ning responds, saying China's AI advances were the result of 'achieving high-level science and technological self-reliance'",
-      "date": "2026-09-09T05:11:52+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Wage board clears P60 NCR wage hike while P85 order remains frozen",
@@ -378,33 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2022/04/peso-coins-currency-300x200.jpg"
-    },
-    {
-      "title": "CLI to expand Bohol residential footprint with 5.6-hectare Tagbilaran project",
-      "link": "https://bworldonline.com/corporate/2026/09/09/775459/cli-to-expand-bohol-residential-footprint-with-5-6-hectare-tagbilaran-project/",
-      "description": "LISTED DEVELOPER Cebu Landmasters, Inc. (CLI) is expanding its residential footprint in Bohol with the development of a 5.6-hectare property in Tagbilaran City into a mixed residential community featuring mid-market housing and its first Mirani condominium project in the province. “Bohol continues to show strong potential, and our performance here gives us confidence to deepen [&#8230;]",
-      "date": "2026-09-08T16:04:51+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Velmiro-Greens-Bohol-300x169.jpg"
-    },
-    {
-      "title": "The need for quality work",
-      "link": "https://bworldonline.com/opinion/2026/09/09/775411/the-need-for-quality-work/",
-      "description": "(Part 1) Despite the falling fertility rate in the Philippines, the number of young people and, therefore, of job seekers, continues to rise. According to the latest data from the Philippine Statistics Authority, the labor force numbered about 51.2 million people in 2025. Over the last several years, the labor force has grown at an [&#8230;]",
-      "date": "2026-09-08T16:04:28+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/job-fair-300x200.jpg"
-    },
-    {
-      "title": "Health maintenance organizations post higher revenues, benefit payouts for the first semester",
-      "link": "https://bworldonline.com/banking-finance/2026/09/09/775432/health-maintenance-organizations-post-higher-revenues-benefit-payouts-for-the-first-semester/",
-      "description": "THE HEALTH maintenance organization (HMO) industry booked higher revenues in the first half of the year backed by growth in membership fee collections, allowing for increased benefit payouts. The Insurance Commission (IC) said HMOs’ combined revenues climbed by 19.99% to P56.433 billion in the six-month period from P47.033 billion last year. Total membership fees collected [&#8230;]",
-      "date": "2026-09-08T16:03:48+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/02/Insurance-commission-300x164.jpg"
     }
   ]
 }
