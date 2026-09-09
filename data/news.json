@@ -1,6 +1,51 @@
 {
-  "updated": "2026-09-09T05:10:43.350585+00:00",
+  "updated": "2026-09-09T05:40:22.452925+00:00",
   "items": [
+    {
+      "title": "Who can use the Lido name? SC cancels ‘Lido Cocina Tsina’ trademark",
+      "link": "https://www.rappler.com/business/supreme-court-cancels-lido-cocina-tsina-trademark/",
+      "description": "Years after the falling out between old partners, the Supreme Court says the trademark still belongs to the partnership they left behind",
+      "date": "2026-09-09T05:40:09+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2023/10/greek-taverna.jpg?resize=75%2C75&crop=417px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "El Niño may cause drought in Camarines Sur, hit 61 provinces— PAGASA",
+      "link": "https://bworldonline.com/the-nation/2026/09/09/775648/el-nino-may-cause-drought-in-camarines-sur-hit-61-provinces-pagasa/",
+      "description": "The El Niño phenomenon, which is likely to persist until the first half of 2027, is projected to cause drought conditions in Camarines Sur and dry conditions and dry spells in 61 provinces across the country, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) on Wednesday. “We still forecast drought conditions in [&#8230;]",
+      "date": "2026-09-09T05:38:06+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/06/Drought-El-Nino-300x200.jpg"
+    },
+    {
+      "title": "[In this Economy] PISA 2025: Much better scores, but the learning crisis remains",
+      "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-pisa-2025-much-better-scores-but-learning-crisis-remains/",
+      "description": "The improvements are real, but that’s what you get from intense preparation. As with any student determined to ace an exam, preparation is key.",
+      "date": "2026-09-09T05:31:27+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/philippines_asean_score_progression-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Google warns of lower quality as it revamps Europe search results to avoid EU fines",
+      "link": "https://www.rappler.com/technology/google-warns-lower-quality-search-results-europe-revamp/",
+      "description": "Google says the changes mark the largest reduction in quality of service at the world's most popular internet search engine in its 29-year search history",
+      "date": "2026-09-09T05:28:35+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "US accuses Chinese AI firms of ‘malicious’ copying of AI technology",
+      "link": "https://www.rappler.com/technology/us-accuses-china-ai-firms-malicious-copying/",
+      "description": "The Chinese companies copied US AI labs’ intellectual property through a technique known as distillation, US law enforcement and intelligence officials say",
+      "date": "2026-09-09T05:11:52+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
@@ -18,6 +63,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/02/Grand-Mosque-Cotabato-scaled.jpg?resize=75%2C75&crop=550px%2C0px%2C1441px%2C1441px"
+    },
+    {
+      "title": "Wage board clears P60 NCR wage hike while P85 order remains frozen",
+      "link": "https://www.philstar.com/headlines/2026/09/09/2555083/wage-board-clears-p60-ncr-wage-hike-while-p85-order-remains-frozen",
+      "description": "Metro Manila&#39;s wage board approved a new P60 daily minimum wage increase while the earlier P85 hike remains tied up in court.",
+      "date": "2026-09-09T04:33:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Southwest monsoon bringing moderate to heavy rain to over 20 areas",
@@ -56,15 +110,6 @@
       "image": "https://www.youtube.com/embed/ACogwRn0d7M"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-09T03:40:47+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/OOE0OogEs-c"
-    },
-    {
       "title": "Philippine banks’ July bad loan ratio rises to 3.35%",
       "link": "https://bworldonline.com/top-stories/2026/09/09/775646/philippine-banks-july-bad-loan-ratio-rises-to-3-35/",
       "description": "PHILIPPINE BANKS&#8217; nonperforming loan (NPL) ratio worsened in July as soured debt rose, preliminary Bangko Sentral ng Pilipinas (BSP) data showed. Banks’ gross NPL ratio rose to 3.35% in July from 3.29% a month earlier, but eased from 3.4% in the same month last year. This was the highest bad loan ratio in two months [&#8230;]",
@@ -83,15 +128,6 @@
       "image": ""
     },
     {
-      "title": "Sara Duterte taps lawyer Paolo Panelo as new spokesperson",
-      "link": "https://www.rappler.com/philippines/sara-duterte-spokesperson-paolo-panelo/",
-      "description": "The Office of the Vice President expects the son of former chief presidential counsel Salvador Panelo to make 'important information more accessible, clear, and easier for the public to understand'",
-      "date": "2026-09-09T03:12:02+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "DoT’s ‘rebrand’ expected to boost tourism growth",
       "link": "https://bworldonline.com/the-nation/2026/09/09/775636/dots-rebrand-expected-to-boost-tourism-growth/",
       "description": "The Department of Tourism (DoT) said that changing its branding direction in its Love the Philippines campaign will help boost the country’s tourism growth. “Upon entry into the office, the first mandate that I had carried out was to change the tone of voice of the Department of Tourism with regard to how it communicates [&#8230;]",
@@ -101,15 +137,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/06/IMG_2478-300x225.jpg"
     },
     {
-      "title": "War expands as Houthis attack Saudi cities and US strikes Iranian tankers",
-      "link": "https://www.rappler.com/world/middle-east/war-expands-houthis-saudi-us-strikes-iranian-tankers-september-8-2026/",
-      "description": "The war fuels a cycle of attacks and counterattacks, with the US and Iran waging economic warfare, while the Houthis disrupt shipping and threaten regional stability",
-      "date": "2026-09-09T00:25:17+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/07/iran-ali-khameni-trump-billboard-july-23-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
       "title": "Walang Pasok: Class suspensions for September 9 due to habagat",
       "link": "https://www.philstar.com/headlines/2026/09/09/2555061/walang-pasok-class-suspensions-september-9-due-habagat",
       "description": "Several local government units have announced class suspensions for Wednesday, September 9, due to the continuing effects of the southwest monsoon or habagat.",
@@ -117,15 +144,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[Vantage Point] The Villar Land scandal now has a gatekeeper problem",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-villar-land-scandal-gatekeeper-problem/",
-      "description": "The Villar Land affair began as a valuation scandal. It became a disclosure and market-integrity scandal. It now has a potentially more material issue.",
-      "date": "2026-09-09T00:21:45+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/Screenshot-2026-09-09-at-3.26.25-AM.png?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "'Cheapest' in the world? Immigration cites foreign fees in defending P240 border charge",
@@ -353,15 +371,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/mibf-2026-1-thumb-300x200.jpg"
     },
     {
-      "title": "The rising cost of moving goods — and the on-demand option more companies are taking",
-      "link": "https://bworldonline.com/spotlight/2026/09/09/775010/the-rising-cost-of-moving-goods-and-the-on-demand-option-more-companies-are-taking/",
-      "description": "Fuel is the delivery cost every company tracks. The harder one arrives by phone call, at four in the afternoon, in whatever size the day happens to need. Fuel prices have put delivery budgets under renewed pressure this year. But fuel is at least a visible cost, and most companies already track it. The harder [&#8230;]",
-      "date": "2026-09-08T16:02:52+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/091023_LALAMOVE_Day39490-OL-300x200.jpg"
-    },
-    {
       "title": "Pinoy students improved in PISA 2025",
       "link": "https://www.philstar.com/headlines/2026/09/09/2554970/pinoy-students-improved-pisa-2025",
       "description": "Filipino students&rsquo; scores in reading, mathematics and science have improved significantly in the 2025 Program for International Student Assessment , Education Secretary Sonny Angara said yesterday.",
@@ -392,15 +401,6 @@
       "title": "Recantations can aid Martin, say House allies",
       "link": "https://www.philstar.com/headlines/2026/09/09/2554980/recantations-can-aid-martin-say-house-allies",
       "description": "Recantations of several witnesses in the flood control controversy could help weaken the plunder case against Leyte Rep. Martin Romualdez, two of his allies said yesterday.",
-      "date": "2026-09-08T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Defense, prosecution can grill Sara’s security officers",
-      "link": "https://www.philstar.com/headlines/2026/09/09/2554983/defense-prosecution-can-grill-saras-security-officers",
-      "description": "In a reversal of his previous ruling, Senate impeachment court presiding officer Francis Escudero said he will now allow both the defense and the prosecution to direct and cross-examine Vice President Sara Duterte&rsquo;s security officers, Colonels Dennis Nolasco and Raymund Dante Lachica, in case they are summoned to the witness stand.",
       "date": "2026-09-08T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
