@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-09T23:39:02.403205+00:00",
+  "updated": "2026-09-10T00:15:12.669627+00:00",
   "items": [
+    {
+      "title": "[Vantage Point] Villar Land: Follow the P1.3-trillion paper trail",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-villar-land-follow-trillion-paper-trail/",
+      "description": "The documents I have in possession establish the acquisition, revaluation, and recognition of enormous accounting gains. They also establish that Villar Land subsequently carried an extraordinary stock-market valuation.",
+      "date": "2026-09-10T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/l0lNSvwSitg"
+    },
+    {
+      "title": "Trump advisers warn Iran conflict may last through end of his term, WSJ reports",
+      "link": "https://www.rappler.com/world/middle-east/trump-advisers-warn-iran-conflict-may-last-through-end-term/",
+      "description": "The report comes as Iran and the US launch the biggest wave of attacks on shipping so far since the start of the six-month-old war",
+      "date": "2026-09-09T23:57:23+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/2026-09-08T230007Z_95045868_RC2AFNAHR1R5_RTRMADP_3_IRAN-CRISIS-USA-NAVY-CARRIERS-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "'Negative na': Small Manila businesses cut staff, take loans over steep garbage fees",
       "link": "https://www.philstar.com/headlines/2026/09/10/2553319/negative-na-small-manila-businesses-cut-staff-take-loans-over-steep-garbage-fees",
@@ -387,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
-    },
-    {
-      "title": "[DECODED] Why gamifying abuse impacts all of us",
-      "link": "https://www.rappler.com/voices/newsletters/decoded-gamifying-abuse-impacts/",
-      "description": "Gamified abuse scales the way it does not only because of the bad actors that exploit them, but for the lack of accountability from the online platforms in which they thrive",
-      "date": "2026-09-09T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/image-3.jpeg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-09T09:59:16+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
     }
   ]
 }
