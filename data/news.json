@@ -1,14 +1,32 @@
 {
-  "updated": "2026-09-10T05:10:20.900574+00:00",
+  "updated": "2026-09-10T05:40:49.853364+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-10T04:50:49+00:00",
+      "date": "2026-09-10T05:21:33+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
+    },
+    {
+      "title": "Ex-Sandiganbayan justice among first witnesses in Sara Duterte unexplained wealth case",
+      "link": "https://www.rappler.com/philippines/list-prosecution-first-witnesses-unexplained-wealth-case-sara-duterte-impeachment-trial/",
+      "description": "The prosecution accuses Vice President Sara Duterte of betrayal of public trust and culpable violation of the Constitution over her unexplained wealth",
+      "date": "2026-09-10T05:20:30+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
+    },
+    {
+      "title": "Civic Circles: How can we keep our children and schools safe?",
+      "link": "https://www.rappler.com/moveph/civic-circles-how-keep-children-schools-safe/",
+      "description": "The panel discussion starting at 12:30 pm on September 10 brings together stakeholders to identify safety gaps and develop community-led solutions to protect children",
+      "date": "2026-09-10T05:16:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "28 engineering students complete Meralco Power Academy internship program",
@@ -385,24 +403,6 @@
       "description": "The Office of the Ombudsman will &ldquo;strongly oppose&rdquo; the bid of Leyte congressman and former speaker Martin Romualdez for continued hospital confinement as he faces detention for a non-bailable P7.4-billion plunder charge.",
       "date": "2026-09-09T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "SC acquits Imelda Marcos’ 7 counts of graft | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-9-2026/",
-      "description": "Today’s headlines: Imelda Marcos, Martin Romualdez, Sara Duterte",
-      "date": "2026-09-09T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/900qUKdGRx0"
-    },
-    {
-      "title": "Alas embraces challenge as Ateneo honors Baterbonia, Adili in UAAP Season 89",
-      "link": "https://www.rappler.com/sports/uaap/louie-alas-embraces-challenge-ateneo-honors-rene-baterbonia-divine-adili-2026/",
-      "description": "Louie Alas leads the Ateneo Blue Eagles in such delicate times, taking over as interim coach for the UAAP Season 89 men’s basketball tournament following the resignation of former head coach Tab Baldwin",
-      "date": "2026-09-09T13:03:07+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     }
