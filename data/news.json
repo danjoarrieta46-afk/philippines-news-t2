@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-10T09:11:20.128609+00:00",
+  "updated": "2026-09-10T09:41:48.325394+00:00",
   "items": [
+    {
+      "title": "We Belong in the Room: Filipino Youth in Global Spaces",
+      "link": "https://youthforceph.rappler.com/279/we-belong-in-the-room-filipino-youth-in-global-spaces/",
+      "description": "For many young Filipinos, international opportunities can feel out of reach. They can seem reserved for people with extensive experience,",
+      "date": "2026-09-10T09:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
@@ -17,7 +26,7 @@
       "date": "2026-09-10T08:33:53+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/06/15-16-votes-june-12-2026.jpg?resize=75%2C75&crop=490px%2C0px%2C1080px%2C1080px"
+      "image": "https://www.rappler.com/tachyon/2026/06/15-16-votes-june-12-2026.jpg?resize=150%2C150&crop=490px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "DOJ aims to complete review of Quiboloy extradition docs in 2 weeks",
@@ -53,7 +62,7 @@
       "date": "2026-09-10T08:00:00+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/514763244_1249082883258421_6464502344501678379_n.jpg?resize=75%2C75&crop_strategy=attention"
+      "image": "https://www.rappler.com/tachyon/2026/09/514763244_1249082883258421_6464502344501678379_n.jpg?resize=150%2C150&crop_strategy=attention"
     },
     {
       "title": "Order fiber WiFi like food delivery: GFiber Prepaid expands WiFi-on-demand via GrabMart to Metro Manila, Cebu, Davao",
@@ -80,7 +89,7 @@
       "date": "2026-09-10T07:03:40+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/12/ramil-madriaga.png?resize=75%2C75&crop=273px%2C0px%2C1200px%2C1200px"
+      "image": "https://www.rappler.com/tachyon/2025/12/ramil-madriaga.png?resize=150%2C150&crop=273px%2C0px%2C1200px%2C1200px"
     },
     {
       "title": "DOJ: Manila Interpol to complete docs for Red Notice requests vs Co, others",
@@ -98,7 +107,7 @@
       "date": "2026-09-10T06:22:15+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/SM-AURA-SEP-3-2026.jpg?resize=75%2C75&crop=492px%2C0px%2C1080px%2C1080px"
+      "image": "https://www.rappler.com/tachyon/2026/09/SM-AURA-SEP-3-2026.jpg?resize=150%2C150&crop=492px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "FACT CHECK: Cayetano didn’t say VP Sara should face impeachment court; quote card is fake",
@@ -107,7 +116,7 @@
       "date": "2026-09-10T06:05:40+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-15.jpg?resize=75%2C75&crop_strategy=attention"
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-15.jpg?resize=150%2C150&crop_strategy=attention"
     },
     {
       "title": "Ex-Sandiganbayan justice among first witnesses in Sara Duterte unexplained wealth case",
@@ -117,15 +126,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
-    },
-    {
-      "title": "Civic Circles: How can we keep our children and schools safe?",
-      "link": "https://www.rappler.com/moveph/civic-circles-how-keep-children-schools-safe/",
-      "description": "The panel discussion starting at 12:30 pm on September 10 brings together stakeholders to identify safety gaps and develop community-led solutions to protect children",
-      "date": "2026-09-10T05:16:57+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "28 engineering students complete Meralco Power Academy internship program",
