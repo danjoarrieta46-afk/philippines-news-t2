@@ -1,12 +1,57 @@
 {
-  "updated": "2026-09-11T07:11:32.868580+00:00",
+  "updated": "2026-09-11T07:41:02.113599+00:00",
   "items": [
+    {
+      "title": "Firefighters enter charred ferry as search continues for dozens missing in Palawan",
+      "link": "https://www.rappler.com/philippines/luzon/palawan-ferry-fire-updates-september-11-2026/",
+      "description": "The Philippine Coast Guard revises the number of missing from 86 to 84 after authorities verified two people originally listed on the manifest had not been on board. The number of people rescued stood at 43.",
+      "date": "2026-09-11T07:33:39+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sandiganbayan orders Romualdez’s transfer to PGH for independent tests",
+      "link": "https://www.rappler.com/philippines/sandiganbayan-orders-martin-romualdez-transfer-general-hospital/",
+      "description": "Romualdez will be discharged from the Cardinal Santos Medical Center in San Juan City on Saturday, September 12, and brought to the UP-PGH for medical examination",
+      "date": "2026-09-11T07:32:44+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/791246118_1624332095749734_5714716722319586298_n.jpeg?resize=75%2C75&crop=330px%2C0px%2C720px%2C720px"
+    },
+    {
+      "title": "‘Amici curiae’: Where do invited ex-justices stand on conviction threshold debate?",
+      "link": "https://www.rappler.com/philippines/retired-supreme-court-justices-conviction-threshold-amici-curiae-sara-duterte-trial/",
+      "description": "Their past statements offer a glimpse into how they will guide the impeachment court",
+      "date": "2026-09-11T07:25:03+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/pJYnYEl8eNU"
+    },
+    {
+      "title": "Who's who: 4 ex-justices to guide Senate on votes needed to convict VP Sara",
+      "link": "https://www.philstar.com/headlines/2026/09/11/2555582/whos-who-4-ex-justices-guide-senate-votes-needed-convict-vp-sara",
+      "description": "How many votes to convict Sara? Senate calls in 3 ex-chief justices, 2 Charter framers",
+      "date": "2026-09-11T07:14:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "ASEAN’s ‘strategic opportunity’: Chair Marcos to visit India for BRICS meeting",
       "link": "https://www.rappler.com/philippines/marcos-asean-chair-india-brics-visit-september-2026/",
       "description": "'Through this visit, the President seeks to ensure that our modern partnerships remain open, resilient and capable of delivering prosperity to our people,' says DFA spokesperson Analyn Ratonel",
       "date": "2026-09-11T07:01:50+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Fact check: Viral photo of Luistro altered to exaggerate facial blemishes",
+      "link": "https://www.philstar.com/headlines/2026/09/11/2555572/fact-check-viral-photo-luistro-altered-exaggerate-facial-blemishes",
+      "description": "Original interview footage shows her facial appearance was manipulated.",
+      "date": "2026-09-11T07:01:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -117,33 +162,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "COA finds irregularities in TUPAD payouts in 2025",
-      "link": "https://www.rappler.com/philippines/national-news/coa-finds-irregularities-department-labor-tupad-payouts-2025/",
-      "description": "State auditors spot issues in TUPAD payouts in Eastern Visayas, Davao Region, Soccskargen, and Caraga",
-      "date": "2026-09-11T03:22:04+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2024/08/Screen-Shot-2024-08-29-at-11.41.19-PM.png?resize=75%2C75&crop=132px%2C0px%2C634px%2C634px"
-    },
-    {
-      "title": "[The Wide Shot] The test that only you can grade",
-      "link": "https://www.rappler.com/voices/thought-leaders/the-wide-shot-test-honesty-online-classes/",
-      "description": "A letter to my journalism students as we hold yet another online class",
-      "date": "2026-09-11T03:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Sara Duterte’s arraignment for grave threats case deferred",
-      "link": "https://www.rappler.com/philippines/sara-duterte-arraignment-grave-threats-deferred-september-2026/",
-      "description": "(1st UPDATE) It's still unclear what type of motion the Vice President's camp has filed with the court. Even the justice department did not disclose the nature of the motion that triggered the deferment.",
-      "date": "2026-09-11T02:59:20+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/ixgo3fbbH3o"
     },
     {
       "title": "QC court defers Sara Duterte's arraignment as VP calls Marcos an 'addict'",
@@ -387,24 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/03/peso-dollar-currency-philstar-300x200.jpg"
-    },
-    {
-      "title": "Safer infrastructure, water security sought",
-      "link": "https://www.philstar.com/headlines/2026/09/11/2555531/safer-infrastructure-water-security-sought",
-      "description": "A private sector body that advises President Marcos on government policies is pushing for measures that seek to make buildings safer, as well as manage floods and ensure water security, citing the need for faster and more coordinated action to mitigate the impact of disasters.",
-      "date": "2026-09-10T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Strong monsoon rains to hit Luzon",
-      "link": "https://www.philstar.com/headlines/2026/09/11/2555532/strong-monsoon-rains-hit-luzon",
-      "description": "Heavy rainfall and flooding due to the southwest monsoon are likely to have &ldquo;significant&rdquo; impact on parts of Luzon over the weekend, the Philippine Atmospheric, Geophysical and Astronomical Services Administration warned yesterday.",
-      "date": "2026-09-10T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
     }
   ]
 }
