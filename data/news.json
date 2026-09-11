@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-11T04:11:59.593845+00:00",
+  "updated": "2026-09-11T04:41:01.392142+00:00",
   "items": [
+    {
+      "title": "Hong Kong court jails 2 Tiananmen vigil group leaders for 7 years",
+      "link": "https://www.rappler.com/world/asia-pacific/hong-kong-court-jails-tiananmen-vigil-group-leaders-lee-chow/",
+      "description": "Lee and Chow, the former chair and former vice-chair of the now-disbanded Hong Kong Alliance in Support of Patriotic Democratic Movements of China, have been in custody since 2021",
+      "date": "2026-09-11T04:35:13+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Maynilad, Manila Water rates to rise in Q4",
+      "link": "https://bworldonline.com/top-stories/2026/09/11/776283/maynilad-manila-water-rates-to-rise-in-q4/",
+      "description": "By Sheldeen Joy Talavera, Reporter CUSTOMERS of Maynilad Water Services, Inc. and Manila Water Co., Inc. will pay slightly higher water bills starting Oct. 1 after the regulator approved quarterly adjustments reflecting foreign exchange movements. The Metropolitan Waterworks and Sewerage System Regulatory Office (MWSS RO) approved an increase of P0.08 per cubic meter (cu.m.) for [&#8230;]",
+      "date": "2026-09-11T04:16:50+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/12/water-container-1-300x200.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-11T04:15:18+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
+    },
     {
       "title": "PAGASA monitors two LPAs amid southwest monsoon",
       "link": "https://bworldonline.com/the-nation/2026/09/11/776278/pagasa-monitors-two-lpas-amid-southwest-monsoon/",
@@ -9,15 +36,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-11-lpa-300x169.jpg"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-11T03:35:51+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
     },
     {
       "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
@@ -53,7 +71,7 @@
       "date": "2026-09-11T02:59:20+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/sara-duterte-quezon-city-rtc-september-5-2026-003-scaled.jpg?resize=75%2C75&crop=333px%2C0px%2C1707px%2C1707px"
+      "image": "https://www.youtube.com/embed/ixgo3fbbH3o"
     },
     {
       "title": "FACT CHECK: News of 39 soldiers held by MILF is from 2023, not recent",
@@ -114,15 +132,6 @@
       "link": "https://www.rappler.com/voices/thought-leaders/newsstand-sara-duterte-feeling-not-safe-presidential-campaign-messaging/",
       "description": "It may have come across as simultaneously scripted and badly acted, but the Vice President’s melodramatic message has potent electoral appeal",
       "date": "2026-09-11T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Walang Pasok] Class suspensions, Friday, September 11, 2026",
-      "link": "https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-11-2026/",
-      "description": "Here is a list of areas where classes are suspended for Friday, September 11, 2026, due to the effects of the southwest monsoon",
-      "date": "2026-09-10T23:30:20+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -254,15 +263,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2024/12/Islamic-Banking-300x200.jpg"
     },
     {
-      "title": "Atlas Mining names Jaime Bautista independent director",
-      "link": "https://bworldonline.com/corporate/2026/09/11/776155/atlas-mining-names-jaime-bautista-independent-director/",
-      "description": "ATLAS Consolidated Mining and Development Corp. has elected former Transportation Secretary Jaime J. Bautista as an independent director. Mr. Bautista was elected during a special meeting of the mining company’s board on Wednesday, Atlas Mining said in a disclosure on Thursday. He served as Transportation secretary from 2022 to 2025. Before joining the government, he [&#8230;]",
-      "date": "2026-09-10T16:05:38+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/10/Jaime-Bautista-300x200.jpg"
-    },
-    {
       "title": "Architecture festival centers on care, culture, collective futures",
       "link": "https://bworldonline.com/arts-and-leisure/2026/09/11/776040/architecture-festival-centers-on-care-culture-collective-futures/",
       "description": "AT A TIME when systemic challenges like poor infrastructure planning and chronic urban flooding plague the Philippines, this year’s Anthology ASEAN Architecture Festival is turning the spotlight on care, culture, and collective futures. This October, in the walled city of Intramuros, Anthology aims to explore how architecture shapes places and communities in the Philippines. It [&#8230;]",
@@ -270,6 +270,15 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/anthology-asean-architecture-festival-300x111.jpg"
+    },
+    {
+      "title": "Atlas Mining names Jaime Bautista independent director",
+      "link": "https://bworldonline.com/corporate/2026/09/11/776155/atlas-mining-names-jaime-bautista-independent-director/",
+      "description": "ATLAS Consolidated Mining and Development Corp. has elected former Transportation Secretary Jaime J. Bautista as an independent director. Mr. Bautista was elected during a special meeting of the mining company’s board on Wednesday, Atlas Mining said in a disclosure on Thursday. He served as Transportation secretary from 2022 to 2025. Before joining the government, he [&#8230;]",
+      "date": "2026-09-10T16:05:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/10/Jaime-Bautista-300x200.jpg"
     },
     {
       "title": "Security Bank looks to improve profitability",
@@ -351,15 +360,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2024/07/money-green-300x200.jpg"
-    },
-    {
-      "title": "Robinsons Land deploys two buses for Bridgetowne, Ortigas commuters",
-      "link": "https://bworldonline.com/corporate/2026/09/11/776151/robinsons-land-deploys-two-buses-for-bridgetowne-ortigas-commuters/",
-      "description": "GOKONGWEI-LED Robinsons Land Corp. (RLC) has partnered with the Metropolitan Manila Development Authority (MMDA) to deploy two buses under the Love Bus program serving commuter routes linked to Bridgetowne and the Ortigas business district. The buses will serve key commuter corridors connecting the business districts of Quezon City and Pasig City, RLC said in a [&#8230;]",
-      "date": "2026-09-10T16:02:36+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/F._Ortigas_Jr._Road_Emerald_Avenue_Ortigas_Center_Apr_2025-300x200.jpg"
     },
     {
       "title": "Safer infrastructure, water security sought",
