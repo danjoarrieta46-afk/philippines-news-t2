@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-11T07:41:02.113599+00:00",
+  "updated": "2026-09-11T08:12:11.317650+00:00",
   "items": [
+    {
+      "title": "OpenAI’s rogue agents used at least 10 more sites for unauthorized communications",
+      "link": "https://www.rappler.com/technology/openai-rogue-agents-unauthorized-communications-undisclosed-websites/",
+      "description": "The behavior may drive concerns both over the increasing capacity of AI models and the secrecy of the companies developing them",
+      "date": "2026-09-11T08:04:24+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "California enacts new curbs on social media for children",
+      "link": "https://www.rappler.com/technology/social-media/california-social-media-bills-children-online-safety-september-2026/",
+      "description": "California Governor Gavin Newsom enacts stricter tech regulations to protect minors from addictive social media features and AI chatbots",
+      "date": "2026-09-11T08:00:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Firefighters enter charred ferry as search continues for dozens missing in Palawan",
       "link": "https://www.rappler.com/philippines/luzon/palawan-ferry-fire-updates-september-11-2026/",
@@ -137,15 +155,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2024/12/water-container-1-300x200.jpg"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-11T04:15:18+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
-    },
-    {
       "title": "PAGASA monitors two LPAs amid southwest monsoon",
       "link": "https://bworldonline.com/the-nation/2026/09/11/776278/pagasa-monitors-two-lpas-amid-southwest-monsoon/",
       "description": "Two low pressure areas (LPAs) are being monitored as the southwest monsoon brings heavy rainfall to three areas and thunderstorms to parts of the country, raising a risk of flooding and landslides, according to the state weather bureau on Friday. The nearer LPA was located 1,040 kilometers west of Southwestern Luzon, the Philippine Atmospheric, Geophysical [&#8230;]",
@@ -153,15 +162,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-11-lpa-300x169.jpg"
-    },
-    {
-      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
-      "link": "https://www.rappler.com/technology/anthropic-threat-intelligence-report-september-2026/",
-      "description": "Anthropic says cybercriminals and state-backed hackers were increasingly using AI not just to assist with tasks but to orchestrate and execute large portions of cyberattacks",
-      "date": "2026-09-11T03:29:57+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "QC court defers Sara Duterte's arraignment as VP calls Marcos an 'addict'",
