@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T01:40:09.425111+00:00",
+  "updated": "2026-09-11T02:11:39.998927+00:00",
   "items": [
     {
       "title": "LIST: 2027 holidays and special non-working days",
@@ -29,15 +29,6 @@
       "image": ""
     },
     {
-      "title": "[Newsstand] ‘I don’t feel safe’ is Sara Duterte’s presidential campaign in a nutshell",
-      "link": "https://www.rappler.com/voices/thought-leaders/newsstand-sara-duterte-feeling-not-safe-presidential-campaign-messaging/",
-      "description": "It may have come across as simultaneously scripted and badly acted, but the Vice President’s melodramatic message has potent electoral appeal",
-      "date": "2026-09-11T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Reevaluating the latest re-rating upgrade of Megawide",
       "link": "https://www.rappler.com/business/opinion-reevaluating-rating-upgrade-megawide/",
       "description": "Megawide offers investors a heavily de-risked, structurally protected entry into the most explosive infrastructure growth story in the market",
@@ -45,6 +36,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/08/MEGAWIDE.jpg?resize=75%2C75&crop=370px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "[Newsstand] ‘I don’t feel safe’ is Sara Duterte’s presidential campaign in a nutshell",
+      "link": "https://www.rappler.com/voices/thought-leaders/newsstand-sara-duterte-feeling-not-safe-presidential-campaign-messaging/",
+      "description": "It may have come across as simultaneously scripted and badly acted, but the Vice President’s melodramatic message has potent electoral appeal",
+      "date": "2026-09-11T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "[Walang Pasok] Class suspensions, Friday, September 11, 2026",
