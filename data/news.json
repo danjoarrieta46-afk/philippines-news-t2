@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-11T03:11:12.936104+00:00",
+  "updated": "2026-09-11T03:41:34.967553+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-11T03:35:51+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/yDiWOF_mvgs"
+    },
+    {
+      "title": "Anthropic disrupts Russian, Chinese AI campaigns targeting its Claude models",
+      "link": "https://www.rappler.com/technology/anthropic-threat-intelligence-report-september-2026/",
+      "description": "Anthropic says cybercriminals and state-backed hackers were increasingly using AI not just to assist with tasks but to orchestrate and execute large portions of cyberattacks",
+      "date": "2026-09-11T03:29:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "COA finds irregularities in TUPAD payouts in 2025",
+      "link": "https://www.rappler.com/philippines/national-news/coa-finds-irregularities-department-labor-tupad-payouts-2025/",
+      "description": "State auditors spot issues in TUPAD payouts in Eastern Visayas, Davao Region, Soccskargen, and Caraga",
+      "date": "2026-09-11T03:22:04+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2024/08/Screen-Shot-2024-08-29-at-11.41.19-PM.png?resize=75%2C75&crop=132px%2C0px%2C634px%2C634px"
+    },
     {
       "title": "[The Wide Shot] The test that only you can grade",
       "link": "https://www.rappler.com/voices/thought-leaders/the-wide-shot-test-honesty-online-classes/",
@@ -27,6 +54,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-16.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "QC court defers Sara Duterte's arraignment as VP calls Marcos an 'addict'",
+      "link": "https://www.philstar.com/headlines/2026/09/11/2555558/qc-court-defers-sara-dutertes-arraignment-vp-calls-marcos-addict",
+      "description": "The Quezon City Regional Trial Court deferred on Friday, September 11, the arraignment of Vice President Sara Duterte for her grave threats charge after a motion filed by her camp.&nbsp;",
+      "date": "2026-09-11T02:44:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "LIST: 2027 holidays and special non-working days",
@@ -99,15 +135,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "5 paralegals arrested, 27 hurt in protest vs Pax Silica",
-      "link": "https://www.rappler.com/philippines/paralegals-arrested-pax-silica-protest/",
-      "description": "Karapatan asserts that the protest was ‘legitimate and just’ as it describes the Luzon Economic Corridor Investment Forum as a ‘US-backed open house for the plunder of Philippine resources’",
-      "date": "2026-09-10T22:56:18+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/07/CenPEG-scaled.jpg?resize=75%2C75&crop=526px%2C0px%2C1668px%2C1668px"
     },
     {
       "title": "Philippines sees 35% jump in FDI net inflows in June",
@@ -376,33 +403,6 @@
       "description": "Four teachers, three soldiers and three police officers are the recipients of this year&rsquo;s Metrobank Foundation Outstanding Filipinos award.",
       "date": "2026-09-10T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "ICC prosecutor bucks  stricter digital evidence rules",
-      "link": "https://www.philstar.com/headlines/2026/09/11/2555537/icc-prosecutor-bucks-stricter-digital-evidence-rules",
-      "description": "The prosecutor of the International Criminal Court&nbsp; has opposed a request by the defense team of former president Rodrigo Duterte for stricter protocols in digital evidence presented on trial.",
-      "date": "2026-09-10T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP Sara’s perjury complaint vs Madriaga junked | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-10-2026/",
-      "description": "Today’s headlines: Sara Duterte, Cayetano siblings, James Reid",
-      "date": "2026-09-10T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Eight-gold target set as Philippines eyes Asian Games splash",
-      "link": "https://www.rappler.com/sports/philippines-targets-eight-gold-medals-asian-games-2026/",
-      "description": "Bannered by star athletes Carlos Yulo, Alex Eala, EJ Obiena, and Annie Ramirez, Team Philippines seeks to breach the four-gold mark in an Asian Games edition for the first time since 1962",
-      "date": "2026-09-10T13:07:45+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     }
