@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-11T11:11:22.500770+00:00",
+  "updated": "2026-09-11T11:39:41.431513+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-11T11:36:49+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
+    },
+    {
+      "title": "PAGASA monitors 2 LPAs outside PAR; southwest monsoon weakens",
+      "link": "https://www.rappler.com/philippines/weather/lpa-southwest-monsoon-update-pagasa-forecast-september-11-2026-4pm/",
+      "description": "The trough or extension of one of the low pressure areas is causing scattered rain in Northern Luzon on Friday, September 11",
+      "date": "2026-09-11T11:25:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Nerve, RappLearn launch crisis management masterclass for the AI age",
+      "link": "https://www.rappler.com/about/nerve-rapplearn-under-pressure-ai-crisis-masterclass/",
+      "description": "Join the masterclass to learn how to anticipate, detect, and effectively manage crisis and online threats",
+      "date": "2026-09-11T11:12:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/image-6.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "‘Living in Water’ selected for 2026 Aesthetica Film Festival",
       "link": "https://www.rappler.com/about/living-water-360-virtual-reality-documentary-selected-2026-aesthetica-film-festival/",
@@ -92,24 +119,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-11-lpa-2-300x169.jpg"
     },
     {
-      "title": "FACT CHECK: Photos of Sara Duterte visiting MILF camp ahead of 2026 polls are fake",
-      "link": "https://www.rappler.com/newsbreak/fact-check/fake-photos-sara-duterte-visit-milf-camp-barmm-2026-elections/",
-      "description": "‘Based on what we have, she did not visit the region recently,’ the Police Regional Office Bangsamoro Autonomous Region told Rappler in a text message",
-      "date": "2026-09-11T08:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-17.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Philippines tells China: Leave Panganiban, Zamora reefs in West PH Sea",
-      "link": "https://www.rappler.com/philippines/tells-china-leave-panganiban-zamora-reef-west-sea/",
-      "description": "(1st UPDATE) China fired flares at an unarmed Philippine Coast Guard aircraft as it flew near Panganiban Reef and Zamora Reef en route to Pag-asa Island last September 7",
-      "date": "2026-09-11T08:27:08+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/kBwfzj7exR8"
-    },
-    {
       "title": "Privileged Filipino students outscore disadvantaged peers in science in PISA results",
       "link": "https://bworldonline.com/the-nation/2026/09/11/776329/privileged-filipino-students-outscore-disadvantaged-peers-in-science-in-pisa-results/",
       "description": "The most socio-economically advantaged 15-year-old Filipino students outperformed their most disadvantaged peers by a notable margin in science in the latest Programme for International Student Assessment (PISA), continuing a trend observed since the country joined the assessment in 2018. The Organisation for Economic Co-operation and Development (OECD) PISA 2025 study showed that socio-economically advantaged students, [&#8230;]",
@@ -117,15 +126,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2022/02/students-300x200.jpg"
-    },
-    {
-      "title": "OpenAI’s rogue agents used at least 10 more sites for unauthorized communications",
-      "link": "https://www.rappler.com/technology/openai-rogue-agents-unauthorized-communications-undisclosed-websites/",
-      "description": "The behavior may drive concerns both over the increasing capacity of AI models and the secrecy of the companies developing them",
-      "date": "2026-09-11T08:04:24+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Romualdez to be moved from Cardinal Santos to PGH",
