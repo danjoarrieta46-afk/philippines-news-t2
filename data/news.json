@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-10T23:37:36.958249+00:00",
+  "updated": "2026-09-11T00:16:09.308111+00:00",
   "items": [
+    {
+      "title": "Trump’s Iran campaign echoes the post-9/11 ‘forever wars’",
+      "link": "https://www.rappler.com/world/middle-east/trump-iran-campaign-echoes-post-9-11-forever-wars/",
+      "description": "Critics say Trump has ignored key lessons from previous post-9/11 wars, including the risks of long-term engagements and the importance of international support, leading to a conflict that lacks public backing and has strained relations with allies",
+      "date": "2026-09-11T00:02:30+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "[Newsstand] ‘I don’t feel safe’ is Sara Duterte’s presidential campaign in a nutshell",
+      "link": "https://www.rappler.com/voices/thought-leaders/newsstand-sara-duterte-feeling-not-safe-presidential-campaign-messaging/",
+      "description": "It may have come across as simultaneously scripted and badly acted, but the Vice President’s melodramatic message has potent electoral appeal",
+      "date": "2026-09-11T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Reevaluating the latest re-rating upgrade of Megawide",
+      "link": "https://www.rappler.com/business/opinion-reevaluating-rating-upgrade-megawide/",
+      "description": "Megawide offers investors a heavily de-risked, structurally protected entry into the most explosive infrastructure growth story in the market",
+      "date": "2026-09-11T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/08/MEGAWIDE.jpg?resize=75%2C75&crop=370px%2C0px%2C1080px%2C1080px"
+    },
     {
       "title": "[Walang Pasok] Class suspensions, Friday, September 11, 2026",
       "link": "https://www.rappler.com/philippines/class-suspensions-walang-pasok-september-11-2026/",
@@ -378,33 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Aira Villegas, Albert Ian delos Santos PH flag bearers in Asian Games",
-      "link": "https://www.rappler.com/sports/aira-villegas-albert-ian-delos-santos-flag-bearers-asian-games-2026/",
-      "description": "The flag-bearing duties for the Asian Games opening ceremony fall on Olympic boxing medalist Aira Villegas and weightlifting junior world record holder Albert Ian delos Santos",
-      "date": "2026-09-10T11:26:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Apart from timing, what else is ‘unusual’ about Romualdez’s hospital confinement?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/red-flags-martin-romualdez-confinement-not-emergency/",
-      "description": "Romualdez’s admitting physician reveals that he did not see nor examine the former House speaker when he was confined on September 7 because the attending physicians barred him from entering the room",
-      "date": "2026-09-10T11:04:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
-    },
-    {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-10T11:03:14+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
     }
   ]
 }
