@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T12:42:25.547628+00:00",
+  "updated": "2026-09-12T13:09:51.284067+00:00",
   "items": [
     {
       "title": "Multi-sport athlete Chino Sy finds Olympic calling in judo",
@@ -9,6 +9,15 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
+    },
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-12T09:31:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
     },
     {
       "title": "Kilyab’s Karl Ramirez turns Bicol pop into call for good governance",
@@ -81,15 +90,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/How-malls-are-still-growing-despite-a-cautious-Filipino-consumer-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-12T04:18:41+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
     },
     {
       "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
