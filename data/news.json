@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-12T04:10:38.436031+00:00",
+  "updated": "2026-09-12T04:39:34.571648+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-12T04:18:41+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/3-s68fYTqD8"
+    },
+    {
+      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+      "link": "https://www.rappler.com/technology/openai-agents-rubygems-attack-may-2026/",
+      "description": "The AI agents attempted to steal user credentials by exploiting a previously unknown vulnerability, and tried to run its own code on RubyGems' servers",
+      "date": "2026-09-12T04:13:36+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Negros Occidental loses fierce historian-journalist Modesto Sa-onoy",
+      "link": "https://www.rappler.com/people/obituary/negros-occidental-journalist-modesto-sa-onoy-dies/",
+      "description": "At his peak as a journalist, Modesto Sa-onoy co-founded The Visayan Daily Star on April 12, 1982",
+      "date": "2026-09-12T04:10:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Trapped nine days in a dark tunnel, Nepali man tells his survival story",
       "link": "https://www.rappler.com/world/south-central-asia/sanjay-sah-nepal-flood-survivor-trapped-nine-days/",
@@ -151,33 +178,6 @@
       "description": "Malaca&ntilde;ang released on Friday a list of regular holidays and special non-working days for 2027.",
       "date": "2026-09-11T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Americans mark 25 years since September 11 attacks amid enduring grief, reflection",
-      "link": "https://www.rappler.com/world/us-canada/25th-anniversary-september-11-attacks/",
-      "description": "For many whom the attacks directly affected — the victims' families and friends, first responders and rescue workers — the anniversary is a tribute to the lives lost on a clear blue day a quarter century ago and the heartbreak that followed",
-      "date": "2026-09-11T15:22:26+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Palawan ferry fire death toll jumps to 35",
-      "link": "https://www.rappler.com/philippines/luzon/palawan-ferry-fire-death-toll-september-11-2026/",
-      "description": "As families wait for news of missing relatives, some express frustration at the lack of information they are receiving",
-      "date": "2026-09-11T15:06:55+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Martin Romualdez to transfer to UP-PGH | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-11-2026/",
-      "description": "Today’s headlines: Martin Romualdez, Sara Duterte, Pax Silica",
-      "date": "2026-09-11T14:00:00+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
