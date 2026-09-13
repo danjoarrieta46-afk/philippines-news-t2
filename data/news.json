@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-13T00:44:17.141054+00:00",
+  "updated": "2026-09-13T01:09:30.167749+00:00",
   "items": [
+    {
+      "title": "Saudis shut down oil pipeline as Houthis tighten grip on Red Sea shipping",
+      "link": "https://www.rappler.com/world/middle-east/houthi-attack-saudi-arabia-updates-september-13-2026/",
+      "description": "The pipeline running across the Arabian Peninsula has served as the main route out for global supplies of Middle East oil while the Strait of Hormuz has been largely shut by war.",
+      "date": "2026-09-13T01:07:58+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Hiring at this Puerto Princesa restaurant speaks a different language",
+      "link": "https://www.rappler.com/philippines/luzon/ka-inato-restaurant-puerto-princesa-employees-persons-with-disabilities/",
+      "description": "Beyond its Filipino comfort food, Ka Inato in Puerto Princesa, also serves equal opportunity. Around 20 of its 50 employees are persons with disabilities who get the same salary and benefits as their hearing colleagues",
+      "date": "2026-09-13T01:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/ka-inato-02.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse",
+      "link": "https://www.rappler.com/technology/anthropic-ceo-urges-ai-companies-slow-model-development/",
+      "description": "‘Given the accelerating rate of AI capability development, it's my worry that in 6-12 months such a swarm could be capable of taking over the entire internet potentially causing hundreds of billions of dollars in damage,’ Anthropic CEO Dario Amodei says",
+      "date": "2026-09-13T00:53:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "CICC to lead ASEAN cooperation on online child safety",
       "link": "https://www.philstar.com/headlines/2026/09/13/2555946/cicc-lead-asean-cooperation-online-child-safety",
@@ -162,33 +189,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/loop04.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Q&A: Could AI really kill off humanity within the decade?",
-      "link": "https://www.rappler.com/technology/features/interview-could-ai-really-kill-off-humanity-within-decade/",
-      "description": "Amid looming IPOs, professor Kate Devlin says, 'Let’s remember that [these AI companies] are constantly looking for investment and, in return, they promise the most powerful and dominant models. What could be more powerful than a model that threatens our very existence?'",
-      "date": "2026-09-12T06:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Why big supermarkets still see plenty of room outside Metro Manila",
-      "link": "https://www.rappler.com/business/why-big-supermarkets-expand-outside-metro-manila-robinsons-supermarket-panglao/",
-      "description": "More than half of Robinsons Retail's food stores are still in Metro Manila, but its new Panglao supermarket shows why the next leg of growth could come from the regions",
-      "date": "2026-09-12T05:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/How-malls-are-still-growing-despite-a-cautious-Filipino-consumer-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-      "link": "https://www.rappler.com/technology/openai-agents-rubygems-attack-may-2026/",
-      "description": "The AI agents attempted to steal user credentials by exploiting a previously unknown vulnerability, and tried to run its own code on RubyGems' servers",
-      "date": "2026-09-12T04:13:36+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "LPA, southwest monsoon to bring thunderstorms over large parts of the country — PAGASA",
