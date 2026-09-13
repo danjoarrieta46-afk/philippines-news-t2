@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-13T22:40:09.563560+00:00",
+  "updated": "2026-09-13T23:09:57.934409+00:00",
   "items": [
+    {
+      "title": "Divine Adili’s parents visit PH, to watch Ateneo games in UAAP",
+      "link": "https://www.rappler.com/sports/uaap/divine-adili-parents-visit-philippines-watch-ateneo-games/",
+      "description": "Ateneo announces that Elias and Ifeoma Adili, the parents of the late Divine Adili, will be 'members' of the Blue Eagles in the coming days",
+      "date": "2026-09-13T23:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/SM-AURA-SEP-3-2026.jpg?resize=75%2C75&crop=492px%2C0px%2C1080px%2C1080px"
-    },
-    {
-      "title": "Rare giant bat turns up in Apayao forest monitoring",
-      "link": "https://www.rappler.com/environment/rare-giant-bat-apayao-forest-monitoring/",
-      "description": "DENR says every additional species record helps refine Apayao’s biodiversity data, strengthening the basis for habitat protection, wildlife management, and future research",
-      "date": "2026-09-13T06:53:16+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/Large-flying-foxes-Apayao-September-13-2026.jpeg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
