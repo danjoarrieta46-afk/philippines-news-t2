@@ -1,14 +1,23 @@
 {
-  "updated": "2026-09-13T10:17:29.555501+00:00",
+  "updated": "2026-09-13T10:39:36.840634+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-13T10:10:55+00:00",
+      "date": "2026-09-13T10:38:01+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/8M6qeLbrQhA"
+    },
+    {
+      "title": "Labor group seeks clarity over overlapping NCR wage hike 'chaos'",
+      "link": "https://www.philstar.com/nation/2026/09/13/2556011/labor-group-seeks-clarity-over-overlapping-ncr-wage-hike-chaos",
+      "description": "P85 or P60? A major labor group says DOLE has left workers in wage limbo.",
+      "date": "2026-09-13T10:11:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "[Inside the Newsroom] I knew you were waiting for Martin Romualdez’s mug shot",
@@ -25,6 +34,24 @@
       "description": "The rising incidence of violence is not isolated, but part of a persistent pattern that poses an imminent threat to the legitimacy of the peace process and the democratic transition it promises",
       "date": "2026-09-13T10:00:00+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sara Duterte's call for Marcos to resign 'self-serving,' says prosecutor",
+      "link": "https://www.philstar.com/headlines/2026/09/13/2556008/sara-dutertes-call-marcos-resign-self-serving-says-prosecutor",
+      "description": "House prosecutor says VP herself would benefit if Marcos steps down.",
+      "date": "2026-09-13T09:38:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Lacson: Senate should stay out of detained senators' bids to join Sara trial",
+      "link": "https://www.philstar.com/headlines/2026/09/13/2556005/lacson-senate-should-stay-out-detained-senators-bids-join-sara-trial",
+      "description": "Two detained senators could affect Sara vote. Lacson says don&#39;t pressure the courts.",
+      "date": "2026-09-13T09:32:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -149,33 +176,6 @@
       "title": "‘Elyu’ rides Trabaho at Negosyo wave",
       "link": "https://www.philstar.com/headlines/2026/09/13/2555950/elyu-rides-trabaho-negosyo-wave",
       "description": "Inclement weather did not stop the entrepreneurs of La Union from trooping to SM City La Union yesterday to participate in Go Negosyo&rsquo;s Trabaho at Negosyo.",
-      "date": "2026-09-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Robinsons Land, MMDA enhance mobility across key Metro Manila routes",
-      "link": "https://www.philstar.com/headlines/2026/09/13/2555952/robinsons-land-mmda-enhance-mobility-across-key-metro-manila-routes",
-      "description": "Robinsons Land Corp.&nbsp;has strengthened its support for urban mobility through its partnership with the MMDA Love Bus program, deploying two dedicated RLC buses that will serve key commuter corridors, connecting to some of Metro Manila&rsquo;s busiest districts &ndash; Quezon City and Pasig City.",
-      "date": "2026-09-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Leptospirosis cases still high",
-      "link": "https://www.philstar.com/headlines/2026/09/13/2555954/leptospirosis-cases-still-high",
-      "description": "There is still a high admission of leptospirosis cases at the San Lazaro Hospital, with the majority of cases already in the severe stage.",
-      "date": "2026-09-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "ICC prosecutor opposes ‘reframed’ charges vs Duterte",
-      "link": "https://www.philstar.com/headlines/2026/09/13/2555956/icc-prosecutor-opposes-reframed-charges-vs-duterte",
-      "description": "The International Criminal Court&nbsp;prosecutor has opposed the defense&rsquo;s request to reframe the crimes against humanity charges against former president Rodrigo Duterte, saying the issues it raised had already been settled during the confirmation proceedings.",
       "date": "2026-09-12T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
