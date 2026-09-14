@@ -1,11 +1,20 @@
 {
-  "updated": "2026-09-14T00:16:31.354097+00:00",
+  "updated": "2026-09-14T00:44:56.538603+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-14T00:12:48+00:00",
+      "date": "2026-09-14T00:43:32+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/hJvCWS5jiDg"
+    },
+    {
+      "title": "Early violence mars election morning in BARMM regional center",
+      "link": "https://www.rappler.com/philippines/elections/early-morning-violence-cotabato-city-barmm-2026/",
+      "description": "The incidents put security forces on heightened alert in Cotabato City as voters start taking part in an election that will determine the composition of the Bangsamoro Parliament",
+      "date": "2026-09-14T00:26:44+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/hJvCWS5jiDg"
@@ -16,6 +25,15 @@
       "description": "With safeguards in place, the Philippines should continue engaging in educational exchanges with China rather than retreating. Firsthand scholarship and direct engagement are essential to understanding such a consequential neighbor.",
       "date": "2026-09-14T00:00:00+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Article II starts: Unexplained wealth charge, P6.77-B record at Duterte trial",
+      "link": "https://www.philstar.com/headlines/2026/09/14/2556192/article-ii-starts-unexplained-wealth-charge-p677-b-record-duterte-trial",
+      "description": "Bank records, SALNs and tax documents take center stage Monday.",
+      "date": "2026-09-13T23:47:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -335,15 +353,6 @@
       "image": ""
     },
     {
-      "title": "PGH to submit Romualdez’s medical report to Sandiganbayan",
-      "link": "https://www.philstar.com/headlines/2026/09/14/2556072/pgh-submit-romualdezs-medical-report-sandiganbayan",
-      "description": "The Philippine General Hospital (PGH) is set to submit its medical report on former House speaker and Leyte 1st District Rep. Martin Romualdez to the Sandiganbayan.",
-      "date": "2026-09-13T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "In historic first, Bangsamoro people go to polls to choose a new parliament",
       "link": "https://www.rappler.com/philippines/elections/barmm-voting-day-september-14-2026/",
       "description": "After decades of armed struggle and years of delays, the conduct of the election is a success in itself",
@@ -393,15 +402,6 @@
       "link": "https://www.rappler.com/technology/features/tech-thoughts-jurassic-parkification-ai-chatbots/",
       "description": "Our dinosaurs of AI Chatbots are roaming free, untethered and unbothered by lax safeguards, and we need civic action and stronger protections against them",
       "date": "2026-09-13T08:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "News Reflection: Sara Duterte does not feel safe. At all.",
-      "link": "https://www.rappler.com/voices/news-reflection-sara-duterte-does-not-feel-safe-at-all/",
-      "description": "Ang mga kagila-gilalas na wika ng Pangalawang Pangulo, ating pagnilayan kasama si Paterno Esmaquel II",
-      "date": "2026-09-13T07:11:50+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
