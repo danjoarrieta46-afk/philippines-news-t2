@@ -1,20 +1,20 @@
 {
-  "updated": "2026-09-14T04:11:46.170574+00:00",
+  "updated": "2026-09-14T04:42:30.849967+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-14T04:08:12+00:00",
+      "date": "2026-09-14T04:35:07+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/D9QaBkaHwuk"
+      "image": "https://www.youtube.com/embed/XbSwb7K3OXk"
     },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-14T04:00:53+00:00",
+      "date": "2026-09-14T04:21:58+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/YAVjlq379Zc"
@@ -29,18 +29,36 @@
       "image": "https://www.rappler.com/tachyon/2026/09/EX-JUSTICES.jpg?resize=75%2C75&crop=400px%2C0px%2C1080px%2C1080px"
     },
     {
+      "title": "Historic BARMM vote opens under shadow of killings, ballot tampering",
+      "link": "https://www.philstar.com/headlines/2026/09/14/2556203/historic-barmm-vote-opens-under-shadow-killings-ballot-tampering",
+      "description": "Comelec has taken control of Cotabato, Maluso as BARMM voting opens.",
+      "date": "2026-09-14T03:59:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
       "title": "[EDITORIAL] Pinagpala talaga si Imelda Marcos at Martin Romualdez",
       "link": "https://www.rappler.com/voices/editorials/imelda-marcos-martin-romualdez-truly-blessed-filipino-version/",
       "description": "'Victory for impunity' raw ito sa ilalim ng sistema na laging talo ang accountability kapag bumangga sa kapangyarihan, yaman, at pagde-delay gamit ang legal muscle",
       "date": "2026-09-14T03:58:07+00:00",
       "source": "Rappler",
       "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/Animated-Imelda-accquital-martin-hospitalization-september-14-2026.gif?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LPG group asks gov't to suspend excise tax on fuel products",
+      "link": "https://www.philstar.com/business/2026/09/14/2556200/lpg-group-asks-govt-suspend-excise-tax-fuel-products",
+      "description": "With fuel nearing P100, an oil company and transport groups press government to suspend taxes.",
+      "date": "2026-09-14T03:35:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
       "image": ""
     },
     {
-      "title": "Shots fired inside BARMM polling center in Cotabato City",
+      "title": "BARMM polls: 4 hurt in Cotabato polling center shooting",
       "link": "https://www.rappler.com/philippines/elections/shooting-cotabato-city-voting-center-barmm-parliamentary/",
-      "description": "When gunfire erupted, voters ran to safety, while military personnel from the Philippine government continued to secure the premises",
+      "description": "(1st UPDATE) Voters run to safety as shots are fired, while soldiers continue to secure the premises of the polling place",
       "date": "2026-09-14T03:23:42+00:00",
       "source": "Rappler",
       "category": "news",
@@ -383,24 +401,6 @@
       "title": "Gibo to reserve force: Protect Philippines land, maritime domain",
       "link": "https://www.philstar.com/headlines/2026/09/14/2556068/gibo-reserve-force-protect-philippines-land-maritime-domain",
       "description": "Defense Secretary Gilberto Teodoro Jr. has called on the Armed Forces of the Philippines (AFP) Reserve Force to help protect the country&rsquo;s maritime domain.",
-      "date": "2026-09-13T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Obstruction raps eyed over Bato’s escape",
-      "link": "https://www.philstar.com/headlines/2026/09/14/2556070/obstruction-raps-eyed-over-batos-escape",
-      "description": "The National Bureau of Investigation and the Office of the Ombudsman are investigating a possible obstruction of justice complaint over the escape of Sen. Ronald &ldquo;Bato&rdquo; dela Rosa from the Senate, NBI Director Melvin Matibag said over the weekend.",
-      "date": "2026-09-13T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "ICC sets 3rd status conference on Duterte case",
-      "link": "https://www.philstar.com/headlines/2026/09/14/2556071/icc-sets-3rd-status-conference-duterte-case",
-      "description": "The International Criminal Court (ICC) Trial Chamber III will hold on Wednesday the third status conference on the crimes against humanity case against former president Rodrigo Duterte.",
       "date": "2026-09-13T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
