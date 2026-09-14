@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-14T03:11:54.469623+00:00",
+  "updated": "2026-09-14T03:42:53.769442+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-14T03:26:12+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/D9QaBkaHwuk"
+    },
+    {
+      "title": "Shots fired inside BARMM polling center in Cotabato City",
+      "link": "https://www.rappler.com/philippines/elections/shooting-cotabato-city-voting-center-barmm-parliamentary/",
+      "description": "When gunfire erupted, voters ran to safety, while military personnel from the Philippine government continued to secure the premises",
+      "date": "2026-09-14T03:23:42+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/4lkXbvHJ3FA"
+    },
+    {
+      "title": "PAGASA monitors LPA amid fair weather over the country",
+      "link": "https://bworldonline.com/the-nation/2026/09/14/776954/pagasa-monitors-lpa-amid-fair-weather-over-the-country/",
+      "description": "A low-pressure area is being monitored outside the Philippine Area of Responsibility (PAR) as fair weather is expected throughout the country, according to the Philippine Atmospheric, Geophysical, and Astronomical Services Administration (PAGASA) on Monday. The LPA was last located 3,185 kilometers East of Eastern Visayas and has a high chance of developing into a tropical [&#8230;]",
+      "date": "2026-09-14T03:06:51+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-14-lpa-300x169.jpg"
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
@@ -18,15 +45,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-14T02:47:24+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/D9QaBkaHwuk"
     },
     {
       "title": "Indonesia rescuers searching for 129 people still missing after passenger ship capsizes",
@@ -110,13 +128,220 @@
       "image": ""
     },
     {
-      "title": "Divine Adili’s parents visit PH, to watch Ateneo games in UAAP",
-      "link": "https://www.rappler.com/sports/uaap/divine-adili-parents-visit-philippines-watch-ateneo-games/",
-      "description": "Ateneo announces that Elias and Ifeoma Adili, the parents of the late Divine Adili, will be 'members' of the Blue Eagles in the coming days",
-      "date": "2026-09-13T23:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
+      "title": "Forging a resilient Philippine economy in the age of shocks",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776465/forging-a-resilient-philippine-economy-in-the-age-of-shocks/",
+      "description": "THE PHILIPPINES, over the past year, faced shock after shock that has tested its strength. From a flood control corruption scandal that shackled state spending, to geopolitical issues overseas that caused a global energy shock that continues to feed into domestic prices, these put in focus the structural vulnerabilities that continue to plague the economy.",
+      "date": "2026-09-13T16:36:30+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SiniloanLaguna-Floods-300x200.jpg"
+    },
+    {
+      "title": "Beyond UMIC: The struggle to make the Philippines more attractive to foreign investors",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776467/beyond-umic-the-struggle-to-make-the-philippines-more-attractive-to-foreign-investors/",
+      "description": "THE PHILIPPINES is pinning its hopes on its new upper middle-income status and solid fundamentals to position itself as a major investment and supply chain hub in Southeast Asia.",
+      "date": "2026-09-13T16:35:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/06/260619World_Competitiveness_ONLINE-thumb-300x169.jpg"
+    },
+    {
+      "title": "BSP hints it may start easing in 2027",
+      "link": "https://bworldonline.com/top-stories/2026/09/14/776818/bsp-hints-it-may-start-easing-in-2027/",
+      "description": "THE BANGKO SENTRAL ng Pilipinas (BSP) kept further rate hikes on the table amid lingering price pressures, but hinted it could begin easing next year if inflation falls faster than expected.",
+      "date": "2026-09-13T16:35:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/roadside-eatery-300x200.jpg"
+    },
+    {
+      "title": "Philippines’ current account gap likely to widen on oil pressures",
+      "link": "https://bworldonline.com/top-stories/2026/09/14/776679/philippines-current-account-gap-likely-to-widen-on-oil-pressures/",
+      "description": "THE PHILIPPINES is likely to post a wide current account deficit this year as elevated oil prices amid the Middle East war inflate the country’s import bill, although a weaker peso could provide some relief, analysts said. Miguel Chanco, chief Emerging Asia economist at United Kingdom-based think tank Pantheon Macroeconomics, said the country’s current account [&#8230;]",
+      "date": "2026-09-13T16:34:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/IRAN-CRISIS-HORMUZ-300x200.jpg"
+    },
+    {
+      "title": "Philippine trade policy review",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776463/philippine-trade-policy-review/",
+      "description": "By the WTO Secretariat INTERNATIONAL TRADE plays a key role in the Philippines’ economic development and poverty reduction. During the review period (2018-2025), trade in goods and services generally represented more than 60% of gross domestic product (GDP). Overall, the average wage for workers in export-oriented sectors in 2024 exceeded the national average by at [&#8230;]",
+      "date": "2026-09-13T16:34:27+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/technological-futuristic-holograms-logistics-means-transport-5-300x169.jpg"
+    },
+    {
+      "title": "PEZA on track to beat P300-billion target",
+      "link": "https://bworldonline.com/top-stories/2026/09/14/776678/peza-on-track-to-beat-p300-billion-target/",
+      "description": "THE PHILIPPINE Economic Zone Authority (PEZA) is confident of exceeding its P300-billion investment approvals target this year amid growing interest from Japanese and Chinese investors, its top official said. PEZA Director-General Tereso O. Panga said its investment approvals as of end-August are nearly three-fourths of its full-year target. “That will allow us to breach the [&#8230;]",
+      "date": "2026-09-13T16:33:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/CEBUBRIDGEjpg-300x200.jpg"
+    },
+    {
+      "title": "PHL must strengthen supply chains to benefit from ASEAN digital deal",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776464/phl-must-strengthen-supply-chains-to-benefit-from-asean-digital-deal/",
+      "description": "THE Philippines needs to boost its domestic industries and supply chains if it wants to turn a regional digital trade agreement into more investment and higher-value exports, analysts said.",
+      "date": "2026-09-13T16:33:28+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/still-life-supply-chain-representation-1-300x200.jpg"
+    },
+    {
+      "title": "Philippine banks’ property exposure may remain muted",
+      "link": "https://bworldonline.com/top-stories/2026/09/14/776677/philippine-banks-property-exposure-may-remain-muted/",
+      "description": "BANKS are likely to keep their exposure to the Philippine real estate sector subdued for the rest of the year as tighter economic conditions dampen developer sentiment and property demand, analysts said.",
+      "date": "2026-09-13T16:32:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Housing-300x200.jpg"
+    },
+    {
+      "title": "How the Philippines can secure reliable financing to build resilience against external shocks",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776461/how-the-philippines-can-secure-reliable-financing-to-build-resilience-against-external-shocks/",
+      "description": "THE PHILIPPINES has recently attained upper-middle income status, but it remains vulnerable to geopolitical risks and disasters. To become resilient and enhance its competitiveness, the question is not whether the Philippines needs more infrastructure, stronger energy systems, and defenses against severe weather conditions. It is how to pay for them in a world increasingly exposed [&#8230;]",
+      "date": "2026-09-13T16:32:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/underground-station-300x200.jpg"
+    },
+    {
+      "title": "BusinessWorld explores building crisis-ready Philippines in Part 1 of 39th Anniversary Report",
+      "link": "https://bworldonline.com/top-stories/2026/09/14/776680/businessworld-explores-building-crisis-ready-philippines-in-part-1-of-39th-anniversary-report/",
+      "description": "AS IT MARKS its 39th anniversary this year, BusinessWorld examines what it will take to build a crisis-ready Philippine economy. Part 1 of its two-part Anniversary Report looks at how the Philippines can move beyond absorbing shocks and boost its capacity to recover, adapt and remain competitive. The stories bring together perspectives from across the [&#8230;]",
+      "date": "2026-09-13T16:31:34+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SiniloanLaguna-Floods-300x200.jpg"
+    },
+    {
+      "title": "Global shocks fuel push for Philippine energy security",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776460/global-shocks-fuel-push-for-philippine-energy-security/",
+      "description": "THE PHILIPPINES’ heavy reliance on imported fuel has renewed calls for greater energy security as geopolitical conflicts and disruptions in global shipping expose the economy to sharp swings in fuel prices and inflation.",
+      "date": "2026-09-13T16:31:23+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/wind-turbines-power-lines-alternative-electricity-300x169.jpg"
+    },
+    {
+      "title": "PHL aviation balances expansion, costs amid fuel volatility",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776462/phl-aviation-balances-expansion-costs-amid-fuel-volatility/",
+      "description": "AVIATION COMPANIES are balancing expansion plans with tighter cost management as volatile jet fuel prices and geopolitical disruptions put pressure on airline margins, fares, and network decisions even as passenger traffic continues to grow.",
+      "date": "2026-09-13T16:30:26+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/plane-flight-wc-300x200.jpg"
+    },
+    {
+      "title": "Rethinking the energy system: Why energy security is an economic imperative",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776458/rethinking-the-energy-system-why-energy-security-is-an-economic-imperative/",
+      "description": "HIGH ELECTRICITY PRICES are more than a burden on Filipino households; they also raise the cost of doing business, weaken industrial competitiveness, discourage investment, and ultimately slow economic growth. Despite years of expanding generation capacity, the Philippines continues to grapple with expensive electricity, recurring grid alerts, and supply disruptions. These are not isolated challenges — they reflect longstanding challenges in the country’s power system.",
+      "date": "2026-09-13T16:29:20+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/man-cunting-stack-coins-300x200.jpg"
+    },
+    {
+      "title": "Future-proofing the travel and hospitality industry",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776459/future-proofing-the-travel-and-hospitality-industry/",
+      "description": "THE Philippines has been sandwiched in between two international crises in less than a decade. While the COVID-19 pandemic in 2020 kept the country in varying states of quarantine for over two years and is still a vivid memory, the US-Middle East conflict since February this year has affected oil routes and has raised energy prices, driving the costs of nearly everything up.",
+      "date": "2026-09-13T16:28:22+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/service-bell-table-restaurant-300x200.jpg"
+    },
+    {
+      "title": "How are Filipino consumers adjusting their spending?",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776505/how-are-filipino-consumers-adjusting-their-spending/",
+      "description": "FOR FILIPINO households, higher prices, elevated borrowing costs, and economic uncertainty have forced changes in spending behavior. Consumers are focusing on essentials, seeking better value, and cutting discretionary purchases.",
+      "date": "2026-09-13T16:27:31+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/stylish-young-asian-woman-doing-shopping-online-sitting-with-credit-card-laptop-buying-1-300x169.jpg"
+    },
+    {
+      "title": "Listed firms keep investing but raise bar for projects",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776504/listed-firms-keep-investing-but-raise-bar-for-projects/",
+      "description": "MAJOR Philippine listed companies are keeping capital spending on track but screening projects more closely for returns, risks, and recurring income as uncertainty persists, executives and analysts said.",
+      "date": "2026-09-13T16:26:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/businessman-using-tablet-with-digital-graph-overlay-300x169.jpg"
+    },
+    {
+      "title": "Stop predicting, start designing: Leadership for a converging-risk economy",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776503/stop-predicting-start-designing-leadership-for-a-converging-risk-economy/",
+      "description": "FILIPINO COMPANIES know how to survive a crisis. They are less prepared for surviving several at once. Our firms have weathered typhoons, political transitions, financial shocks, and pandemic lockdowns, and each recovery has bred a quiet confidence that the next disruption will look like the last one. It will not.",
+      "date": "2026-09-13T16:25:28+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/05/skyline-building-cond0-300x200.jpg"
+    },
+    {
+      "title": "Philippine banks beef up buffers as risks persist",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776502/philippine-banks-beef-up-buffers-as-risks-persist/",
+      "description": "PHILIPPINE BANKS are well positioned to deal with challenging macroeconomic conditions caused by domestic and external shocks, armed with ample risk buffers to help them deal with slower loan demand, potential loan losses, and higher credit costs. The Bangko Sentral ng Pilipinas (BSP) said in a presentation to Congress in August that the Philippine banking [&#8230;]",
+      "date": "2026-09-13T16:24:28+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/01/ATM-2-300x200.jpg"
+    },
+    {
+      "title": "BSP needs forward-looking policy, clear guidance to navigate prolonged uncertainty",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776501/bsp-needs-forward-looking-policy-clear-guidance-to-navigate-prolonged-uncertainty/",
+      "description": "THE Philippine central bank should take the long view when calibrating its monetary policy, even in the face of sudden, short-term shocks, as global economic conditions become increasingly uncertain and volatile.",
+      "date": "2026-09-13T16:23:27+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/04/Public-market-1-300x200.jpg"
+    },
+    {
+      "title": "Building a crisis-ready Philippine economy in the age of AI",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776500/building-a-crisis-ready-philippine-economy-in-the-age-of-ai/",
+      "description": "OVER the past few years, the world has become a lot more uncertain for businesses globally, but more so for Filipino companies.",
+      "date": "2026-09-13T16:22:25+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/01/AI-Artificial-Intelligence--300x200.jpg"
+    },
+    {
+      "title": "MSMEs cut costs, weigh layoffs amid Middle East war",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776499/msmes-cut-costs-weigh-layoffs-amid-middle-east-war/",
+      "description": "PHILIPPINE micro, small, and medium enterprises (MSMEs) are adopting cost-optimization measures while considering layoffs and passing higher operating costs on to consumers to stay afloat amid the fuel crisis triggered by the Middle East war, according to business groups, which urged the government to accelerate infrastructure spending, improve the ease of doing business, and expand access to MSME financing.",
+      "date": "2026-09-13T16:21:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/shopper-300x200.jpg"
+    },
+    {
+      "title": "Industrial assets, regional housing seen as resilient growth areas",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776498/industrial-assets-regional-housing-seen-as-resilient-growth-areas/",
+      "description": "INDUSTRIAL assets and regional housing are key growth areas for the Philippine property sector as tighter lending standards and selective buyer demand weigh on the broader residential market, property consultants said.",
+      "date": "2026-09-13T16:20:23+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/06/PHIRSTPARKHOMES-300x169.jpg"
+    },
+    {
+      "title": "Where the next property growth hubs are taking shape",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776497/where-the-next-property-growth-hubs-are-taking-shape/",
+      "description": "OVER THE YEARS, Colliers Philippines has seen the proliferation of more office and residential hubs outside Metro Manila. In our view, this bodes well for the Philippine economy as more economic centers rise. This means that economic development is also spreading outside Metro Manila and indicates that property sector growth is broad-based, rather than focused [&#8230;]",
+      "date": "2026-09-13T16:19:22+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/young-couple-holding-white-miniature-house-living-room-300x200.jpg"
+    },
+    {
+      "title": "Reconfiguring for growth: AI and the future of Philippine real estate",
+      "link": "https://bworldonline.com/special-reports/2026/09/14/776496/reconfiguring-for-growth-ai-and-the-future-of-philippine-real-estate/",
+      "description": "THE GROWTH STORY of the Philippines over the past 25 years is one of the longest in the world. Key drivers such as the information technology and business process management (IT-BPM) industry, overseas Filipino remittances, and a young, English-speaking workforce have sustained this growth.",
+      "date": "2026-09-13T16:18:21+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/data-center-software-developers-monitor-deep-learning-processes-reviewing-operational-metrics-server-300x169.jpg"
     },
     {
       "title": "‘Biased impeach vote likely for absent senator-judges’",
