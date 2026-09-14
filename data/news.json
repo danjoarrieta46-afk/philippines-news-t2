@@ -1,6 +1,78 @@
 {
-  "updated": "2026-09-14T07:42:28.041390+00:00",
+  "updated": "2026-09-14T08:13:10.064124+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-14T08:00:34+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Pre-shaded ballots found in 36 voting precincts in Basilan town",
+      "link": "https://www.rappler.com/philippines/elections/pre-shaded-ballots-maluso-basilan-barmm-parliamentary/",
+      "description": "Thousands of voters in the affected 36 voting precincts have yet to cast their votes as they wait for the substitute ballots",
+      "date": "2026-09-14T07:59:24+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "At least 4 killed, 19 injured in election-related incidents in Cotabato City",
+      "link": "https://www.rappler.com/philippines/elections/death-toll-injuries-barmm-2026/",
+      "description": "Cotabato City, the regional center of the Bangsamoro Autonomous Region in Muslim Mindanao, has since been placed under Comelec control",
+      "date": "2026-09-14T07:27:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/i.ytimg.com/vi/4lkXbvHJ3FA/hqdefault.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-14T07:25:17+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/5oR0Z_SoF1c"
+    },
+    {
+      "title": "AI-linked Asian stocks slump after top lab CEOs call for slowing down technology’s development",
+      "link": "https://www.rappler.com/technology/ai-linked-asian-stocks-slump-ceos-slowing-down-development/",
+      "description": "AI-connected stocks fall sharply in early Asian trading after the CEOs of companies developing the most advanced AI models warned the pace of development must slow to prevent threats to humanity",
+      "date": "2026-09-14T07:22:13+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Gilas Pilipinas misses quarters as Asian Games title defense dashed by China",
+      "link": "https://www.rappler.com/sports/gilas-pilipinas/asian-games-men-basketball-philippines-china-september-14-2026/",
+      "description": "Needing to avoid a loss of no more than 37 points to advance, Gilas Pilipinas instead suffers a 44-point beating as China finds some semblance of vengeance for its stinging one-point loss to the Philippines in the semifinals of the 2023 edition",
+      "date": "2026-09-14T07:14:44+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Marcos brushes off Sara Duterte’s ire: Can’t force love",
+      "link": "https://www.rappler.com/newsbreak/inside-track/marcos-reaction-sara-duterte-warrant-martin-romualdez-arrest/",
+      "description": "The Philippine president, speaking at relative length for the first time on the legal woes of both former ally Vice President Sara Duterte and cousin Martin Romualdez, injects some levity in his responses",
+      "date": "2026-09-14T06:20:25+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
+    {
+      "title": "Escudero sides with prosecution after defense tries to bar ex-Sandiganbayan justice",
+      "link": "https://www.rappler.com/philippines/escudero-sides-prosecution-defense-tries-bar-sandiganbayan-witness/",
+      "description": "The defense team argues that the presentation of Cabotaje-Tang as a 'surprise witness' by the prosecution infringes on Duterte's right to due process",
+      "date": "2026-09-14T05:45:47+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/F8y1yEk89Lg"
+    },
     {
       "title": "'Safeguard the ballot': Marcos appeals to voters as BARMM goes to polls",
       "link": "https://www.philstar.com/headlines/2026/09/14/2556215/safeguard-ballot-marcos-appeals-voters-barmm-goes-polls",
@@ -16,6 +88,24 @@
       "description": "(Updated) The order came after UP-PGH found him clinically stable and determined that continued hospital confinement was not medically necessary.",
       "date": "2026-09-14T05:32:00+00:00",
       "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Zverev banishes US Open demons with victory over Shelton",
+      "link": "https://www.rappler.com/sports/alexander-zverev-ben-shelton-final-us-open-september-13-2026/",
+      "description": "Armed with a champion's mentality following his breakthrough triumph in the French Open, Alexander Zverev redeems himself from his 2020 US Open letdown and breaks American hearts with a devastating display against Ben Shelton in the final",
+      "date": "2026-09-14T05:19:42+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Martin Romualdez ordered transferred from PGH to Payatas jail",
+      "link": "https://www.rappler.com/philippines/martin-romualdez-transfer-pgh-new-quezon-city-jail-payatas/",
+      "description": "(1st UPDATE) PGH doctors find that Romualdez is in stable condition and no longer needs confinement",
+      "date": "2026-09-14T05:01:16+00:00",
+      "source": "Rappler",
       "category": "news",
       "image": ""
     },
