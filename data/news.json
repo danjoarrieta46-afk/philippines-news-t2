@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-14T23:10:19.297975+00:00",
+  "updated": "2026-09-14T23:38:00.121689+00:00",
   "items": [
+    {
+      "title": "Violence, security threats mar otherwise hopeful polls in Cotabato",
+      "link": "https://www.rappler.com/philippines/elections/violence-security-threats-cotabato-city-mar-hopeful-election-barmm-2026/",
+      "description": "Election-related violence leaves at least five dead, with gunfire and riots reported at polling places, yet there are also signs of hope as former MILF rebels and their leaders take part in the elections",
+      "date": "2026-09-14T23:32:51+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/EegKszLEcRs"
+    },
+    {
+      "title": "[ANALYSIS] Why are AI agents lying, cheating and coordinating?",
+      "link": "https://www.rappler.com/voices/thought-leaders/ai-safety-agents-lying-cheating-coordinating/",
+      "description": "I believe we should revisit the foundations of how we train AIs, namely the human imitation and the reinforcement learning on which today's most advanced models are built",
+      "date": "2026-09-14T23:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sara Duterte trial: Can a VP have business interests?",
+      "link": "https://www.rappler.com/philippines/sara-duterte-trial-can-vice-president-have-business-interests/",
+      "description": "Duterte's SALN indicates she is a stockholder of multiple companies, even though the Constitution bars the VP's participation in any business",
+      "date": "2026-09-14T23:15:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/c5PauSIHG3Q"
+    },
+    {
+      "title": "Romualdez moved to Payatas jail, arraignment set Sept. 16",
+      "link": "https://www.philstar.com/headlines/2026/09/15/2556254/romualdez-moved-payatas-jail-arraignment-set-sept-16",
+      "description": "Former speaker was transferred to the Quezon City jail after independent medical review.",
+      "date": "2026-09-14T22:50:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Peso hits new low, nears P63/$1",
       "link": "https://bworldonline.com/top-stories/2026/09/15/777150/peso-hits-new-low-nears-p63-1/",
@@ -326,15 +362,6 @@
       "image": ""
     },
     {
-      "title": "Marcos on Sara tirades: You can’t force anyone to love you",
-      "link": "https://www.philstar.com/headlines/2026/09/15/2556348/marcos-sara-tirades-you-cant-force-anyone-love-you",
-      "description": "&nbsp;Not even the most powerful man in the land can demand affection.",
-      "date": "2026-09-14T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Ex-SK chair leads race in Lanao del Sur 7th District",
       "link": "https://www.rappler.com/philippines/elections/rayyan-mindalano-results-seventh-district-lanao-del-sur-barmm-2026/",
       "description": "Rayyan Mindalano has an insurmountable lead over his closest rival, former Bacolod-Kalawi mayor Nora Dipatuan",
@@ -375,33 +402,6 @@
       "link": "https://www.rappler.com/philippines/elections/ahmad-balindong-results-eighth-district-lanao-del-sur-barmm-2026/",
       "description": "Ahmad 'Arrie' Balindong will continue his stay as a member of parliament in the Bangsamoro Autonomous Region in Muslim Mindanao",
       "date": "2026-09-14T14:56:04+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Pre-shaded ballots, vote buying, violence in first BARMM elections | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-14-2026/",
-      "description": "Today’s headlines: BARMM elections, Martin Romualdez, Chiz Escudero",
-      "date": "2026-09-14T14:55:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/t_Vng-y64PM"
-    },
-    {
-      "title": "Asum clan patriarch on verge of winning Lanao del Sur’s 5th District BARMM seat",
-      "link": "https://www.rappler.com/philippines/elections/arimao-asum-results-fifth-district-lanao-del-sur-barmm-2026/",
-      "description": "Arimao Asum, patriarch of the Asum political dynasty in Lumbayanague, Lanao del Sur, leads the race for the province's 5th District seat in the first elections of the Bangsamoro Parliament",
-      "date": "2026-09-14T14:40:12+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Lanao del Sur governor’s nephew leads race for 3rd District BARMM seat",
-      "link": "https://www.rappler.com/philippines/elections/abdul-rauf-adiong-results-third-district-lanao-del-sur-barmm-2026/",
-      "description": "Serbisyong Inklusibo-Alyansang Progresibo Party bet Abdul Rauf Adiong wins against two former members of the Bangsamoro Parliament and a former village chief",
-      "date": "2026-09-14T14:24:59+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
