@@ -1,11 +1,20 @@
 {
-  "updated": "2026-09-13T23:38:03.520609+00:00",
+  "updated": "2026-09-14T00:16:31.354097+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-13T23:30:33+00:00",
+      "date": "2026-09-14T00:12:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/hJvCWS5jiDg"
+    },
+    {
+      "title": "[OPINION] China education and its tradeoffs — from someone who actually studied there",
+      "link": "https://www.rappler.com/voices/thought-leaders/china-education-influence-tradeoffs-personal-experience/",
+      "description": "With safeguards in place, the Philippines should continue engaging in educational exchanges with China rather than retreating. Firsthand scholarship and direct engagement are essential to understanding such a consequential neighbor.",
+      "date": "2026-09-14T00:00:00+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "SM paw parks, pet changing stations: Hanna Carinna Sy wants your fur baby at the mall",
-      "link": "https://www.rappler.com/business/sm-mall-paw-parks-pet-changing-stations-hanna-carinna-sy/",
-      "description": "'Pet initiatives are close to home for me because I have pets myself, and I know firsthand how much fur babies are a beloved part of families,' the third-generation Sy tells Rappler",
-      "date": "2026-09-13T07:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/SM-AURA-SEP-3-2026.jpg?resize=75%2C75&crop=492px%2C0px%2C1080px%2C1080px"
     }
   ]
 }
