@@ -1,14 +1,32 @@
 {
-  "updated": "2026-09-14T00:44:56.538603+00:00",
+  "updated": "2026-09-14T01:11:10.277709+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-14T01:05:42+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/efpN42wO-Tc"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "link": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "description": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
+      "date": "2026-09-14T01:05:19+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/efpN42wO-Tc"
+    },
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-14T00:43:32+00:00",
+      "date": "2026-09-14T01:01:18+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/hJvCWS5jiDg"
+      "image": "https://www.youtube.com/embed/M3wIkWEnNBY"
     },
     {
       "title": "Early violence mars election morning in BARMM regional center",
@@ -384,24 +402,6 @@
       "link": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-covering-martin-romualdez-hospital-arrest-sara-duterte-bail/",
       "description": "…and Sara Duterte in handcuffs",
       "date": "2026-09-13T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[OPINION] 2026 BARMM parliamentary elections under the shadow of resurgent extremism",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-2026-barmm-elections-under-shadow-resurgent-extremism/",
-      "description": "The rising incidence of violence is not isolated, but part of a persistent pattern that poses an imminent threat to the legitimacy of the peace process and the democratic transition it promises",
-      "date": "2026-09-13T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Tech Thoughts] The Jurassic Parkification of AI chatbots",
-      "link": "https://www.rappler.com/technology/features/tech-thoughts-jurassic-parkification-ai-chatbots/",
-      "description": "Our dinosaurs of AI Chatbots are roaming free, untethered and unbothered by lax safeguards, and we need civic action and stronger protections against them",
-      "date": "2026-09-13T08:00:00+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
