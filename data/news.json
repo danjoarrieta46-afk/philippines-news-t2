@@ -1,11 +1,29 @@
 {
-  "updated": "2026-09-14T15:13:12.926958+00:00",
+  "updated": "2026-09-14T15:42:46.907608+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-14T15:07:18+00:00",
+      "date": "2026-09-14T15:37:55+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Ex-SK chair leads race in Lanao del Sur 7th District",
+      "link": "https://www.rappler.com/philippines/elections/rayyan-mindalano-results-seventh-district-lanao-del-sur-barmm-2026/",
+      "description": "Rayyan Mindalano has an insurmountable lead over his closest rival, former Bacolod-Kalawi mayor Nora Dipatuan",
+      "date": "2026-09-14T15:17:11+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Ex-Ganassi mayor set to take Lanao del Sur’s 6th District BARMM seat",
+      "link": "https://www.rappler.com/philippines/elections/hosni-macapodi-results-sixth-district-lanao-del-sur-barmm-2026/",
+      "description": "Hosni Macapodi wins against United Bangsamoro Justice Party-backed Jamael Balt",
+      "date": "2026-09-14T15:15:50+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -69,24 +87,6 @@
       "link": "https://www.rappler.com/philippines/elections/tawakal-midtimbang-results-first-district-maguindanao-del-sur-barmm-2026/",
       "description": "Member of Parliament Tawakal Midtimbang enjoys a more than 50,000-vote lead over his closest competitors",
       "date": "2026-09-14T14:07:53+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Mangudadatu scion on verge of winning Maguindanao del Sur 4th District BARMM seat",
-      "link": "https://www.rappler.com/philippines/elections/dj-parok-mangudadatu-results-fourth-district-maguindanao-del-sur-barmm-2026/",
-      "description": "DJ Parok Mangudadatu's overwhelming lead is not just win for his clan but also for the Macacua-led Bangsamoro Federalist Party in Maguindanao del Sur",
-      "date": "2026-09-14T14:06:19+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Ampatuan scion set to win Maguindanao del Sur 2nd District BARMM seat",
-      "link": "https://www.rappler.com/philippines/elections/sajid-andre-ampatuan-results-second-district-maguindanao-del-sur-barmm-2026/",
-      "description": "Sajid Andre Ampatuan, the son of controversial ex-Maguindanao governor Sajid Islam Ampatuan, is currently topping the race for his district's seat to the Bangsamoro Parliament",
-      "date": "2026-09-14T13:58:54+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
