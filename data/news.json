@@ -1,14 +1,59 @@
 {
-  "updated": "2026-09-15T01:11:51.853080+00:00",
+  "updated": "2026-09-15T01:42:02.790923+00:00",
   "items": [
+    {
+      "title": "Sara Duterte’s company won millions’ worth of contracts from Davao City Hall",
+      "link": "https://www.rappler.com/newsbreak/investigative/sara-duterte-company-food-contractor-davao-city/",
+      "description": "EXCLUSIVE: Sara Duterte-linked company wins contracts from Davao City Hall, run by her brother, Mayor Baste Duterte",
+      "date": "2026-09-15T01:30:55+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/public.flourish.studio/visualisation/30174719/thumbnail"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-15T01:27:32+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/xlI142Hzlu0"
+    },
+    {
+      "title": "US judge blocks Trump limits on how long foreign students, journalists can stay",
+      "link": "https://www.rappler.com/world/us-canada/judge-blocks-trump-limit-period-foreign-students-journalists-stay-usa/",
+      "description": "US District Judge F. Dennis Saylor rules in favor of a coalition of unions and higher education advocacy groups a day before the Department of Homeland Security's rule was set to take effect",
+      "date": "2026-09-15T01:24:05+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: First BARMM parliamentary elections",
       "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
       "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-15T00:53:53+00:00",
+      "date": "2026-09-15T01:15:23+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
+    },
+    {
+      "title": "UBJP bet holds narrow lead over MP rival in BARMM SGA District 2 race",
+      "link": "https://www.rappler.com/philippines/elections/elaysa-enalang-results-second-district-special-geographic-area-barmm-2026/",
+      "description": "Elaysa Enalang is a former municipal administrator and the younger sister of MILF Kapalawan provincial committee commander Datu Kineg Enalang",
+      "date": "2026-09-15T01:13:23+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "link": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "description": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
+      "date": "2026-09-15T01:10:08+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/xlI142Hzlu0"
     },
     {
       "title": "BFP bet beats Lamitan vice mayor for Basilan 1st District parliament seat",
@@ -16,6 +61,15 @@
       "description": "The BFP's Rima Hassan clinches the race, after Lamitan City Mayor Roderick 'Oric' Furigay endorsed her party over the party of his nephew",
       "date": "2026-09-15T00:52:49+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 15",
+      "link": "https://www.philstar.com/headlines/2026/09/15/2556436/live-coverage-sara-dutertes-impeachment-trial-sept-15",
+      "description": "Follow the trial, in context and in real time.",
+      "date": "2026-09-15T00:45:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -54,33 +108,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Violence, security threats mar otherwise hopeful polls in Cotabato",
-      "link": "https://www.rappler.com/philippines/elections/violence-security-threats-cotabato-city-mar-hopeful-election-barmm-2026/",
-      "description": "Election-related violence leaves at least five dead, with gunfire and riots reported at polling places, yet there are also signs of hope as former MILF rebels and their leaders take part in the elections",
-      "date": "2026-09-14T23:32:51+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/EegKszLEcRs"
-    },
-    {
-      "title": "[ANALYSIS] Why are AI agents lying, cheating and coordinating?",
-      "link": "https://www.rappler.com/voices/thought-leaders/ai-safety-agents-lying-cheating-coordinating/",
-      "description": "I believe we should revisit the foundations of how we train AIs, namely the human imitation and the reinforcement learning on which today's most advanced models are built",
-      "date": "2026-09-14T23:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Sara Duterte trial: Can a VP have business interests?",
-      "link": "https://www.rappler.com/philippines/sara-duterte-trial-can-vice-president-have-business-interests/",
-      "description": "Duterte's SALN indicates she is a stockholder of multiple companies, even though the Constitution bars the VP's participation in any business",
-      "date": "2026-09-14T23:15:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/c5PauSIHG3Q"
     },
     {
       "title": "Romualdez moved to Payatas jail, arraignment set Sept. 16",
@@ -180,15 +207,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/close-up-glasses-mobile-phone-desk-300x200.jpg"
-    },
-    {
-      "title": "Murad’s son beats ex-MILF commander for SGA 1st District seat in BARMM polls",
-      "link": "https://www.rappler.com/philippines/elections/mansor-ebrahim-results-first-district-special-geographic-area-barmm-2026/",
-      "description": "The United Bangsamoro Justice Party’s Mansor Ebrahim is the son of Moro Islamic Liberation Front chairman Murad, who leads the central committee that axed the Bangsamoro Federalist Party’s Butch Malang as MILF commander",
-      "date": "2026-09-14T16:06:47+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "House of Investments says insurance, schools drove 2025 earnings",
@@ -385,24 +403,6 @@
       "description": "The Foundation for Liberty &amp; Prosperity&nbsp;will celebrate the newest recipients of its academic awards on Sept. 16 at the Manila Polo Club, with First Lady Liza Marcos as special guest and Bangko Sentral ng Pilipinas Governor Eli Remolona Jr. as guest speaker.",
       "date": "2026-09-14T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Ex-justice: VP may be removed for hiding assets",
-      "link": "https://www.philstar.com/headlines/2026/09/15/2556343/ex-justice-vp-may-be-removed-hiding-assets",
-      "description": "Impeachable officials like Vice President Sara Duterte may be removed from office for &ldquo;intentional concealment&rdquo; of assets including those owned by their spouses, according to retired Sandiganbayan presiding justice Amparo Cabotaje-Tang.",
-      "date": "2026-09-14T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Ex-SK chair leads race in Lanao del Sur 7th District",
-      "link": "https://www.rappler.com/philippines/elections/rayyan-mindalano-results-seventh-district-lanao-del-sur-barmm-2026/",
-      "description": "Rayyan Mindalano has an insurmountable lead over his closest rival, former Bacolod-Kalawi mayor Nora Dipatuan",
-      "date": "2026-09-14T15:17:11+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     }
