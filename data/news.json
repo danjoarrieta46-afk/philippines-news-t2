@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-16T01:10:18.506904+00:00",
+  "updated": "2026-09-16T01:39:32.174251+00:00",
   "items": [
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "link": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "description": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
+      "date": "2026-09-16T01:10:08+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/jAWw_oq7BzY"
+    },
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-09-16T01:10:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/jAWw_oq7BzY"
+    },
+    {
+      "title": "Remulla says Roque asylum bid denied; Roque disputes claim",
+      "link": "https://www.philstar.com/headlines/2026/09/16/2556506/remulla-says-roque-asylum-bid-denied-roque-disputes-claim",
+      "description": "Two contradicting claims, yet no proof bared just yet.",
+      "date": "2026-09-16T00:47:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Ex-Duterte vlogger RJ Nieto gets Palace assistant secretary post",
+      "link": "https://www.philstar.com/headlines/2026/09/16/2556673/ex-duterte-vlogger-rj-nieto-gets-palace-assistant-secretary-post",
+      "description": "Former pro-Duterte vlogger Rey Joseph &ldquo;RJ&rdquo; Nieto, who was behind the now-unpublished Thinking Pinoy blog, has been appointed assistant secretary at the Office of the Cabinet Secretary.",
+      "date": "2026-09-16T00:46:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
@@ -8,7 +44,25 @@
       "date": "2026-09-16T00:45:00+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/qc6u__F0Zp0"
+      "image": "https://www.youtube.com/embed/jAWw_oq7BzY"
+    },
+    {
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 16",
+      "link": "https://www.philstar.com/headlines/2026/09/16/2556672/live-coverage-sara-dutertes-impeachment-trial-sept-16",
+      "description": "Follow the trial, in context and in real time.",
+      "date": "2026-09-16T00:40:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Scams, other cybercrimes rise to record 8% of families, says SWS",
+      "link": "https://www.philstar.com/headlines/2026/09/16/2556504/scams-other-cybercrimes-rise-record-8-families-says-sws",
+      "description": "One in 12 Filipino families had a member fall victim to cybercrime in the past 6 months.",
+      "date": "2026-09-16T00:31:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Duterte due in ICC courtroom to assess if fit for murder trial",
@@ -182,6 +236,15 @@
       "image": "https://bworldonline.com/wp-content/uploads/2025/06/FRANCISCO-Ed.-Lim-1-300x200.jpg"
     },
     {
+      "title": "The shared history of Mexico and the Philippines",
+      "link": "https://bworldonline.com/special-features/2026/09/16/777659/the-shared-history-of-mexico-and-the-philippines/",
+      "description": "Every Sept. 16, Mexico celebrates its independence from Spain with a national holiday featuring fireworks and cultural performances that recall the beginning of its fight for freedom. The commemoration traces back to 1810, when Miguel Hidalgo y Costilla, a Catholic priest known as Father Hidalgo, called for independence in Dolores. After his speech, Hidalgo raised [&#8230;]",
+      "date": "2026-09-15T16:05:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SF_Presidential-Communications-Office_20230710-mexico-ph2-OL-300x191.jpg"
+    },
+    {
       "title": "Peso rebounds after hitting P62.90 range",
       "link": "https://bworldonline.com/banking-finance/2026/09/16/777421/peso-rebounds-after-hitting-p62-90-range/",
       "description": "THE PESO rebounded slightly against the dollar on Tuesday from its latest all-time-low close, but still hit a new record intraday trough as players looked ahead to the US Federal Reserve’s policy meeting, where a rate hike is expected due to growing inflation pressures from rising oil prices. The currency gained 2.5 centavos to end [&#8230;]",
@@ -263,15 +326,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/technology-integrated-everyday-life-2-300x200.jpg"
     },
     {
-      "title": "Cebu Pacific takes delivery of third A320neo this year",
-      "link": "https://bworldonline.com/corporate/2026/09/16/777428/cebu-pacific-takes-delivery-of-third-a320neo-this-year/",
-      "description": "CEBU AIR, Inc., operator of Cebu Pacific, has taken delivery of its third Airbus A320neo this year as the budget carrier continues to add newer aircraft to its fleet. “The addition of another Airbus A320neo to our fleet reflects our focus on bringing in newer, more fuel-efficient aircraft that give us greater flexibility across our [&#8230;]",
-      "date": "2026-09-15T16:02:16+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Cebu-Pacific-A320neo-RP-C4261-300x169.jpg"
-    },
-    {
       "title": "Remulla to block Zaldy’s asylum bid in France",
       "link": "https://www.philstar.com/headlines/2026/09/16/2556574/remulla-block-zaldys-asylum-bid-france",
       "description": "Interior Secretary Jonvic Remulla will block former lawmaker Zaldy Co&rsquo;s asylum bid in his upcoming visit to France.",
@@ -317,42 +371,6 @@
       "image": ""
     },
     {
-      "title": "P16.03 billion for ARAL sought to sustain PISA gains",
-      "link": "https://www.philstar.com/headlines/2026/09/16/2556591/p1603-billion-aral-sought-sustain-pisa-gains",
-      "description": "Education Secretary Sonny Angara on Tuesday urged Congress to approve a P16.03-billion supplemental budget for 2027 to sustain the gains made by Filipino students in the 2025 Program for International Student Assessment&nbsp;through the Academic Recovery and Accessible Learning Program.",
-      "date": "2026-09-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Marcos to ASEAN: Strengthen cooperation on disasters",
-      "link": "https://www.philstar.com/headlines/2026/09/16/2556593/marcos-asean-strengthen-cooperation-disasters",
-      "description": "President Marcos has called on members of the Association of Southeast Asian Nations to strengthen cooperation on disaster resilience as risks confronting the region are &ldquo;changing faster than ever.&rdquo;",
-      "date": "2026-09-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Blanket class suspensions deepen literacy challenges’",
-      "link": "https://www.philstar.com/headlines/2026/09/16/2556597/blanket-class-suspensions-deepen-literacy-challenges",
-      "description": "Blanket class suspensions could deepen literacy challenges as schools continue to lose significant teaching days to weather-related hazards, a new study released by the Second Congressional Commission on Education&nbsp;warned.",
-      "date": "2026-09-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP Sara ready to replace Marcos, says spokesperson",
-      "link": "https://www.philstar.com/headlines/2026/09/16/2556607/vp-sara-ready-replace-marcos-says-spokesperson",
-      "description": "Vice President Sara Duterte is ready to replace President Marcos in case the latter resigns, according to her spokesman.",
-      "date": "2026-09-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Basilan vice governor’s son takes 4th District seat in BARMM Parliament",
       "link": "https://www.rappler.com/philippines/elections/jay-hataman-salliman-results-fourth-district-basilan-barmm-2026/",
       "description": "Jimael Salam Datumanong Salliman, better known as Jay Hataman Salliman, is also a lawyer and former Basilan provincial board member",
@@ -380,28 +398,10 @@
       "image": ""
     },
     {
-      "title": "LIVE UPDATES: First BARMM parliamentary elections",
-      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
-      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
-      "date": "2026-09-15T11:38:24+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "DOJ subpoenas Robin Padilla over Bato dela Rosa escape",
       "link": "https://www.rappler.com/philippines/doj-subpoenas-robin-padilla-obstruction-justice-complaint/",
       "description": "The senator is directed to appear before state prosecutors on September 25 and October 9 at the Department of Justice headquarters",
       "date": "2026-09-15T11:28:15+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Poa: Defense has ‘strategy’ to address questions on Duterte SALNs",
-      "link": "https://www.rappler.com/philippines/defense-strategy-address-sara-duterte-saln-unexplained-wealth/",
-      "description": "The defense questions whether Ombudsman records division OIC Karen Batu was in a position to testify on alleged irregularities in Duterte's SALNs",
-      "date": "2026-09-15T11:12:14+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
