@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-16T13:41:59.749623+00:00",
+  "updated": "2026-09-16T14:12:08.844881+00:00",
   "items": [
+    {
+      "title": "ICC orders Rodrigo Duterte’s continued detention",
+      "link": "https://www.rappler.com/philippines/icc-order-rodrigo-duterte-continued-detention-september-16-2026/",
+      "description": "'The Chamber therefore finds no notable change in circumstances that warrant the release of the Accused, with or without conditions,' says the order issued by the ICC Trial Chamber III",
+      "date": "2026-09-16T13:54:24+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/2026-09-16T090438Z_1010254660_RC29KNAUQYQI_RTRMADP_3_WARCRIMES-PHILIPPINES-DUTERTE-scaled.jpg?resize=75%2C75&crop=644px%2C0px%2C1707px%2C1707px"
+    },
+    {
+      "title": "Lawmakers flag abrupt flight cancellations during inclement weather, PAGASA’s forecasting capability",
+      "link": "https://bworldonline.com/the-nation/2026/09/16/777948/lawmakers-flag-abrupt-flight-cancellations-during-inclement-weather-pagasas-forecasting-capability/",
+      "description": "A Philippine lawmaker on Wednesday raised concerns over the abrupt cancellation of flights during inclement weather, prompting a discussion on whether the country has sufficient real-time weather monitoring capabilities. The issue was raised by Senator Emmanuel Joel J. Villanueva during the proposed 2027budget hearing of the Department of Science and Technology (DoST) before the Senate [&#8230;]",
+      "date": "2026-09-16T13:52:34+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-budget-hearing-300x225.jpg"
+    },
     {
       "title": "Rappler Recap: Martin Romualdez enters not-guilty plea in plunder case",
       "link": "https://www.rappler.com/philippines/recap-martin-romualdez-not-guilty-plea-arraignment-plunder-case/",
@@ -126,15 +144,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[Be The Good] Holding space through Civic Circles",
-      "link": "https://www.rappler.com/voices/newsletters/be-the-good-holding-space-civic-circles/",
-      "description": "This is how we show up for our readers, our partners, and the communities impacted by the stories we cover. We hope you can be part of it.",
-      "date": "2026-09-16T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/unnamed-2.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Traditional Chinese Medicine should be viewed as medical system much like Western medicine, says expert",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Moodys-300x169.jpg"
-    },
-    {
-      "title": "SEC chair says GCash IPO shows PHL capacity for large deals",
-      "link": "https://bworldonline.com/corporate/2026/09/16/777535/sec-chair-says-gcash-ipo-shows-phl-capacity-for-large-deals/",
-      "description": "THE planned initial public offering (IPO) of Mynt, Inc., operator of the GCash e-wallet, shows that the Philippine capital market can accommodate large equity transactions, Securities and Exchange Commission (SEC) Chairperson Francisco Ed. Lim said. “An offering of this magnitude is a most welcome development. It demonstrates that the Philippine capital market has the capacity [&#8230;]",
-      "date": "2026-09-15T16:05:53+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/06/FRANCISCO-Ed.-Lim-1-300x200.jpg"
     }
   ]
 }
