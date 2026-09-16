@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-16T22:40:08.377909+00:00",
+  "updated": "2026-09-16T23:10:42.515358+00:00",
   "items": [
+    {
+      "title": "[Pastilan] The curious case of Sara Duterte’s memory hole",
+      "link": "https://www.rappler.com/voices/thought-leaders/pastilan-curious-case-sara-duterte-memory-hole/",
+      "description": "Sara Duterte tries to sweep under the carpet the corruption and anomalies that took place during her father's presidency, while blaming Ferdinand Marcos Jr. as though he and he alone were responsible for all the country's institutional rot",
+      "date": "2026-09-16T23:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/09/bong-go-discaya-davao.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "‘Super El Niño’ raises risks for PHL",
       "link": "https://bworldonline.com/top-stories/2026/09/17/778003/super-el-nino-raises-risks-for-phl/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[OPINION] Expanding armies, shrinking peace: Militarization in Southeast Asia",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-expanding-armies-militarization-southeast-asia/",
-      "description": "These examples of military-led approaches in the region may each temporarily contain dissent, but likely also exacerbate human suffering while failing to reduce either armed or non-armed opposition",
-      "date": "2026-09-16T11:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/05/asean-preps-imc-mactan-cebu-may-5-2026-006-scaled.jpg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
