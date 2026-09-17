@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-17T02:41:14.487374+00:00",
+  "updated": "2026-09-17T03:11:22.006996+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-17T03:05:39+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/0YiQTvQfoDU"
+    },
+    {
+      "title": "OpenAI’s rogue agents probed Hugging Face for weaknesses 2 months before major hack",
+      "link": "https://www.rappler.com/technology/openai-rogue-agents-probed-hugging-face-weaknesses-may-2026/",
+      "description": "The newly uncovered malicious activity shows that the rogue agents' efforts to find a way into Hugging Face began earlier than was publicly known",
+      "date": "2026-09-17T02:42:13+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
       "link": "https://www.rappler.com/world/middle-east/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened/",
@@ -162,24 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/2026-09-16T090438Z_1010254660_RC29KNAUQYQI_RTRMADP_3_WARCRIMES-PHILIPPINES-DUTERTE-scaled.jpg?resize=75%2C75&crop=644px%2C0px%2C1707px%2C1707px"
-    },
-    {
-      "title": "Rappler Recap: Martin Romualdez enters not-guilty plea in plunder case",
-      "link": "https://www.rappler.com/philippines/recap-martin-romualdez-not-guilty-plea-arraignment-plunder-case/",
-      "description": "This means that Romualdez's plunder case will now move to trial",
-      "date": "2026-09-16T13:08:16+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/bUzkpIL4vAQ"
-    },
-    {
-      "title": "Rappler Recap: Rodrigo Duterte attends ICC hearing for first time",
-      "link": "https://www.rappler.com/philippines/recap-rodrigo-duterte-attends-icc-hearing-september-16-2026/",
-      "description": "Justice reporter Jairo Bolledo gives a rundown of the September 16 hearing in this recap",
-      "date": "2026-09-16T12:58:30+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/2QHdUr9W7K4"
     }
   ]
 }
