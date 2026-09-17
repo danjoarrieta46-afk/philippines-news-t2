@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-17T11:40:32.091302+00:00",
+  "updated": "2026-09-17T12:14:06.883923+00:00",
   "items": [
+    {
+      "title": "Rappler Live Jam: Healy After Dark",
+      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-healy-after-dark-september-2026/",
+      "description": "Catch the 'Isip' hitmakers perform on Rappler Live Jam for the first time!",
+      "date": "2026-09-17T12:02:21+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/kHdoB6eGasQ"
+    },
+    {
+      "title": "Singapore Airlines sees travel demand holding despite global uncertainties",
+      "link": "https://bworldonline.com/arts-and-leisure/2026/09/17/778258/singapore-airlines-sees-travel-demand-holding-despite-global-uncertainties/",
+      "description": "With the ongoing war in the Middle East triggering a global oil crisis and driving up airfares, people are still interested in traveling but have become more conscious of their spending, according to Singapore Airlines (SIA), which also noted that it is responding by providing value-for-money offerings. “We still see interest in people wanting to [&#8230;]",
+      "date": "2026-09-17T11:42:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SIA-liwei-300x169.jpg"
+    },
     {
       "title": "Duterte appears in good shape at ICC hearing — Palace",
       "link": "https://www.philstar.com/headlines/2026/09/17/2556975/duterte-appears-good-shape-icc-hearing-palace",
@@ -178,15 +196,6 @@
       "description": "The detained senator insists the impeachment threshold is already in the Constitution.",
       "date": "2026-09-17T07:14:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rappler Live Jam: Healy After Dark",
-      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-healy-after-dark-september-2026/",
-      "description": "Catch the 'Isip' hitmakers perform on Rappler Live Jam for the first time!",
-      "date": "2026-09-17T07:01:58+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2025/03/Gcash-300x200.jpg"
-    },
-    {
-      "title": "On the Luzon Economic Corridor and GCash IPO",
-      "link": "https://bworldonline.com/opinion/2026/09/17/777780/on-the-luzon-economic-corridor-and-gcash-ipo/",
-      "description": "The Luzon Economic Corridor (LEC) has become a major investment project of the administration; it should prosper. LEC will be linking Subic-Clark-Metro Manila-Batangas plus surrounding areas into an economic hub supported by infrastructure, efficient logistics, reliable energy, digital connectivity, and a skilled workforce. Last week, on Sept. 9, the inaugural LEC Investment Forum was held [&#8230;]",
-      "date": "2026-09-16T16:03:51+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/03-oplas-table-300x179.jpg"
     }
   ]
 }
