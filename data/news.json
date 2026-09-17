@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-17T06:45:56.327713+00:00",
+  "updated": "2026-09-17T07:13:05.219210+00:00",
   "items": [
+    {
+      "title": "Rappler Live Jam: Healy After Dark",
+      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-healy-after-dark-september-2026/",
+      "description": "Catch the 'Isip' hitmakers perform on Rappler Live Jam for the first time!",
+      "date": "2026-09-17T07:01:58+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: INC rally misrepresented as protest against VP Sara arrest warrant",
+      "link": "https://www.rappler.com/newsbreak/fact-check/inc-rally-misrepresented-protest-vs-sara-duterte-arrest-warrant/",
+      "description": "The video shows a commotion between police and members of the Iglesia ni Cristo during a June 2026 protest in support of Senator Rodante Marcoleta",
+      "date": "2026-09-17T07:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-02.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "DOE scraps coal bid, plans rebid in weeks as Semirara contract nears expiry",
       "link": "https://www.rappler.com/business/department-energy-scraps-coal-bid-september-2026/",
@@ -119,15 +137,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/photo_2026-09-17-09.23.59-300x225.jpg"
     },
     {
-      "title": "Houthi blitz leaves Saudi Arabia exposed, Iran emboldened",
-      "link": "https://www.rappler.com/world/middle-east/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened/",
-      "description": "The lack of international military support for Saudi Arabia, particularly from the US, has emboldened Iran and its allies, complicating the geopolitical landscape in the region",
-      "date": "2026-09-17T01:35:19+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/2026-09-15T183655Z_873553942_RC2SJNAG08FU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
       "title": "4 listed passengers didn't board MV June Aster, says PCG",
       "link": "https://www.philstar.com/headlines/2026/09/17/2556910/4-listed-passengers-didnt-board-mv-june-aster-says-pcg",
       "description": "Four passengers listed in the manifest of MV June Aster did not board the vessel before it left Baseco Port in Manila on September 8, the Philippine Coast Guard said.",
@@ -135,15 +144,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "US officials met Iran-backed Houthis in Oman over the weekend, sources say",
-      "link": "https://www.rappler.com/world/middle-east/us-meeting-iran-backed-houthis-oman-september-2026/",
-      "description": "A US State Department spokesperson says safeguarding freedom of navigation in the Red Sea and preventing the export of terrorism from the Middle East are core US interests",
-      "date": "2026-09-17T00:15:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/2026-09-15T183655Z_873553942_RC2SJNAG08FU_RTRMADP_3_IRAN-CRISIS-YEMEN-HOUTHI-scaled.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "‘Super El Niño’ raises risks for PHL",
