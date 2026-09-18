@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-18T00:14:55.930864+00:00",
+  "updated": "2026-09-18T00:43:11.544114+00:00",
   "items": [
+    {
+      "title": "Saudis, Houthis exchange strikes; Yemenis flee as Middle East war spreads",
+      "link": "https://www.rappler.com/world/middle-east/saudis-houthis-exchange-strikes-yemenis-flee-middle-east-war-spreads-september-17-2026/",
+      "description": "US President Donald Trump says he is approaching a critical juncture over whether to restart massive attacks on Iran",
+      "date": "2026-09-18T00:42:11+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "NCR police to deploy 15,700 for Sept. 21 protests",
+      "link": "https://www.philstar.com/nation/2026/09/18/2556983/ncr-police-deploy-15700-sept-21-protests",
+      "description": "More than 15,700 police personnel will be deployed ahead of Sept. 21 protests.",
+      "date": "2026-09-17T23:30:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Why the SC is telling Congress to do its job on political dynasties",
       "link": "https://www.rappler.com/philippines/why-supreme-court-decision-congress-pass-anti-dynasty-law/",
@@ -9,6 +27,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/rMF8lpEaBx4"
+    },
+    {
+      "title": "Fact check: Viral Duterte video after ICC appearance is AI-generated",
+      "link": "https://www.philstar.com/headlines/2026/09/18/2556962/fact-check-viral-duterte-video-after-icc-appearance-ai-generated",
+      "description": "The video appears to show the ex-president thanking supporters and asking for prayers for Sara.",
+      "date": "2026-09-17T23:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "5 young leaders flying to South Africa as Rappler’s One Young World 2026 delegates",
@@ -317,24 +344,6 @@
       "image": ""
     },
     {
-      "title": "Senate warned over revising impeachment vote threshold",
-      "link": "https://www.philstar.com/headlines/2026/09/18/2557092/senate-warned-over-revising-impeachment-vote-threshold",
-      "description": "Senators acting as judges in the impeachment trial of Vice President Sara Duterte may face legal challenge including criminal cases if they proceed with changing the two-thirds voting requirement for her conviction, according to former presidential spokesman Salvador Panelo.",
-      "date": "2026-09-17T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "8 Metro Manila hospitals reach full capacity for leptospirosis",
-      "link": "https://www.philstar.com/headlines/2026/09/18/2557096/8-metro-manila-hospitals-reach-full-capacity-leptospirosis",
-      "description": "Eight hospitals in Metro Manila have reached their full capacity for designated leptospirosis beds, the Department of Health&nbsp;reported yesterday.",
-      "date": "2026-09-17T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "ICC orders continued detention for Rodrigo Duterte  | The wRap",
       "link": "https://www.rappler.com/video/daily-wrap/september-17-2026/",
       "description": "Today’s headlines: Rodrigo Duterte, Baste Duterte, Mark Zuckerberg",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/bsUeKRzWBsw"
-    },
-    {
-      "title": "FACT CHECK: No lockdown in Malacañang after court ordered VP Sara’s arrest",
-      "link": "https://www.rappler.com/newsbreak/fact-check/no-lockdown-malacanang-after-sara-duterte-arrest-warrant/",
-      "description": "No credible reports confirm that barricades and barbed wire were installed around Malacañang due to the issuance of Duterte's arrest warrant, contrary to the claim",
-      "date": "2026-09-17T08:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-01.jpg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
