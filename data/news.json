@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T00:43:11.544114+00:00",
+  "updated": "2026-09-18T01:10:57.900625+00:00",
   "items": [
+    {
+      "title": "Buying the dip: In search of the PSEi’s elusive inflection point",
+      "link": "https://www.rappler.com/business/search-philippine-stock-exchange-market-index-elusive-inflection-point/",
+      "description": "The stock market and the economy are now at the inflection point where investors can find high-quality stocks that operate as natural hedges against a weakening peso",
+      "date": "2026-09-18T00:44:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/06/gcash-mynt-IPO.jpg?resize=75%2C75&crop=305px%2C0px%2C720px%2C720px"
+    },
     {
       "title": "Saudis, Houthis exchange strikes; Yemenis flee as Middle East war spreads",
       "link": "https://www.rappler.com/world/middle-east/saudis-houthis-exchange-strikes-yemenis-flee-middle-east-war-spreads-september-17-2026/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "NEA seeks extra P7 billion to eliminate non-technical system losses",
-      "link": "https://www.rappler.com/business/national-electrification-administration-2027-budget-system-loss/",
-      "description": "NEA says eliminating non-technical system losses will require a phased transition, with cooperatives needing billions in loans for metering and other upgrades before they can absorb the costs",
-      "date": "2026-09-17T09:04:52+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/bsUeKRzWBsw"
     }
   ]
 }
