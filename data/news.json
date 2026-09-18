@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T10:11:42.014130+00:00",
+  "updated": "2026-09-18T10:40:13.052345+00:00",
   "items": [
+    {
+      "title": "FACT CHECK: No evidence Romualdez has stage 4 cancer",
+      "link": "https://www.rappler.com/newsbreak/fact-check/no-evidence-martin-romualdez-stage-four-cancer/",
+      "description": "The lawmaker is reportedly suffering from illnesses such as sleep apnea, hypertension, diabetes, and major depressive disorder — not cancer",
+      "date": "2026-09-18T10:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/ROMUALDEZ-FC-SCREENSHOT.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "Ombudsman flags DICT, begins fact-finding for ‘ghost internet’ projects",
       "link": "https://www.rappler.com/technology/ombudsman-flags-dict-ghost-internet-projects-fact-finding/",
@@ -49,11 +58,11 @@
     {
       "title": "Villar family faces graft complaints over PrimeWater contracts",
       "link": "https://www.rappler.com/philippines/villar-family-graft-complaints-primewater-contracts/",
-      "description": "Assistant Ombudsman Mico Clavano confirms that the Ombudsman filed criminal and administrative complaints against Senators Mark and Camille, former senators Manny and Cynthia Villar, and businessman Paolo Villar for preliminary investigation",
+      "description": "(1st UPDATE) In a statement, Manny Villar says they respect the legal process and will respond to the complaints at the proper time and forum",
       "date": "2026-09-18T08:10:36+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/04/primewater-bulacan-province-april-2025.png?resize=75%2C75&crop=321px%2C0px%2C1080px%2C1080px"
+      "image": "https://www.rappler.com/tachyon/2025/07/PRIMWATER-CONTRACTS-JULY-5-2025.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "At least 3 dead, 6 wounded in South Cotabato school shooting",
@@ -117,15 +126,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "FACT CHECK: Davao City received funds from nat’l government under Marcos admin",
-      "link": "https://www.rappler.com/newsbreak/fact-check/davao-city-funds-national-government-marcos-administration/",
-      "description": "Malacañang said Davao City received national government support for programs and projects, citing data from the budget department",
-      "date": "2026-09-18T05:15:20+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-18.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "What Philippines' aging population means, and what can be done",
