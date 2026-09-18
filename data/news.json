@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-18T01:38:37.977761+00:00",
+  "updated": "2026-09-18T02:11:19.214091+00:00",
   "items": [
+    {
+      "title": "Come sit with us at Rappler’s Culture Desk",
+      "link": "https://www.rappler.com/voices/newsletters/culture-desk-life-guide/",
+      "description": "A new space for the things we love, enjoy, and obsess over",
+      "date": "2026-09-18T02:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/www.rappler.com/tachyon/2026/09/kapitolyo-cafe-ls.jpg"
+    },
     {
       "title": "LPA hits Palawan, affects Visayas and other areas amid storm Dujuan",
       "link": "https://bworldonline.com/the-nation/2026/09/18/778362/lpa-hits-palawan-affects-visayas-and-other-areas-amid-storm-dujuan/",
@@ -62,7 +71,7 @@
       "date": "2026-09-18T00:42:11+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": ""
+      "image": "https://www.rappler.com/tachyon/2026/08/2026-07-31T165529Z_556853476_RC20PMA1ONP2_RTRMADP_3_IRAN-CRISIS-YEMEN-SAUDI.jpg?resize=75%2C75&crop=0px%2C0px%2C1400px%2C1400px"
     },
     {
       "title": "NCR police to deploy 15,700 for Sept. 21 protests",
@@ -157,7 +166,7 @@
     {
       "title": "NGCP eyes completion of P23.5-B grid projects",
       "link": "https://bworldonline.com/editors-picks/2026/09/18/778115/ngcp-eyes-completion-of-p23-5-b-grid-projects/",
-      "description": "THE National Grid Corp. of the Philippines (NGCP) is targeting the completion of six transmission projects worth about P23.5 billion by yearend as the grid operator works to address transmission reliability amid power supply constraints. At a briefing on Thursday, NGCP Assistant Vice-President Cynthia P. Alabanza said the company had already completed five transmission projects [&#8230;]",
+      "description": "THE National Grid Corp. of the Philippines (NGCP) is targeting the completion of six transmission projects worth about P23.5 billion by in the next 12 months as the grid operator works to address transmission reliability amid power supply constraints. At a briefing on Thursday, NGCP Assistant Vice-President Cynthia P. Alabanza said the company had already completed [&#8230;]",
       "date": "2026-09-17T16:06:57+00:00",
       "source": "BusinessWorld",
       "category": "business",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Rappler Live Jam: Healy After Dark",
-      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-healy-after-dark-september-2026/",
-      "description": "Catch the 'Isip' hitmakers perform on Rappler Live Jam for the first time!",
-      "date": "2026-09-17T12:02:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/kHdoB6eGasQ"
     }
   ]
 }
