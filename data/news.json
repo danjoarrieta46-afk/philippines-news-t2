@@ -1,14 +1,41 @@
 {
-  "updated": "2026-09-21T07:12:05.134929+00:00",
+  "updated": "2026-09-21T07:42:03.630706+00:00",
   "items": [
+    {
+      "title": "Join #MoveCebu 2026 public forum, workshops for a liveable city",
+      "link": "https://www.rappler.com/moveph/join-movecebu-2026-public-forum-workshops-liveable-city/",
+      "description": "Rappler’s civic engagement arm MovePH is returning to Cebu for #MoveCebu: Sugbo alang sa Sugboanons, a three-day civic empowerment roadshow set for October 14 to 16, 2026",
+      "date": "2026-09-21T07:26:21+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/08/MOVERS-PROGRAM-2-AUG-22-2026.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Saclag gets golden shot, Alvarez bags bronze as MMA fighters shine in Asian Games",
+      "link": "https://www.rappler.com/sports/asian-games-mixed-martial-arts-jean-claude-saclag-carlos-alvarez-september-21-2026/",
+      "description": "Jean Claude Saclag advances to the final as he earns a chance to either match or surpass the silver medal he won in wushu in the 2014 edition, while Carlos Alvarez secures a bronze despite falling in the semifinals",
+      "date": "2026-09-21T07:23:04+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-21T07:08:13+00:00",
+      "date": "2026-09-21T07:17:51+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/HonaY3j24gw"
+    },
+    {
+      "title": "Before ASEAN gold, Baguio spent 60 years fighting smoke",
+      "link": "https://www.rappler.com/philippines/luzon/baguio-city-history-local-tobacco-control-efforts/",
+      "description": "In its long history of tobacco control, Baguio City has treated tobacco use as the public health issue that it is, and not merely as an enforcement issue",
+      "date": "2026-09-21T07:17:35+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "10 Filipino Artists Reimagine Democracy Across Philippine Islands through “Sprints”",
@@ -70,33 +97,6 @@
       "description": "No group has applied for a permit to protest in Metro Manila on the 54th anniversary of the declaration of Martial Law, the National Capital Region Police Office (NCRPO) said.",
       "date": "2026-09-21T05:15:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[EDITORIAL] Matematika ng hustisya sa impeachment trial ni Sara Duterte",
-      "link": "https://www.rappler.com/voices/editorials/mathematics-justice-sara-duterte-impeachment-trial-filipino-version/",
-      "description": "Malinaw ang tagubilin ng dating chief justices: iwasan ang procedural paralysis at ipakita na living instrument para sa hustisya ang Konstitusyon",
-      "date": "2026-09-21T05:12:15+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/Animated-impeachment-treshold-vote-martial-law-september-21-2026.gif?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "TIMELINE: How Trump and Xi went from tariff war to trade truce",
-      "link": "https://www.rappler.com/world/us-canada/timeline-trump-xi-tariff-war-trade-truce/",
-      "description": "US President Donald Trump is set to host Chinese President Xi  Jinping at the White House on September 24",
-      "date": "2026-09-21T04:23:25+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Cybercrime feud erupts on dark web as notorious group claims hijack of rival’s website",
-      "link": "https://www.rappler.com/technology/cybercrime-feud-erupts-shinyhunters-claims-hijack-cl0p-website/",
-      "description": "The ShinyHunters group says it broke into the dark web site of cybercrime gang cl0p after discovering a vulnerability in cl0p's software and using it to establish wide-ranging control over the group's infrastructure",
-      "date": "2026-09-21T04:02:05+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
