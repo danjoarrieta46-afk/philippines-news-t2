@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-21T00:15:03.889679+00:00",
+  "updated": "2026-09-21T00:44:15.862187+00:00",
   "items": [
+    {
+      "title": "16 votes or lower? Senators to hold caucus on Duterte impeachment voting threshold",
+      "link": "https://www.rappler.com/philippines/senator-judges-caucus-sara-duterte-impeachment-voting-threshold/",
+      "description": "With 20 active senators, 11 votes — a simple majority — are needed to overturn the 16-vote threshold required to convict Sara Duterte",
+      "date": "2026-09-21T00:37:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "[OPINION] The 54th anniversary of Martial Law and Edjop",
+      "link": "https://www.rappler.com/voices/thought-leaders/opinion-anniversary-martial-law-edjop-september-2026/",
+      "description": "A new generation of young people who will ponder on the life and choices of Edjop will most certainly confront the question of conscience and convenience, problems and principles, the present and a future of possibilities",
+      "date": "2026-09-21T00:14:44+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Trump administration prepares sanctions vs ICC, sources say",
       "link": "https://www.rappler.com/world/us-canada/us-trump-prepares-sanctions-icc/",
@@ -9,6 +27,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2025/12/icc-december-9-2025-reuters.jpg?resize=75%2C75&crop=274px%2C0px%2C1361px%2C1361px"
+    },
+    {
+      "title": "Senate tackles today VP impeachment vote threshold",
+      "link": "https://www.philstar.com/headlines/2026/09/21/2557712/senate-tackles-today-vp-impeachment-vote-threshold",
+      "description": "Senators are expected to go into caucus today in an attempt to resolve the question on the conviction threshold for Vice President Sara Duterte&rsquo;s impeachment trial.",
+      "date": "2026-09-20T17:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "BoP gap shrinks to $596M in August",
@@ -317,15 +344,6 @@
       "image": ""
     },
     {
-      "title": "Senate tackles today VP impeachment vote threshold",
-      "link": "https://www.philstar.com/headlines/2026/09/21/2557712/senate-tackles-today-vp-impeachment-vote-threshold",
-      "description": "Senators are expected to go into caucus today in an attempt to resolve the question on the conviction threshold for Vice President Sara Duterte&rsquo;s impeachment trial.",
-      "date": "2026-09-20T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "World leaders return to UN amid wars in Middle East and Ukraine",
       "link": "https://www.rappler.com/world/global-affairs/leaders-return-united-nations-general-assembly-2026/",
       "description": "Compounding the crisis of morale and finance are questions about the next leader of the 80-year-old organization",
@@ -387,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/Dubai-Ron-Jordan-De-Ocampo-5.jpeg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "How to know if you can trust an AI’s answer to your question",
-      "link": "https://www.rappler.com/technology/features/how-to-know-trust-ai-answer-question/",
-      "description": "It might be useful to sort AI answers into an ‘answer typography’ of four broad types: factual, interpretive, constructive, and strategic",
-      "date": "2026-09-20T06:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Just Saying] Phantom judges in the impeachment court",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-phantom-judges-impeachment-court/",
-      "description": "Constitutional provisions must never be fragmented and parsed into isolated words and phrases, each assigned a standalone meaning detached from the whole",
-      "date": "2026-09-20T05:26:35+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
