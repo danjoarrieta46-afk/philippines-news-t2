@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-21T23:38:56.853755+00:00",
+  "updated": "2026-09-22T00:14:36.296255+00:00",
   "items": [
+    {
+      "title": "Global diesel prices hit record highs, further rises possible",
+      "link": "https://www.rappler.com/world/middle-east/global-diesel-prices-record-highs-rises-possible/",
+      "description": "Refineries worldwide are operating at maximum capacity, with the US experiencing record retail diesel prices and low inventory levels, indicating a tight global diesel market",
+      "date": "2026-09-21T23:40:50+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/01/fuel-pump-price-increase-january-12-2026-004-scaled.jpg?resize=75%2C75&crop=428px%2C0px%2C1707px%2C1707px"
+    },
     {
       "title": "Mitsubishi to raise Ayala stake to 15% in P44.5-B deal",
       "link": "https://bworldonline.com/corporate/2026/09/22/780261/mitsubishi-to-raise-ayala-stake-to-15-in-p44-5-b-deal/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/Y0OpRb_JSN4"
-    },
-    {
-      "title": "[OPINION] ‘Difficult: The Life and Times of Etta Rosales’ — a big lesson in perspective",
-      "link": "https://www.rappler.com/voices/thought-leaders/opinion-difficult-life-times-etta-rosales-lesson-perspective/",
-      "description": "Perhaps this is the deeper lesson of 'Difficult': political commitment is not always about where you stand or what organization you belong to. Sometimes, it is about finding new ways to pursue the same vision.",
-      "date": "2026-09-21T12:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
