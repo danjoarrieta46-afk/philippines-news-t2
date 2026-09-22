@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-22T00:14:36.296255+00:00",
+  "updated": "2026-09-22T00:43:30.089403+00:00",
   "items": [
+    {
+      "title": "Trump approval falls to record low as high costs bite, poll finds",
+      "link": "https://www.rappler.com/world/us-canada/trump-approval-falls-record-low-high-costs-bite-poll/",
+      "description": "Democrats currently lead Republicans by 8 points in voter preference for the midterms, and Trump's approval ratings on immigration and crime are also low, raising concerns about the Republican party's prospects",
+      "date": "2026-09-22T00:28:45+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Global diesel prices hit record highs, further rises possible",
       "link": "https://www.rappler.com/world/middle-east/global-diesel-prices-record-highs-rises-possible/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "NBI probes Davao contractor linked to Dutertes; issues subpoena to DPWH",
-      "link": "https://www.rappler.com/philippines/nbi-probe-genesis-88-contractor-dutertes-subpoena/",
-      "description": "A Rappler probe in 2025 revealed that Genesis88, whose owner is a longtime friend of the Dutertes, secured nearly P2.9 billion worth of flood control projects in the Davao Region",
-      "date": "2026-09-21T12:17:37+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/Y0OpRb_JSN4"
     }
   ]
 }
