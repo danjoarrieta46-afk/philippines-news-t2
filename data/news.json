@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-22T07:10:57.499094+00:00",
+  "updated": "2026-09-22T07:40:17.339786+00:00",
   "items": [
+    {
+      "title": "St. Luke’s launches next-gen radiotherapy system",
+      "link": "https://bworldonline.com/technology/2026/09/22/780446/st-lukes-launches-next-gen-radiotherapy-system/",
+      "description": "St. Luke’s Medical Center–Global City launched a next-generation TrueBeam radiotherapy system on September 21 equipped with four advanced&#8230;",
+      "date": "2026-09-22T07:30:59+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/photo_2026-09-22-11.45.10-300x225.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-22T07:17:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/2qmEcPXOj0s"
+    },
+    {
+      "title": "Amid rising school violence, citizens pitch solutions to keep children safe",
+      "link": "https://www.rappler.com/moveph/amid-rising-school-violence-citizens-pitch-solutions-keep-children-safe/",
+      "description": "Beyond high-level policy debates, those directly involved with children — from parents to teachers — can contribute in their own ways to a safer school environment",
+      "date": "2026-09-22T07:11:38+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "What makes news worthy?",
       "link": "https://www.rappler.com/plus-membership-program/what-makes-news-worthy/",
@@ -20,13 +47,22 @@
       "image": "https://www.rappler.com/tachyon/2026/08/roblox-reuters-august-2026-scaled.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-22T07:05:14+00:00",
-      "source": "Rappler",
+      "title": "Philippines, EU move closer to a free-trade agreement after decade of talks",
+      "link": "https://www.philstar.com/business/2026/09/22/2558094/philippines-eu-move-closer-free-trade-agreement-after-decade-talks",
+      "description": "Negotiators were instructed to finalize the agreement as soon as possible.",
+      "date": "2026-09-22T06:48:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
-      "image": "https://www.youtube.com/embed/f4vrq1YsE_I"
+      "image": ""
+    },
+    {
+      "title": "Cybersecurity agency directs Discord, Reddit to set up Philippine offices",
+      "link": "https://www.philstar.com/headlines/2026/09/22/2558090/cybersecurity-agency-directs-discord-reddit-set-philippine-offices",
+      "description": "Reddit and Discord were also directed by the CICC to submit a written explanation of their existing safety and age verification measures.",
+      "date": "2026-09-22T06:39:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Meralco advances inclusion through workplace  immersion for PWD students",
@@ -200,15 +236,6 @@
       "image": ""
     },
     {
-      "title": "Global diesel prices hit record highs, further rises possible",
-      "link": "https://www.rappler.com/world/middle-east/global-diesel-prices-record-highs-rises-possible/",
-      "description": "Refineries worldwide are operating at maximum capacity, with the US experiencing record retail diesel prices and low inventory levels, indicating a tight global diesel market",
-      "date": "2026-09-21T23:40:50+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/01/fuel-pump-price-increase-january-12-2026-004-scaled.jpg?resize=75%2C75&crop=428px%2C0px%2C1707px%2C1707px"
-    },
-    {
       "title": "Mitsubishi to raise Ayala stake to 15% in P44.5-B deal",
       "link": "https://bworldonline.com/corporate/2026/09/22/780261/mitsubishi-to-raise-ayala-stake-to-15-in-p44-5-b-deal/",
       "description": "MITSUBISHI Corp. will increase its economic stake in Ayala Corp. to 15% from 4.7% under a P44.5-billion transaction&#8230;",
@@ -371,36 +398,9 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/05/Treasury-300x199.jpg"
     },
     {
-      "title": "Peso depreciates further on Mideast conflict",
-      "link": "https://bworldonline.com/banking-finance/2026/09/22/780267/peso-depreciates-further-on-mideast-conflict/",
-      "description": "THE PESO slipped further against the dollar on Monday amid lingering Middle East tensions and hawkish signals from&#8230;",
-      "date": "2026-09-21T16:27:02+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/05/peso-currency-philstar-300x189.jpg"
-    },
-    {
       "title": "SC highlights importance of ‘justice zones’",
       "link": "https://www.philstar.com/headlines/2026/09/22/2557955/sc-highlights-importance-justice-zones",
       "description": "The Supreme Court&nbsp;yesterday emphasized the need to enhance inter-agency coordination among government bodies handling justice and law, as evidenced by its establishment of 13 out of 20 &ldquo;justice zones&rdquo; across the country in the past five years.",
-      "date": "2026-09-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Government launches AI on eGovPH superapp",
-      "link": "https://www.philstar.com/headlines/2026/09/22/2557958/government-launches-ai-egovph-superapp",
-      "description": "The government has rolled out new artificial intelligence&nbsp;capabilities to the eGovPH superapp, meant to automate government transactions at no cost to Filipinos, as well as provide a range of other services, such as language translation.",
-      "date": "2026-09-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Feuding execs warned: Don’t use ombudsman",
-      "link": "https://www.philstar.com/headlines/2026/09/22/2557961/feuding-execs-warned-dont-use-ombudsman",
-      "description": "State officials using the Office of the Ombudsman as an &ldquo;arena&rdquo; for mudslinging will be suspended.",
       "date": "2026-09-21T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
