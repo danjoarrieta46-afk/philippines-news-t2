@@ -1,14 +1,41 @@
 {
-  "updated": "2026-09-22T05:10:24.830612+00:00",
+  "updated": "2026-09-22T05:39:45.947706+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-22T04:16:54+00:00",
+      "date": "2026-09-22T05:39:20+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/zwxufVmXUM0"
+    },
+    {
+      "title": "Baste Duterte ‘confession’ on Gencorp deals could be ‘smoking gun’ – prosecution",
+      "link": "https://www.rappler.com/philippines/prosecution-response-baste-duterte-statement-gencorp-deals-davao-city-government/",
+      "description": "Prosecutor Lorna Kapunan says the Davao City mayor's confirmation of his local government's deals with Gencorp 'was not only an admission,' but a 'confession'",
+      "date": "2026-09-22T05:38:01+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/I4txqzqUE28"
+    },
+    {
+      "title": "DICT walks back claim House called Meta CEO Zuckerberg to hearing",
+      "link": "https://www.rappler.com/technology/dict-walks-back-claims-house-call-meta-mark-zuckerberg-hearing/",
+      "description": "The DICT's new statement contradicts its September 18 'breaking news' post, which said the House of Representatives had called on Meta CEO Mark Zuckerberg to appear at a congressional hearing on social media safety",
+      "date": "2026-09-22T05:27:19+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/DICT-META-CHILD-SAFETY.jpg?resize=75%2C75&crop=339px%2C0px%2C799px%2C799px"
+    },
+    {
+      "title": "4 Russia-bound Filipinos recruited for military work stopped at NAIA",
+      "link": "https://www.philstar.com/headlines/2026/09/22/2558078/4-russia-bound-filipinos-recruited-military-work-stopped-naia",
+      "description": "The bureau said they were recruited for security and military work in Russia.",
+      "date": "2026-09-22T04:50:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "[Vantage Point] How the Philippines lost its salt",
@@ -362,15 +389,6 @@
       "image": ""
     },
     {
-      "title": "Student cited for heroism during Cotabato shooting rampage",
-      "link": "https://www.philstar.com/headlines/2026/09/22/2557964/student-cited-heroism-during-cotabato-shooting-rampage",
-      "description": "There might have been more casualties in the Banga, South Cotabato campus shooting rampage on Friday, if not for a brave student who fought the attacker barehanded and forced him out of their classroom despite suffering a gunshot wound in the arm.",
-      "date": "2026-09-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "CNN, MS NOW, Politico suing Trump over White House ban",
       "link": "https://www.rappler.com/world/us-canada/cnn-ms-now-politico-suing-trump-white-house-ban/",
       "description": "The lawsuit aims 'to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes,' the three organizations say in a joint statement",
@@ -387,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Turkey launches AI initiative ahead of COP31 climate summit",
-      "link": "https://www.rappler.com/world/global-affairs/turkey-launches-artificial-intelligence-initiative-ahead-cop31/",
-      "description": "'We must openly discuss AI’s growing energy consumption, and it is time for governments to start setting the terms,' says COP31 president-designate Murat Kurum",
-      "date": "2026-09-21T13:58:17+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Senate approves school safety bill after fatal shootings",
-      "link": "https://www.rappler.com/philippines/senate-comprehensive-school-safety-bill-final-reading-september-2026/",
-      "description": "The comprehensive school safety bill consolidates protections under existing child protection, mental health, and disaster policies into a singular operational framework for public and private schools",
-      "date": "2026-09-21T13:51:15+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/08/students-class-suspension-td-luis-habagat-august-3-2026-003-scaled.jpg?resize=75%2C75&crop=50px%2C0px%2C1707px%2C1707px"
     }
   ]
 }
