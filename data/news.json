@@ -1,14 +1,23 @@
 {
-  "updated": "2026-09-22T08:11:31.251411+00:00",
+  "updated": "2026-09-22T08:41:28.771994+00:00",
   "items": [
+    {
+      "title": "FACT CHECK: Gerville Luistro did not say she’s ready to replace Sara Duterte as VP",
+      "link": "https://www.rappler.com/newsbreak/fact-check/gerville-luistro-replace-sara-duterte-vp-fake-quote/",
+      "description": "Luistro herself debunked the supposed quote card, calling it 'fake news'",
+      "date": "2026-09-22T08:20:38+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-6.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-22T08:03:24+00:00",
+      "date": "2026-09-22T08:16:39+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/TzCg46IbYZI"
+      "image": "https://www.youtube.com/embed/7w4fMnkbDWo"
     },
     {
       "title": "Canada says Philippines, ASEAN trade talks 90% complete, eyes November finish",
@@ -20,11 +29,29 @@
       "image": "https://bworldonline.com/wp-content/uploads/2023/07/Canadian-dollar-coin-300x186.jpg"
     },
     {
+      "title": "Firm in VP Sara's SALN won millions in Davao City contracts",
+      "link": "https://www.philstar.com/headlines/2026/09/22/2558100/firm-vp-saras-saln-won-millions-davao-city-contracts-",
+      "description": "A company that Vice President Sara Duterte declared as one of her business interests won nearly P36 million in government contracts during her term, almost a third from the Davao City government, a procurement official testified on Tuesday, September 22.",
+      "date": "2026-09-22T07:59:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
       "title": "UN panel: OpenAI’s Hugging Face hack is an ‘early warning’ for loss of human control",
       "link": "https://www.rappler.com/technology/un-panel-openai-hugging-face-hack-technical-brief-details/",
       "description": "The UN Independent International Scientific Panel on AI says the Hugging Face hack by OpenAI agents shows 'several warning signs occurring together in a real technical setting'",
       "date": "2026-09-22T07:51:05+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "‘Chicken lollipops’ shipment contained onions, carrots — BOC",
+      "link": "https://www.philstar.com/headlines/2026/09/22/2558093/chicken-lollipops-shipment-contained-onions-carrots-boc",
+      "description": "In a statement issued Tuesday, September 22, 2026, the BOC said that the charges stem from six shipments consigned to Berches Consumer Goods Trading.",
+      "date": "2026-09-22T07:31:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -227,24 +254,6 @@
       "image": ""
     },
     {
-      "title": "Wanted: UN secretary-general as ‘mediator-in-chief’",
-      "link": "https://www.rappler.com/plus-membership-program/wanted-united-nations-secretary-general-chief-mediator/",
-      "description": "The race for the world’s foremost diplomat shines a spotlight on the crises the global organization faces",
-      "date": "2026-09-22T01:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/unnamed-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 22",
-      "link": "https://www.philstar.com/headlines/2026/09/22/2558060/live-coverage-sara-dutertes-impeachment-trial-sept-22",
-      "description": "Follow the trial, in context and in real time.",
-      "date": "2026-09-22T00:30:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Mitsubishi to raise Ayala stake to 15% in P44.5-B deal",
       "link": "https://bworldonline.com/corporate/2026/09/22/780261/mitsubishi-to-raise-ayala-stake-to-15-in-p44-5-b-deal/",
       "description": "MITSUBISHI Corp. will increase its economic stake in Ayala Corp. to 15% from 4.7% under a P44.5-billion transaction&#8230;",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Joshua-Bingcang-300x200.jpg"
-    },
-    {
-      "title": "SC highlights importance of ‘justice zones’",
-      "link": "https://www.philstar.com/headlines/2026/09/22/2557955/sc-highlights-importance-justice-zones",
-      "description": "The Supreme Court&nbsp;yesterday emphasized the need to enhance inter-agency coordination among government bodies handling justice and law, as evidenced by its establishment of 13 out of 20 &ldquo;justice zones&rdquo; across the country in the past five years.",
-      "date": "2026-09-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
     }
   ]
 }
