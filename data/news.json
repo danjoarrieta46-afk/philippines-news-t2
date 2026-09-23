@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-23T09:40:53.886339+00:00",
+  "updated": "2026-09-23T10:10:48.293624+00:00",
   "items": [
+    {
+      "title": "[DECODED] When regulation lags, how do organizations protect their truth?",
+      "link": "https://www.rappler.com/voices/newsletters/decoded-regulation-advertising-lags-how-organizations-protect-truth/",
+      "description": "The more advertisers invest in truth, the more trust they build — not just for their respective organizations, but even for our information ecosystem",
+      "date": "2026-09-23T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/unnamed-4.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "New kids on the wellness block: Four Filipino founders bet on functional, feel-good wellness with GUTTA GLOW",
+      "link": "https://bworldonline.com/spotlight/2026/09/23/780899/new-kids-on-the-wellness-block-four-filipino-founders-bet-on-functional-feel-good-wellness-with-gutta-glow/",
+      "description": "From television and entertainment to fitness, lifestyle and real estate, four Filipino entrepreneurs are bringing their own blend&#8230;",
+      "date": "2026-09-23T09:45:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/gutta-glow-grand-launch-8-OL-300x212.jpg"
+    },
+    {
+      "title": "Kayla Sanchez skips event to get better shot at Asian Games medal",
+      "link": "https://www.rappler.com/sports/kayla-sanchez-skips-event-better-shot-asian-games-medal/",
+      "description": "Kayla Sanchez turns her focus on the women's 50m freestyle as she looks to deliver the Philippines its first swimming medal in the Asian Games since 1998",
+      "date": "2026-09-23T09:44:20+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "CICC extends Discord, Reddit compliance timelines after companies respond",
       "link": "https://www.rappler.com/technology/cicc-extends-discord-reddit-compliance-timelines/",
@@ -200,24 +227,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/hiessence-store-300x300.jpg"
     },
     {
-      "title": "FACT CHECK: Claire Castro quote on Marcos’ plans to run for VP is fake",
-      "link": "https://www.rappler.com/newsbreak/fact-check/claire-castro-fake-quote-ferdinand-marcos-jr-plan-vice-president-bid/",
-      "description": "Contrary to the claim, Palace Press Officer Claire Castro made no announcements regarding Marcos' supposed vice presidential bid in 2028",
-      "date": "2026-09-23T06:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-04.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "ShinyHunters hackers say they breached FBI, stole data on bureau employees",
-      "link": "https://www.rappler.com/technology/shinyhunters-hackers-fbi-breach-stole-employee-data/",
-      "description": "ShinyHunters says it targeted the FBI in response to a May 2026 agency announcement detailing ShinyHunters’ methods and advising targets not to pay",
-      "date": "2026-09-23T05:44:19+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Senate court rejects Cayetano bid to block impeach threshold vote",
       "link": "https://www.philstar.com/headlines/2026/09/23/2558381/senate-court-rejects-cayetano-bid-block-impeach-threshold-vote",
       "description": "Senator-judge Alan Peter Cayetano has lost his challenge to stop the body&#39;s decision on whether to lower the math needed for Sara Duterte&#39;s conviction.",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/The-Coffee-Bean-Tea-Leaf®-and-Al-Ghunaim-300x200.jpg"
-    },
-    {
-      "title": "SMC deploys P177.5M more for Bulacan airport",
-      "link": "https://bworldonline.com/corporate/2026/09/23/780535/smc-deploys-p177-5m-more-for-bulacan-airport/",
-      "description": "SAN MIGUEL Corp. (SMC) has put another P177.48 million into the Manila International Airport project in Bulakan, Bulacan,&#8230;",
-      "date": "2026-09-22T16:07:55+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/bulacan-airport-project-300x200.jpg"
     }
   ]
 }
