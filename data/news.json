@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-23T07:11:46.604115+00:00",
+  "updated": "2026-09-23T07:40:57.841884+00:00",
   "items": [
+    {
+      "title": "ADB cuts 2026 Philippine growth forecast anew",
+      "link": "https://bworldonline.com/top-stories/2026/09/23/780790/adb-cuts-2026-philippine-growth-forecast-anew/",
+      "description": "The Asian Development Bank (ADB) cut its 2026 growth forecast for the Philippines to 3.3%, amid weaker public&#8230;",
+      "date": "2026-09-23T07:35:00+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/public-market-300x186.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-23T07:23:46+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/tO83wUcckOU"
+    },
+    {
+      "title": "Trend Intel: In this economy?! Why young Filipinos choose to live alone",
+      "link": "https://www.rappler.com/voices/newsletters/trend-intel-young-filipinos-solo-living/",
+      "description": "As more Filipinos move out of their homes and live alone, content creators grab the opportunity to ease the journey and make it less lonely",
+      "date": "2026-09-23T07:20:11+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/Nerve-01-1.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Vince Dizon testifies in Zaldy Co flood control case",
+      "link": "https://www.philstar.com/headlines/2026/09/23/2558379/vince-dizon-testifies-zaldy-co-flood-control-case",
+      "description": "Department of Public Works and Highways Secretary Vince Dizon has testified before the Sandiganbayan in the case of fugitive former lawmaker Zaldy Co.",
+      "date": "2026-09-23T07:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Will PH see funding boost for early childhood care in 2027?",
       "link": "https://www.rappler.com/philippines/early-childhood-care-development-council-budget-proposal-2027/",
@@ -9,15 +45,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-23T06:45:53+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/WccOehm5dEA"
     },
     {
       "title": "Marie June Adriano gives PH another karate bronze in Asian Games",
@@ -87,15 +114,6 @@
       "link": "https://www.rappler.com/philippines/senate-court-junks-alan-cayetano-bid-stop-conviction-threshold-voting/",
       "description": "Voting 13-6-1, the Senate impeachment court rejects the point of order raised by Senator-judge Alan Peter Cayetano. The rejection means the court may proceed to act on the threshold issue.",
       "date": "2026-09-23T05:06:13+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[In This Economy] The Marcos mixtape, 54 years after martial law",
-      "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-marcos-mixtape-years-after-martial-law/",
-      "description": "54 years after Martial Law, we still have not made ourselves Marcos-proof",
-      "date": "2026-09-23T04:52:56+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -387,24 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Lionheart-300x169.jpg"
-    },
-    {
-      "title": "Arts & Culture (09/23/26)",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/09/23/780467/arts-culture-09-23-26/",
-      "description": "Discarded materials find new life in exhibit THE repoussé technique is front and center at the National Commission&#8230;",
-      "date": "2026-09-22T16:04:13+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/1-NCCA-300x200.jpg"
-    },
-    {
-      "title": "Congressman Gato of Batanes dies, 66",
-      "link": "https://www.philstar.com/headlines/2026/09/23/2558269/congressman-gato-batanes-dies-66",
-      "description": "The incumbent congressman from the lone district of Batanes died on Monday due to cardiac arrest. He was 66.",
-      "date": "2026-09-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
     }
   ]
 }
