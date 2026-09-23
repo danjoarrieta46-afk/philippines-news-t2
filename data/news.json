@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-23T07:40:57.841884+00:00",
+  "updated": "2026-09-23T08:11:32.792354+00:00",
   "items": [
+    {
+      "title": "Sara Duterte trial: Prosecution gets more viable conviction path after threshold ruling",
+      "link": "https://www.rappler.com/philippines/sara-duterte-trial-prosecution-gets-more-viable-conviction-path-threshold-ruling/",
+      "description": "There are no premature celebrations though for the prosecution, which believes securing a guilty verdict against the Vice President remains a challenging task",
+      "date": "2026-09-23T08:09:17+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/SfOJS5YJHak"
+    },
+    {
+      "title": "Philippine Senate lowers threshold for conviction in VP Duterte’s impeachment trial",
+      "link": "https://bworldonline.com/the-nation/2026/09/23/780789/philippine-senate-lowers-threshold-for-conviction-in-vp-dutertes-impeachment-trial/",
+      "description": "MANILA — The Philippine Senate, sitting as an impeachment court, on Wednesday lowered the number of votes needed&#8230;",
+      "date": "2026-09-23T08:04:23+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Senate-Impeachment-batch-300x200.jpg"
+    },
+    {
+      "title": "In the Public Square: Making sense of the BARMM elections",
+      "link": "https://www.rappler.com/philippines/elections/in-the-public-square-making-sense-barmm/",
+      "description": "What happened during the regional elections? What do the results tell us? And what happens now?",
+      "date": "2026-09-23T08:02:32+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-23T07:51:52+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/uLgwI7KRK6o"
+    },
     {
       "title": "ADB cuts 2026 Philippine growth forecast anew",
       "link": "https://bworldonline.com/top-stories/2026/09/23/780790/adb-cuts-2026-philippine-growth-forecast-anew/",
@@ -9,15 +45,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/public-market-300x186.jpg"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-23T07:23:46+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/tO83wUcckOU"
     },
     {
       "title": "Trend Intel: In this economy?! Why young Filipinos choose to live alone",
@@ -96,24 +123,6 @@
       "link": "https://www.rappler.com/philippines/obesity-undernourished-hidden-nutrition-crisis/",
       "description": "An expert points to poor lifestyle and food choices as main reasons for the growing obesity risks in the country",
       "date": "2026-09-23T05:41:14+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "FACT CHECK: Video of Marcos saying Romualdez’s arrest is ‘staged’ is AI-generated",
-      "link": "https://www.rappler.com/newsbreak/fact-check/ai-video-ferdinand-marcos-jr-martin-romualdez-arrest-staged/",
-      "description": "An AI detection tool flagged the clip's audio as 98.6% likely to be synthetic",
-      "date": "2026-09-23T05:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-03.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Senate court junks Cayetano bid to stop conviction threshold voting",
-      "link": "https://www.rappler.com/philippines/senate-court-junks-alan-cayetano-bid-stop-conviction-threshold-voting/",
-      "description": "Voting 13-6-1, the Senate impeachment court rejects the point of order raised by Senator-judge Alan Peter Cayetano. The rejection means the court may proceed to act on the threshold issue.",
-      "date": "2026-09-23T05:06:13+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Claude-Monet-300x200.jpg"
-    },
-    {
-      "title": "The need for quality work: Lionheart Farms",
-      "link": "https://bworldonline.com/opinion/2026/09/23/780516/the-need-for-quality-work-lionheart-farms/",
-      "description": "(Part 3) As Pope Leo XIV wrote in Magnifica Humanitas, “it is certainly desirable for technology to relieve&#8230;",
-      "date": "2026-09-22T16:04:31+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Lionheart-300x169.jpg"
     }
   ]
 }
