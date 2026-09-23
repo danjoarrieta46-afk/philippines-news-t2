@@ -1,14 +1,50 @@
 {
-  "updated": "2026-09-23T04:11:30.530973+00:00",
+  "updated": "2026-09-23T04:41:07.368559+00:00",
   "items": [
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-23T04:06:54+00:00",
+      "date": "2026-09-23T04:34:08+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/_NmpMWV0fnk"
+      "image": "https://www.youtube.com/embed/kqdJZtIeQJY"
+    },
+    {
+      "title": "FACT CHECK: No video of Robredo announcing presidential debate with Sara Duterte",
+      "link": "https://www.rappler.com/newsbreak/fact-check/no-video-announce-leni-robredo-presidential-debate-sara-duterte/",
+      "description": "In the original video clip featured in the post, Naga City Mayor Leni Robredo is shown giving a message for the semi-finalists of the city's Mayoral Hackathon",
+      "date": "2026-09-23T04:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-02-1.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "How Sara Duterte-linked company got millions in Davao City Hall contracts",
+      "link": "https://www.rappler.com/philippines/video-sara-duterte-company-gencorp-food-contracts-davao-city-investigation/",
+      "description": "Rappler multimedia reporter Patrick Cruz breaks down his investigative report on a company linked to Vice President Sara Duterte — from Gencorp’s government contracts and the people linked to the company, including the Dutertes, to the legal issues surrounding the deals",
+      "date": "2026-09-23T04:19:15+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/CcQSyB4t6mM"
+    },
+    {
+      "title": "UN chief calls for AI curbs and end to wars in his last assembly address",
+      "link": "https://www.rappler.com/world/global-affairs/un-chief-antonio-guterres-last-assembly-address/",
+      "description": "UN Secretary-General Antonio Guterres repeats calls for global oversight of AI risks, just as the UN's 15-member Security Council prepares to host AI leaders for a briefing on the powerful technology",
+      "date": "2026-09-23T04:17:13+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sara Duterte trial: Defense stands firm on 16-vote conviction threshold",
+      "link": "https://www.rappler.com/philippines/sara-duterte-trial-defense-stands-firm-vote-conviction-threshold/",
+      "description": "Defense lawyer Michael Poa says the 'language of the Constitution is clear' on the basis for the voting threshold in impeachment cases",
+      "date": "2026-09-23T04:11:30+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/UWVGtHmCaes"
     },
     {
       "title": "UK ready to lead global push on AI standards, Burnham tells UN",
@@ -72,15 +108,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/sYyXMyVbvuk"
-    },
-    {
-      "title": "Bus operators appeal to lift fare hike freeze as fuel prices soar",
-      "link": "https://www.rappler.com/philippines/bus-operators-fare-hike-freeze-lift-appeal/",
-      "description": "'We do not ask for charity. We ask for urgent action. We ask for a fair and sustainable fare. Act now  — before buses can no longer leave their terminals,' bus operators say",
-      "date": "2026-09-23T03:06:26+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Cambodia hosts anti-scam summit, seeking to showcase crackdown",
@@ -155,15 +182,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/PHL-EU-flag-wc-300x200.jpg"
     },
     {
-      "title": "Trump threatens to annihilate Iran as diplomats push for deal at UN",
-      "link": "https://www.rappler.com/world/us-canada/trump-threatens-annihilate-iran-diplomats-push-deal-united-nations/",
-      "description": "The ongoing conflict has implications for global oil markets and regional security, with Gulf states seeking a security framework involving Iran, amid rising energy costs and political pressures in the US",
-      "date": "2026-09-23T00:47:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/iran-president-masoud-pezeshkian-september-22-2026-reuters.jpg?resize=75%2C75&crop=352px%2C0px%2C1228px%2C1228px"
-    },
-    {
       "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 23",
       "link": "https://www.philstar.com/headlines/2026/09/23/2558357/live-coverage-sara-dutertes-impeachment-trial-sept-23",
       "description": "Follow the trial, in context and in real time.",
@@ -171,15 +189,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[Vantage Point] The P33-million question: Tracing the Duterte wealth trail",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-million-question-tracing-duterte-wealth-trail/",
-      "description": "If Sara Duterte's wealth is clean, the ledgers will logically align. If they do not, the untouchable facade will crumble under the weight of her own financial trail.",
-      "date": "2026-09-23T00:32:18+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/image-26.png?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Nov. 16-18 set as non-working days in Metro Manila for ASEAN Summit",
@@ -207,15 +216,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "If Sara Duterte co-owns Gencorp, why is her name not in SEC docs?",
-      "link": "https://www.rappler.com/philippines/why-sara-duterte-name-absent-sec-records-gencorp/",
-      "description": "Could Duterte have made an 'honest mistake' in her sworn SALN? The prosecution team refuses to believe that's what happened.",
-      "date": "2026-09-22T22:55:38+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/CcQSyB4t6mM"
     },
     {
       "title": "Australia’s P2-billion program to focus on energy, infrastructure in the Philippines",
