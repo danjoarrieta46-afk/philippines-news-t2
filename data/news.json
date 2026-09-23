@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-23T01:10:31.931545+00:00",
+  "updated": "2026-09-23T01:38:54.892723+00:00",
   "items": [
+    {
+      "title": "Fact check: Viral airport photo does not show Duterte back in Philippines",
+      "link": "https://www.philstar.com/headlines/2026/09/23/2558079/fact-check-viral-airport-photo-does-not-show-duterte-back-philippines",
+      "description": "A viral AI-generated photo falsely shows Rodrigo Duterte back in the Philippines with his family.",
+      "date": "2026-09-23T01:11:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
@@ -14,7 +23,7 @@
       "title": "Philippines, EU eye FTA signing in 2027",
       "link": "https://bworldonline.com/top-stories/2026/09/23/780526/philippines-eu-eye-fta-signing-in-2027/",
       "description": "By Beatriz Marie D. Cruz, Senior Reporter THE PHILIPPINES and the European Union (EU) have reached a “substantial&#8230;",
-      "date": "2026-09-23T00:57:46+00:00",
+      "date": "2026-09-23T00:59:46+00:00",
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/PHL-EU-flag-wc-300x200.jpg"
@@ -27,6 +36,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/iran-president-masoud-pezeshkian-september-22-2026-reuters.jpg?resize=75%2C75&crop=352px%2C0px%2C1228px%2C1228px"
+    },
+    {
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 23",
+      "link": "https://www.philstar.com/headlines/2026/09/23/2558357/live-coverage-sara-dutertes-impeachment-trial-sept-23",
+      "description": "Follow the trial, in context and in real time.",
+      "date": "2026-09-23T00:35:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "[Vantage Point] The P33-million question: Tracing the Duterte wealth trail",
@@ -50,28 +68,10 @@
       "title": "BSP may deliver final 25-bp hike as inflation, peso risks linger — ANZ",
       "link": "https://bworldonline.com/top-stories/2026/09/23/780525/bsp-may-deliver-final-25-bp-hike-as-inflation-peso-risks-linger-anz/",
       "description": "By Katherine K. Chan, Reporter THE Bangko Sentral ng Pilipinas (BSP) may end its tightening cycle with one&#8230;",
-      "date": "2026-09-23T00:00:45+00:00",
+      "date": "2026-09-23T00:10:45+00:00",
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2025/03/BSP_3821-300x200.jpg"
-    },
-    {
-      "title": "Australia’s P2-billion program to focus on energy, infrastructure in the Philippines",
-      "link": "https://bworldonline.com/top-stories/2026/09/23/780524/australias-p2-billion-program-to-focus-on-energy-infrastructure-in-the-philippines/",
-      "description": "By Justine Irish D. Tabile, Senior Reporter THE Philippines and Australia are eyeing renewable energy, carbon markets, offshore&#8230;",
-      "date": "2026-09-22T23:25:44+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Thistlethwaite-Go-300x169.jpg"
-    },
-    {
-      "title": "Philippines’ trade deficit balloons to $31.4B in first half",
-      "link": "https://bworldonline.com/top-stories/2026/09/23/780523/philippines-trade-deficit-balloons-to-31-4b-in-first-half/",
-      "description": "By Heather Caitlin P. Mañago, Researcher THE PHILIPPINES’ trade deficit widened more than initially estimated to $31.36 billion&#8230;",
-      "date": "2026-09-22T23:00:43+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/01/phl-growth-filefoto-300x169.jpg"
     },
     {
       "title": "DILG, DepEd to formalize ‘visible patrols’ in public schools",
@@ -92,10 +92,28 @@
       "image": "https://www.youtube.com/embed/CcQSyB4t6mM"
     },
     {
+      "title": "Australia’s P2-billion program to focus on energy, infrastructure in the Philippines",
+      "link": "https://bworldonline.com/top-stories/2026/09/23/780524/australias-p2-billion-program-to-focus-on-energy-infrastructure-in-the-philippines/",
+      "description": "By Justine Irish D. Tabile, Senior Reporter THE Philippines and Australia are eyeing renewable energy, carbon markets, offshore&#8230;",
+      "date": "2026-09-22T22:30:44+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Thistlethwaite-Go-300x169.jpg"
+    },
+    {
+      "title": "Philippines’ trade deficit balloons to $31.4B in first half",
+      "link": "https://bworldonline.com/top-stories/2026/09/23/780523/philippines-trade-deficit-balloons-to-31-4b-in-first-half/",
+      "description": "By Heather Caitlin P. Mañago, Researcher THE PHILIPPINES’ trade deficit widened more than initially estimated to $31.36 billion&#8230;",
+      "date": "2026-09-22T22:00:43+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/01/phl-growth-filefoto-300x169.jpg"
+    },
+    {
       "title": "Peso rebounds on hopes for US-Iran talks",
       "link": "https://bworldonline.com/banking-finance/2026/09/23/780530/peso-rebounds-on-hopes-for-us-iran-talks/",
       "description": "THE PESO regained some ground against the dollar on Tuesday on renewed hopes of a deescalation in the&#8230;",
-      "date": "2026-09-22T21:00:50+00:00",
+      "date": "2026-09-22T21:30:50+00:00",
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2024/11/Peso-currency_5052-300x200.jpg"
@@ -329,24 +347,6 @@
       "title": "Government OKs P2.48 billion project to upgrade national ID system",
       "link": "https://www.philstar.com/headlines/2026/09/23/2558282/government-oks-p248-billion-project-upgrade-national-id-system",
       "description": "The government has approved a P2.48-billion public-private partnership project to further develop and enhance the national identification system, the Philippine Statistics Authority&nbsp;said yesterday.",
-      "date": "2026-09-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "33% expect economy to improve in a year – SWS",
-      "link": "https://www.philstar.com/headlines/2026/09/23/2558289/33-expect-economy-improve-year-sws",
-      "description": "Three in every 10 Filipinos expect the Philippine economy to improve in the next 12 months, according to a new survey by Social Weather Stations.",
-      "date": "2026-09-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Philippines-EU free trade agreement seen next year",
-      "link": "https://www.philstar.com/headlines/2026/09/23/2558292/philippines-eu-free-trade-agreement-seen-next-year",
-      "description": "The Philippines and the European Union are expected to sign a free trade agreement&nbsp;next year after the conclusion of negotiations.",
       "date": "2026-09-22T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
