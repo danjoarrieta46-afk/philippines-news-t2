@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-24T03:41:17.202041+00:00",
+  "updated": "2026-09-24T04:10:54.488775+00:00",
   "items": [
+    {
+      "title": "We need an alternative to big tech platforms: Introducing, MUNI",
+      "link": "https://www.rappler.com/technology/muni-community-space-alternative-big-tech-platforms/",
+      "description": "MUNI, an online community space and network, launches on September 16, 2026. It's time for a platform where facts and trusted voices can thrive.",
+      "date": "2026-09-24T04:07:09+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/muni-teaser-version-005a-1-smaller.gif?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked into government website",
+      "link": "https://www.rappler.com/technology/australia-says-openai-agent-hacked-government-website/",
+      "description": "The breach is one of the highest-profile incidents of AI agents accessing external systems outside the United States",
+      "date": "2026-09-24T04:06:51+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Thank goodness for the storytellers — the ones who probe, question, irritate the powerful",
+      "link": "https://www.rappler.com/voices/thought-leaders/support-protect-community-journalists-storytellers/",
+      "description": "In every community, village, town and region there are natural journalists: people who observe, record, analyze, remember, and challenge.",
+      "date": "2026-09-24T04:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippines looking to raise at least P30 billion from new RTB offering",
+      "link": "https://bworldonline.com/top-stories/2026/09/24/781123/philippines-looking-to-raise-at-least-p30-billion-from-new-rtb-offering/",
+      "description": "By Aaron Michael C. Sy, Reporter  The government is looking to raise at least P30 billion from its&#8230;",
+      "date": "2026-09-24T03:58:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/06/Peso-PHL-flag-300x200.jpg"
+    },
     {
       "title": "Cavite in focus: How weak is the latest anti-political dynasty bill?",
       "link": "https://www.rappler.com/philippines/luzon/cavite-families-anti-political-dynasty-bill-weak/",
@@ -117,33 +153,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/NO-MAJORITY-BANGSAMORO-PARLIAMENT-SEP-16-2026.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "ICC convicts Central African militia leader of crimes against humanity",
-      "link": "https://www.rappler.com/world/africa/icc-convicted-african-mahamat-said-abdel-kani-found-guilty-of-crimes-humanity/",
-      "description": "ICC judge says Mahamat Said Abdel Kani and others oversaw beatings and torture of prisoners as part of a plan to target perceived Bozize supporters in the Central African Republic",
-      "date": "2026-09-24T00:21:28+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Bill for social media franchises, DICT content oversight? Not so fast",
-      "link": "https://www.rappler.com/technology/features/social-media-franchise-act-dict-content-oversight/",
-      "description": "As the government moves to rein in online platforms after deadly school shootings, HB 4786 risks giving Congress and DICT sweeping power over these",
-      "date": "2026-09-23T23:31:54+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "HIV diagnoses drop, but 128,000 Filipinos may be unaware they’re infected",
-      "link": "https://www.rappler.com/philippines/hiv-diagnoses-drop-filipinos-unaware-infected/",
-      "description": "The DOH estimates that 288,000 people in the country are living with HIV",
-      "date": "2026-09-23T23:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/HIV-epidemic-we-saw-coming-%E2%80%94-and-can-still-stop-sep-16-2026.jpg?resize=75%2C75&crop=417px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "Palace defends P58.5-B local fund against 'presidential pork' claim",
@@ -333,15 +342,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Floating_Solar_panel-300x169.jpg"
-    },
-    {
-      "title": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "link": "https://bworldonline.com/technology/2026/09/24/780864/three-out-of-four-americans-say-ai-firms-not-doing-enough-to-prevent-disaster-reuters-ipsos-poll-finds/",
-      "description": "WASHINGTON — Three-quarters of Americans, some 73%, worry that artificial intelligence (AI) companies haven’t gone far enough to&#8230;",
-      "date": "2026-09-23T16:02:36+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/09/artificial-intelligence-AI-300x200.jpg"
     },
     {
       "title": "Biz groups: Bar political families from government contracts",
