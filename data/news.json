@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T12:13:52.242980+00:00",
+  "updated": "2026-09-24T12:45:06.466090+00:00",
   "items": [
+    {
+      "title": "Tropical Storm Queenie expected to stay far from Philippine landmass",
+      "link": "https://www.rappler.com/philippines/weather/tropical-storm-queenie-update-pagasa-forecast-september-24-2026-5pm/",
+      "description": "While Tropical Storm Queenie (Surigae) won't directly affect the Philippines, its trough or extension could trigger scattered rain and thunderstorms",
+      "date": "2026-09-24T12:15:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/queenie-track-september-24-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "Eala mania builds as Asian swing starts in Singapore",
       "link": "https://bworldonline.com/sports/2026/09/24/781215/eala-mania-builds-as-asian-swing-starts-in-singapore/",
@@ -315,15 +324,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "FACT CHECK: Marcos did not say he wants another 6-year presidential term",
-      "link": "https://www.rappler.com/newsbreak/fact-check/marcos-fake-quote-six-year-extension-presidential-term/",
-      "description": "The Palace has previously debunked term extension claims, calling them ‘baseless’",
-      "date": "2026-09-24T07:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-01-2.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Cybersecurity body lifts ban on Discord",
