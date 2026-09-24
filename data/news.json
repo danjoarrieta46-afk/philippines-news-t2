@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T02:10:57.835095+00:00",
+  "updated": "2026-09-24T02:40:52.357184+00:00",
   "items": [
+    {
+      "title": "AI leaders warn UN of security risks as systems grow more powerful",
+      "link": "https://www.rappler.com/technology/ai-leaders-warn-un-general-assembly-2026-security-risks/",
+      "description": "AI leaders urge UN Security Council to unite against potential global threats posed by artificial intelligence, emphasizing the need for international cooperation and regulation.",
+      "date": "2026-09-24T02:25:14+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Discord inaccessible on Globe, DITO as CICC 24-hour warning lapses",
       "link": "https://www.rappler.com/technology/discord-inaccessible-globe-dito-september-24-2026/",
@@ -18,6 +27,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/2026-09-21T024945Z_1909362519_RC2Q8LAI9JN8_RTRMADP_3_USA-CHINA.jpg?resize=75%2C75&crop=429px%2C0px%2C1482px%2C1482px"
+    },
+    {
+      "title": "Tropical Storm Surigae enters PAR, now called 'Queenie'",
+      "link": "https://www.philstar.com/weather/2026/09/24/2558609/tropical-storm-surigae-enters-par-now-called-queenie",
+      "description": "Tropical Storm Surigae entered the Philippine area of responsibility (PAR)&nbsp;early Thursday morning, state weather bureau PAGASA said.",
+      "date": "2026-09-24T01:39:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Cybersecurity agency clarifies extension granted only to Reddit, not Discord",
@@ -155,15 +173,6 @@
       "image": ""
     },
     {
-      "title": "Absolute pardon mulled for Veloso",
-      "link": "https://www.philstar.com/headlines/2026/09/24/2558537/absolute-pardon-mulled-veloso",
-      "description": "President Marcos is considering&nbsp;granting an absolute pardon to Mary Jane Veloso, who has been detained for over a decade following her conviction in Indonesia for drug trafficking, Malaca&ntilde;ang said yesterday.",
-      "date": "2026-09-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Impeachment court lowers conviction threshold | The wRap",
       "link": "https://www.rappler.com/video/daily-wrap/september-23-2026/",
       "description": "Today’s headlines: Impeachment court, Sara Duterte, COA",
@@ -171,15 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Support pours in as Alex Eala starts Singapore Open campaign",
-      "link": "https://www.rappler.com/sports/alex-eala-fans-support-singapore-open-2026/",
-      "description": "Alex Eala is expected to draw a huge crowd in her round of 16 clash against Russia’s Tatiana Prozorova after her packed fan event at the Singapore Open",
-      "date": "2026-09-23T13:38:07+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/alex-eala-september-23-2026-2.jpg?resize=75%2C75&crop=249px%2C0px%2C728px%2C728px"
     }
   ]
 }
