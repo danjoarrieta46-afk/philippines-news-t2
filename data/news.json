@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-24T01:40:07.687365+00:00",
+  "updated": "2026-09-24T02:10:57.835095+00:00",
   "items": [
+    {
+      "title": "Discord inaccessible on Globe, DITO as CICC 24-hour warning lapses",
+      "link": "https://www.rappler.com/technology/discord-inaccessible-globe-dito-september-24-2026/",
+      "description": "Discord faces accessibility issues in the Philippines amid government threats of a ban over alleged links to youth recruitment for violence, while some networks remain unaffected",
+      "date": "2026-09-24T01:57:13+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/social-media-franchise.jpg?resize=75%2C75&crop=560px%2C0px%2C720px%2C720px"
+    },
+    {
+      "title": "US says China trade truce extended as Trump welcomes Xi",
+      "link": "https://www.rappler.com/world/us-canada/us-china-trade-truce-extended-trump-xi/",
+      "description": "US President Donald Trump welcomes Chinese President Xi Jinping for a visit aimed at addressing tensions over trade, technology, Taiwan, and Iran",
+      "date": "2026-09-24T01:53:56+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/2026-09-21T024945Z_1909362519_RC2Q8LAI9JN8_RTRMADP_3_USA-CHINA.jpg?resize=75%2C75&crop=429px%2C0px%2C1482px%2C1482px"
+    },
     {
       "title": "Cybersecurity agency clarifies extension granted only to Reddit, not Discord",
       "link": "https://www.philstar.com/headlines/2026/09/24/2558608/cybersecurity-agency-clarifies-extension-granted-only-reddit-not-discord",
@@ -162,24 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/alex-eala-september-23-2026-2.jpg?resize=75%2C75&crop=249px%2C0px%2C728px%2C728px"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-23T12:54:08+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/Fe8PNxXv5Mc"
-    },
-    {
-      "title": "A Villar split: Why is Mark Villar breaking ranks with sister Camille?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/villar-split-why-mark-breaking-ranks-camille/",
-      "description": "Unlike his sister, Senator-judge Mark Villar does not boycott the voting for the lowering of the conviction threshold in Vice President Sara Duterte's impeachment trial",
-      "date": "2026-09-23T12:52:03+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/9p5CjIQn3ek"
     }
   ]
 }
