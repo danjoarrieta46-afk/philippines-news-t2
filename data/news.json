@@ -1,12 +1,48 @@
 {
-  "updated": "2026-09-24T07:11:41.971383+00:00",
+  "updated": "2026-09-24T07:40:46.480393+00:00",
   "items": [
+    {
+      "title": "FACT CHECK: Marcos did not say he wants another 6-year presidential term",
+      "link": "https://www.rappler.com/newsbreak/fact-check/marcos-fake-quote-six-year-extension-presidential-term/",
+      "description": "The Palace has previously debunked term extension claims, calling them ‘baseless’",
+      "date": "2026-09-24T07:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-01-2.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Cybersecurity body lifts ban on Discord",
+      "link": "https://www.philstar.com/headlines/2026/09/24/2558634/cybersecurity-body-lifts-ban-discord",
+      "description": "The Cybercrime Investigation and Coordinating Center has ordered the lifting of the ban on the online platform Discord.",
+      "date": "2026-09-24T07:25:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Judge blocks Trump’s White House media ban, orders access to be restored",
       "link": "https://www.rappler.com/world/us-canada/judge-blocks-trump-white-house-media-ban-orders-access-restored/",
       "description": "US District Judge Tim Kelly orders the Trump administration to immediately return the outlets' press passes and blocked officials from enforcing the ban for 14 days",
       "date": "2026-09-24T06:53:40+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "After SC nudge, Senate to seek urgent tag for anti-dynasty bill",
+      "link": "https://www.philstar.com/headlines/2026/09/24/2558630/after-sc-nudge-senate-seek-urgent-tag-anti-dynasty-bill",
+      "description": "The Senate will ask President Ferdinand Marcos Jr. to tag the anti-political dynasty bill as urgent in the hopes of securing its passage before the end of the current session of the 20th Congress.",
+      "date": "2026-09-24T06:50:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Gov’t to continue missing sabungeros probe despite families’ noncooperation",
+      "link": "https://www.philstar.com/headlines/2026/09/24/2558625/govt-continue-missing-sabungeros-probe-despite-families-noncooperation",
+      "description": "The government will pursue the case even without the cooperation of the victims&#39; families.",
+      "date": "2026-09-24T06:41:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -133,15 +169,6 @@
       "description": "On September 17, Panama-flagged&nbsp;bulk carrier First Margaux collided with a China-registered&nbsp;fishing vessel Lu Qing Yuan Yu.",
       "date": "2026-09-24T03:39:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Cavite in focus: How weak is the latest anti-political dynasty bill?",
-      "link": "https://www.rappler.com/philippines/luzon/cavite-families-anti-political-dynasty-bill-weak/",
-      "description": "Meanwhile, a separate proposed amendment to the party list law seeks to prevent politicians like Agimat's Bryan Revilla from taking a backdoor to Congress. He belongs to Cavite's biggest dynasty.",
-      "date": "2026-09-24T03:17:40+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -374,33 +401,6 @@
       "title": "Camille urges respect for absent senators",
       "link": "https://www.philstar.com/headlines/2026/09/24/2558520/camille-urges-respect-absent-senators",
       "description": "Sen. Camille Villar teared up as she rebuked Sen. Erwin Tulfo for citing the plunder charges against their detained colleagues during a debate on the conviction threshold yesterday.",
-      "date": "2026-09-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Metrobank art awardees turn perspectives into possibilities",
-      "link": "https://www.philstar.com/headlines/2026/09/24/2558521/metrobank-art-awardees-turn-perspectives-possibilities",
-      "description": "Drawing from the world around them and their own experiences, the 2026 Metrobank Art &amp; Design Excellence grand awardees transformed themes of power, perseverance and human connection into compelling works that invite audiences to reflect, see familiar realities from different perspectives and consider new possibilities.",
-      "date": "2026-09-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘US call to quit ICC won’t affect Duterte trial’",
-      "link": "https://www.philstar.com/headlines/2026/09/24/2558524/us-call-quit-icc-wont-affect-duterte-trial",
-      "description": "US President Donald Trump&rsquo;s call for countries to leave the International Criminal Court (ICC) would not affect the ongoing trial of former president Rodrigo Duterte, who is facing crimes against humanity charges over deaths linked to his drug war, Malaca&ntilde;ang said yesterday.",
-      "date": "2026-09-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "House wraps up OP budget talks",
-      "link": "https://www.philstar.com/headlines/2026/09/24/2558528/house-wraps-op-budget-talks",
-      "description": "The House of Representatives terminated plenary deliberations yesterday on the proposed P10.16-billion budget for the Office of the President (OP) for 2027, along with those of the Presidential Communications Office , Presidential Management Staff (PMS) and the Department of Tourism (DOT).",
       "date": "2026-09-23T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
