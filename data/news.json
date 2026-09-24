@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-24T01:10:20.917626+00:00",
+  "updated": "2026-09-24T01:40:07.687365+00:00",
   "items": [
+    {
+      "title": "Cybersecurity agency clarifies extension granted only to Reddit, not Discord",
+      "link": "https://www.philstar.com/headlines/2026/09/24/2558608/cybersecurity-agency-clarifies-extension-granted-only-reddit-not-discord",
+      "description": "The Cybercrime Investigation and Coordinating Center&nbsp;clarified that the extension granted to online platform Reddit does not cover Discord, which was also directed to establish a local presence in the Philippines.",
+      "date": "2026-09-24T01:22:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "AI could harm children more than social media did, ex-Google safety chief warns",
+      "link": "https://www.rappler.com/technology/ai-harm-children-more-social-media-google-safety-chief-warns/",
+      "description": "'We find ourselves in a really terrible situation in terms of what AI is doing to kids,' says Tom Siegel, former vice president of trust and safety at Google",
+      "date": "2026-09-24T01:20:39+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/social-media-franchise.jpg?resize=75%2C75&crop=560px%2C0px%2C720px%2C720px"
+    },
     {
       "title": "IN NUMBERS: BARMM’s first elected parliament",
       "link": "https://www.rappler.com/philippines/elections/in-numbers-barmm-2026-first-elected-parliament/",
@@ -128,15 +146,6 @@
       "image": ""
     },
     {
-      "title": "COA flags OVP over relief operation discrepancies",
-      "link": "https://www.philstar.com/headlines/2026/09/24/2558542/coa-flags-ovp-over-relief-operation-discrepancies",
-      "description": "The Commission on Audit has flagged the Office of the Vice President over its inconsistencies, deviations from orders and missing or incomplete documents in relation to the OVP&rsquo;s P168 million worth of relief operations in 2025.",
-      "date": "2026-09-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Impeachment court lowers conviction threshold | The wRap",
       "link": "https://www.rappler.com/video/daily-wrap/september-23-2026/",
       "description": "Today’s headlines: Impeachment court, Sara Duterte, COA",
@@ -171,15 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/9p5CjIQn3ek"
-    },
-    {
-      "title": "PH leads ASEAN, partner navies in West Philippine Sea drills",
-      "link": "https://www.rappler.com/philippines/leads-asean-partner-navies-west-sea-drills-september-23-2026/",
-      "description": "A Chinese Navy vessel is seen close to where eight countries are sailing for the drills, but it does not respond to challenges from the Philippine Navy",
-      "date": "2026-09-23T12:14:13+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
