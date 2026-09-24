@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-24T11:10:29.874682+00:00",
+  "updated": "2026-09-24T11:40:26.521561+00:00",
   "items": [
+    {
+      "title": "San Jose del Monte: Ang bayang uhaw sa tubig",
+      "link": "https://www.rappler.com/philippines/video-san-jose-del-monte-bulacan-persistent-water-problem/",
+      "description": "Nagsimula ang problema sa tubig ng San Jose del Monte nang pumasok ang PrimeWater, na dating pag-aari ng mga Villar",
+      "date": "2026-09-24T11:32:23+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/G8qD558157w"
+    },
+    {
+      "title": "Alex Eala’s Asian Games to air on Cignal",
+      "link": "https://bworldonline.com/sports/2026/09/24/781290/alex-ealas-asian-games-to-air-on-cignal/",
+      "description": "Media and telecommunications company Cignal TV, Inc. said on Thursday that it will provide live coverage of Filipino&#8230;",
+      "date": "2026-09-24T11:22:52+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Eala-1-300x240.jpg"
+    },
+    {
+      "title": "Gilas Women miss Asian Games semis after loss to Chinese Taipei",
+      "link": "https://www.rappler.com/sports/gilas-pilipinas/asian-games-women-basketball-philippines-chinese-taipei-september-24-2026/",
+      "description": "Afril Bernardino leads all scorers, but her effort goes for naught as Gilas Women crash out of the Asian Games quarterfinals for the second time in a row",
+      "date": "2026-09-24T11:18:25+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "China’s rare earths dominance to overshadow Trump’s talks with Xi",
+      "link": "https://bworldonline.com/world/2026/09/24/781192/chinas-rare-earths-dominance-to-overshadow-trumps-talks-with-xi/",
+      "description": "THE US will remain reliant on China for rare earths well into the 2030s even as it rapidly&#8230;",
+      "date": "2026-09-24T11:17:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/05/SIGMA-LITHIUM-BRAZIL-300x200.jpg"
+    },
+    {
+      "title": "Australia says OpenAI agent hacked government website, checks for more breaches",
+      "link": "https://bworldonline.com/world/2026/09/24/781191/australia-says-openai-agent-hacked-government-website-checks-for-more-breaches/",
+      "description": "SYDNEY — Australia said on Thursday an OpenAI agent breached a government health data portal in June, gaining&#8230;",
+      "date": "2026-09-24T11:17:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/02/Hacker-cybersecurity-300x200.jpg"
+    },
+    {
+      "title": "Taiwan upgrades maritime patrol capacity for vulnerable South China Sea outpost",
+      "link": "https://bworldonline.com/world/2026/09/24/781190/taiwan-upgrades-maritime-patrol-capacity-for-vulnerable-south-china-sea-outpost/",
+      "description": "TAIPEI — Taiwan has upgraded its maritime patrol capacity around the Pratas Islands in the disputed South China&#8230;",
+      "date": "2026-09-24T11:17:25+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/12/Taiwan-2025-10-08T144207Z_1109701274_RC2L7HA2R0XF_RTRMADP_3_TAIWAN-POLITICS-300x200.jpg"
+    },
+    {
+      "title": "Turkey’s Erdogan says equal climate pace unrealistic due to financing gaps",
+      "link": "https://bworldonline.com/world/2026/09/24/781189/turkeys-erdogan-says-equal-climate-pace-unrealistic-due-to-financing-gaps/",
+      "description": "ANKARA — Turkish President Tayyip Erdogan said it was unrealistic to expect all countries to make the same&#8230;",
+      "date": "2026-09-24T11:17:11+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/06/2026-05-26T144637Z_1779304567_RC22HLAN7R15_RTRMADP_3_UN-CHINA-300x200.jpg"
+    },
     {
       "title": "For Pope Leo, the risk of an AI apocalypse is a major concern",
       "link": "https://www.rappler.com/world/global-affairs/pope-leo-xiv-risk-ai-apocalypse-major-concern/",
@@ -209,15 +272,6 @@
       "image": ""
     },
     {
-      "title": "Judge blocks Trump’s White House media ban, orders access to be restored",
-      "link": "https://www.rappler.com/world/us-canada/judge-blocks-trump-white-house-media-ban-orders-access-restored/",
-      "description": "US District Judge Tim Kelly orders the Trump administration to immediately return the outlets' press passes and blocked officials from enforcing the ban for 14 days",
-      "date": "2026-09-24T06:53:40+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "After SC nudge, Senate to seek urgent tag for anti-dynasty bill",
       "link": "https://www.philstar.com/headlines/2026/09/24/2558630/after-sc-nudge-senate-seek-urgent-tag-anti-dynasty-bill",
       "description": "The Senate will ask President Ferdinand Marcos Jr. to tag the anti-political dynasty bill as urgent in the hopes of securing its passage before the end of the current session of the 20th Congress.",
@@ -234,15 +288,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "FACT CHECK: No letter from Meta’s Zuckerberg to House lawmakers on social media safety",
-      "link": "https://www.rappler.com/newsbreak/fact-check/no-letter-meta-mark-zuckerberg-house-lawmakers-social-media-safety/",
-      "description": "No reports confirm that Zuckerberg released a letter addressed to the Philippines’ House of Representatives; House lawmakers have also not summoned Zuckerberg, according to the DICT",
-      "date": "2026-09-24T06:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-02-2.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "BLS International Builds on Trust and Customer Experience with Technology-Led Transformation in the Philippines",
@@ -360,51 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2021/11/coal-power-plant-1-300x200.jpg"
-    },
-    {
-      "title": "IFC eyes P4.4-billion investment in Mynt IPO",
-      "link": "https://bworldonline.com/corporate/2026/09/24/780983/ifc-eyes-p4-4-billion-investment-in-mynt-ipo/",
-      "description": "THE International Finance Corp. (IFC), the private-sector arm of the World Bank Group, has disclosed a planned P4.4-billion&#8230;",
-      "date": "2026-09-23T16:09:11+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/GCash-1-300x169.jpg"
-    },
-    {
-      "title": "Basic Energy breaks ground on 43.41-MW Cadiz solar project",
-      "link": "https://bworldonline.com/corporate/2026/09/24/780944/basic-energy-breaks-ground-on-43-41-mw-cadiz-solar-project/",
-      "description": "BASIC ENERGY Corp. has started development of a 43.41-megawatt (MW) solar power project in Cadiz City, Negros Occidental,&#8230;",
-      "date": "2026-09-23T16:08:39+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Basic-Energy-300x200.jpg"
-    },
-    {
-      "title": "JFC to sell 11% Highlands Coffee stake for $88M",
-      "link": "https://bworldonline.com/corporate/2026/09/24/780943/jfc-to-sell-11-highlands-coffee-stake-for-88m/",
-      "description": "JOLLIBEE Foods Corp. (JFC) is selling an 11% stake in the holding company of Highlands Coffee to Vietnamese&#8230;",
-      "date": "2026-09-23T16:07:38+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Highlands-Coffee-shop-300x200.jpg"
-    },
-    {
-      "title": "PAL to resume Manila-Dubai flights on Oct. 2",
-      "link": "https://bworldonline.com/corporate/2026/09/24/780942/pal-to-resume-manila-dubai-flights-on-oct-2/",
-      "description": "PHILIPPINE AIRLINES (PAL) will resume nonstop flights between Manila and Dubai on Oct. 2, initially operating four times&#8230;",
-      "date": "2026-09-23T16:06:37+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PAL-plane-300x200.jpg"
-    },
-    {
-      "title": "Competitive pricing keeps PHL organizations’ cybersecurity costs low",
-      "link": "https://bworldonline.com/technology/2026/09/24/780868/competitive-pricing-keeps-phl-organizations-cybersecurity-costs-low/",
-      "description": "THE AVERAGE COST of a data breach in Southeast Asia has climbed to $4.12 million, but competitive local&#8230;",
-      "date": "2026-09-23T16:05:39+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/05/Cybersecurity-wc-300x184.jpg"
     }
   ]
 }
