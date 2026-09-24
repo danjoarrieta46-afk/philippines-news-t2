@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-24T10:40:48.529571+00:00",
+  "updated": "2026-09-24T11:10:29.874682+00:00",
   "items": [
+    {
+      "title": "For Pope Leo, the risk of an AI apocalypse is a major concern",
+      "link": "https://www.rappler.com/world/global-affairs/pope-leo-xiv-risk-ai-apocalypse-major-concern/",
+      "description": "Pope Leo has raised the possible dangers of AI development frequently throughout his 16-month-old papacy and first discussed the issue publicly on his third day in office",
+      "date": "2026-09-24T11:04:02+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "At least P5-billion gap seen for free tuition in SUCs, says budget sponsor",
+      "link": "https://www.rappler.com/philippines/national-news/free-higher-education-funding-deficiencies-proposed-budget-2027/",
+      "description": "The budget shortfall may affect investments in computers, classrooms, laboratory equipment, engineering software, and research publication support, among others",
+      "date": "2026-09-24T11:00:15+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/02/anti-political-dynasty-protest-cebu-february-19-2026-001-scaled.jpg?resize=75%2C75&crop=640px%2C0px%2C1920px%2C1920px"
+    },
+    {
+      "title": "Public school operations 2027 budget to reach P61 billion",
+      "link": "https://bworldonline.com/the-nation/2026/09/24/781265/public-school-operations-2027-budget-to-reach-p61-billion/",
+      "description": "The Department of Education (DepEd) on Thursday said it earmarked P61.02 billion for direct operations funding for public&#8230;",
+      "date": "2026-09-24T10:41:40+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PHL-flag-school-300x200.jpg"
+    },
     {
       "title": "Philippines trailblazer Yulo adds Asian Games gold to Olympic success in gymnastics",
       "link": "https://bworldonline.com/sports/2026/09/24/781152/philippines-trailblazer-yulo-adds-asian-games-gold-to-olympic-success-in-gymnastics/",
@@ -227,24 +254,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/BLS-5x24-fc-OL-204x300.jpg"
     },
     {
-      "title": "Harvey Weinstein sentenced to 15 years for New York sexual assault",
-      "link": "https://www.rappler.com/entertainment/celebrities/harvey-weinstein-sentenced-new-york-sexual-assault-2026/",
-      "description": "More than 100 women, including famous actresses, have accused ex-movie mogul Harvey Weinstein of sexual misconduct",
-      "date": "2026-09-24T05:47:01+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "FACT CHECK: Duterte not back in PH; posts use AI-generated ‘airport’ photo",
-      "link": "https://www.rappler.com/newsbreak/fact-check/ai-airport-photo-philippines-rodrigo-duterte-september-2026/",
-      "description": "The viral photos of Duterte at the airport are 99% likely to be AI-generated, according to AI detection tools. Duterte is still in the custody of the ICC, where he faces charges of crimes against humanity.",
-      "date": "2026-09-24T05:41:29+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-inline-duterte-airport-photo-ai.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
       "title": "Tropical Storm Queenie enters PAR — PAGASA",
       "link": "https://www.philstar.com/weather/2026/09/24/2558618/tropical-storm-queenie-enters-par-pagasa",
       "description": "Tropical Storm Queenie&nbsp;(international name: Surigae) entered the Philippine area of responsibility Thursday morning, the state weather bureau PAGASA said.",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2025/05/Cybersecurity-wc-300x184.jpg"
-    },
-    {
-      "title": "SEC orders online lender to halt operations",
-      "link": "https://bworldonline.com/corporate/2026/09/24/780941/sec-orders-online-lender-to-halt-operations/",
-      "description": "THE Securities and Exchange Commission (SEC) has ordered CredLadder to stop its lending activities, citing findings that the&#8230;",
-      "date": "2026-09-23T16:05:36+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/concentrated-man-using-laptop-computer-phone-wc-300x200.jpg"
     }
   ]
 }
