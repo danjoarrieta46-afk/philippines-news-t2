@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T00:15:42.908246+00:00",
+  "updated": "2026-09-25T00:44:03.237854+00:00",
   "items": [
+    {
+      "title": "At UN, Netanyahu defends Israel as delegates walk out",
+      "link": "https://www.rappler.com/world/us-canada/united-nations-netanyahu-defends-israel-delegates-walk-out/",
+      "description": "The walkout underscores the competing pressures facing Israeli Prime Minister Benjamin Netanyahu, who is battling mounting criticism abroad over the Gaza war while campaigning for reelection at home",
+      "date": "2026-09-25T00:31:06+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/UN-ASSEMBLY-2026-09-24-scaled.jpg?resize=75%2C75&crop=48px%2C0px%2C1764px%2C1764px"
+    },
     {
       "title": "The risks in Marcos’ 2027 P7.2-trillion ‘people-centered’ spending bet",
       "link": "https://www.rappler.com/business/analysis-marcos-jr-trillion-peso-people-centered-national-budget-2027/",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/02/anti-political-dynasty-protest-cebu-february-19-2026-001-scaled.jpg?resize=75%2C75&crop=640px%2C0px%2C1920px%2C1920px"
-    },
-    {
-      "title": "[Pastilan] The Davao lies are having a meeting",
-      "link": "https://www.rappler.com/voices/thought-leaders/pastilan-davao-lies-having-meeting-sara-baste-duterte-gencorp/",
-      "description": "The most hilarious idea, of course, is that everybody is telling the truth simultaneously",
-      "date": "2026-09-24T10:33:35+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/i.ytimg.com/vi/CcQSyB4t6mM/hqdefault.jpg"
     }
   ]
 }
