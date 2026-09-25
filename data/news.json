@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-24T23:38:43.861449+00:00",
+  "updated": "2026-09-25T00:15:42.908246+00:00",
   "items": [
+    {
+      "title": "The risks in Marcos’ 2027 P7.2-trillion ‘people-centered’ spending bet",
+      "link": "https://www.rappler.com/business/analysis-marcos-jr-trillion-peso-people-centered-national-budget-2027/",
+      "description": "With over a third of the budget pre-committed to debt burden and mandatory local government allotments, execution is everything",
+      "date": "2026-09-25T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/01/20260108-when-debt-quietly-eats-budget.jpg?resize=75%2C75&crop=296px%2C0px%2C720px%2C720px"
+    },
     {
       "title": "DICT chief backs bill requiring legislative franchises for social media platforms",
       "link": "https://www.philstar.com/headlines/2026/09/25/2558662/dict-chief-backs-bill-requiring-legislative-franchises-social-media-platforms",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/i.ytimg.com/vi/CcQSyB4t6mM/hqdefault.jpg"
-    },
-    {
-      "title": "[Rappler Investigates] Mystery in Sara’s SALNs",
-      "link": "https://www.rappler.com/voices/newsletters/investigates-mystery-sara-duterte-saln/",
-      "description": "It's getting more interesting, isn’t it, especially from the conflict-of-interest lens?",
-      "date": "2026-09-24T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/oral-argument-duterte-impeachment-september-23-2026-002-scaled.jpg?resize=75%2C75&crop=231px%2C0px%2C1579px%2C1579px"
     }
   ]
 }
