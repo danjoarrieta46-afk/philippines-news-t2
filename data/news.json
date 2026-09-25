@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-25T10:10:48.488535+00:00",
+  "updated": "2026-09-25T10:40:57.697884+00:00",
   "items": [
+    {
+      "title": "Is Vince Dizon still in — or out — as DPWH chief?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/dpwh-secretary-vince-dizon-status-confirmation/",
+      "description": "'Ovedue na po kayo ng ilang araw,' Senator Imee Marcos tells DPWH Secretary Vince Dizon",
+      "date": "2026-09-25T10:23:20+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
     {
       "title": "Pickleball to be more competitive in PHL as younger players, more tournaments emerge, say top athletes",
       "link": "https://bworldonline.com/sports/2026/09/25/781810/pickleball-to-be-more-competitive-in-phl-as-younger-players-more-tournaments-emerge-say-top-athletes/",
@@ -9,6 +18,15 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Sarah-Jane-Lim-Narvasa-and-Leander-P.-Lazaro-300x168.png"
+    },
+    {
+      "title": "SC asked to void lowered vote threshold in Sara Duterte impeachment",
+      "link": "https://www.philstar.com/headlines/2026/09/25/2558860/sc-asked-void-lowered-vote-threshold-sara-duterte-impeachment",
+      "description": "Two petitions have been filed before the Supreme Court challenging&nbsp;the lowered voting threshold approved by the Senate impeachment court to convict Vice President Sara Duterte.",
+      "date": "2026-09-25T09:52:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Carlos Yulo falls short of parallel bars medal, concludes stellar Asian Games",
@@ -180,15 +198,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/Villar-Padilla-FC-Screenshot-of-False-Post.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "PAL to launch nonstop Manila flights to Delhi, Mumbai in December 2026",
-      "link": "https://www.rappler.com/business/philippine-airlines-manila-india-delhi-mumbai-flights-december-2026/",
-      "description": "Delhi is India’s capital and a gateway to northern India, while Mumbai is the country’s financial and commercial center",
-      "date": "2026-09-25T06:16:44+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/01/philippine-airlines-a350-1000-takeoff-1.png?resize=75%2C75&crop=0px%2C0px%2C800px%2C800px"
     },
     {
       "title": "Philippine home prices post slowest ever growth in Q2 2026— BSP",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/AirAsia-300x199.jpg"
-    },
-    {
-      "title": "House wraps up budget talks on more agencies",
-      "link": "https://www.philstar.com/headlines/2026/09/25/2558773/house-wraps-budget-talks-more-agencies",
-      "description": "Budget deliberations for fiscal year 2027 of at least seven more agencies have been terminated by the House of Representatives, which is expected to finish such hearings this week before the General Appropriations Bill is approved on second reading early next month.",
-      "date": "2026-09-24T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
     }
   ]
 }
