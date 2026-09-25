@@ -1,6 +1,33 @@
 {
-  "updated": "2026-09-25T05:10:10.496435+00:00",
+  "updated": "2026-09-25T05:40:53.259091+00:00",
   "items": [
+    {
+      "title": "Allies unite behind Saudi Arabia as Houthis step up attacks",
+      "link": "https://www.rappler.com/world/middle-east/allies-unite-behind-saudi-arabia-houthis-attacks/",
+      "description": "The Houthis launch strikes on the Saudi-backed government in Yemen and repeatedly fire into Saudi Arabia, disrupting oil flows from the world’s largest energy exporter, as part of a wider Middle East war",
+      "date": "2026-09-25T05:27:40+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/03/photo_2026-03-28-17.08.44.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Speakers for Social Good Summit 2026: UN AI panel members, Yuval Noah Harari, and more",
+      "link": "https://www.rappler.com/moveph/social-good-summit-2026-program-speakers-masterclasses/",
+      "description": "Expect high-level discussions, and expert perspectives on what humanity can do about the breakneck speed of AI development at Rappler's biggest fundraising event",
+      "date": "2026-09-25T05:24:29+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/SGS2026-masterclass-promos-GFX-1.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "FACT CHECK: Chief Justice Gesmundo did not approve 13-vote threshold for VP Sara’s conviction",
+      "link": "https://www.rappler.com/newsbreak/fact-check/chief-justice-not-approve-13-vote-threshold-sara-duterte-conviction/",
+      "description": "The Senate impeachment court recently voted to change how the threshold is calculated, not the Supreme Court or the Chief Justice",
+      "date": "2026-09-25T05:13:18+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/Voting-Threshold-FC-Screenshot-of-False-Post.jpg?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "ITCZ brings rain over Mindanao amid Tropical Storm Surigae",
       "link": "https://bworldonline.com/the-nation/2026/09/25/781648/itcz-brings-rain-over-mindanao-amid-tropical-storm-surigae/",
@@ -171,15 +198,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/UN-ASSEMBLY-2026-09-24-scaled.jpg?resize=75%2C75&crop=48px%2C0px%2C1764px%2C1764px"
-    },
-    {
-      "title": "The risks in Marcos’ 2027 P7.2-trillion ‘people-centered’ spending bet",
-      "link": "https://www.rappler.com/business/analysis-marcos-jr-trillion-peso-people-centered-national-budget-2027/",
-      "description": "With over a third of the budget pre-committed to debt burden and mandatory local government allotments, execution is everything",
-      "date": "2026-09-25T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/01/20260108-when-debt-quietly-eats-budget.jpg?resize=75%2C75&crop=296px%2C0px%2C720px%2C720px"
     },
     {
       "title": "DICT chief backs bill requiring legislative franchises for social media platforms",
@@ -387,24 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2022/10/peso-dollar-currency-300x200.jpg"
-    },
-    {
-      "title": "Alex Eala suffers surprise Singapore Open exit as world No. 180 Russian scores shocker",
-      "link": "https://www.rappler.com/sports/tennis-alex-eala-tatiana-prozorova-singapore-open-september-24-2026/",
-      "description": "The defeat marks the first time Alex Eala, currently the world No. 18, loses to a player ranked outside the top 100 since she broke into the top 50",
-      "date": "2026-09-24T15:02:23+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Carlos Yulo wins Philippines’ first gold at Asian Games 2026 | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-24-2026/",
-      "description": "Today’s headlines: Carlos Yulo, Alex Eala, Discord",
-      "date": "2026-09-24T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
