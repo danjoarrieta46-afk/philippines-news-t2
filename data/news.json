@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-26T04:11:03.245300+00:00",
+  "updated": "2026-09-26T04:40:37.438841+00:00",
   "items": [
+    {
+      "title": "OpenAI works to understand full scope of agent activity as user data leak emerges",
+      "link": "https://www.rappler.com/technology/openai-works-understand-full-scope-agent-activity-user-data-leak/",
+      "description": "OpenAI grapples with rogue agent incidents as privacy risks mount, revealing challenges in controlling AI behavior and prompting calls for industry caution.",
+      "date": "2026-09-26T04:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "It’s an ADMM-Plus joint sail, but where were the Southeast Asians?",
       "link": "https://www.rappler.com/newsbreak/inside-track/asean-defense-ministers-plus-joint-sail-west-philippine-sea/",
@@ -16,6 +25,15 @@
       "description": "OpenAI's AI systems tapped into US government data, prompting a review of model activity and potential impacts, as reported by Bloomberg News.",
       "date": "2026-09-26T03:58:41+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "P60 wage hike for Metro Manila minimum wage earners takes effect",
+      "link": "https://www.philstar.com/headlines/2026/09/26/2559067/p60-wage-hike-metro-manila-minimum-wage-earners-takes-effect",
+      "description": "Minimum wage earners in Metro Manila will get a P60 daily wage increase starting Saturday, September 26, under a new wage order issued by the Department of Labor and Employment.",
+      "date": "2026-09-26T03:46:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -162,24 +180,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "VP Sara-Robin ahead of Leni-Bam in hypothetical matchup",
-      "link": "https://www.philstar.com/headlines/2026/09/26/2558954/vp-sara-robin-ahead-leni-bam-hypothetical-matchup",
-      "description": "A new survey by the OCTA Research group showed that more Filipinos prefer the hypothetical tandem of Vice President Sara Duterte and Sen. Robin Padilla, than Naga City Mayor Leni Robredo and Sen. Bam Aquino, in the upcoming 2028 national elections.",
-      "date": "2026-09-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rappler Talk: Mary Jane Veloso, a free woman",
-      "link": "https://www.rappler.com/philippines/overseas-filipinos/interview-mary-jane-veloso-pardon-freedom-september-2026/",
-      "description": "EXCLUSIVE: Rappler speaks to former overseas Filipino worker Mary Jane Veloso as she is finally granted freedom after 16 years",
-      "date": "2026-09-25T15:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/MARY-JANE-VELOSO-TIMELINE-SEP-28-2026.jpg?resize=75%2C75&crop=357px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "Pickleball to be more competitive in PHL as younger players, more tournaments emerge, say top athletes",
