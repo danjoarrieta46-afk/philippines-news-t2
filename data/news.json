@@ -1,12 +1,39 @@
 {
-  "updated": "2026-09-26T03:40:37.016204+00:00",
+  "updated": "2026-09-26T04:11:03.245300+00:00",
   "items": [
+    {
+      "title": "It’s an ADMM-Plus joint sail, but where were the Southeast Asians?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/asean-defense-ministers-plus-joint-sail-west-philippine-sea/",
+      "description": "In an Philippine and Japan-hosted and ASEAN-led joint sail, most Southeast Asian navies were absent. So was China.",
+      "date": "2026-09-26T04:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/oc15oWcPKM8"
+    },
+    {
+      "title": "OpenAI’s models accessed public US Census, SEC data, Bloomberg News reports",
+      "link": "https://www.rappler.com/technology/openai-models-accessed-public-us-census-sec-data/",
+      "description": "OpenAI's AI systems tapped into US government data, prompting a review of model activity and potential impacts, as reported by Bloomberg News.",
+      "date": "2026-09-26T03:58:41+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Sara Duterte denies ex-Velasco aide’s claim he delivered over P2 billion to her",
       "link": "https://www.philstar.com/headlines/2026/09/26/2559064/sara-duterte-denies-ex-velasco-aides-claim-he-delivered-over-p2-billion-her",
       "description": "Vice President Sara Duterte denied knowing Police Corporal Rodulfo Gracioso Jr. and receiving money from him, after the former security aide of ex-House Speaker Lord Allan Velasco alleged that he delivered more than P2 billion in cash to her.",
       "date": "2026-09-26T03:09:00+00:00",
       "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The role of the news media in fighting the climate crisis",
+      "link": "https://www.rappler.com/voices/thought-leaders/news-media-role-fighting-climate-crisis/",
+      "description": "By dismissing the narrative that people don’t care, and identifying what’s needed to urgently solve the problem, news outlets join with their audiences to solve the most urgent issue of our lives",
+      "date": "2026-09-26T03:00:00+00:00",
+      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -153,33 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/MARY-JANE-VELOSO-TIMELINE-SEP-28-2026.jpg?resize=75%2C75&crop=357px%2C0px%2C1080px%2C1080px"
-    },
-    {
-      "title": "Jericho Francisco finds joy beyond skateboarding medals at Asian Games",
-      "link": "https://www.rappler.com/sports/jericho-francisco-finds-joy-beyond-skateboarding-medal-asian-games-2026/",
-      "description": "For Filipino skateboarder Jericho Francisco, simply enjoying the experience and competing without pressure is enough, even after finishing fourth in the men’s park final at the 2026 Asian Games",
-      "date": "2026-09-25T14:25:42+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/12/jericho-francisco-december-13-2025.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Mary Jane Veloso walks free after pardon | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-25-2026/",
-      "description": "Today’s headlines: Mary Jane Veloso, West Ph Sea, Carlos Yulo",
-      "date": "2026-09-25T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DPWH projects flagged by Gatchalian in 2027 proposed budget",
-      "link": "https://www.rappler.com/philippines/dpwh-projects-flagged-win-gatchalian-2027-proposed-budget/",
-      "description": "Senator Win Gatchalian spots projects without station limits or bridge IDs, duplicated projects, and projects without coordinates in the proposed 2027 budget of the Department of Public Works and Highways",
-      "date": "2026-09-25T13:13:55+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Pickleball to be more competitive in PHL as younger players, more tournaments emerge, say top athletes",
