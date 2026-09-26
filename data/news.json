@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-26T10:39:34.761706+00:00",
+  "updated": "2026-09-26T11:10:02.004476+00:00",
   "items": [
+    {
+      "title": "At long last, Mary Jane Veloso back home in Nueva Ecija",
+      "link": "https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-arrival-home-nueva-ecija/",
+      "description": "The moment that Mary Jane Veloso says she has fervently prayed for finally comes, following 16 long years of imprisonment",
+      "date": "2026-09-26T10:52:36+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/mary-jane-veloso-release-presser-september-25-2026-002-scaled.jpg?resize=75%2C75&crop=0px%2C0px%2C1708px%2C1708px"
+    },
     {
       "title": "At Eurovision Asia, Carmelle steps onto her biggest stage yet",
       "link": "https://www.rappler.com/people/artists/carmelle-collado-eurovision-asia-2026/",
@@ -99,15 +108,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/oc15oWcPKM8"
-    },
-    {
-      "title": "OpenAI’s models accessed public US Census, SEC data, Bloomberg News reports",
-      "link": "https://www.rappler.com/technology/openai-models-accessed-public-us-census-sec-data/",
-      "description": "OpenAI's AI systems tapped into US government data, prompting a review of model activity and potential impacts, as reported by Bloomberg News.",
-      "date": "2026-09-26T03:58:41+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "P60 wage hike for Metro Manila minimum wage earners takes effect",
