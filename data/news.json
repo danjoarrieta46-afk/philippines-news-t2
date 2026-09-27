@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-27T02:10:32.490925+00:00",
+  "updated": "2026-09-27T02:41:03.107763+00:00",
   "items": [
+    {
+      "title": "At UN, Russia and Germany’s top diplomats hold first talks since 2022",
+      "link": "https://www.rappler.com/world/europe/united-nations-talks-russia-germany-ukraine-war/",
+      "description": "A source claims German Foreign Minister Johann Wadephul used the talks to urge Russian Foreign Minister Sergey Lavrov to do 'everything possible to reach an agreement on grain exports via the Black Sea'",
+      "date": "2026-09-27T02:20:21+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
+      "link": "https://www.rappler.com/world/middle-east/us-iran-peace-talks-updates-september-27-2026/",
+      "description": "'Only a negotiated solution can get them out of this deadlock,' Iranian Foreign Minister Abbas Araqchi says",
+      "date": "2026-09-27T02:13:33+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "‘3-in-1 teachers’: 2-day wellness break not enough to unplug",
       "link": "https://www.rappler.com/people/human-interest/teachers-wellness-break-not-enough-unplug/",
@@ -18,6 +36,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/bi9NrrkaOw8"
+    },
+    {
+      "title": "‘Queenie’ strengthens as it nears PAR exit",
+      "link": "https://www.philstar.com/weather/2026/09/27/2559268/queenie-strengthens-it-nears-par-exit",
+      "description": "Typhoon Queenie (international name: Surigae) slightly intensified as it accelerated north-northeastward, state weather bureau PAGASA said Sunday.",
+      "date": "2026-09-27T01:45:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Why devotees keep returning to Laguna’s centuries-old Turumba",
@@ -128,15 +155,6 @@
       "image": ""
     },
     {
-      "title": "House ends plenary debates on 2027 budget",
-      "link": "https://www.philstar.com/headlines/2026/09/27/2559222/house-ends-plenary-debates-2027-budget",
-      "description": "The House of Representatives has concluded its debates on the proposed P7.2 trillion national budget for2027, likely clearing the way for its passage on second reading early next month.",
-      "date": "2026-09-26T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "At long last, Mary Jane Veloso back home in Nueva Ecija",
       "link": "https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-arrival-home-nueva-ecija/",
       "description": "The moment that Mary Jane Veloso says she has fervently prayed for finally comes, following 16 long years of imprisonment",
@@ -159,24 +177,6 @@
       "link": "https://www.rappler.com/sports/asian-games-weightlifting-albert-ian-delos-santos-bronze-september-26-2026/",
       "description": "Filipino weightlifter Albert Ian delos Santos shatters his junior world and junior continental records on the way to an Asian Games bronze medal",
       "date": "2026-09-26T08:49:28+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "TikTok reaches first state settlement in US over teen safety claims, agrees to user limits",
-      "link": "https://www.rappler.com/technology/tiktok-first-state-settlement-teen-safety-claims-user-limits-us/",
-      "description": "Alabama secures $100 million settlement with TikTok, mandating new usage limits and age-verification measures to protect teens, as the state claims the platform endangers youth and misleads consumers about safety",
-      "date": "2026-09-26T07:32:56+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Chris Gavina leaves UE, Paolo Hubalde takes over head coaching post",
-      "link": "https://www.rappler.com/sports/uaap/ue-red-warriors-chris-gavina-leaves-paolo-hubalde-new-coach/",
-      "description": "The coaching change comes as the UE Red Warriors battle through a 22-game losing streak dating back to October 2024",
-      "date": "2026-09-26T07:17:18+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
