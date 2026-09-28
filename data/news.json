@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-28T02:10:53.105488+00:00",
+  "updated": "2026-09-28T02:42:29.091258+00:00",
   "items": [
+    {
+      "title": "Here’s your guide to fare hikes for jeepneys, buses and other public utility vehicles",
+      "link": "https://www.rappler.com/philippines/fare-hikes-guide-jeepney-bus-taxi-uv-express-september-28-2026/",
+      "description": "The fare increases were originally set in March but were suspended by President Ferdinand Marcos Jr. amid the conflict in the Middle East, which drove up global oil prices",
+      "date": "2026-09-28T02:38:43+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/Public-Utility-Jeepney-Fare-Guide-September-2026.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-28T02:36:25+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/05EKSOif0fo"
+    },
+    {
+      "title": "Mary Jane Veloso’s case: From death row to freedom",
+      "link": "https://www.rappler.com/philippines/overseas-filipinos/mary-jane-veloso-case-death-row-freedom/",
+      "description": "Justice reporter Jairo Bolledo lays out the timeline of events surrounding Veloso's case",
+      "date": "2026-09-28T02:25:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/etBfzqVxx2Q"
+    },
+    {
+      "title": "ITCZ brings rain in Visayas, Mindanao amid Typhoon Surigae",
+      "link": "https://bworldonline.com/the-nation/2026/09/28/782472/itcz-brings-rain-in-visayas-mindanao-amid-typhoon-surigae/",
+      "description": "Thunderstorms are expected in Visayas, Northern Mindanao, and four other areas due to the Intertropical Convergence Zone (ITCZ),&#8230;",
+      "date": "2026-09-28T02:22:47+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-28-300x169.jpg"
+    },
     {
       "title": "IMF warns Philippines against suspending excise tax on gasoline",
       "link": "https://bworldonline.com/top-stories/2026/09/28/782459/imf-warns-philippines-against-suspending-excise-tax-on-gasoline/",
@@ -335,15 +371,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2023/05/Peso-currency-300x200.jpg"
     },
     {
-      "title": "BusinessWorld marks 39 years with Part 2 of Anniversary Report",
-      "link": "https://bworldonline.com/top-stories/2026/09/27/782210/businessworld-marks-39-years-with-part-2-of-anniversary-report/",
-      "description": "BUSINESSWORLD marks its 39th anniversary with Part 2 of its Anniversary Report (S4-S9), tracing the newspaper’s evolution through&#8230;",
-      "date": "2026-09-27T15:51:26+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/bworld-newspaper-300x200.jpg"
-    },
-    {
       "title": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
       "link": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/",
       "description": "The Visayas, Zamboanga Peninsula, Northern Mindanao, Caraga, Lanao del Sur, and Basilan have scattered rain and thunderstorms due to the intertropical convergence zone",
@@ -378,33 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Sibol nails maiden Asian Games esports medal with Pokemon Unite bronze",
-      "link": "https://www.rappler.com/sports/asian-games-esports-sibol-pokemon-unite-bronze-september-27-2026/",
-      "description": "The Sibol Pokemon Unite team of Lance David, Ducke Harnold Leoncio, Lawrence Anthony Gatmaitan, Kim Rey Salazar, Robert Jon Mempin, and Michael Vaughn Ocio earn the Philippines' first-ever esports medal in the Asian Games",
-      "date": "2026-09-27T11:40:18+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "LIST: October 2026 special non-working days in PH provinces, cities, towns",
-      "link": "https://www.rappler.com/philippines/special-non-working-days-proclamations-provinces-cities-municipalities-october-2026/",
-      "description": "Here are the October 2026 special non-working days in various localities, as proclaimed by the President",
-      "date": "2026-09-27T10:43:56+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Inside the Newsroom] Rappler was built for stories like Mary Jane Veloso’s",
-      "link": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-covering-mary-jane-veloso/",
-      "description": "Our work will only make a difference if we don’t treat stories as one-offs that we abandon once a new viral obsession grips the country",
-      "date": "2026-09-27T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/008F2BC1623C42B59650AF75FADD1312/h_51825106-2.jpg?resize=640%2C441&zoom=1"
     }
   ]
 }
