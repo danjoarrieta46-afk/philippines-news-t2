@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T23:38:45.649947+00:00",
+  "updated": "2026-09-28T00:16:42.826217+00:00",
   "items": [
+    {
+      "title": "Iran’s army voices readiness for potential renewed US attack",
+      "link": "https://www.rappler.com/world/middle-east/iran-army-readiness-potential-renewed-us-attack/",
+      "description": "'If Iran cannot trade, if Iran cannot live, no one will be able to trade or live. The Strait of Hormuz is the strait of our dignity and honor, and it will not be allowed for the country's enemies to use this major logistical chokepoint while the Iranian people are deprived,' says Iranian army commander-in-chief Amir Hatami",
+      "date": "2026-09-28T00:13:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "The stories that shaped us: Rappler opens the Newsbreak Archives",
       "link": "https://www.rappler.com/plus-membership-program/stories-shaped-rappler-opens-newsbreak-archives/",
@@ -152,7 +161,7 @@
       "date": "2026-09-27T16:02:05+00:00",
       "source": "BusinessWorld",
       "category": "business",
-      "image": ""
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PCO-OL-173x300.jpg"
     },
     {
       "title": "Companies need to focus on key tech foundations for dodern, resilient  AI factories as AI usage grows – Trends, Cisco",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/bicol-film-2-Dance-of-the-Pigeons-2026.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Asian Games organizer says sorry for logistical headaches",
-      "link": "https://www.rappler.com/sports/asian-games-organizer-says-sorry-logistical-headaches/",
-      "description": "The unexpected surge of late entries has strained accommodation and transport networks in the Asian Games, prompting complaints from athletes and team officials over cramped rooms, small beds, and travel delays",
-      "date": "2026-09-27T07:01:15+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
