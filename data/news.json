@@ -1,14 +1,41 @@
 {
-  "updated": "2026-09-28T04:11:43.541502+00:00",
+  "updated": "2026-09-28T04:44:19.648734+00:00",
   "items": [
+    {
+      "title": "Drivers, transport operators begin 3-day strike over fuel price hikes",
+      "link": "https://www.philstar.com/nation/2026/09/28/2559508/drivers-transport-operators-begin-3-day-strike-over-fuel-price-hikes",
+      "description": "MANIBELA began a three-day transport strike on Monday, September 28, to protest rising fuel prices.",
+      "date": "2026-09-28T04:25:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Cedric Lee, Deniece Cornejo release pending court clearances",
+      "link": "https://www.philstar.com/headlines/2026/09/28/2559513/cedric-lee-deniece-cornejo-release-pending-court-clearances",
+      "description": "BuCor is checking a separate sentence and awaiting court records before their release.",
+      "date": "2026-09-28T04:19:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-28T04:07:29+00:00",
+      "date": "2026-09-28T04:17:11+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/FVvyfGBHjWo"
+    },
+    {
+      "title": "Nakakaantok? Benny Abante caught dozing off during VP Sara Duterte’s trial",
+      "link": "https://www.rappler.com/newsbreak/inside-track/benny-abante-caught-dozing-off-sara-duterte-impeachment-trial/",
+      "description": "'Nakakaantok 'yung mga tanong ng defense lawyers e kaya medyo nakatulog ako,' Abante quips after the rather embarrassing callout from the presiding officer",
+      "date": "2026-09-28T04:14:49+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/6L6Iw4lB1iw"
     },
     {
       "title": "Securing the foundations of a digital economy",
@@ -362,24 +389,6 @@
       "image": ""
     },
     {
-      "title": "Chiz clears VP’s AMLC records for impeachment use",
-      "link": "https://www.philstar.com/headlines/2026/09/28/2559394/chiz-clears-vps-amlc-records-impeachment-use",
-      "description": "Financial documents from the Anti-Money Laundering Council (AMLC) can now be used as evidence in the ongoing impeachment trial of Vice President Sara Duterte, following clearance from presiding officer Francis Escudero.",
-      "date": "2026-09-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "No rebranding, hiding system loss charge, Tulfo vows",
-      "link": "https://www.philstar.com/headlines/2026/09/28/2559396/no-rebranding-hiding-system-loss-charge-tulfo-vows",
-      "description": "Consumers will not see the controversial system loss charge simply rebranded and hidden in other sections of their monthly electricity bills as soon as a proposed legislation banning it becomes law, Sen. Erwin Tulfo assured the public yesterday.",
-      "date": "2026-09-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Philippine firms turn less pessimistic in August",
       "link": "https://bworldonline.com/top-stories/2026/09/27/782213/philippine-firms-turn-less-pessimistic-in-august/",
       "description": "By Katherine K. Chan, Reporter  PHILIPPINE BUSINESS sentiment turned less pessimistic in August, even as firms worried about&#8230;",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/09/queenie-track-september-27-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Redemption as John Cabang Tolentino hurdles to Asian Games bronze",
-      "link": "https://www.rappler.com/sports/asian-games-athletics-john-cabang-tolentino-bronze-september-27-2026/",
-      "description": "Denied a spot on the podium in the 2023 edition where he placed fourth, John Cabang Tolentino bounces back with a season-best performance as he claims the men's 110m hurdles bronze in the Asian Games",
-      "date": "2026-09-27T14:03:57+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
