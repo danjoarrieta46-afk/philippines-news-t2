@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-28T04:44:19.648734+00:00",
+  "updated": "2026-09-28T05:11:12.554526+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-09-28T05:05:02+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/uIBcFVuTFTU"
+    },
+    {
+      "title": "Baste Duterte asks impeachment court to reset trial appearance",
+      "link": "https://www.rappler.com/philippines/baste-duterte-asks-impeachment-court-reset-trial-appearance/",
+      "description": "The Davao mayor was directed to appear before the court and produce relevant records, including contracts with Gencorp",
+      "date": "2026-09-28T05:04:12+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Drivers, transport operators begin 3-day strike over fuel price hikes",
       "link": "https://www.philstar.com/nation/2026/09/28/2559508/drivers-transport-operators-begin-3-day-strike-over-fuel-price-hikes",
@@ -18,15 +36,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-28T04:17:11+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/FVvyfGBHjWo"
     },
     {
       "title": "Nakakaantok? Benny Abante caught dozing off during VP Sara Duterte’s trial",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Manila-building-skyline-300x200.jpg"
-    },
-    {
-      "title": "ITCZ affects parts of Philippines; Typhoon Queenie exits PAR",
-      "link": "https://www.rappler.com/philippines/weather/typhoon-queenie-itcz-update-pagasa-forecast-september-27-2026-8pm/",
-      "description": "The Visayas, Zamboanga Peninsula, Northern Mindanao, Caraga, Lanao del Sur, and Basilan have scattered rain and thunderstorms due to the intertropical convergence zone",
-      "date": "2026-09-27T15:15:25+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/queenie-track-september-27-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
