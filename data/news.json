@@ -1,50 +1,365 @@
 {
-  "updated": "2026-09-29T06:04:23.628693+00:00",
+  "updated": "2026-09-29T13:12:44.142478+00:00",
   "items": [
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-29T05:55:55+00:00",
+      "title": "PCG drives away Chinese vessel, 24 fishing boats near Kota Island",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783051/pcg-drives-away-chinese-vessel-24-fishing-boats-near-kota-island/",
+      "description": "By Pexcel John Bacon A FIVE-MAN Philippine Coast Guard (PCG) team drove away a Chinese maritime militia vessel&#8230;",
+      "date": "2026-09-29T13:12:05+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/kota-300x169.jpg"
+    },
+    {
+      "title": "Davao mayor says he is accountable for contracts with Sara-linked firm",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783050/davao-mayor-says-he-is-accountable-for-contracts-with-sara-linked-firm/",
+      "description": "By Francessca S. Abalos DAVAO CITY Mayor Sebastian Z. Duterte on Tuesday said he remains accountable for city&#8230;",
+      "date": "2026-09-29T13:11:19+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Sebastian-Z.-Duterte-300x200.jpg"
+    },
+    {
+      "title": "Metrobank Foundation honors 10 outstanding Filipino public servants",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783049/metrobank-foundation-honors-10-outstanding-filipino-public-servants/",
+      "description": "TEN PUBLIC SERVANTS received P1 million each at the 2026 Metrobank Foundation Outstanding Filipinos Awards on Tuesday for&#8230;",
+      "date": "2026-09-29T13:11:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PBBM-Metrobank-Awardee-300x200.jpg"
+    },
+    {
+      "title": "CoA flags DoTr spending delays",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783048/coa-flags-dotr-spending-delays/",
+      "description": "THE Department of Transportation (DoTr) had yet to pay out P58.84 billion, or nearly half of the funds&#8230;",
+      "date": "2026-09-29T13:11:09+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/12/mrt7-philstar-300x200.jpg"
+    },
+    {
+      "title": "Women-led MSMEs need support",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783047/women-led-msmes-need-support/",
+      "description": "PRESIDENT Ferdinand R. Marcos, Jr. on Tuesday called for stronger financing and digital support for women-owned micro, small&#8230;",
+      "date": "2026-09-29T13:10:34+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PBBM_ASEANWomenLeadersSummit-300x170.jpg"
+    },
+    {
+      "title": "Ex-Speaker Velasco left PHL, says BI",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783046/ex-speaker-velasco-left-phl-says-bi/",
+      "description": "THE Bureau of Immigration (BI) confirmed on Tuesday that former House Speaker Lord Allan Jay Q. Velasco is&#8230;",
+      "date": "2026-09-29T13:10:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/05/Congress-Joint-Public-Session-300x200.jpg"
+    },
+    {
+      "title": "Swift action sought on travel tax",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783045/swift-action-sought-on-travel-tax/",
+      "description": "A LAWMAKER on Tuesday called for the swift passage of a bill abolishing the travel tax, saying the&#8230;",
+      "date": "2026-09-29T13:09:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/04/arrivals-airport-immigration-300x200.jpg"
+    },
+    {
+      "title": "Revilla’s bid to inhibit justice junked",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783044/revillas-bid-to-inhibit-justice-junked/",
+      "description": "THE Sandiganbayan Third Division on Tuesday denied former Senator Ramon “Bong” B. Revilla’s second motion for inhibition against&#8230;",
+      "date": "2026-09-29T13:09:08+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/04/Sandiganbayan-300x205.jpg"
+    },
+    {
+      "title": "Bill for subsidized rental housing sponsored in plenary",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783043/bill-for-subsidized-rental-housing-sponsored-in-plenary/",
+      "description": "SENATOR Francis Joseph G. Escudero on Tuesday sponsored a measure creating a subsidized rental housing program for displaced&#8230;",
+      "date": "2026-09-29T13:08:37+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Housing-project-300x169.jpg"
+    },
+    {
+      "title": "DHSUD, shelter agencies seek P16-B funding boost amid P54-B NEP shortfall",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783042/dhsud-shelter-agencies-seek-p16-b-funding-boost-amid-p54-b-nep-shortfall/",
+      "description": "THE Department of Human Settlements and Urban Development (DHSUD) is appealing to Congress for a P16-billion budget augmentation&#8230;",
+      "date": "2026-09-29T13:07:01+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Housing-1-300x169.jpg"
+    },
+    {
+      "title": "BIR extends deadline for Registration Seal Badge display",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783041/bir-extends-deadline-for-registration-seal-badge-display/",
+      "description": "THE BUREAU of Internal Revenue (BIR) has extended the deadline for online sellers, online merchants, digital platform operators,&#8230;",
+      "date": "2026-09-29T13:06:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/03/BIR-building-300x199.jpg"
+    },
+    {
+      "title": "P5,000 allowance for government employees pushed",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783040/p5000-allowance-for-government-employees-pushed/",
+      "description": "A LAWMAKER on Tuesday said the Personnel Economic Relief Allowance (PERA) of government employees should be increased to&#8230;",
+      "date": "2026-09-29T13:06:14+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/10/DBM-facade-300x180.jpg"
+    },
+    {
+      "title": "BI arrests American sex offender in Cebu",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783038/bi-arrests-american-sex-offender-in-cebu/",
+      "description": "THE Bureau of Immigration (BI) arrested an American national in Cebu wanted by US authorities to face a&#8230;",
+      "date": "2026-09-29T13:05:50+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/09/immigration-booth-BI-FB-PAGE-300x200.jpg"
+    },
+    {
+      "title": "Filipinos in Bavaria bus accident discharged",
+      "link": "https://bworldonline.com/the-nation/2026/09/29/783037/filipinos-in-bavaria-bus-accident-discharged/",
+      "description": "FILIPINO tourists injured due to a bus accident on Germany’s A96 highway have been discharged from various hospitals&#8230;",
+      "date": "2026-09-29T13:05:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/bus-accident-300x200.jpg"
+    },
+    {
+      "title": "PDEA agents seize P20.4-M drugs in Tawi-Tawi operation",
+      "link": "https://bworldonline.com/uncategorized/2026/09/29/783118/pdea-agents-seize-p20-4-m-drugs-in-tawi-tawi-operation/",
+      "description": "COTABATO CITY — Agents of the Philippine Drug Enforcement Agency (PDEA) and police personnel seized P20.4 million worth&#8230;",
+      "date": "2026-09-29T13:04:18+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/07/crystal-meth-shabu-300x200.jpg"
+    },
+    {
+      "title": "Shares extend losses as geopolitical risks weigh",
+      "link": "https://bworldonline.com/stock-market/2026/09/29/782889/shares-extend-losses-as-geopolitical-risks-weigh/",
+      "description": "PHILIPPINE SHARES continued to decline on Tuesday as investors grew more cautious amid heightened geopolitical tensions, with higher&#8230;",
+      "date": "2026-09-29T13:00:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/09/PSE-board-300x200.jpg"
+    },
+    {
+      "title": "SRA downgrades projection for sugar output to 1.662 million MT",
+      "link": "https://bworldonline.com/economy/2026/09/29/783022/sra-downgrades-projection-for-sugar-output-to-1-662-million-mt/",
+      "description": "THE Sugar Regulatory Administration (SRA) lowered its sugar production projection for this crop year to 1.662 million metric&#8230;",
+      "date": "2026-09-29T12:47:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/09/Victorias-Milling-Company-Inc.-300x192.jpg"
+    },
+    {
+      "title": "Oil firms ordered to file cost reports every month after excise tax freeze",
+      "link": "https://bworldonline.com/economy/2026/09/29/783021/oil-firms-ordered-to-file-cost-reports-every-month-after-excise-tax-freeze/",
+      "description": "THE GOVERNMENT will require oil companies to submit monthly cost data on certain petroleum products after suspending the&#8230;",
+      "date": "2026-09-29T12:47:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/09/LPG-300x200.jpg"
+    },
+    {
+      "title": "DENR’s Cuna makes pitch to UN panel for expanded loss and damage finance",
+      "link": "https://bworldonline.com/economy/2026/09/29/783020/denrs-cuna-makes-pitch-to-un-panel-for-expanded-loss-and-damage-finance/",
+      "description": "DEPARTMENT of Environment and Natural Resources (DENR) Secretary Juan Miguel T. Cuna called for a substantial increase in&#8230;",
+      "date": "2026-09-29T12:46:47+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/NY-UNITED-NATIONS-300x169.jpg"
+    },
+    {
+      "title": "Wholesale price growth accelerates further in Aug.",
+      "link": "https://bworldonline.com/economy/2026/09/29/783019/wholesale-price-growth-accelerates-further-in-aug/",
+      "description": "PRICE GROWTH of wholesale goods accelerated to 3.5% in August, driven by increased energy costs and the follow-on&#8230;",
+      "date": "2026-09-29T12:46:26+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/10/vegetables-market-1-300x200.jpg"
+    },
+    {
+      "title": "Philippines, Canada exploring big-ticket infra collaboration",
+      "link": "https://bworldonline.com/economy/2026/09/29/782978/philippines-canada-exploring-big-ticket-infra-collaboration/",
+      "description": "THE Department of Transportation (DoTr) said it is in talks with the Canadian government for possible collaboration in&#8230;",
+      "date": "2026-09-29T12:45:52+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/06/PHL-CANADA-flags-300x169.jpg"
+    },
+    {
+      "title": "DTI, foodpanda sign MSME upskilling partnership",
+      "link": "https://bworldonline.com/economy/2026/09/29/782977/dti-foodpanda-sign-msme-upskilling-partnership/",
+      "description": "THE Department of Trade and Industry (DTI) said it signed a partnership with foodpanda Philippines involving capacity-building for&#8230;",
+      "date": "2026-09-29T12:45:27+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/07/b-foodpanda-FACEBOOK-FOODPANDAPHILIPPINES-300x200.jpg"
+    },
+    {
+      "title": "Mindanao flagged as key tobacco smuggling hub",
+      "link": "https://bworldonline.com/economy/2026/09/29/782976/mindanao-flagged-as-key-tobacco-smuggling-hub/",
+      "description": "KUALA LUMPUR — Mindanao has been identified as a key entry point for illicit tobacco from Malaysia and&#8230;",
+      "date": "2026-09-29T12:44:51+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/12/fake-cigarettes-300x200.jpg"
+    },
+    {
+      "title": "Japan researchers expect deep planting methods to help sugarcane farms withstand El Niño",
+      "link": "https://bworldonline.com/economy/2026/09/29/782975/japan-researchers-expect-deep-planting-methods-to-help-sugarcane-farms-withstand-el-nino/",
+      "description": "THE Japan International Research Center for Agricultural Sciences (JIRCAS) is promoting deep planting technology to help sugarcane farmers&#8230;",
+      "date": "2026-09-29T12:44:25+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/05/sugar-workers-300x200.jpg"
+    },
+    {
+      "title": "PHL hoping India trade deal increases market access for farm goods, auto parts",
+      "link": "https://bworldonline.com/economy/2026/09/29/782979/phl-hoping-india-trade-deal-increases-market-access-for-farm-goods-auto-parts/",
+      "description": "THE PHILIPPINES wants greater market access for its exports of agricultural and automotive parts when it embarks on&#8230;",
+      "date": "2026-09-29T12:44:01+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/03/Kinpo-Electronics-factory-workers-300x200.jpg"
+    },
+    {
+      "title": "Unmatched EJ Obiena shatters Asian Games record to defend throne",
+      "link": "https://www.rappler.com/sports/asian-games-athletics-ej-obiena-pole-vault-gold-september-29-2026/",
+      "description": "EJ Obiena delivers the Philippines' third gold medal in the 2026 Asian Games as he breaks his own record to repeat as men's pole vault champion",
+      "date": "2026-09-29T12:22:47+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "COA finds ‘unverifiable’ beneficiaries in DepEd’s SHS voucher program",
+      "link": "https://www.rappler.com/philippines/deped-senior-high-school-voucher-program-beneficiaries-coa-audit-report-2025/",
+      "description": "The dozens of unverifiable beneficiaries of the senior high school voucher program resulted in an overpayment of P938,000, according to state auditors",
+      "date": "2026-09-29T12:11:28+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Victoria Bossong claims 800m bronze in Asian Games debut",
+      "link": "https://www.rappler.com/sports/asian-games-athletics-victoria-bossong-bronze-800m-september-29-2026/",
+      "description": "The fastest in the heats, Victoria Bossong finishes third in the women's 800 final as she delivers the Philippines' second athletics medal in the 2026 Asian Games",
+      "date": "2026-09-29T11:55:40+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Jaime T. Cruz: The business partner of Sara, Baste, and Pulong Duterte",
+      "link": "https://www.rappler.com/philippines/jaime-t-cruz-business-partner-sara-baste-paolo-duterte-ties/",
+      "description": "Businessman Jaime T. Cruz also had close ties with former president Rodrigo Duterte, who once offered him the post of PhilHealth president and CEO",
+      "date": "2026-09-29T11:30:41+00:00",
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/Nt5jSb-EZ1o"
     },
     {
-      "title": "OpenAI shelves new AI model release over safety concerns",
-      "link": "https://www.rappler.com/technology/openai-shelves-new-model-astra-safety-concerns/",
-      "description": "The Wall Street Journal reports that GPT-6.1 Astra shows higher levels of deception than its predecessor in internal testing, including efforts to obfuscate its activities",
-      "date": "2026-09-29T05:30:00+00:00",
+      "title": "How often have barangay, SK elections been postponed?",
+      "link": "https://www.rappler.com/philippines/history-barangay-sangguniang-kabataan-elections-postponements/",
+      "description": "Rappler crunches the numbers and finds that both elections have been moved — either separately or jointly — at least 16 times since 1982",
+      "date": "2026-09-29T11:11:42+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "Anthropic warns AI may pose ‘existential risks to humanity’ in IPO filing",
-      "link": "https://www.rappler.com/technology/anthropic-warns-ai-pose-existential-risks-ipo-filing/",
-      "description": "Anthropic warns investors that its AI may exhibit 'self-preserving behaviors' including attempts to 'resist shutdown,' to 'conceal or manipulate information' and behavior 'resembling blackmail'",
-      "date": "2026-09-29T05:06:11+00:00",
+      "title": "Why everyone wants a piece of the Lopez group’s Energy Development Corp.",
+      "link": "https://www.rappler.com/newsbreak/inside-track/why-everyone-wants-piece-lopez-family-energy-development-corporation/",
+      "description": "The Lopez group, through First Gen, bought Energy Development Corp. from the government in 2007 and has spent the 19 years since learning how deep the asset actually goes",
+      "date": "2026-09-29T10:54:44+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/Do0Np97X8KM"
+    },
+    {
+      "title": "No more VAT on system loss in electricity bills starting October",
+      "link": "https://www.rappler.com/business/value-added-tax-system-loss-removed-electricity-bills-october-2026/",
+      "description": "While the VAT removal is still welcome relief, expect savings to be modest as the much larger underlying system loss charge is unlikely to disappear from electricity bills anytime soon",
+      "date": "2026-09-29T10:32:05+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/i.ytimg.com/vi/Pgj6yG-PRD4/hqdefault.jpg"
+    },
+    {
+      "title": "Impeachment court to prosecution: Present Sara Duterte bank records before Trillanes",
+      "link": "https://www.rappler.com/philippines/impeachment-court-prosecution-present-sara-duterte-bank-records-before-trillanes/",
+      "description": "Former senator Sonny Trillanes is among the prosecution's key witnesses in the Vice President's alleged unexplained wealth",
+      "date": "2026-09-29T10:27:56+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "[Just Saying] Refocusing the impeachment",
-      "link": "https://www.rappler.com/voices/thought-leaders/just-saying-refocusing-sara-duterte-impeachment/",
-      "description": "It is deeply frustrating to watch a vital constitutional mechanism get bogged down by what many perceive as criminal trial tactics and partisan delays",
-      "date": "2026-09-29T05:00:00+00:00",
+      "title": "[Kasalikasan] First for all the wrong reasons",
+      "link": "https://www.rappler.com/voices/newsletters/kasalikasan-philippines-most-number-killings-asia-2025/",
+      "description": "Global Witness released its annual report on the state of the world’s environmental defenders, and the Philippines again recorded the most killings in Asia for the 13th straight year, with 12 cases",
+      "date": "2026-09-29T10:00:00+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/metro-manila-haze-air-quality-september-1-2026-004-scaled.jpg?resize=75%2C75&crop=563px%2C0px%2C1707px%2C1707px"
+    },
+    {
+      "title": "New electric bill format to reflect VAT-exempt system loss charges",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559801/new-electric-bill-format-reflect-vat-exempt-system-loss-charges",
+      "description": "In the new bill format, the allowable system loss charges are separately identified and excluded from gross sales for VAT computation.",
+      "date": "2026-09-29T09:52:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
     {
-      "title": "World Bank: 4Ps a ‘far more effective’ program for reducing poverty",
-      "link": "https://www.rappler.com/business/world-bank-4ps-effective-program-reducing-poverty/",
-      "description": "Rather than being merely the ayuda program critics sometimes portray it as, the Pantawid Pamilyang Pilipino Program may actually have the 'strongest demonstrated poverty-reduction impact among major transfer programs,' according to the World Bank",
-      "date": "2026-09-29T04:37:42+00:00",
+      "title": "Baste Duterte says Sara didn’t ask to favor Gencorp, intervene in procurement",
+      "link": "https://www.rappler.com/philippines/baste-duterte-sara-not-ask-favor-gencorp-intervene-procurement-impeachment/",
+      "description": "The Davao City mayor also denies having personal knowledge of his sister's business interests",
+      "date": "2026-09-29T09:50:42+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/Y8vHCbqpKeE"
+      "image": "https://www.youtube.com/embed/6W7xhAYO0fo"
+    },
+    {
+      "title": "Lord Allan Velasco out of Philippines, BI confirms",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559798/lord-allan-velasco-out-philippines-bi-confirms",
+      "description": "No hold departure order or derogatory record prevented the ex-speaker&#39;s exit.",
+      "date": "2026-09-29T09:09:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sara Duterte trial recap, Sept. 29: Baste Duterte on the stand",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559791/sara-duterte-trial-recap-sept-29-baste-duterte-stand",
+      "description": "Davao City Mayor Baste Duterte testified at the impeachment trial of his sister, Vice President Sara Duterte, on Tuesday, September 29, saying he had no direct knowledge of the city&#39;s 19 contracts with a firm declared as a business interest in her SALN.&nbsp;",
+      "date": "2026-09-29T08:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippine Coast Guard drives off Chinese militia vessel, 24 boats near Kota Island",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559790/philippine-coast-guard-drives-chinese-militia-vessel-24-boats-near-kota-island",
+      "description": "The PCG condemned the presence of Chinese militia vessels, saying it is China&rsquo;s strategy to bolster its presence in the disputed territorial sea.",
+      "date": "2026-09-29T07:51:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sandiganbayan rejects Revilla’s 2nd motion to inhibit presiding justice",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559783/sandiganbayan-rejects-revillas-2nd-motion-inhibit-presiding-justice",
+      "description": "In a resolution dated September 24, the anti-graft court found Revilla&rsquo;s motion to be without merit, ruling that Associate Justice Karl Miranda must proceed with his judicial duty to sit and hear the case.",
+      "date": "2026-09-29T07:23:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Palestinian embassy thanks Philippines for joining UN walkout on Netanyahu",
@@ -56,130 +371,13 @@
       "image": ""
     },
     {
-      "title": "PH nails best sepak takraw finish in Asian Games with women’s double silver",
-      "link": "https://www.rappler.com/sports/asian-games-sepak-takraw-philippines-silver-women-double-september-29-2026/",
-      "description": "Jean Marie Sucalit, Abegail Sinogbuhan, and Nelly Jay Salon miss out on a sepak takraw gold in the 2026 Asian Games after a straight-sets loss to Vietnam in the women's double final",
-      "date": "2026-09-29T04:21:53+00:00",
-      "source": "Rappler",
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Sept. 29",
+      "link": "https://www.philstar.com/headlines/2026/09/29/2559752/live-coverage-sara-dutertes-impeachment-trial-sept-29",
+      "description": "Follow the trial, in context and in real time.",
+      "date": "2026-09-29T01:00:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "DA-BFAR boosts women’s livelihoods in Daram through solar salt production",
-      "link": "https://bworldonline.com/spotlight/2026/09/29/782863/da-bfar-boosts-womens-livelihoods-in-daram-through-solar-salt-production/",
-      "description": "From processing fish and squid to producing salt, women in Daram, Samar are turning the island municipality’s abundant&#8230;",
-      "date": "2026-09-29T04:00:15+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Daram-OL-300x163.jpg"
-    },
-    {
-      "title": "[Vantage Point] Philweb’s risky bet on JKS, and why it must put cards on the table",
-      "link": "https://www.rappler.com/voices/newsletters/vantage-point-philweb-risky-bet-jks-tech-solutions/",
-      "description": "Philweb’s investment in JKS rests on a valuation that raises questions",
-      "date": "2026-09-29T04:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/image-28.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "ICE detains Percy Lapid’s son in California",
-      "link": "https://www.rappler.com/philippines/overseas-filipinos/ice-detains-percy-lapid-son-california/",
-      "description": "Mark Mabasa applied for asylum before new policies targeting asylum seekers were announced, and his uncle argues that he is working honestly to support his family",
-      "date": "2026-09-29T03:31:29+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "OpenAI shelves new AI model release over safety concerns",
-      "link": "https://bworldonline.com/technology/2026/09/29/782862/openai-shelves-new-ai-model-release-over-safety-concerns/",
-      "description": "OPENAI has scrapped the release of GPT-6.1 Astra, a next-generation AI model planned for an October debut, after&#8230;",
-      "date": "2026-09-29T03:22:40+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/05/OpenAI-ChatGPT-logos-300x200.jpg"
-    },
-    {
-      "title": "UK examines foreign state involvement in suspected airbase plot, releases suspects",
-      "link": "https://www.rappler.com/world/europe/uk-investigation-foreign-state-involvement-suspected-airbase-plot/",
-      "description": "Five men, all British nationals from London in their early 20s, were detained after  a local farmer alerted police about white vans driving towards RAF Fairford, a British base housing US bombers that fly missions against Iran",
-      "date": "2026-09-29T03:20:37+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Ask the Tax Whiz] The BIR sent an audit notice. What now?",
-      "link": "https://www.rappler.com/business/ask-the-tax-whiz-bureau-internal-revenue-audit-notice-what-now/",
-      "description": "A fair audit requires cooperation from taxpayers and accountability from examiners",
-      "date": "2026-09-29T02:57:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/02/Screenshot_20260223_115051_Facebook.jpg?resize=75%2C75&crop=5px%2C0px%2C482px%2C482px"
-    },
-    {
-      "title": "Globe Telecom bets on AI for next billion-dollar business",
-      "link": "https://bworldonline.com/bloomberg/2026/09/29/782858/globe-telecom-bets-on-ai-for-next-billion-dollar-business/",
-      "description": "By Neil Jerome Morales Globe Telecom Inc. is betting the artificial intelligence boom can turn its data-center venture&#8230;",
-      "date": "2026-09-29T02:48:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/469327715-300x200.jpg"
-    },
-    {
-      "title": "MARSTEK INFINITY Solar Panel Brings Next-Generation Solar Technology to Thousands of Filipino Homes Nationwide",
-      "link": "https://bworldonline.com/spotlight/2026/09/29/782845/marstek-infinity-solar-panel-brings-next-generation-solar-technology-to-thousands-of-filipino-homes-nationwide/",
-      "description": "As renewable energy adoption continues to accelerate across the Philippines, homeowners and businesses are becoming more selective when&#8230;",
-      "date": "2026-09-29T01:27:38+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Marstek-photo-1-300x157.jpg"
-    },
-    {
-      "title": "Anthropic warns AI may pose ‘existential risks to humanity’ in IPO filing",
-      "link": "https://bworldonline.com/technology/2026/09/29/782844/anthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing/",
-      "description": "ANTHROPIC plans to caution potential investors in its IPO that advanced AI could pose &#8220;catastrophic or existential risks&#8230;",
-      "date": "2026-09-29T01:21:45+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/02/Anthropic-logo-300x169.jpg"
-    },
-    {
-      "title": "US, Iran separately talk with mediators in latest bid to end war",
-      "link": "https://bworldonline.com/world/2026/09/29/782840/us-iran-separately-talk-with-mediators-in-latest-bid-to-end-war/",
-      "description": "US and Iranian officials spoke separately with mediators on Monday as part of a renewed effort to end&#8230;",
-      "date": "2026-09-29T01:12:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/abbas-araghchi-300x200.jpg"
-    },
-    {
-      "title": "Colombia held discussions with IMF, including on securing financing, sources say",
-      "link": "https://bworldonline.com/world/2026/09/29/782837/colombia-held-discussions-with-imf-including-on-securing-financing-sources-say/",
-      "description": "BOGOTA — The Colombian government has held a series of technical advance discussions with officials from the International&#8230;",
-      "date": "2026-09-29T01:10:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/12/IMF-300x200.jpg"
-    },
-    {
-      "title": "Protesters demand Spanish government limit evictions, pensioner to return home",
-      "link": "https://bworldonline.com/world/2026/09/29/782834/protesters-demand-spanish-government-limit-evictions-pensioner-to-return-home/",
-      "description": "MADRID — The Spanish octogenarian whose eviction last week has triggered nationwide protests over Spain&#8217;s housing crisis will&#8230;",
-      "date": "2026-09-29T01:01:58+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/04/Madrid-300x200.jpg"
-    },
-    {
-      "title": "ITCZ drenches Visayas, Mindanao, Palawan — PAGASA",
-      "link": "https://bworldonline.com/the-nation/2026/09/29/782829/itcz-drenches-visayas-mindanao-palawan-pagasa/",
-      "description": "Thunderstorms are expected in Visayas, Mindanao and Palawan due to the effects of the Intertropical Convergence Zone (ITCZ),&#8230;",
-      "date": "2026-09-29T00:41:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/dost-pagasa-9-29-300x225.jpg"
     },
     {
       "title": "Election lawyer seeks TRO vs law moving barangay, SK polls to 2028",
@@ -207,204 +405,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Defense: No decision yet on questioning vote to convict",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559680/defense-no-decision-yet-questioning-vote-convict",
-      "description": "There is no final decision yet on whether the defense will file a petition before the Supreme Court questioning the Senate impeachment court&rsquo;s ruling&nbsp;to lower the number of votes needed to convict&nbsp;Vice President Sara Duterte.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Malacañang: No cover-up in Taguig ghost projects",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559682/malacaang-no-cover-taguig-ghost-projects",
-      "description": "Malaca&ntilde;ang has called for a deeper probe into alleged ghost projects in Taguig City, assuring the public that there would be no cover-up in the government&rsquo;s continuing investigation of anomalous flood-control projects.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Impeach court gives Ridon ‘stern warning’ on comments",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559686/impeach-court-gives-ridon-stern-warning-comments",
-      "description": "The Senate impeachment court has issued a stern warning to House prosecutor Bicol Saro party-list Rep. Terry Ridon over comments he made in media interviews that have been flagged for possible violation of the gag order.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "PCG challenges China ships off Mindoro, Batanes",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559694/pcg-challenges-china-ships-mindoro-batanes",
-      "description": "The Philippine Coast Guard&nbsp;has challenged a China Coast Guard&nbsp;vessel near Cabra Island in Occidental Mindoro and tracked a Chinese research ship off Batanes.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘11 contracts won by GenCorp had no public bidding’",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559722/11-contracts-won-gencorp-had-no-public-bidding",
-      "description": "The Davao City government awarded 11 of its 15 contracts to private firm GenCorp without public bidding, a procurement official revealed yesterday at the resumption of the impeachment trial of Vice President Sara Duterte.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "2 Pinoy tourists die in Bavaria bus crash",
-      "link": "https://www.philstar.com/headlines/2026/09/29/2559724/2-pinoy-tourists-die-bavaria-bus-crash",
-      "description": "Two Filipino tourists in Germany died when a bus carrying them from Milan to Munich&rsquo;s Oktoberfest beer festival overturned on a motorway on Sunday.",
-      "date": "2026-09-28T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Philippine vehicle sales slump in August amid bad weather",
-      "link": "https://bworldonline.com/top-stories/2026/09/28/782648/philippine-vehicle-sales-slump-in-august-amid-bad-weather/",
-      "description": "By Beatriz Marie D. Cruz, Senior Reporter PHILIPPINE AUTOMOTIVE SALES slumped to a four-month low in August, as&#8230;",
-      "date": "2026-09-28T15:54:45+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/road-vehicle-motorist-300x200.jpg"
-    },
-    {
-      "title": "World Bank says fiscal reforms could unlock up to 7.1% of PHL GDP",
-      "link": "https://bworldonline.com/top-stories/2026/09/28/782647/world-bank-says-fiscal-reforms-could-unlock-up-to-7-1-of-phl-gdp/",
-      "description": "By Katherine K. Chan, Reporter THE PHILIPPINES could generate savings and additional revenues equivalent to as much as&#8230;",
-      "date": "2026-09-28T15:53:44+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/building-skyline-1-300x148.jpg"
-    },
-    {
-      "title": "BIR officially suspends excise tax on LPG and kerosene",
-      "link": "https://bworldonline.com/top-stories/2026/09/28/782646/bir-officially-suspends-excise-tax-on-lpg-and-kerosene/",
-      "description": "THE BUREAU of Internal Revenue (BIR) on Monday suspended the excise tax on liquefied petroleum gas (LPG) and&#8230;",
-      "date": "2026-09-28T15:52:44+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/LPG-Kerosene-300x200.jpg"
-    },
-    {
-      "title": "Diesel prices fall by at least P7 per liter",
-      "link": "https://bworldonline.com/top-stories/2026/09/28/782645/diesel-prices-fall-by-at-least-p7-per-liter/",
-      "description": "MOTORISTS will see a fuel price rollback this week, with diesel declining by at least P7.57 per liter,&#8230;",
-      "date": "2026-09-28T15:51:43+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/gas-station-motorist-1-300x200.jpg"
-    },
-    {
-      "title": "MGEN breaks ground on 670-MW Singapore plant",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782759/mgen-breaks-ground-on-670-mw-singapore-plant/",
-      "description": "MERALCO POWERGEN Corp. (MGEN), the power generation arm of Manila Electric Co. (Meralco), has started construction of a&#8230;",
-      "date": "2026-09-28T15:50:43+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/MGEN-300x185.jpg"
-    },
-    {
-      "title": "Fuel surcharge for airlines rises to Level 17",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782707/fuel-surcharge-for-airlines-rises-to-level-17/",
-      "description": "AIRLINES may charge higher fuel surcharges from Oct. 1 to 15 after the Civil Aeronautics Board (CAB) raised&#8230;",
-      "date": "2026-09-28T15:49:25+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/01/NAIA-airport-passengers-4-300x200.jpg"
-    },
-    {
-      "title": "DigiPlus monitors Brazil after betting ban",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782705/digiplus-monitors-brazil-after-betting-ban/",
-      "description": "DIGIPLUS Interactive Corp. said it is assessing the impact of Brazil’s new ban on fixed-odds betting and online&#8230;",
-      "date": "2026-09-28T15:48:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Octavio-Frias-de-Oliveira-Bridge-300x169.jpg"
-    },
-    {
-      "title": "Globe, DITO address NTC’s P100,000 daily broadband penalty",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782704/globe-dito-address-ntcs-p100000-daily-broadband-penalty/",
-      "description": "GLOBE Telecom, Inc. pointed to a Department of Information and Communications Technology (DICT) report in response to findings&#8230;",
-      "date": "2026-09-28T15:47:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/04/telco-tower-300x200.jpg"
-    },
-    {
-      "title": "SMPC urges capability test in Semirara coal rebid",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782653/smpc-urges-capability-test-in-semirara-coal-rebid/",
-      "description": "CONSUNJI-LED Semirara Mining and Power Corp. (SMPC) is urging the government to consider technical capability and operating experience&#8230;",
-      "date": "2026-09-28T15:46:49+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/02/Dump-Trucks-300x200.jpg"
-    },
-    {
-      "title": "SEC sets structured warrant rules to expand investor choices",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782652/sec-sets-structured-warrant-rules-to-expand-investor-choices/",
-      "description": "THE Securities and Exchange Commission (SEC) has issued rules governing structured warrants, setting the framework for financial firms&#8230;",
-      "date": "2026-09-28T15:45:48+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/06/SEC-buillding-4-300x169.jpg"
-    },
-    {
-      "title": "Meralco seeks approval for P2.64-B refund",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782651/meralco-seeks-approval-for-p2-64-b-refund/",
-      "description": "MANILA Electric Co. (Meralco) is seeking regulatory approval to refund P2.64 billion in excess distribution charges to more&#8230;",
-      "date": "2026-09-28T15:44:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/04/meralco-lineman-300x200.jpg"
-    },
-    {
-      "title": "FEU completes P156-M investment in Bataan school",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782650/feu-completes-p156-m-investment-in-bataan-school/",
-      "description": "LISTED educational institution Far Eastern University, Inc. (FEU) has completed its P156-million investment in Bataan Peninsula Educational Institution,&#8230;",
-      "date": "2026-09-28T15:43:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/01/FEU-300x200.jpg"
-    },
-    {
-      "title": "Senate approves six broadcast franchises",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782654/senate-approves-six-broadcast-franchises/",
-      "description": "THE SENATE on Monday approved bills granting or renewing the franchises of six broadcasting entities operating in Luzon&#8230;",
-      "date": "2026-09-28T15:42:50+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/05/02-Senate-Hall-1024x600-1-300x176.jpg"
-    },
-    {
-      "title": "Fruitas Chairman Rogelio Guadalquiver passes away",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782649/fruitas-chairman-rogelio-guadalquiver-passes-away/",
-      "description": "FRUITAS Holdings, Inc. Chairman Rogelio M. Guadalquiver has passed away, the company said on Monday. Mr. Guadalquiver served&#8230;",
-      "date": "2026-09-28T15:41:46+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Rogelio-Guadalquiver-300x200.jpg"
-    },
-    {
-      "title": "Casino Plus broadens brand partnership to CSR programs",
-      "link": "https://bworldonline.com/corporate/2026/09/28/782811/casino-plus-broadens-brand-partnership-to-csr-programs/",
-      "description": "CASINO PLUS has expanded the scope of an existing brand partnership to include corporate social responsibility (CSR) and&#8230;",
-      "date": "2026-09-28T15:40:24+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/casino-plus-300x169.jpg"
-    },
-    {
-      "title": "Quezon, In Thy Name lead 74th FAMAS awards nominations",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/09/28/782680/quezon-in-thy-name-lead-74th-famas-awards-nominations/",
-      "description": "THE Filipino Academy of Movie Arts and Sciences (FAMAS) announced the nominees for the 74th FAMAS Awards on&#8230;",
-      "date": "2026-09-28T15:35:54+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/74th-famas-300x300.jpg"
     }
   ]
 }
