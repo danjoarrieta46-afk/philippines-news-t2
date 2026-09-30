@@ -1,21 +1,183 @@
 {
-  "updated": "2026-09-30T01:51:27.172125+00:00",
+  "updated": "2026-09-30T08:03:48.448848+00:00",
   "items": [
     {
-      "title": "China vows response if EU introduces moves targeting Chinese trade",
-      "link": "https://www.rappler.com/world/europe/china-vows-response-eu-targeting-chinese-trade/",
-      "description": "The tool amounts to a 'typical protectionist and unilateralist measure,' and will disrupt stability of China-EU trade, the Chinese commerce ministry says",
-      "date": "2026-09-30T01:44:22+00:00",
+      "title": "Supreme Court junks petitions vs adjusted impeachment voting threshold",
+      "link": "https://www.rappler.com/philippines/supreme-court-decision-dismissed-petitions-impeachment-voting-threshold/",
+      "description": "The High Court dismisses the petitions due to technicalities",
+      "date": "2026-09-30T08:01:46+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/sara-duterte-arraignment-qc-rtc-september-11-2026-003-scaled.jpg?resize=75%2C75&crop=853px%2C0px%2C1707px%2C1707px"
+    },
+    {
+      "title": "FACT CHECK: No SC order dismissing ongoing impeachment proceedings vs VP Sara",
+      "link": "https://www.rappler.com/newsbreak/fact-check/supreme-court-not-dismiss-sara-duterte-impeachment-september-2026/",
+      "description": "The Vice President’s impeachment trial is ongoing and has not been dismissed",
+      "date": "2026-09-30T08:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/fact-check-full-post-20.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Comelec building electoral sabotage case over pre-shaded ballots in Basilan",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2560017/comelec-building-electoral-sabotage-case-over-pre-shaded-ballots-basilan",
+      "description": "The Commission on Elections has identified those behind the pre-shaded ballots found in Basilan during the Bangsamoro elections, its chairperson George Garcia said Wednesday, September 30.",
+      "date": "2026-09-30T07:22:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "In the Public Square: Taking the fight to the dynasties",
+      "link": "https://www.rappler.com/philippines/in-the-public-square-taking-fight-political-dynasties/",
+      "description": "How did Philippine politics get this way? And what can be done to change it?",
+      "date": "2026-09-30T07:18:42+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "US forces exit Iraq, emboldening Iran’s proxies and Islamic State",
-      "link": "https://www.rappler.com/world/middle-east/us-forces-exit-iraq-emboldening-iran-proxies-islamic-state/",
-      "description": "The withdrawal, viewed as a victory by Iran, was agreed upon in 2024 and marks a significant moment 23 years after the US-led invasion that toppled Saddam Hussein",
-      "date": "2026-09-30T01:14:03+00:00",
+      "title": "[In This Economy] Investment options sa panahon ng mataas na inflation",
+      "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-investment-options-high-philippine-inflation-interest-rate-2026/",
+      "description": "Marami nang options ngayon sa pag-iinvest. Piliin ang produktong bagay sa goals mo at sa kung kailan mo kailangan ang pera.",
+      "date": "2026-09-30T07:13:53+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/NATIONAL-SAVINGS-2.jpg?resize=75%2C75&crop=367px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Treeless urban areas may face 50 degrees Celsius heat index as Super El Niño looms",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2560014/treeless-urban-areas-may-face-50-degrees-celsius-heat-index-super-el-nio-looms",
+      "description": "Heat index in cities and towns with limited tree cover could reach 45 to 50 degrees Celsius during Super El Ni&ntilde;o, the Climate Change Commission said.",
+      "date": "2026-09-30T07:02:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Carlo Paalam earns shot at ending PH’s 16-year wait for Asian Games boxing gold",
+      "link": "https://www.rappler.com/sports/asian-games-boxing-carlo-paalam-semifinals-september-30-2026/",
+      "description": "Cagayan de Oro pride Carlo Paalam squeaks past reigning world champion Makhmud Sabyrkhan of Kazakhstan to advance to the final of the men's 55kg division in the 2026 Asian Games",
+      "date": "2026-09-30T06:53:47+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Why was there a misunderstanding between Michael Poa and Paolo Panelo?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/misunderstanding-michael-poa-paolo-panelo-sara-duterte-lawyers/",
+      "description": "'Just to set the record straight, I didn't agree with him on anything as to lokohan (clownery) or anything like that,' Poa says",
+      "date": "2026-09-30T06:45:24+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/xQpBNPHqtfA"
+    },
+    {
+      "title": "Marcos institutionalizes DBM public funds tracker",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2560005/marcos-institutionalizes-dbm-public-funds-tracker",
+      "description": "The digital platform COMPASS, launched in late June this year, allows the public to track the movements of government funds from its approval to release, obligations incurred, and actual disbursements.",
+      "date": "2026-09-30T06:41:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Poor planning at resettlement sites pushing schools past capacity",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2560007/poor-planning-resettlement-sites-pushing-schools-past-capacity",
+      "description": "Poor planning in the government&#39;s mass resettlement program is pushing public schools past capacity, with one Cavite town needing 135 new classrooms from the surge in a single year alone.&nbsp;",
+      "date": "2026-09-30T06:23:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The Gracioso affidavit: Ex-cop claims he delivered millions to Sara Duterte",
+      "link": "https://www.rappler.com/philippines/rodulfo-gracioso-affidavit-allegations-millions-delivery-sara-duterte/",
+      "description": "'I do not know Rodulfo Gracioso Jr., nor have I ever received any money from him,' says Vice President Duterte",
+      "date": "2026-09-30T06:21:55+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/Screenshot-2026-09-30-at-9.56.04-AM.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "[Rear View] DDS senators have the numbers to acquit. Why aren’t they cheering?",
+      "link": "https://www.rappler.com/voices/thought-leaders/rear-view-duterte-allies-senate-numbers-to-acquit/",
+      "description": "The Senate minority's survival now depends on the Ombudsman, the justice department, The Hague, and the Supreme Court",
+      "date": "2026-09-30T06:20:40+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/sara-duterte-arraignment-qc-rtc-september-11-2026-003-scaled.jpg?resize=75%2C75&crop=853px%2C0px%2C1707px%2C1707px"
+    },
+    {
+      "title": "OpenAI takes on Meta with dots agent in autonomous AI push",
+      "link": "https://www.rappler.com/technology/openai-dots-agent-launch/",
+      "description": "OpenAI's dots agents aim to capitalize on growing demand for agents that can handle everyday work with little supervision",
+      "date": "2026-09-30T05:45:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Celebrating milestones with style in these event venues in Metro Manila and Palawan",
+      "link": "https://bworldonline.com/spotlight/2026/09/30/783183/celebrating-milestones-with-style-in-these-event-venues-in-metro-manila-and-palawan/",
+      "description": "An exchange of everlasting vows on a white veil occasion, a gathering of loved ones celebrating yet another&#8230;",
+      "date": "2026-09-30T05:16:41+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Astoria-1-OL-300x200.jpg"
+    },
+    {
+      "title": "NUP decries alleged withholding of infra, social aid funds, seeks quick release",
+      "link": "https://www.rappler.com/philippines/national-unity-party-decries-withheld-infrastructure-social-aid-funds-seek-release/",
+      "description": "'The practice of punishing districts and communities for any opinions or votes contrary to majority positions that are expressed by their representatives should be ended,' NUP says",
+      "date": "2026-09-30T04:54:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Dizon denies cover-up in Taguig flood control probe: 'We'll go where evidence leads us'",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2559999/dizon-denies-cover-taguig-flood-control-probe-well-go-where-evidence-leads-us",
+      "description": "Public Works Secretary Vince Dizon has vowed &quot;no cover-up&quot; in his department&#39;s probe into Taguig&rsquo;s flood control works, an attempt to clear the air after his answer at a Senate hearing was construed as a clearance for the Cayetano stronghold.&nbsp;",
+      "date": "2026-09-30T04:04:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "PISTON strike enters second day over rising fuel prices",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2559998/piston-strike-enters-second-day-over-rising-fuel-prices",
+      "description": "The transport strike by Pinagkaisang Samahan ng mga Tsuper at Operator Nationwide has proceeded for a second day on Wednesday, September 30, in protest against rising oil prices.",
+      "date": "2026-09-30T03:35:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "BSP: Inflation likely quickened in September",
+      "link": "https://bworldonline.com/top-stories/2026/09/30/783178/bsp-inflation-likely-quickened-in-september/",
+      "description": "PHILIPPINE inflation may have quickened in September as bad weather pushed up food prices, fuel costs surged and&#8230;",
+      "date": "2026-09-30T03:09:07+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/08/sari-sari-store-vendor-300x200.jpg"
+    },
+    {
+      "title": "Philippine August trade gap narrows to 15-month low",
+      "link": "https://bworldonline.com/top-stories/2026/09/30/783176/philippine-august-trade-gap-narrows-to-15-month-low/",
+      "description": "THE PHILIPPINES’ trade-in-goods deficit narrowed by 3.5% year on year to $3.85 billion in August — the smallest&#8230;",
+      "date": "2026-09-30T03:07:09+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/10/ship-port-container-300x168.jpg"
+    },
+    {
+      "title": "Prosecution legal spox Tolosa receives impeachment court warning over comments",
+      "link": "https://www.philstar.com/headlines/2026/09/30/2559802/prosecution-legal-spox-tolosa-receives-impeachment-court-warning-over-comments",
+      "description": "House prosecution legal spokesperson Benjamin Tolosa said that he also received a warning from the Senate impeachment court over comments on the case&rsquo;s merits.",
+      "date": "2026-09-30T01:32:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -63,24 +225,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-09-30T00:30:02+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/dBDYyRDK85I"
-    },
-    {
-      "title": "Should Sara Duterte be admonished for barbed remarks outside impeachment court?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-barbed-remarks-impeachment-court/",
-      "description": "After being admonished by the impeachment court, prosecutor Jay Tolosa asks senator-judges to look at Vice President Sara Duterte too: Why is she getting away with her own biting comments?",
-      "date": "2026-09-30T00:26:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/vXy9MGNceO0"
     },
     {
       "title": "Philippine government raises initial P85 billion from RTBs",
@@ -173,6 +317,15 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/RBA_HALF-NO-BG-OL-300x198.jpg"
     },
     {
+      "title": "DTI-BoI leading the charge in building the Philippine semiconductor ecosystem",
+      "link": "https://bworldonline.com/special-features/2026/09/30/783181/dti-boi-leading-the-charge-in-building-the-philippine-semiconductor-ecosystem/",
+      "description": "The role of Board of Investments, Pax Silica, and trusted partnerships in the AI era By Dr. Ceferino&#8230;",
+      "date": "2026-09-29T16:05:59+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SF_Copy-of-BOI-59-Template-OL-300x169.jpg"
+    },
+    {
       "title": "SEC orders two beauty firms to stop investment solicitation",
       "link": "https://bworldonline.com/corporate/2026/09/30/782983/sec-orders-two-beauty-firms-to-stop-investment-solicitation/",
       "description": "THE Securities and Exchange Commission (SEC) has ordered Amari Luxe Wellness OPC and CRF Beauty Within Salon and&#8230;",
@@ -209,6 +362,15 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Metro-Retail-300x169.jpg"
     },
     {
+      "title": "Following the private sector’s trail: Where Filipino companies are investing",
+      "link": "https://bworldonline.com/special-features/2026/09/30/783205/following-the-private-sectors-trail-where-filipino-companies-are-investing/",
+      "description": "A food terminal in an agricultural community, a packaging plant in Clark, a new industrial project in Mindanao,&#8230;",
+      "date": "2026-09-29T16:04:48+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/SF_man-using-laptop-emerging-graphics-OL-300x258.jpg"
+    },
+    {
       "title": "BSP to tighten further with inflation staying above target this year",
       "link": "https://bworldonline.com/banking-finance/2026/09/30/782967/bsp-to-tighten-further-with-inflation-staying-above-target-this-year/",
       "description": "THE BANGKO SENTRAL ng Pilipinas (BSP) may tighten further despite lackluster economic growth as elevated inflation and an&#8230;",
@@ -227,51 +389,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/Parthenon-Horse-750-300x200.jpg"
     },
     {
-      "title": "The need for quality work: The gig economy",
-      "link": "https://bworldonline.com/opinion/2026/09/30/782942/the-need-for-quality-work-the-gig-economy/",
-      "description": "(Part 4) In the first part of this series, we referred to the new feature of the labor&#8230;",
-      "date": "2026-09-29T16:04:15+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/asian-man-working-laptop-sitting-floor-from-300x200.jpg"
-    },
-    {
-      "title": "PHL companies told to make better use of RCEP",
-      "link": "https://bworldonline.com/corporate/2026/09/30/782981/phl-companies-told-to-make-better-use-of-rcep/",
-      "description": "PHILIPPINE COMPANIES need to make better use of the Regional Comprehensive Economic Partnership (RCEP) to expand exports and&#8230;",
-      "date": "2026-09-29T16:03:50+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Roces-300x300.jpg"
-    },
-    {
-      "title": "Peso edges lower vs dollar as US-Iran tensions remain high",
-      "link": "https://bworldonline.com/banking-finance/2026/09/30/782966/peso-edges-lower-vs-dollar-as-us-iran-tensions-remain-high/",
-      "description": "THE PESO edged down further against the dollar on Tuesday as the prolonged conflict between the United States&#8230;",
-      "date": "2026-09-29T16:03:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/03/peso-coin-currency-1-300x164.jpg"
-    },
-    {
-      "title": "Disco fever",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/09/30/782907/disco-fever/",
-      "description": "By Brontë H. Lacsamana, Reporter Theater Review Bongga Ka, ’Day!: The Annie Batungbakal Musical Presented by PETA Plus,&#8230;",
-      "date": "2026-09-29T16:03:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Bongga-Ka-Day-300x200.jpg"
-    },
-    {
-      "title": "Riding the momentum of trust: The Philippines-EU and ASEAN trade agenda",
-      "link": "https://bworldonline.com/opinion/2026/09/30/782941/riding-the-momentum-of-trust-the-philippines-eu-and-asean-trade-agenda/",
-      "description": "On Sept. 22, the Philippines and the European Union entered into a bilateral Free Trade Agreement (EU-PHL FTA).&#8230;",
-      "date": "2026-09-29T16:03:14+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/logistics-means-transport-together-with-technological-futuristic-holograms-2-300x200.jpg"
-    },
-    {
       "title": "ICC rejects Duterte camp’s request on digital evidence",
       "link": "https://www.philstar.com/headlines/2026/09/30/2559905/icc-rejects-duterte-camps-request-digital-evidence",
       "description": "Trial judges of the International Criminal Court&nbsp;have rejected the request of the defense team of former president Rodrigo Duterte to adopt a stricter protocol in verifying digital materials.",
@@ -286,123 +403,6 @@
       "description": "The Senate impeachment court yesterday denied the prosecution&rsquo;s request for admission to compel Vice President Sara Duterte to admit to some pieces of evidence, including the ownership of bank accounts, as it will be equivalent to self-incrimination.",
       "date": "2026-09-29T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DENR: Clean energy vital to national security, sovereignty",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559911/denr-clean-energy-vital-national-security-sovereignty",
-      "description": "Transitioning to renewable power is essential to protecting the Philippines against international supply shocks and geopolitical instability, the Department of Environment and Natural Resources said.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Senators to DOT: Keep ‘Love the Philippines’",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559914/senators-dot-keep-love-philippines",
-      "description": "Senators have asked the Department of Tourism to stand by its present &ldquo;Love the Philippines&rdquo; campaign so it can catch up with the gains of the previous and successful &ldquo;Wow Philippines&rdquo; and &ldquo;It&rsquo;s More Fun in the Philippines&rdquo; slogans.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Gatchalian vows to block Sandigan budget cut",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559919/gatchalian-vows-block-sandigan-budget-cut",
-      "description": "Senate President Sherwin Gatchalian has vowed to block a proposed P551-million budget cut for the Sandiganbayan, arguing that the anti-graft court needs more funding to handle a surge of high-profile cases involving lawmakers.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Authorities closing in on youth ‘groomers’",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559922/authorities-closing-youth-groomers",
-      "description": "Authorities are closing in on people allegedly grooming minors into criminal activities, Interior and Local Government Secretary Jonvic Remulla said Monday.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DOH: Leptospirosis cases up, dengue down",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559924/doh-leptospirosis-cases-up-dengue-down",
-      "description": "The number of leptospirosis cases in the country is increasing, with nearly 12,000 infections recorded this year, while dengue numbers have dropped, according to the Department of Health.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "BI, NBI confirm Velasco, wife out of Philippines",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559926/bi-nbi-confirm-velasco-wife-out-philippines",
-      "description": "Former House speaker Lord Allan Velasco boarded a flight to Japan on Aug. 30 and did not fly back to Manila on Sept. 14, his expected date of return, the Bureau of Immigration&nbsp;confirmed yesterday.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Comelec prepared to comply with SC ruling on BSKE",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2559927/comelec-prepared-comply-sc-ruling-bske",
-      "description": "The Commission on Elections&nbsp;is operationally and financially prepared to abide by any Supreme Court order pertaining to the barangay and Sangguniang Kabataan elections, following a legal challenge mounted at the SC over the weekend.",
-      "date": "2026-09-29T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Strategic procedural pause’: Impeachment court suspends September 30 trial",
-      "link": "https://www.rappler.com/philippines/national-news/impeachment-court-suspends-september-30-2026-trial/",
-      "description": "Impeachment court Reginald Tongol explains the suspension was due to the trial being 'aggressively ahead of schedule'",
-      "date": "2026-09-29T14:24:40+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Should Baste Duterte get a free pass for ‘missing’ VP Sara’s ties to Gencorp?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/implications-baste-duterte-no-knowledge-sara-ties-gencorp-deal-davao-city-hall/",
-      "description": "Senator-judge Bong Go defends the Davao City mayor's decision to delegate signing powers, saying the younger Duterte is not the one on trial",
-      "date": "2026-09-29T14:15:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/p5LOxXZc7io"
-    },
-    {
-      "title": "Baste Duterte says Sara didn’t intervene for Gencorp | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/september-29-2026/",
-      "description": "Today’s headlines: Baste Duterte, Sara Duterte, EJ Obiena",
-      "date": "2026-09-29T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Unmatched EJ Obiena shatters Asian Games record to defend throne",
-      "link": "https://www.rappler.com/sports/asian-games-athletics-ej-obiena-pole-vault-gold-september-29-2026/",
-      "description": "EJ Obiena delivers the Philippines' third gold medal in the 2026 Asian Games as he breaks his own record to repeat as men's pole vault champion",
-      "date": "2026-09-29T12:22:47+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "COA finds ‘unverifiable’ beneficiaries in DepEd’s SHS voucher program",
-      "link": "https://www.rappler.com/philippines/deped-senior-high-school-voucher-program-beneficiaries-coa-audit-report-2025/",
-      "description": "The dozens of unverifiable beneficiaries of the senior high school voucher program resulted in an overpayment of P938,000, according to state auditors",
-      "date": "2026-09-29T12:11:28+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Victoria Bossong claims 800m bronze in Asian Games debut",
-      "link": "https://www.rappler.com/sports/asian-games-athletics-victoria-bossong-bronze-800m-september-29-2026/",
-      "description": "The fastest in the heats, Victoria Bossong finishes third in the women's 800 final as she delivers the Philippines' second athletics medal in the 2026 Asian Games",
-      "date": "2026-09-29T11:55:40+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     }
