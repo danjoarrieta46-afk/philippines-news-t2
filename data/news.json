@@ -1,6 +1,24 @@
 {
-  "updated": "2026-09-30T20:12:54.857865+00:00",
+  "updated": "2026-10-01T00:03:22.359375+00:00",
   "items": [
+    {
+      "title": "BFP ‘secured’ majority to elect BARMM chief minister – spox",
+      "link": "https://www.rappler.com/philippines/elections/bfp-secured-majority-elect-barmm-chief-minister-spokesperson/",
+      "description": "Negotiations to form the majority were immediately underway after the hotly contested race that resulted in a hung parliament",
+      "date": "2026-09-30T23:47:14+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/CHIEF-MINISTER.jpg?resize=75%2C75&crop=441px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Who did what? Gracioso details VP Sara, others’ roles in alleged cash delivery scheme",
+      "link": "https://www.philstar.com/headlines/2026/10/01/2560035/who-did-what-gracioso-details-vp-sara-others-roles-alleged-cash-delivery-scheme",
+      "description": "Gracioso, a former police officer who served as the close-in security for former House Speaker Lord Allan Velasco from 2017 to 2024, has outlined the specific roles played by Vice President Sara Duterte, Velasco, and several individuals in moving massive sums of cash across the country.",
+      "date": "2026-09-30T23:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "September inflation likely quickened",
       "link": "https://bworldonline.com/top-stories/2026/10/01/783365/september-inflation-likely-quickened/",
@@ -308,15 +326,6 @@
       "image": ""
     },
     {
-      "title": "Philippines falls in innovation index",
-      "link": "https://www.philstar.com/headlines/2026/09/30/2560152/philippines-falls-innovation-index",
-      "description": "The Philippines slipped two places in the 2026 Global Innovation Index, as limited resources for innovation outweigh the country&rsquo;s growing capacity to produce high-tech outputs.",
-      "date": "2026-09-30T15:41:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "It takes a village: Lady’s Choice leads a parent-kid-school partnership for healthier kids",
       "link": "https://www.rappler.com/brandrap/ladys-choice-baon-buddies/",
       "description": "The Baon Buddies School Takeover brings families and educators together to make proper nutrition easier to practice every day",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[Be The Good] Does your community want a chat room on Muni?",
-      "link": "https://www.rappler.com/voices/newsletters/be-the-good-community-muni-chat-room/",
-      "description": "We need more people leaving the 'old' enshittified internet, and choosing better alternatives",
-      "date": "2026-09-30T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/image-30.png?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
