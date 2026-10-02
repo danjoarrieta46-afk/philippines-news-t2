@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-02T08:52:22.180521+00:00",
+  "updated": "2026-10-02T15:25:20.050497+00:00",
   "items": [
+    {
+      "title": "Trillanes links Sara Duterte to China | The wRap",
+      "link": "https://www.rappler.com/video/daily-wrap/october-2-2026/",
+      "description": "Today’s headlines: Sonny Trillanes, Sara Duterte, Asian Games",
+      "date": "2026-10-02T14:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-10-02T13:04:33+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/JhTxYaDpdaE"
+    },
+    {
+      "title": "What will be Vic Rodriguez’s arguments in his fight vs impeachment threshold?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/what-vic-rodriguez-new-arguments-fight-impeachment-threshold-supreme-court/",
+      "description": "In his appeal, Rodriguez says he will reiterate his 'intergenerational sovereignty' argument",
+      "date": "2026-10-02T13:02:49+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
+    {
+      "title": "Napolis provides silver lining with jiu-jitsu bronze after Ramirez, Custodio heartbreaks in Asian Games",
+      "link": "https://www.rappler.com/sports/asian-games-jiu-jitsu-kaila-napolis-bronze-october-2-2026/",
+      "description": "Kaila Napolis breaks through for the Philippine jiu-jitsu team in the 2026 Asian Games with a bronze medal after world champions Annie Ramirez and Kimberly Custodio suffered surprise early exits",
+      "date": "2026-10-02T12:34:55+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Mangin, Barbosa fall short of more PH taekwondo golds in Asian Games",
+      "link": "https://www.rappler.com/sports/asian-games-taekwondo-tachiana-mangin-kurt-barbosa-silver-medals-october-2-2026/",
+      "description": "World junior champion Tachiana Mangin and three-time Southeast Asian Games titlist Kurt Barbosa lose their respective title bouts as they add a pair of taekwondo silvers to the Philippines' haul in the 2026 Asian Games",
+      "date": "2026-10-02T12:13:12+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Fictitious name? The curious case of ‘Ang Hai Peng,’ Sara Duterte’s biz partner",
+      "link": "https://www.rappler.com/newsbreak/inside-track/fictitious-name-ang-hai-peng-sara-duterte-business-partner/",
+      "description": "Ask former senator Antonio Trillanes IV, and he will tell you it's a person who doesn't exist.",
+      "date": "2026-10-02T11:58:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/dBjQvmMnyA0"
+    },
+    {
+      "title": "FACT CHECK: Raffy Tulfo not arrested",
+      "link": "https://www.rappler.com/newsbreak/fact-check/raffy-tulfo-not-arrested-october-2026/",
+      "description": "Senator Raffy Tulfo was present at the Senate impeachment court days after YouTube videos falsely claimed he had been arrested",
+      "date": "2026-10-02T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-23.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "GCash brings stock market education within reach through GStocks PH ‘Part-Owner Era’ Hubs",
+      "link": "https://bworldonline.com/spotlight/2026/10/02/784047/gcash-brings-stock-market-education-within-reach-through-gstocks-ph-part-owner-era-hubs/",
+      "description": "GCash opens interactive learning spaces in One Ayala in Makati and Bonifacio High Street in Taguig to demystify&#8230;",
+      "date": "2026-10-02T09:16:28+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Photo-1-300x200.jpg"
+    },
+    {
+      "title": "Senate bill eyes to lower age for SK voting, candidacy to 15-21 years old",
+      "link": "https://www.philstar.com/headlines/2026/10/02/2560486/senate-bill-eyes-lower-age-sk-voting-candidacy-15-21-years-old",
+      "description": "From 18 to 24 years old, the proposed measure seeks to lower the age requirement to 15 to 21 years old.&nbsp;",
+      "date": "2026-10-02T08:48:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "TESDA, Amazon offer cloud computing, AI courses",
       "link": "https://bworldonline.com/labor-and-management/2026/10/02/784029/tesda-amazon-offer-cloud-computing-ai-courses/",
@@ -9,15 +90,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/02/aws-logo-300x200.jpg"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-10-02T08:41:28+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/JhTxYaDpdaE"
     },
     {
       "title": "300,000 farmers, fisherfolk, truckers to get P3-B fuel subsidy from UPLIFT",
@@ -51,15 +123,6 @@
       "link": "https://www.rappler.com/philippines/sara-duterte-impeachment-trial-verdict-target-date/",
       "description": "Senate impeachment court spokesperson Reginald Tongol says the prosecution's dropping of witnesses fast-tracked Vice President Duterte's impeachment trial",
       "date": "2026-10-02T08:30:56+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Progella, Pagara turn back China for PH’s maiden Asian Games beach volleyball medal",
-      "link": "https://www.rappler.com/sports/volleyball/asian-games-beach-volleyball-khylem-progella-sofiah-pagara-bronze-october-2-2026/",
-      "description": "Khylem Harl Progella and Sofiah Shanine Pagara complete a thrilling come-from-behind win over China to give the Philippines its first-ever beach volleyball medal in the Asian Games",
-      "date": "2026-10-02T08:18:13+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -99,15 +162,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2024/07/France-flag-300x200.jpg"
-    },
-    {
-      "title": "Linking Sara Duterte to China: What Trillanes’ testimony would have been about",
-      "link": "https://www.rappler.com/philippines/trillanes-sara-duterte-money-from-china-government-businesses/",
-      "description": "Trillanes claims that the 'Chinese government and corporations' sent hundreds of millions of pesos to companies or organizations associated with Vice President Duterte",
-      "date": "2026-10-02T08:00:32+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/dBjQvmMnyA0"
     },
     {
       "title": "Evacuated in an incubator, now back in Gaza getting to know mama",
@@ -155,15 +209,6 @@
       "image": ""
     },
     {
-      "title": "Carlo Paalam takes home Asian Games silver after narrow loss to home bet",
-      "link": "https://www.rappler.com/sports/boxing/asian-games-carlo-paalam-rui-yamaguchi-final-october-2-2026/",
-      "description": "Carlo Paalam falls short of becoming the first Filipino boxer to win an Asian Games gold medal since 2010 as he absorbs a split decision loss to home bet Rui Yamaguchi of Japan in the men's 55kg final",
-      "date": "2026-10-02T06:31:36+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "A legacy that continues",
       "link": "https://bworldonline.com/spotlight/2026/10/02/783969/a-legacy-that-continues/",
       "description": "Baliuag University at 25 Years as a University Some stories begin long before we realize where they are&#8230;",
@@ -182,24 +227,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/Article-SM-invests-P1-Billion-Final-OL-300x137.jpg"
     },
     {
-      "title": "[In This Economy] The nothing burger that is the Maharlika Investment Fund",
-      "link": "https://www.rappler.com/business/in-this-economy-maharlika-investment-fund-nothing-burger/",
-      "description": "While Maharlika is earning money, its reliance on short-term placements and investments in established businesses leaves the promised additional development benefits unclear",
-      "date": "2026-10-02T06:10:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/04/1000030593.jpg?resize=75%2C75&crop=270px%2C0px%2C541px%2C541px"
-    },
-    {
-      "title": "Chinese hackers impersonated ex-US official to steal emails from AI experts",
-      "link": "https://www.rappler.com/technology/chinese-hackers-impersonate-ex-us-official-steal-emails-ai-experts/",
-      "description": "Cybersecurity company Proofpoint says the hackers regularly try to steal passwords from people working for US or Japanese think tanks, defense contractors, universities, and law firms since as far back as 2025",
-      "date": "2026-10-02T06:05:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Former Prime Minister Cesar Virata dies at 95",
       "link": "https://bworldonline.com/the-nation/2026/10/02/783978/former-prime-minister-cesar-virata-dies-at-95/",
       "description": "Cesar E. A. Virata, one of the longest-serving finance chiefs and former prime minister, died Friday of natural&#8230;",
@@ -207,15 +234,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/VIRATA-218x300.jpg"
-    },
-    {
-      "title": "5 explosive allegations from Trillanes after impeachment trial withdrawal",
-      "link": "https://www.rappler.com/philippines/recap-list-allegations-trillanes-withdrawal-sara-duterte-impeachment-trial/",
-      "description": "Former senator Antonio Trillanes IV's media briefing paints a picture of what his impeachment trial testimony would have been like",
-      "date": "2026-10-02T05:57:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/JZEv5cxaCnk"
     },
     {
       "title": "Before the explosive drives, Derrick Rose found peace in Bob Marley",
@@ -371,15 +389,6 @@
       "image": ""
     },
     {
-      "title": "DOJ ‘almost ready to file’ extradition  petition on Quiboloy",
-      "link": "https://www.philstar.com/headlines/2026/10/02/2560388/doj-almost-ready-file-extradition-petition-quiboloy",
-      "description": "&nbsp;The Department of Justice&nbsp; is &ldquo;almost ready to file the petition&rdquo; on the request of the United States government to send embattled pastor Apollo Quiboloy who is facing multiple charges of trafficking and cash smuggling.",
-      "date": "2026-10-01T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "DTI pushes ‘dying’ traditional crafts to a wider market",
       "link": "https://bworldonline.com/arts-and-leisure/2026/10/01/783830/dti-pushes-dying-traditional-crafts-to-a-wider-market/",
       "description": "The Department of Trade and Industry (DTI) said on Thursday that it aims to expand the market reach&#8230;",
@@ -396,15 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/food-processing-facility-worker-300x200.jpg"
-    },
-    {
-      "title": "Retail dollar bond offering possible this month — BTr",
-      "link": "https://bworldonline.com/top-stories/2026/10/01/783690/retail-dollar-bond-offering-possible-this-month-btr/",
-      "description": "THE GOVERNMENT could issue retail dollar bonds (RDBs) domestically this month ahead of a scheduled maturity, the Bureau&#8230;",
-      "date": "2026-10-01T13:10:35+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/US-dollar-300x200.jpg"
     }
   ]
 }
