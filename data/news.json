@@ -1,6 +1,96 @@
 {
-  "updated": "2026-10-03T04:40:33.131589+00:00",
+  "updated": "2026-10-03T10:12:56.849213+00:00",
   "items": [
+    {
+      "title": "MAP: Where have system losses been highest from 2021 to 2025?",
+      "link": "https://www.rappler.com/philippines/map-system-loss-2021-2025/",
+      "description": "Explore this interactive map to see how high the system losses have been in your area",
+      "date": "2026-10-03T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "These former inmates turn life behind bars into art",
+      "link": "https://www.rappler.com/people/artists/former-inmates-turn-life-behind-bars-art/",
+      "description": "For the formerly incarcerated members of the Bagongbuhay Group of Artists, art becomes one way of confronting the difficulty of rebuilding life after release",
+      "date": "2026-10-03T09:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/pdl-art-1.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Sara Duterte camp hits Trillanes over ‘desperate, tired narratives’",
+      "link": "https://www.philstar.com/headlines/2026/10/03/2560691/sara-duterte-camp-hits-trillanes-over-desperate-tired-narratives",
+      "description": "Vice President Sara Duterte&#39;s spokesperson Salvador Paolo Panelo Jr. on Saturday, October 3, hit former senator Antonio Trillanes IV over allegations linking the vice president&#39;s family to Chinese funds, calling them &ldquo;desperate and tired narratives.&rdquo;",
+      "date": "2026-10-03T07:58:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Converge package offers 0% commission fees for 3 months on TikTok Shop",
+      "link": "https://www.rappler.com/technology/converge-seller-plus-launch/",
+      "description": "Converge ICT Solutions, DTI, and TikTok Shop launch SellerPlus, offering new online sellers a three-month commission-free period and essential tools to boost their e-commerce ventures",
+      "date": "2026-10-03T07:50:11+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Subsea cable cut between Philippines and Singapore disrupts internet services",
+      "link": "https://www.rappler.com/technology/submarine-cable-cut-philippines-singapore-disrupts-internet-services/",
+      "description": "Internet users in the Philippines face intermittent connections after undersea cable cut forces telecoms to reroute traffic to restore services",
+      "date": "2026-10-03T07:09:50+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "ICC allows prior testimony of witness in Rodrigo Duterte case",
+      "link": "https://www.philstar.com/headlines/2026/10/03/2560688/icc-allows-prior-testimony-witness-rodrigo-duterte-case",
+      "description": "The International Criminal Court has allowed prosecutors to introduce the prior recorded testimony of a witness in the crimes against humanity of murder trial of former president Rodrigo Duterte.",
+      "date": "2026-10-03T06:11:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Jiu-jitsu’s Alex Enriquez falls short of PH’s 5th gold in Asian Games",
+      "link": "https://www.rappler.com/sports/asian-games-jiu-jitsu-alexandria-enriquez-silver-october-3-2026/",
+      "description": "Alexandria Enriquez's narrow defeat in the women's 63kg final comes a day after boxer Carlo Paalam and taekwondo jins Tachiana Mangin and Kurt Barbosa also missed out on gold medals",
+      "date": "2026-10-03T06:10:58+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Computer science has long understood what it takes to keep AI under control",
+      "link": "https://www.rappler.com/technology/features/computer-science-keep-ai-under-control/",
+      "description": "Recent AI hacking incidents revive a long-standing computer science problem: what happens when machines pursue a goal without enough limits.",
+      "date": "2026-10-03T05:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/rmHqLl2Ityo"
+    },
+    {
+      "title": "How Filipino director BC Amparado tackled Japan’s ‘lonely death’ phenomenon",
+      "link": "https://www.rappler.com/people/artists/filipino-director-bc-amparado-film-mono-no-aware-japan/",
+      "description": "The film ‘Mono No Aware’ marks director BC Amparado’s full-fledged pivot to independent filmmaking, leaving behind his corporate job and the financial stability it used to offer",
+      "date": "2026-10-03T05:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/Mono-No-Aware-2.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "At Cornell, rape allegations spark outrage, soul-searching over campus culture",
+      "link": "https://www.rappler.com/world/us-canada/cornell-rape-allegations-spark-outrage-soul-searching-campus-culture/",
+      "description": "'Cornell has failed our community through its lack of accountability, transparency, and failure to address the state of the Cornell student body at this time,' says a student from the university",
+      "date": "2026-10-03T04:46:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "The week in photos: September 26 to October 2, 2026",
       "link": "https://www.rappler.com/world/global-affairs/the-week-in-photos-september-26-to-october-2-2026/",
@@ -27,33 +117,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Meet Sarah Jane Lim, the mother leading Philippine pickleball",
-      "link": "https://www.rappler.com/people/athletes/sarah-jane-lim-top-philippine-pickleball-player-mother/",
-      "description": "Even after climbing to the No. 1 spot in Philippine pickleball and getting drafted into Major League Pickleball Australia, Sarah Jane Lim prioritizes her role as a mother above all sports demands",
-      "date": "2026-10-03T02:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Pickleball-Sarah-Jane-Lim-camp-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "From Pasil to the world: Indigenous rice champion wins global food award",
-      "link": "https://www.rappler.com/people/newsmakers/pasil-kalinga-indigenous-rice-rowena-gonnay-slow-food-award/",
-      "description": "In Kalinga, the Pasil community grows indigenous rice varieties with the vital preservation support and knowledge of Rowena Gonnay",
-      "date": "2026-10-03T01:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Pasil-food-award-1.jpeg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "[Vantage Point] GCash at P6.60: Did investors finally get their price?",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-gcash-ipo-did-investors-finally-get-right-price/",
-      "description": "Millions of Filipinos already trust GCash to move their money. The IPO asks whether they should trust it with their investment capital.",
-      "date": "2026-10-03T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/06/gcash-mynt-IPO.jpg?resize=75%2C75&crop=305px%2C0px%2C720px%2C720px"
     },
     {
       "title": "VinFast MPV 7 charges ahead as official fleet for the 44th ASEAN Ministers on Energy Meeting 2026",
@@ -133,69 +196,6 @@
       "description": "The Department of Environment and Natural Resources has strengthened its mitigation measures against the ongoing El Ni&ntilde;o.",
       "date": "2026-10-02T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "President Marcos inspects PICC ahead of November Asean summit",
-      "link": "https://www.philstar.com/headlines/2026/10/03/2560575/president-marcos-inspects-picc-ahead-november-asean-summit",
-      "description": "President Marcos yesterday led a walkthrough of the Philippine International Convention Center (PICC) in Pasay City, one of the main venues of the 49th Association of Southeast Asian Nations Summit and Related Summits in Metro Manila from Nov. 16 to 18.",
-      "date": "2026-10-02T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Funds from China, drug lord went to Dutertes’",
-      "link": "https://www.philstar.com/headlines/2026/10/03/2560577/funds-china-drug-lord-went-dutertes",
-      "description": "About P319 million in funds from Chinese government and corporate sources entered businesses and a foundation linked to the Duterte family, former senator Antonio Trillanes IV alleged yesterday, adding that these funds should be examined as part of the impeachment case against Vice President Sara Duterte.",
-      "date": "2026-10-02T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Trillanes links Sara Duterte to China | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/october-2-2026/",
-      "description": "Today’s headlines: Sonny Trillanes, Sara Duterte, Asian Games",
-      "date": "2026-10-02T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-10-02T13:04:33+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/JhTxYaDpdaE"
-    },
-    {
-      "title": "What will be Vic Rodriguez’s arguments in his fight vs impeachment threshold?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/what-vic-rodriguez-new-arguments-fight-impeachment-threshold-supreme-court/",
-      "description": "In his appeal, Rodriguez says he will reiterate his 'intergenerational sovereignty' argument",
-      "date": "2026-10-02T13:02:49+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
-    },
-    {
-      "title": "Napolis provides silver lining with jiu-jitsu bronze after Ramirez, Custodio heartbreaks in Asian Games",
-      "link": "https://www.rappler.com/sports/asian-games-jiu-jitsu-kaila-napolis-bronze-october-2-2026/",
-      "description": "Kaila Napolis breaks through for the Philippine jiu-jitsu team in the 2026 Asian Games with a bronze medal after world champions Annie Ramirez and Kimberly Custodio suffered surprise early exits",
-      "date": "2026-10-02T12:34:55+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Mangin, Barbosa fall short of more PH taekwondo golds in Asian Games",
-      "link": "https://www.rappler.com/sports/asian-games-taekwondo-tachiana-mangin-kurt-barbosa-silver-medals-october-2-2026/",
-      "description": "World junior champion Tachiana Mangin and three-time Southeast Asian Games titlist Kurt Barbosa lose their respective title bouts as they add a pair of taekwondo silvers to the Philippines' haul in the 2026 Asian Games",
-      "date": "2026-10-02T12:13:12+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
