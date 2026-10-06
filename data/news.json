@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-05T18:46:48.763711+00:00",
+  "updated": "2026-10-06T00:36:30.044003+00:00",
   "items": [
+    {
+      "title": "LIVE Coverage: Sara Duterte's impeachment trial, Oct. 6",
+      "link": "https://www.philstar.com/headlines/2026/10/06/2561285/live-coverage-sara-dutertes-impeachment-trial-oct-6",
+      "description": "Follow the trial, in context and in real time.",
+      "date": "2026-10-06T00:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Middle East war sharpens focus on ASEAN energy security plans",
+      "link": "https://www.rappler.com/world/asia-pacific/middle-east-war-sharpens-focus-asean-energy-security-plans/",
+      "description": "ASEAN's reliance on Middle Eastern crude oil, coupled with rising global prices, has prompted discussions on implementing regional fuel-security measures and long-term initiatives like the ASEAN Power Grid and renewable energy deployment",
+      "date": "2026-10-05T23:53:19+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/03/gas-not-available-philippines-march-26-2026-scaled.jpg?resize=75%2C75&crop=852px%2C0px%2C1708px%2C1708px"
+    },
+    {
+      "title": "Senator-judges call out defense over ‘threats’ on AMLA records disclosure",
+      "link": "https://www.philstar.com/headlines/2026/10/06/2561148/senator-judges-call-out-defense-over-threats-amla-records-disclosure",
+      "description": "Senator-judges of the impeachment court called out the defense panel for what they called veiled threats of criminal liability directed at the witness, the media&nbsp;and potentially the court itself over the disclosure of Anti-Money Laundering Council records.",
+      "date": "2026-10-05T23:52:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The secret to the Lopez family’s enduring control of ABS-CBN",
+      "link": "https://www.rappler.com/newsbreak/inside-track/secret-lopez-family-enduring-control-abs-cbn/",
+      "description": "Why are the Lopezes still calling the shots at ABS-CBN even as an outsider pays most of its rescue?",
+      "date": "2026-10-05T23:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
     {
       "title": "The Power of Both Worlds: MMPC Officially Introduces the All-New Mitsubishi Outlander PHEV SUV to the Philippine Market",
       "link": "https://bworldonline.com/spotlight/2026/10/06/784448/the-power-of-both-worlds-mmpc-officially-introduces-the-all-new-mitsubishi-outlander-phev-suv-to-the-philippine-market/",
@@ -77,24 +113,6 @@
       "title": "Marcos accepts resignation of Marina chief",
       "link": "https://www.philstar.com/headlines/2026/10/06/2561217/marcos-accepts-resignation-marina-chief",
       "description": "President Marcos accepted yesterday the resignation of Maritime Industry Authority&nbsp;administrator Sonia Malaluan, who served the agency for almost 37 years.",
-      "date": "2026-10-05T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Chinese embassy on funneled funds: False narrative",
-      "link": "https://www.philstar.com/headlines/2026/10/06/2561225/chinese-embassy-funneled-funds-false-narrative",
-      "description": "Allegations that China funneled funds to a political faction in the Philippines are a &ldquo;false narrative&rdquo; and &ldquo;malicious,&rdquo; the Chinese embassy in Manila insisted yesterday.",
-      "date": "2026-10-05T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Chiz calls for civility in impeach proceedings",
-      "link": "https://www.philstar.com/headlines/2026/10/06/2561226/chiz-calls-civility-impeach-proceedings",
-      "description": "Senate impeachment court presiding officer Francis Escudero urged the public and concerned parties to let &ldquo;civility&rdquo; prevail over hotheads as Vice President Sara Duterte&rsquo;s impeachment trial entered its 33rd day yesterday.",
       "date": "2026-10-05T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -387,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/10/2023-fact-check-full-post-5-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Gasoline, kerosene prices rise on October 6, diesel gets slight rollback",
-      "link": "https://www.rappler.com/business/fuel-prices-adjustments-october-6-2026/",
-      "description": "The mixed adjustment comes after price cuts last week, while China’s suspension of refined fuel exports threatens to tighten Asian supply further",
-      "date": "2026-10-05T10:20:16+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘No toilet, tiles?’ Estrada office stripped bare ahead of Sotto turnover",
-      "link": "https://www.rappler.com/newsbreak/inside-track/jinggoy-estrada-senate-office-stripped-bare-before-tito-sotto-takeover/",
-      "description": "The unusual state of the vacated office has caught several senators by surprise",
-      "date": "2026-10-05T10:04:49+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/hgdElt-gQNk"
     }
   ]
 }
