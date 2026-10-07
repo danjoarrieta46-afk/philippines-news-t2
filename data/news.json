@@ -1,41 +1,347 @@
 {
-  "updated": "2026-10-07T04:33:43.478770+00:00",
+  "updated": "2026-10-07T11:32:20.190744+00:00",
   "items": [
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-10-07T04:28:59+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/tZyqRT1hLhs"
-    },
-    {
-      "title": "France’s Mistral launches AI model it says outperforms some Chinese rivals",
-      "link": "https://www.rappler.com/technology/mistral-large-4-ai-model-launch/",
-      "description": "Mistral Large 4 will be made publicly available on October 27",
-      "date": "2026-10-07T03:54:26+00:00",
+      "title": "PSC steps in as Asian Tour’s 108th Philippine Open dangles $1 million",
+      "link": "https://www.rappler.com/sports/psc-asian-tour-philippine-open-golf-2026/",
+      "description": "The Philippine Sports Commission helps salvage Asia's oldest national golf championship as Filipino golfer Miguel Tabuena headlines the local cast",
+      "date": "2026-10-07T11:26:06+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "Stay alert online: Join anti-scam community forum in Laguna",
-      "link": "https://www.rappler.com/moveph/join-scam-alert-san-pedro-laguna/",
-      "description": "Want to stay scam-ready? Join #ScamAlert: Maging Wais, Maging Ligtas in San Pedro, Laguna, on October 19 to learn practical ways to recognize, avoid, and report online and financial scams.",
-      "date": "2026-10-07T03:42:46+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/05/tech-thoughts-philippines-digital-fraud-may-1-2025.jpg?resize=75%2C75&crop=255px%2C0px%2C675px%2C675px"
-    },
-    {
-      "title": "Paramount wraps up mega Warner Bros merger to create Hollywood powerhouse Skydance",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/07/785151/paramount-wraps-up-mega-warner-bros-merger-to-create-hollywood-powerhouse-skydance/",
-      "description": "PARAMOUNT SKYDANCE completed its blockbuster $110 billion takeover of Warner Bros Discovery on Tuesday, creating a Hollywood heavyweight&#8230;",
-      "date": "2026-10-07T03:22:53+00:00",
+      "title": "Philippine team eyes 4-5 gold medals at 5th Asian Para Games",
+      "link": "https://bworldonline.com/sports/2026/10/07/785359/philippine-team-eyes-4-5-gold-medals-at-5th-asian-para-games/",
+      "description": "THE 69-strong Philippine differently abled team will have tempered expectations and hopeful hearts as it wades into battle&#8230;",
+      "date": "2026-10-07T11:24:08+00:00",
       "source": "BusinessWorld",
       "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/12/Warner_Bros._logo_2023-300x169.jpg"
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/ERNIE-GAWILAN-300x200.jpg"
+    },
+    {
+      "title": "Djokovic wins China Open as de Minaur retires injured",
+      "link": "https://bworldonline.com/sports/2026/10/07/785288/djokovic-wins-china-open-as-de-minaur-retires-injured/",
+      "description": "BEIJING — Novak Djokovic won his seventh China Open title after Australia’s Alex de Minaur retired with a&#8230;",
+      "date": "2026-10-07T11:23:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Tennis2-2026-default-300x169.jpg"
+    },
+    {
+      "title": "Alcaraz sinks Lehecka to retain Japan Open crown",
+      "link": "https://bworldonline.com/sports/2026/10/07/785287/alcaraz-sinks-lehecka-to-retain-japan-open-crown/",
+      "description": "TOKYO — Defending champion Carlos Alcaraz defeated unseeded Czech Jiri Lehecka, 7-6(4), 6-4, in the Japan Open finals&#8230;",
+      "date": "2026-10-07T11:23:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Tennis-2026-default-300x169.jpg"
+    },
+    {
+      "title": "Host Saudi Arabia ends 22-year wait to lift Gulf Cup title again",
+      "link": "https://bworldonline.com/sports/2026/10/07/785286/host-saudi-arabia-ends-22-year-wait-to-lift-gulf-cup-title-again/",
+      "description": "JEDDAH, Saudi Arabia — Early strikes secured host Saudi Arabia the 27th Gulf Cup with a 2-0 win&#8230;",
+      "date": "2026-10-07T11:22:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Sport-2026-default-300x169.jpg"
+    },
+    {
+      "title": "Yoshinobu Yamamoto, Los Angeles Dodgers take National League Division Series lead over Braves",
+      "link": "https://bworldonline.com/sports/2026/10/07/785285/yoshinobu-yamamoto-los-angeles-dodgers-take-national-league-division-series-lead-over-braves/",
+      "description": "ATLANTA — Enrique Hernandez and Freddie Freeman each homered in the fourth inning and Yoshinobu Yamamoto delivered seven&#8230;",
+      "date": "2026-10-07T11:22:02+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Sport-2026-default-300x169.jpg"
+    },
+    {
+      "title": "Defending champion Portugal beats Norway, 2-1, to secure place in Nations League quarterfinals",
+      "link": "https://bworldonline.com/sports/2026/10/07/785383/defending-champion-portugal-beats-norway-2-1-to-secure-place-in-nations-league-quarterfinals/",
+      "description": "TITLEHOLDER Portugal maintained its 100% record in the Nations League with a 2-1 home win over Norway on&#8230;",
+      "date": "2026-10-07T11:21:40+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Sport-2026-default-300x169.jpg"
+    },
+    {
+      "title": "TDF rate slips as market weighs Fed, BSP tightening prospects",
+      "link": "https://bworldonline.com/banking-finance/2026/10/07/785293/tdf-rate-slips-as-market-weighs-fed-bsp-tightening-prospects/",
+      "description": "THE BANGKO SENTRAL ng Pilipinas’ (BSP) one-week term deposits fetched a lower average yield for the first time&#8230;",
+      "date": "2026-10-07T11:05:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/05/BSP-building-300x200.jpg"
+    },
+    {
+      "title": "The Grand Hyatt keeps the little chef busy",
+      "link": "https://bworldonline.com/arts-and-leisure/2026/10/07/785257/the-grand-hyatt-keeps-the-little-chef-busy/",
+      "description": "SINCE Le Petit Chef’s launch in 2022, the Grand Hyatt Manila has seen it become one of the&#8230;",
+      "date": "2026-10-07T11:04:54+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Magical-Soup-Kettle-Parmesan-Soup-served-with-crispy-bacon-homemade-ricotta-and-truffle-dust-300x300.jpg"
+    },
+    {
+      "title": "How to build a real-estate empire: Start with trust",
+      "link": "https://bworldonline.com/opinion/2026/10/07/785255/how-to-build-a-real-estate-empire-start-with-trust/",
+      "description": "There are an astounding 33,901 registered real estate brokers in the Philippines (as of 2024). You may have&#8230;",
+      "date": "2026-10-07T11:04:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Ledesma-podcast-100726-300x169.jpg"
+    },
+    {
+      "title": "BPI Wealth expects strong growth in AUMs",
+      "link": "https://bworldonline.com/banking-finance/2026/10/07/785295/bpi-wealth-expects-strong-growth-in-aums/",
+      "description": "THE TRUST subsidiary of Bank of the Philippine Islands (BPI) expects to grow its assets under management (AUM)&#8230;",
+      "date": "2026-10-07T11:04:40+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/10/BPI-Wealth-logo-300x169.jpg"
+    },
+    {
+      "title": "Philippine organizations see more ransomware, phishing incidents",
+      "link": "https://bworldonline.com/technology/2026/10/07/785281/philippine-organizations-see-more-ransomware-phishing-incidents/",
+      "description": "PHILIPPINE ORGANIZATIONS were affected by 264 cyber incidents like website defacement, ransomware, breach, and data leaks in the&#8230;",
+      "date": "2026-10-07T11:04:06+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/01/cyber-crime-300x200.jpg"
+    },
+    {
+      "title": "USA Cheese Guild partners with Manila chef community",
+      "link": "https://bworldonline.com/arts-and-leisure/2026/10/07/785256/usa-cheese-guild-partners-with-manila-chef-community/",
+      "description": "THE UNITED STATES is the world’s largest cheese exporter. While people tend to think of cheese as something&#8230;",
+      "date": "2026-10-07T11:03:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/USDECManilaDinnerShowcase-0130-300x200.jpg"
+    },
+    {
+      "title": "The PWD obstacle course",
+      "link": "https://bworldonline.com/opinion/2026/10/07/785254/the-pwd-obstacle-course/",
+      "description": "It was during a morning walk in Salcedo Village when I noticed it. I was on the sidewalk&#8230;",
+      "date": "2026-10-07T11:03:43+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/The-PWD-obstacle-course-300x300.jpg"
+    },
+    {
+      "title": "CIMB Bank PH says business as usual amid reports of possible sale",
+      "link": "https://bworldonline.com/banking-finance/2026/10/07/785294/cimb-bank-ph-says-business-as-usual-amid-reports-of-possible-sale/",
+      "description": "CIMB BANK Philippines continues to operate its business as usual amid reports of its parent company exploring the&#8230;",
+      "date": "2026-10-07T11:03:35+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/CIMB-300x200.jpg"
+    },
+    {
+      "title": "Israelis mark three years since Hamas attack that set off Gaza assault",
+      "link": "https://bworldonline.com/world/2026/10/07/785283/israelis-mark-three-years-since-hamas-attack-that-set-off-gaza-assault/",
+      "description": "JERUSALEM — Israelis on Wednesday will mark three years since Hamas attacked Israel on Oct. 7, 2023, triggering&#8230;",
+      "date": "2026-10-07T11:03:21+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/10/ISRAEL-PALESTINIANS-LEBANON-300x200.jpg"
+    },
+    {
+      "title": "Artificial intelligence may play larger role in hearing-care technology",
+      "link": "https://bworldonline.com/technology/2026/10/07/785290/artificial-intelligence-may-play-larger-role-in-hearing-care-technology/",
+      "description": "ARTIFICIAL INTELLIGENCE (AI) use in hearing-care technology could continue to grow as it could help devices better adapt&#8230;",
+      "date": "2026-10-07T11:03:09+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/IMG_8573-300x200.jpg"
+    },
+    {
+      "title": "China’s growth target has become a trap for Xi",
+      "link": "https://bworldonline.com/bloomberg/2026/10/07/785253/chinas-growth-target-has-become-a-trap-for-xi/",
+      "description": "CHINA’s latest effort to prop up its battered housing market and spur the economy is getting a poor reception. The measures are underwhelming and unlikely to achieve much beyond improving Beijing’s chances of meeting its already restrained growth ambitions.",
+      "date": "2026-10-07T11:02:41+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/shanghai-aerial-day-300x200.jpg"
+    },
+    {
+      "title": "AI hopes, industrial malaise drive boom in German startups",
+      "link": "https://bworldonline.com/technology/2026/10/07/785251/ai-hopes-industrial-malaise-drive-boom-in-german-startups/",
+      "description": "BERLIN — German industry — long the foundation of Europe’s biggest economy — may be in free fall,&#8230;",
+      "date": "2026-10-07T11:02:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/09/Germany-Flag-300x200.jpg"
+    },
+    {
+      "title": "Pacific nations seek to entrench 1.5-degree target in COP climate talks",
+      "link": "https://bworldonline.com/world/2026/10/07/785282/pacific-nations-seek-to-entrench-1-5-degree-target-in-cop-climate-talks/",
+      "description": "NADI, Fiji — The world must increase its efforts to reduce emissions in order to keep global temperature&#8230;",
+      "date": "2026-10-07T11:02:16+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/02/SF_drought-land-OL-300x200.jpg"
+    },
+    {
+      "title": "Peso inches higher vs dollar on Fed pause bets",
+      "link": "https://bworldonline.com/banking-finance/2026/10/07/785291/peso-inches-higher-vs-dollar-on-fed-pause-bets/",
+      "description": "THE PESO edged higher against the dollar on Wednesday amid easing expectations of a rate hike by the&#8230;",
+      "date": "2026-10-07T11:02:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/11/Peso-currency-300x200.jpg"
+    },
+    {
+      "title": "The Philippine Cocktail Fiesta goes to Cebu",
+      "link": "https://bworldonline.com/arts-and-leisure/2026/10/07/785213/the-philippine-cocktail-fiesta-goes-to-cebu/",
+      "description": "LAST November, bartenders and cocktail enthusiasts from across Asia gathered in Manila for the very first Philippine Cocktail&#8230;",
+      "date": "2026-10-07T11:02:11+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Photo-courtesy-of-The-Cocktail-Fiesta-2025-_DSC7360-300x200.jpg"
+    },
+    {
+      "title": "Vietnam’s banks tap investors for $7 billion as economy runs red hot",
+      "link": "https://bworldonline.com/banking-finance/2026/10/07/785301/vietnams-banks-tap-investors-for-7-billion-as-economy-runs-red-hot/",
+      "description": "HANOI — Vietnamese banks are planning nearly $7 billion in share sales as the country’s fast-growing economy fuels&#8230;",
+      "date": "2026-10-07T11:01:39+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/12/Vietnam-Dong-Note-currency-300x200.jpg"
+    },
+    {
+      "title": "Optic signals",
+      "link": "https://bworldonline.com/opinion/2026/10/07/785252/optic-signals/",
+      "description": "SENDING MESSAGES does not always require words. Body language can also be employed to convey meaning. Sometimes these&#8230;",
+      "date": "2026-10-07T11:01:39+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/impressed-young-pretty-woman-looking-front-doing-look-gesture-isolated-purple-wall-300x200.jpg"
+    },
+    {
+      "title": "Google fights £1-billion UK lawsuit over app store fees in latest Big Tech case",
+      "link": "https://bworldonline.com/technology/2026/10/07/785250/google-fights-1-billion-uk-lawsuit-over-app-store-fees-in-latest-big-tech-case/",
+      "description": "LONDON — Google was accused of abusing its dominance to levy excessive commissions on app developers, as a&#8230;",
+      "date": "2026-10-07T11:01:37+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/11/Google-300x200.jpg"
+    },
+    {
+      "title": "Experts propose ‘growth and investment reset’ to aid debt-ridden developing countries",
+      "link": "https://bworldonline.com/world/2026/10/07/785289/experts-propose-growth-and-investment-reset-to-aid-debt-ridden-developing-countries/",
+      "description": "WASHINGTON — The Rockefeller Foundation and its partners on Wednesday proposed an initiative to help heavily indebted developing&#8230;",
+      "date": "2026-10-07T11:01:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/09/Dollar-currency-1-300x200.jpg"
+    },
+    {
+      "title": "COA upholds disallowance of P73 million in OVP confidential funds",
+      "link": "https://www.philstar.com/headlines/2026/10/07/2561576/coa-upholds-disallowance-p73-million-ovp-confidential-funds",
+      "description": "In a resolution dated October 5, the Commission Proper upheld the Notice of Disallowance, worth P73,287,000.00, which flagged the OVP&#39;s confidential spending from December 21 to 31, 2022.&nbsp;",
+      "date": "2026-10-07T10:30:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-10-07T10:16:26+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/YcW8fTVxJ7w"
+    },
+    {
+      "title": "[DECODED] What a fake Duterte tells us about our bigger AI problem",
+      "link": "https://www.rappler.com/voices/newsletters/decoded-artificial-intelligence-problems/",
+      "description": "Disinformation spreads rapidly because it’s becoming easier and cheaper to create fakes, while the systems behind them are outpacing the safeguards meant to mitigate the risks",
+      "date": "2026-10-07T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/image-21.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Padilla, Go, others ask Supreme Court to restore 16-vote threshold",
+      "link": "https://www.philstar.com/headlines/2026/10/07/2561571/padilla-go-others-ask-supreme-court-restore-16-vote-threshold",
+      "description": "PDP-Laban party-aligned lawmakers and individuals have asked the Supreme Court to restore the mandatory 16-vote supermajority required to convict Vice President Sara Duterte.",
+      "date": "2026-10-07T09:56:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Ferdinand Marcos Jr. unplugged: Why the President needs music",
+      "link": "https://www.rappler.com/people/newsmakers/ferdinand-marcos-jr-music-lover/",
+      "description": "'I’ve come to the conclusion that my life was lived with a soundtrack. When I hear a song, I remember when I first heard it, what I was doing, how I was feeling. Every big event in my life there was an accompanying track ongoing,' Marcos says in an interview with Gary Valenciano",
+      "date": "2026-10-07T09:50:14+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/tNlghgs9PJY"
+    },
+    {
+      "title": "[In This Economy] Cesar Virata, technocrat who helped finance a dictatorship",
+      "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-cesar-virata-technocrat-who-helped-finance-marcos-dictatorship/",
+      "description": "How should we remember a capable technocrat who helped keep such a government going?",
+      "date": "2026-10-07T09:45:37+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "NUJP slams Duterte lawyer over ‘unintended’ media intimidation",
+      "link": "https://www.philstar.com/headlines/2026/10/07/2561568/nujp-slams-duterte-lawyer-over-unintended-media-intimidation",
+      "description": "The group explained that the public&rsquo;s right to be informed and the press&rsquo; freedom to report takes precedence over the interest of public officials whose transactions are under scrutiny.&nbsp;",
+      "date": "2026-10-07T09:32:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Underground AI cybercrime tools surge in 2026",
+      "link": "https://www.rappler.com/technology/underground-artificial-intelligence-cybercrime-tools-surge-2026/",
+      "description": "AI is making phishing, voice scams, identity fraud, and malware development cheaper and easier to scale, while lowering the technical barrier for cybercriminals",
+      "date": "2026-10-07T09:21:12+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/cybersec-summit-2026.jpg?resize=75%2C75&crop=217px%2C0px%2C688px%2C688px"
+    },
+    {
+      "title": "DepEd set to roll out ARAL for mathematics",
+      "link": "https://www.rappler.com/philippines/deped-aral-program-mathematics-rollout-2026/",
+      "description": "Grades 1 to 10 students assessed to be ‘not proficient’ or ‘low proficient’ in numeracy are the target participants of the ARAL Mathematics program",
+      "date": "2026-10-07T08:36:45+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "On day one, rush for GCash IPO shares briefly trips up trading systems",
+      "link": "https://www.rappler.com/business/high-demand-gcash-ipo-shares/",
+      "description": "'I heard some platforms went down because of the traffic. That’s a good problem for all of us, right?' Mynt president and CEO Martha Sazon tells a room full of potential GCash investors hours after the public offer formally opened",
+      "date": "2026-10-07T07:59:20+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
+    {
+      "title": "Can I survive an action-packed day with the vivo V80 Lite – sans the power bank?",
+      "link": "https://www.rappler.com/culture-desk/online-deals-finds/vivo-v80-lite-phone-review/",
+      "description": "Let’s see how far its 10,000mAh battery can take us!",
+      "date": "2026-10-07T07:14:52+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/IMG_2787_2-1.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "‘Put people before platforms,’ Coloma reminds 33rd National PR Congress delegates",
+      "link": "https://www.rappler.com/brandrap/sonny-coloma-national-public-relations-congress-2026/",
+      "description": "This year's summit centered on the role of communication professionals in building a culture of trust",
+      "date": "2026-10-07T07:05:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Jobless Filipinos drop to 2.77 million in August",
@@ -56,96 +362,6 @@
       "image": ""
     },
     {
-      "title": "What do we know about plague institute lab worker’s death in Russia?",
-      "link": "https://bworldonline.com/world/2026/10/07/785146/what-do-we-know-about-plague-institute-lab-workers-death-in-russia/",
-      "description": "MOSCOW/LONDON — A laboratory worker at a plague research institute in Siberia fell ill and died in undisclosed&#8230;",
-      "date": "2026-10-07T02:25:36+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/RUSSIA-SIBERIA-PLAGUE-300x225.jpg"
-    },
-    {
-      "title": "Philippine joblessness rises to 5.3% in August",
-      "link": "https://bworldonline.com/top-stories/2026/10/07/785142/philippine-joblessness-rises-to-5-3-in-august/",
-      "description": "THE PHILIPPINES’ unemployment rate rose to 5.3% in August from 3.9% a year earlier, leaving 2.77 million Filipinos&#8230;",
-      "date": "2026-10-07T02:19:15+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/09/for-jobless-EG-3648-300x219.jpg"
-    },
-    {
-      "title": "Francis Halzen wins Nobel physics prize for Antarctic ‘ghost particle’ hunt",
-      "link": "https://bworldonline.com/world/2026/10/07/785139/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt/",
-      "description": "STOCKHOLM — The Belgian-American scientist Francis Halzen won the 2026 Nobel Prize in Physics for his work creating&#8230;",
-      "date": "2026-10-07T02:16:10+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/francis-halzen-300x200.jpg"
-    },
-    {
-      "title": "Unemployment eases to 5.3% in August 2026 as agriculture adds jobs",
-      "link": "https://www.rappler.com/business/unemployment-rate-philippines-august-2026/",
-      "description": "Manufacturing continues to weaken as employment in the sector further fell to 3.16 million in August from 3.43 million in July",
-      "date": "2026-10-07T02:15:07+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/Where-businesses-can-plug-into-the-Luzon-Corridor.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Agnés Callamard returns to Manila for Rappler’s Social Good Summit",
-      "link": "https://www.rappler.com/philippines/agnes-callamard-speak-manila-social-good-summit-human-rights-artificial-intelligence/",
-      "description": "The prominent French human rights expert, who former president Rodrigo Duterte once threatened to slap, is coming back to the Philippines for the first time since the lifting of a Duterte-era travel ban",
-      "date": "2026-10-07T02:04:32+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Tennessee execution survivor Christa Pike is conscious and speaking, lawyers say",
-      "link": "https://bworldonline.com/world/2026/10/07/785137/tennessee-execution-survivor-christa-pike-is-conscious-and-speaking-lawyers-say/",
-      "description": "CONVICTED killer Christa Pike, who survived Tennessee&#8217;s effort to execute her by lethal injection last week, foiling the&#8230;",
-      "date": "2026-10-07T01:52:22+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/TENNESSEE-EXECUTION-225x300.jpg"
-    },
-    {
-      "title": "In interview, US Vice President Vance says Iran must cut enrichment to end war",
-      "link": "https://bworldonline.com/world/2026/10/07/785134/in-interview-us-vice-president-vance-says-iran-must-cut-enrichment-to-end-war/",
-      "description": "FAIRBANKS, Alaska — US Vice President JD Vance said in an exclusive interview with Reuters that Iran must&#8230;",
-      "date": "2026-10-07T01:42:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/06/IRAN-CRISIS-SWISS-MEETING-JD-Vance-300x200.jpg"
-    },
-    {
-      "title": "Two weather systems bring rain over PHL",
-      "link": "https://bworldonline.com/the-nation/2026/10/07/785131/two-weather-systems-bring-rain-over-phl/",
-      "description": "The Intertropical Convergence Zone (ITCZ) and the northeasterly windflow are expected to bring rains over large parts of&#8230;",
-      "date": "2026-10-07T01:26:25+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/dost-pagasa-10-7-300x225.jpg"
-    },
-    {
-      "title": "Leandro Leviste ordered arrested by Makati City court",
-      "link": "https://www.rappler.com/philippines/leandro-leviste-warrant-arrest-public-service-act-october-2026/",
-      "description": "(1st UPDATE) Leviste faces a warrant over alleged violation of the Public Service Act. The bail is set at P72,000.",
-      "date": "2026-10-07T01:19:50+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/0-3.jpeg?resize=75%2C75&crop=514px%2C0px%2C720px%2C720px"
-    },
-    {
-      "title": "Climate summit calls for stronger action to curb global warming",
-      "link": "https://www.rappler.com/world/asia-pacific/climate-summit-calls-for-stronger-action-to-curb-global-warming/",
-      "description": "'As global temperature increases approach 1.5C and we face strong El Nino conditions, we reiterate that every fraction of a degree of warming accelerates the impacts of climate change and increases the risk of irreversible loss and damage for climate vulnerable communities,' ministers say ahead of the UN's COP31 summit",
-      "date": "2026-10-07T01:19:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Arrest warrant out for Leandro Leviste over alleged Public Service Act violation",
       "link": "https://www.philstar.com/headlines/2026/10/07/2561534/arrest-warrant-out-leandro-leviste-over-alleged-public-service-act-violation",
       "description": "According to a copy of the warrant of arrest sent to reporters by the National Bureau of Investigation, the Makati RTC Branch 235 issued the warrant on October 5.&nbsp;",
@@ -153,33 +369,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
-      "link": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
-      "description": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
-      "date": "2026-10-07T01:01:04+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/NmDz3LwNwAQ"
-    },
-    {
-      "title": "Californians blast Trump remark that Iran could ‘take out’ Los Angeles, San Diego",
-      "link": "https://www.rappler.com/world/us-canada/californians-blast-trump-remark-iran-take-out-los-angeles-san-diego/",
-      "description": "California officials, including Governor Gavin Newsom and Los Angeles Mayor Karen Bass, criticize Trump's remarks as dangerous and potentially compromising to public safety",
-      "date": "2026-10-07T00:53:11+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/donald-trump-september-9-2026-reuters.jpg?resize=75%2C75&crop=228px%2C0px%2C812px%2C812px"
-    },
-    {
-      "title": "Lenovo expects growth in 2026 amid higher memory chip prices",
-      "link": "https://bworldonline.com/technology/2026/10/07/785125/lenovo-expects-growth-in-2026-amid-higher-memory-chip-prices/",
-      "description": "Lenovo is expected to grow in 2026, driven by its aggressive push into artificial intelligence (AI)-powered products and&#8230;",
-      "date": "2026-10-07T00:21:39+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Micheal-Ngan-300x169.jpg"
     },
     {
       "title": "Palace rejects VP Sara's claim that Marcos admin was behind cash delivery claims",
@@ -200,18 +389,9 @@
       "image": ""
     },
     {
-      "title": "[Vantage Point] Is Del Monte in default? The debt behind the label",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-del-monte-philippines-default-debt-behind-label/",
-      "description": "The sheer consumer power of the Philippine franchise is precisely why nervous financiers continue to sit at the bargaining table",
-      "date": "2026-10-07T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Screenshot-2026-10-07-at-12.50.29-AM.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Chinese state firms remitted P319 million to Sara Duterte-linked company — Hontiveros",
-      "link": "https://www.philstar.com/headlines/2026/10/07/2561350/chinese-state-firms-remitted-p319-million-sara-duterte-linked-company-hontiveros",
-      "description": "The Anti-Money Laundering Council had previously flagged these transactions as&nbsp;covered and suspicious transaction reports due to a lack of legitimate underlying transactions.",
+      "title": "Chinese state firm among entities that sent P319 million to Duterte-linked company — Hontiveros",
+      "link": "https://www.philstar.com/headlines/2026/10/07/2561350/chinese-state-firm-among-entities-sent-p319-million-duterte-linked-company-hontiveros",
+      "description": "A Chinese state-owned enterprise with direct ties to the Chinese Communist Party and Beijing&rsquo;s foreign influence apparatus was among the entities that remitted millions of pesos to Calle88 Foods Corp., a company linked to Vice President Sara Duterte.",
       "date": "2026-10-06T23:50:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -225,186 +405,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Government urges SC: Junk petition vs BSKE postponement",
-      "link": "https://www.philstar.com/headlines/2026/10/07/2561427/government-urges-sc-junk-petition-vs-bske-postponement",
-      "description": "The Supreme Court should dismiss the challenge to the law fixing the term of barangay and Sangguniang Kabataan Elections&nbsp;officials and resetting the election to November 2028, as well as deny efforts to prevent its enforcement, several government agencies appealed.",
-      "date": "2026-10-06T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "ICC prosecutor opposes evidence disclosure cap in Duterte’s case",
-      "link": "https://www.philstar.com/headlines/2026/10/07/2561429/icc-prosecutor-opposes-evidence-disclosure-cap-dutertes-case",
-      "description": "The prosecutor of the International Criminal Court&nbsp;has opposed the request of former president Rodrigo Duterte&rsquo;s lawyers to limit the documents disclosed in relation to his upcoming crimes against humanity trial.",
-      "date": "2026-10-06T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "P50 million from other countries flowed to Duterte-linked firm",
-      "link": "https://www.philstar.com/headlines/2026/10/07/2561431/p50-million-other-countries-flowed-duterte-linked-firm",
-      "description": "Apart from China, eight other countries &ndash; some of which are notorious for money laundering &ndash; had been the sources of nearly P50 million in remittances that flowed into a food company linked to Vice President Sara Duterte&rsquo;s husband Manases Carpio.",
-      "date": "2026-10-06T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Philippine inflation heats up to 3-year high",
-      "link": "https://bworldonline.com/top-stories/2026/10/06/784925/philippine-inflation-heats-up-to-3-year-high/",
-      "description": "PHILIPPINE INFLATION quickened to its fastest pace in over three years in September as prices of food, transport and utilities surged, the Philippine Statistics Authority (PSA) said on Tuesday.",
-      "date": "2026-10-06T13:29:32+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Vegetable-300x200.jpg"
-    },
-    {
-      "title": "Philippines hit harder by high energy costs, gains less from AI boom",
-      "link": "https://bworldonline.com/top-stories/2026/10/06/784924/philippines-hit-harder-by-high-energy-costs-gains-less-from-ai-boom/",
-      "description": "THE PHILIPPINES is being hit harder by high energy costs and benefiting less from the global artificial intelligence (AI) boom than its Asian peers, making it an “outlier” in East Asia, the World Bank said.",
-      "date": "2026-10-06T13:28:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/jeep-vehicle-300x200.jpg"
-    },
-    {
-      "title": "PEZA inches closer to P300-B full-year goal",
-      "link": "https://bworldonline.com/top-stories/2026/10/06/784923/peza-inches-closer-to-p300-b-full-year-goal/",
-      "description": "THE PHILIPPINE Economic Zone Authority (PEZA) approved P80.68 billion in investment pledges in September, bringing its nine-month total to P297.14 billion, just shy of its P300-billion full-year target.",
-      "date": "2026-10-06T13:27:51+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/01/LIMA-central-business-district-300x169.jpg"
-    },
-    {
-      "title": "PLDT moves VITRO REIT IPO to 2027 amid market conditions, rising rates",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784887/pldt-moves-vitro-reit-ipo-to-2027-amid-market-conditions-rising-rates/",
-      "description": "PLDT Inc. has moved the planned initial public offering (IPO) of its data center arm VITRO REIT, Inc.&#8230;",
-      "date": "2026-10-06T13:25:25+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/hero-vitro-sta-rosa-300x200.jpg"
-    },
-    {
-      "title": "Developers seek growth in provincial affordable housing — S&P",
-      "link": "https://bworldonline.com/editors-picks/2026/10/06/784886/developers-seek-growth-in-provincial-affordable-housing-sp/",
-      "description": "PROPERTY DEVELOPERS are shifting toward affordable residential projects outside Metro Manila, where supply-demand conditions are more balanced, as&#8230;",
-      "date": "2026-10-06T13:24:26+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Housing-1-300x169.jpg"
-    },
-    {
-      "title": "Megawide secures P12.8 billion in new 4PH housing contracts",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784885/megawide-secures-p12-8-billion-in-new-4ph-housing-contracts/",
-      "description": "MEGAWIDE Construction Corp. has secured P12.8 billion worth of contracts for two housing projects under the government’s Expanded&#8230;",
-      "date": "2026-10-06T13:23:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/03/Megawide-300x200.jpg"
-    },
-    {
-      "title": "ACEN secures P3.5-B loan from ING for renewable projects",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784884/acen-secures-p3-5-b-loan-from-ing-for-renewable-projects/",
-      "description": "ACEN Corp., the listed energy platform of the Ayala group, has secured a €50-million term loan facility, equivalent&#8230;",
-      "date": "2026-10-06T13:22:18+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/02/ACEN-160-MW-Pagudpud-Wind-in-Ilocos-Norte-300x200.jpg"
-    },
-    {
-      "title": "Mynt IPO opens to retail investors via GStocks PH",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784883/mynt-ipo-opens-to-retail-investors-via-gstocks-ph/",
-      "description": "MYNT, the financial technology company behind GCash, has begun accepting subscriptions for its initial public offering (IPO), with&#8230;",
-      "date": "2026-10-06T13:21:22+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/05/Gcash-300x200.jpg"
-    },
-    {
-      "title": "Four Filipina executives make Fortune’s Asia power list",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784882/four-filipina-executives-make-fortunes-asia-power-list/",
-      "description": "FOUR Filipina executives were included in Fortune’s 100 Most Powerful Women in Asia for 2026, led by Mynt&#8230;",
-      "date": "2026-10-06T13:20:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/FORTUNE-300x212.jpg"
-    },
-    {
-      "title": "PetroGreen taps P1.24-B RCBC loan for Isabela solar project",
-      "link": "https://bworldonline.com/corporate/2026/10/06/785022/petrogreen-taps-p1-24-b-rcbc-loan-for-isabela-solar-project/",
-      "description": "PETROGREEN Energy Corp. (PGEC) has secured a loan facility of up to P1.24 billion from Rizal Commercial Banking&#8230;",
-      "date": "2026-10-06T13:19:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/02/solar-panel-300x200.jpg"
-    },
-    {
-      "title": "E-commerce demand drives Laguna warehouse lease — Savills",
-      "link": "https://bworldonline.com/corporate/2026/10/06/785021/e-commerce-demand-drives-laguna-warehouse-lease-savills/",
-      "description": "RISING e-commerce volumes and demand for faster last-mile delivery drove what Savills Philippines described as the country’s largest&#8230;",
-      "date": "2026-10-06T13:18:22+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/interior-large-distribution-warehouse-with-shelves-stacked-with-palettes-goods-ready-market-300x200.jpg"
-    },
-    {
-      "title": "Global cost pressures drive offshoring interest in PHL — LPC",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784880/global-cost-pressures-drive-offshoring-interest-in-phl-lpc/",
-      "description": "RISING operating costs and tighter foreign labor restrictions in Western economies are prompting more companies to consider shifting&#8230;",
-      "date": "2026-10-06T13:17:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/10/BPO-Call-center-employee-300x200.jpg"
-    },
-    {
-      "title": "Debt costs squeeze social spending as government budget space narrows",
-      "link": "https://bworldonline.com/the-nation/2026/10/06/784907/debt-costs-squeeze-social-spending-as-government-budget-space-narrows/",
-      "description": "RISING debt costs and other mandatory expenditures are squeezing the Philippine government’s spending room next year, contributing to cuts in education, health and other social services even as the proposed national budget grows by 6% to P7.2 trillion, according to a congressional think tank.",
-      "date": "2026-10-06T13:16:44+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/11/Hospital-patient-300x200.jpg"
-    },
-    {
-      "title": "RLC expands Pag-IBIG financing to more residential projects",
-      "link": "https://bworldonline.com/corporate/2026/10/06/784879/rlc-expands-pag-ibig-financing-to-more-residential-projects/",
-      "description": "ROBINSONS Land Corp. (RLC) has signed a memorandum of understanding (MoU) with the Home Development Mutual Fund, or&#8230;",
-      "date": "2026-10-06T13:16:18+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Sierra-Valley-300x169.jpg"
-    },
-    {
-      "title": "Marcos heads to Singapore to court investors, boost ties",
-      "link": "https://bworldonline.com/the-nation/2026/10/06/784905/marcos-heads-to-singapore-to-court-investors-boost-ties/",
-      "description": "PHILIPPINE President Ferdinand R. Marcos, Jr. will visit Singapore from Oct. 7 to 11 to court investors in key industries and deepen economic ties as the city-state prepares to take over the Association of Southeast Asian Nations (ASEAN) chairmanship next year.",
-      "date": "2026-10-06T13:15:42+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/05/PBBM-Marcos-5-300x200.jpg"
-    },
-    {
-      "title": "Duterte denies cash delivery, luxury gift allegations",
-      "link": "https://bworldonline.com/the-nation/2026/10/06/784910/duterte-denies-cash-delivery-luxury-gift-allegations/",
-      "description": "VICE-PRESIDENT Sara Duterte-Carpio on Tuesday denied allegations that she received millions of pesos in illegal cash deliveries and&#8230;",
-      "date": "2026-10-06T13:14:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/02/Sara-Duterte-Carpio-300x200.jpg"
-    },
-    {
-      "title": "Chinese state firms sent funds to firm linked to VP Duterte, says Hontiveros",
-      "link": "https://bworldonline.com/the-nation/2026/10/06/784909/chinese-state-firms-sent-funds-to-firm-linked-to-vp-duterte-says-hontiveros/",
-      "description": "SEVERAL Chinese state-owned enterprises sent funds to a company linked to Vice-President (VP) Sara Duterte-Carpio’s husband, a senator-judge said on Tuesday, raising questions about the source of P319.33 million in remittances from Mainland China and Hong Kong.",
-      "date": "2026-10-06T13:13:46+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Risa-Hontiveros-300x200.jpg"
     }
   ]
 }
