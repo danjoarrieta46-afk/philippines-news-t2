@@ -1,14 +1,266 @@
 {
-  "updated": "2026-10-14T11:17:57.581472+00:00",
+  "updated": "2026-10-14T15:54:27.566294+00:00",
   "items": [
     {
-      "title": "Lunch in Hong Kong (without taking flight)",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786934/lunch-in-hong-kong-without-taking-flight/",
-      "description": "FANCY a quick lunch in Hong Kong (without having to fly)? Thanks to the Grand Hyatt Manila, one can have lunch at the Grand Hyatt Hong Kong’s Ona Harbour Road — sort of.",
-      "date": "2026-10-14T11:14:02+00:00",
+      "title": "Tatay Elmer honored with final caravan",
+      "link": "https://www.rappler.com/people/obituary/video-tatay-elmer-cordero-caravan/",
+      "description": "Family members and peers from PISTON pay their final respects to the late jeepney driver and activist Elmer Cordero",
+      "date": "2026-10-14T14:33:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/imlOv201Pig"
+    },
+    {
+      "title": "Sara Duterte: I will never resign | The wRap",
+      "link": "https://www.rappler.com/video/daily-wrap/october-14-2026/",
+      "description": "Today’s headlines: Sara Duterte, Chiz Escudero, Rodrigo Duterte",
+      "date": "2026-10-14T14:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Inflation may top 8% on Super El Niño",
+      "link": "https://bworldonline.com/top-stories/2026/10/14/786909/inflation-may-top-8-on-super-el-nino/",
+      "description": "PHILIPPINE INFLATION could accelerate past 8% in the fourth quarter if a severe El Niño materializes, worsening supply disruptions and fueling broader price increases, Chinabank Research said.",
+      "date": "2026-10-14T13:33:34+00:00",
       "source": "BusinessWorld",
       "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/No.-8-China-House-Dishes-300x196.jpg"
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Vegetable-market-300x185.jpg"
+    },
+    {
+      "title": "Philippine condo developers bend terms, not prices",
+      "link": "https://bworldonline.com/top-stories/2026/10/14/786908/philippine-condo-developers-bend-terms-not-prices/",
+      "description": "PHILIPPINE property developers are offering longer payment terms and financing incentives instead of cutting condominium prices, as high mortgage rates and a record inventory of unsold units weigh on residential sales, property consultants said.",
+      "date": "2026-10-14T13:33:31+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Worker-repair-300x200.jpg"
+    },
+    {
+      "title": "BSP adopts new global standard for operational risk capital requirements",
+      "link": "https://bworldonline.com/top-stories/2026/10/14/786907/bsp-adopts-new-global-standard-for-operational-risk-capital-requirements/",
+      "description": "PHILIPPINE BANKS must now account for their past losses in computing their operational risk capital as the Bangko&#8230;",
+      "date": "2026-10-14T13:33:27+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/05/BSP-main-office-300x200.jpg"
+    },
+    {
+      "title": "PCCI urges reforms to boost Philippine competitiveness",
+      "link": "https://bworldonline.com/top-stories/2026/10/14/786906/pcci-urges-reforms-to-boost-philippine-competitiveness/",
+      "description": "THE PHILIPPINE Chamber of Commerce and Industry (PCCI) urged the government to prioritize reforms to develop economic corridors,&#8230;",
+      "date": "2026-10-14T13:33:25+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Building-skyline-300x200.jpg"
+    },
+    {
+      "title": "Duterte camp claims P500M wasted on dropped impeachment charges",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786924/duterte-camp-claims-p500m-wasted-on-dropped-impeachment-charges/",
+      "description": "VICE-PRESIDENT (VP) Sara Duterte-Carpio’s camp on Wednesday said the withdrawal of two impeachment charges had wasted about P500 million in taxpayers’ money, a figure disputed by Senator Panfilo M. Lacson, who said it represented the Senate’s regular operating expenses rather than the cost of the trial.",
+      "date": "2026-10-14T13:31:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/121026_38th-Senate-Impeachment-JR-15-300x200.jpg"
+    },
+    {
+      "title": "Trump to visit Manila for ASEAN summit in November",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786923/voluptio-igent-soluptasper-trump-to-visit-manila-for-asean-summit-in-november/",
+      "description": "US PRESIDENT Donald J. Trump will visit Manila for the Association of Southeast Asian Nations (ASEAN) summit in November, Malacañang said on Wednesday, as the Philippines and the US negotiate an agreement for a multibillion-dollar technology hub in New Clark City.",
+      "date": "2026-10-14T13:30:02+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/10/Donald-J.-Trump-300x200.jpg"
+    },
+    {
+      "title": "Senate eyes December budget approval amid spending concerns",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786922/senate-eyes-december-budget-approval-amid-spending-concerns/",
+      "description": "THE SENATE aims to finalize its version of the P7.2-trillion national budget for 2027 by the second week&#8230;",
+      "date": "2026-10-14T13:29:10+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/05/peso-currency-1-300x200.jpg"
+    },
+    {
+      "title": "CoA flags P40-B SSS paper losses",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786921/coa-flags-p40-b-sss-paper-losses/",
+      "description": "THE COMMISSION on Audit (CoA) flagged nearly P40 billion in unrealized investment losses at the Social Security System&#8230;",
+      "date": "2026-10-14T13:28:59+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/02/BRIEFS-1-SSS-Pensions-1200x795-1-BW-FILE-PHOTO-300x169.jpg"
+    },
+    {
+      "title": "China told: Stop illegal sea claims",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786920/china-told-stop-illegal-sea-claims/",
+      "description": "DEFENSE Secretary Gilberto C. Teodoro, Jr. on Wednesday said China must demonstrate sincerity, stop asserting territorial claims that&#8230;",
+      "date": "2026-10-14T13:27:12+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Teodoro-300x169.jpg"
+    },
+    {
+      "title": "Four in 10 expect Sara conviction",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786919/four-in-10-expect-sara-conviction/",
+      "description": "ABOUT 44% of voters expect the impeachment trial to result in Vice-President Sara Duterte-Carpio’s conviction against 31% who&#8230;",
+      "date": "2026-10-14T13:27:08+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PHILIPPINES-POLITICS-scaled-e1788666344162-300x200.jpg"
+    },
+    {
+      "title": "DSWD to launch water filtration kits",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786918/dswd-to-launch-water-filtration-kits/",
+      "description": "THE government is set to roll out household water filtration kits and establish community water depots nationwide as&#8230;",
+      "date": "2026-10-14T13:27:05+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Rex-Gatchalian-300x200.jpg"
+    },
+    {
+      "title": "Corruption, economy top PHL concerns",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786917/corruption-economy-top-phl-concerns/",
+      "description": "CORRUPTION in government and concerns over the economy are the leading issues the government should prioritize, according to&#8230;",
+      "date": "2026-10-14T13:27:01+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/11/ECONOMYPHOTOS-JR-300x200.jpg"
+    },
+    {
+      "title": "SC: Senior citizen discounts cannot be stacked on promo rates",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786916/sc-senior-citizen-discounts-cannot-be-stacked-on-promo-rates/",
+      "description": "SENIOR citizens may choose between a promotional discount and the mandated 20% discount, whichever offers greater savings when&#8230;",
+      "date": "2026-10-14T13:26:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/11/seniors_2020-03-30-philstar-migueldeguzman-300x200.jpg"
+    },
+    {
+      "title": "Binding UN treaty sought to hold multinationals accountable for abuses",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/786915/binding-un-treaty-sought-to-hold-multinationals-accountable-for-abuses/",
+      "description": "A LAWMAKER on Wednesday called for a legally binding international treaty that would hold multinational corporations accountable for&#8230;",
+      "date": "2026-10-14T13:26:36+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/09/United-Nations-Guterres-300x200.jpg"
+    },
+    {
+      "title": "Baguio eyes transport overhaul, but jeepney groups demand safeguards",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/787094/baguio-eyes-transport-overhaul-but-jeepney-groups-demand-safeguards/",
+      "description": "BAGUIO CITY — Baguio is eyeing a major public transport overhaul promising more reliable rides, wider route coverage&#8230;",
+      "date": "2026-10-14T13:26:26+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/04/Jeep-vehicle-300x191.jpg"
+    },
+    {
+      "title": "64 minors benefit from BARMM’s anti-child labor program",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/787095/64-minors-benefit-from-barmms-anti-child-labor-program/",
+      "description": "COTABATO CITY — Another big group of child laborers, struggling to earn something for their schooling and to&#8230;",
+      "date": "2026-10-14T13:26:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Nation-2026-default-300x169.jpg"
+    },
+    {
+      "title": "PSC chairman pushes for amendment to charter",
+      "link": "https://bworldonline.com/the-nation/2026/10/14/787093/psc-chairman-pushes-for-amendment-to-charter/",
+      "description": "THE Philippine Sports Commission (PSC) chairman on Wednesday raised the need to amend its charter which only focuses&#8230;",
+      "date": "2026-10-14T13:26:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/01/Rizal-Memorial-Stadium-300x200.jpg"
+    },
+    {
+      "title": "BoC still on target despite October broker protests",
+      "link": "https://bworldonline.com/economy/2026/10/14/786905/boc-still-on-target-despite-october-broker-protests/",
+      "description": "THE Bureau of Customs (BoC) said it remains on track to meet its P1.011-trillion collection target this year&#8230;",
+      "date": "2026-10-14T12:50:52+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/02/port-container-300x200.jpg"
+    },
+    {
+      "title": "AI countermeasures pitched as necessary shield against scams",
+      "link": "https://bworldonline.com/economy/2026/10/14/786914/ai-countermeasures-pitched-as-necessary-shield-against-scams/",
+      "description": "INDUSTRIES will need to adopt artificial intelligence (AI) to deter fraud, with scams becoming more sophisticated, according to&#8230;",
+      "date": "2026-10-14T12:50:45+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/08/PROCESSED_naipo-de-k24rOBJ2D_0-unsplash-OL-300x200.jpg"
+    },
+    {
+      "title": "Navotas feeder BRT enters financing negotiations, RoW acquisition stage",
+      "link": "https://bworldonline.com/economy/2026/10/14/786897/navotas-feeder-brt-enters-financing-negotiations-row-acquisition-stage/",
+      "description": "THE Department of Transportation (DoTr) said its P1.8-billion Navotas Feeder line, a bus rapid transit (BRT) project connecting&#8230;",
+      "date": "2026-10-14T12:50:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Navotas-300x200.jpg"
+    },
+    {
+      "title": "DoF urges ASEAN, WB to collaborate in packaging investable infra, AI projects",
+      "link": "https://bworldonline.com/economy/2026/10/14/786894/dof-urges-asean-wb-to-collaborate-in-packaging-investable-infra-ai-projects/",
+      "description": "FINANCE SECRETARY Frederick D. Go said Southeast Asian economies need to mobilize more private capital for infrastructure, artificial&#8230;",
+      "date": "2026-10-14T12:50:00+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/ASEAN-Go-300x200.jpg"
+    },
+    {
+      "title": "Vietnam rice import permit canceled after low-grade rice found in 5% broken shipment",
+      "link": "https://bworldonline.com/economy/2026/10/14/786913/vietnam-rice-import-permit-canceled-after-low-grade-rice-found-in-5-broken-shipment/",
+      "description": "THE Department of Agriculture (DA) said it canceled the rice import permit covering a 12,480-metric ton (MT) shipment&#8230;",
+      "date": "2026-10-14T12:49:57+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/08/rice-farmer-300x200.jpg"
+    },
+    {
+      "title": "DBM rejects link between budget utilization, effective service delivery",
+      "link": "https://bworldonline.com/economy/2026/10/14/786912/dbm-rejects-link-between-budget-utilization-effective-service-delivery/",
+      "description": "GOVERNMENT AGENCIES can spend 98% of their budgets and still fail to deliver meaningful results, Acting Budget Secretary&#8230;",
+      "date": "2026-10-14T12:49:53+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/12/dbm-filefoto-300x164.jpg"
+    },
+    {
+      "title": "DoF’s Go calls for evolving relationship between UMICs, multilateral institutions",
+      "link": "https://bworldonline.com/economy/2026/10/14/786910/dofs-go-calls-for-evolving-relationship-between-umics-multilateral-institutions/",
+      "description": "FINANCE SECRETARY Frederick D. Go urged multilateral lenders to offer more flexible financing to countries transitioning to upper-middle&#8230;",
+      "date": "2026-10-14T12:49:28+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/07/residential-area-building-skyline-300x200.jpg"
+    },
+    {
+      "title": "Reclaiming VAT: Good news for exporters",
+      "link": "https://bworldonline.com/economy/2026/10/14/786911/reclaiming-vat-good-news-for-exporters/",
+      "description": "Tax issuances rarely bring good news. Yet for qualified export-oriented enterprises, Revenue Memorandum Circular (RMC) No. 96-2026 may&#8230;",
+      "date": "2026-10-14T12:48:18+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/20260925-BWorld-Website-Opinion-Headers-Taxwise-Or-Otherwise-1080x720-v3-light-C-300x200.jpg"
+    },
+    {
+      "title": "New York Public Radio, Rappler co-present ‘Democracy Dialogues’ on October 15, US time",
+      "link": "https://www.rappler.com/about/new-york-public-radio-rappler-democracy-dialogues-october-15-2026/",
+      "description": "Nobel Peace Prize laureate Maria Ressa joins WNYC’s Brian Lehrer in New York for a live conversation on defending and rebuilding democracy in the age of artificial intelligence",
+      "date": "2026-10-14T12:39:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "In the Public Square: Cardinal Chito Tagle, Dean of Cardinals",
+      "link": "https://www.rappler.com/philippines/in-the-public-square-luis-antonio-tagle-dean-catholic-cardinals/",
+      "description": "What does Tagle's elevation to such a post mean? Is it only ceremonial, or is it in fact an important development?",
+      "date": "2026-10-14T12:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "FAST FACTS: What changed in final version of the under-18 social media ban bill?",
@@ -20,235 +272,10 @@
       "image": "https://www.rappler.com/tachyon/2025/12/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA-scaled.jpg?resize=75%2C75&crop=420px%2C0px%2C1708px%2C1708px"
     },
     {
-      "title": "Is fine dining dead? That’s the wrong question",
-      "link": "https://bworldonline.com/bloomberg/2026/10/14/786933/is-fine-dining-dead-thats-the-wrong-question/",
-      "description": "BRUNO VERJUS, the restaurant-critic-turned-chef, reignited an old debate in July when he announced he was shutting down Table, his two-Michelin-starred Paris restaurant. His provocation: “Fine dining is dead.” It was too exclusive. Too expensive. Too isolated from the realities of a world of pocketbook-conscious ordinary people. He wasn’t saying anything original.",
-      "date": "2026-10-14T11:10:26+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/picture-set-table-classic-restaurant-300x200.jpg"
-    },
-    {
-      "title": "Kiwami adds modern yakitori kitchen to its menu",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786932/kiwami-adds-modern-yakitori-kitchen-to-its-menu/",
-      "description": "KIWAMI Japanese Master Kitchens is adding a new member to its array of specialty kitchens: Roen, House of&#8230;",
-      "date": "2026-10-14T11:09:42+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Kiwami-300x150.jpg"
-    },
-    {
-      "title": "Dining In/Out (10/15/26)",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786931/dining-in-out-10-15-26/",
-      "description": "THE Whisky Library at Newport World Resorts traces the character of Tasmania through Lark Whisky.",
-      "date": "2026-10-14T11:09:05+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Photo-Lark-Masterclass-at-The-Whisky-Library-October-21-2026-212x300.jpg"
-    },
-    {
-      "title": "The Pen lights Christmas tree, celebrates 50th anniversary",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786929/the-pen-lights-christmas-tree-celebrates-50th-anniversary/",
-      "description": "THE Peninsula Manila has seen a busy year, thanks to celebrations commemorating its 50th anniversary, celebrating its 1976&#8230;",
-      "date": "2026-10-14T11:06:27+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Peninsula-Manila-300x300.jpg"
-    },
-    {
-      "title": "Ex-gang leader sentenced to 40 years to life in prison for Tupac Shakur murder",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786928/ex-gang-leader-sentenced-to-40-years-to-life-in-prison-for-tupac-shakur-murder/",
-      "description": "LAS VEGAS — A former gang leader was sentenced to 40 years to life in prison on Tuesday&#8230;",
-      "date": "2026-10-14T11:05:05+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Alleyezonme-300x300.jpg"
-    },
-    {
-      "title": "Hundreds queue in Hong Kong to glimpse Van Gogh painting unseen in public for 60 years",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786927/hundreds-queue-in-hong-kong-to-glimpse-van-gogh-painting-unseen-in-public-for-60-years/",
-      "description": "HONG KONG — Hundreds of people queued in Hong Kong on Tuesday to view a Vincent van Gogh&#8230;",
-      "date": "2026-10-14T11:04:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/ART-AUCTION-BLAQUIER-ARRIETA-COLLECTION-300x200.jpg"
-    },
-    {
-      "title": "Tuscan winemaker Antinori sees red after $6-million theft",
-      "link": "https://bworldonline.com/arts-and-leisure/2026/10/14/786926/tuscan-winemaker-antinori-sees-red-after-6-million-theft/",
-      "description": "ROME — Thieves stole around 30,000 bottles of premium wine worth about €5 million ($5.8 million) from a&#8230;",
-      "date": "2026-10-14T11:03:42+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/05/Set-of-red-wine-glasses-with-shadow-300x200.jpg"
-    },
-    {
-      "title": "Term deposit yield edges up as market prices in rate hike view",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786943/term-deposit-yield-edges-up-as-market-prices-in-rate-hike-view/",
-      "description": "THE AVERAGE YIELD on the Bangko Sentral ng Pilipinas’ (BSP) term deposits inched up on Wednesday despite strong&#8230;",
-      "date": "2026-10-14T10:52:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/03/BSP_3821-300x200.jpg"
-    },
-    {
-      "title": "Peso extends slide before US consumer inflation data",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786942/peso-extends-slide-before-us-consumer-inflation-data/",
-      "description": "THE PESO sank further against the dollar on Wednesday, inching close to its record low, on expectations of&#8230;",
-      "date": "2026-10-14T10:51:55+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/06/peso-coins-currency-2-300x200.jpg"
-    },
-    {
-      "title": "Maya eyes PERA product launch",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786941/maya-eyes-pera-product-launch/",
-      "description": "MAYA Philippines, Inc. is looking to launch a Personal Equity Retirement Account (PERA) product and is already in&#8230;",
-      "date": "2026-10-14T10:51:32+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Maya-logo-300x169.jpg"
-    },
-    {
-      "title": "Sun Life Philippines to wind down trust operations",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786937/sun-life-philippines-to-wind-down-trust-operations/",
-      "description": "SUN LIFE of Canada (Philippines), Inc. (Sun Life Philippines) is set to shut down its trust unit Sun&#8230;",
-      "date": "2026-10-14T10:50:30+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/12/Sun-Life-2-300x169.jpg"
-    },
-    {
-      "title": "PNB partners with ATRAM to expand product access",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786936/pnb-partners-with-atram-to-expand-product-access/",
-      "description": "PHILIPPINE National Bank (PNB), through its brokerage arm PNB Securities, Inc., has partnered with ATRAM Trust Corp. to&#8230;",
-      "date": "2026-10-14T10:49:48+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/PNB-300x200.jpg"
-    },
-    {
-      "title": "AMLC, Mizuho Bank Manila ink information-sharing protocol",
-      "link": "https://bworldonline.com/banking-finance/2026/10/14/786935/amlc-mizuho-bank-manila-ink-information-sharing-protocol/",
-      "description": "THE ANTI-MONEY Laundering Council (AMLC) signed an information-sharing protocol (ISP) with Mizuho Bank Ltd., Manila Branch to tighten&#8230;",
-      "date": "2026-10-14T10:49:32+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/08/AMLC-logo-300x169.jpg"
-    },
-    {
-      "title": "PLDT, mWell expand digital health reach",
-      "link": "https://bworldonline.com/corporate/2026/10/14/786987/pldt-mwell-expand-digital-health-reach/",
-      "description": "PLDT INC., through its smart home and lifestyle add-on ecosystem, PLDT Home Life, and digital health and wellness&#8230;",
-      "date": "2026-10-14T10:45:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/mwell-evert-miranda-300x200.jpg"
-    },
-    {
-      "title": "PSEi plunges to 5,600 level as sell-off continues",
-      "link": "https://bworldonline.com/stock-market/2026/10/14/786880/psei-plunges-to-5600-level-as-sell-off-continues/",
-      "description": "PHILIPPINE STOCKS remained in the negative territory on Wednesday, with the index sinking back to the 5,600 level,&#8230;",
-      "date": "2026-10-14T10:42:50+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/08/PSE-bell-1-300x199.jpg"
-    },
-    {
       "title": "You can’t add senior discount on top of other deals – SC",
       "link": "https://www.rappler.com/philippines/supreme-court-decision-senior-citizen-discount-cannot-add-other-deals/",
       "description": "'When goods or services are offered at promotional prices, senior citizens may choose either the promotional discount or the 20% senior citizen discount, whichever gives them greater savings,' the High Court says",
       "date": "2026-10-14T10:40:46+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Retail sector faces rising cyberthreats as attackers target consumer data",
-      "link": "https://bworldonline.com/technology/2026/10/14/786947/retail-sector-faces-rising-cyberthreats-as-attackers-target-consumer-data/",
-      "description": "THE RETAIL INDUSTRY is seeing an increase in cyber incidents as the sector becomes more digitalized, with these&#8230;",
-      "date": "2026-10-14T10:39:58+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/09/s5.1-ecommerce-filefoto-300x164.jpg"
-    },
-    {
-      "title": "Apple bets on screen gadget, Siri AI in home device push",
-      "link": "https://bworldonline.com/technology/2026/10/14/786946/apple-bets-on-screen-gadget-siri-ai-in-home-device-push/",
-      "description": "NEW YORK — Apple on Tuesday launched a raft of smart products, including an iPad-like device dubbed the&#8230;",
-      "date": "2026-10-14T10:39:55+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Apple-HomeView-lineup-300x169.jpg"
-    },
-    {
-      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web",
-      "link": "https://bworldonline.com/technology/2026/10/14/786945/anthropic-warns-ai-models-may-soon-self-replicate-and-could-wreak-havoc-on-the-web/",
-      "description": "A NEW WARNING about artificial intelligence (AI) from Anthropic caused a stir in cybersecurity circles on Tuesday, a&#8230;",
-      "date": "2026-10-14T10:39:51+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/03/ai-technology-human-interaction-1-300x164.jpg"
-    },
-    {
-      "title": "SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet",
-      "link": "https://bworldonline.com/technology/2026/10/14/786948/softbank-junk-bond-sale-raises-stakes-for-ceo-sons-all-in-ai-bet/",
-      "description": "TOKYO — SoftBank&#8217;s promise to pay its highest-ever yields in a record $11-billion junk-bond offering highlights the pressure&#8230;",
-      "date": "2026-10-14T10:39:48+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Softbank_mobile_logo-300x169.jpg"
-    },
-    {
-      "title": "Taiwan must ‘bear the consequences’ of water cannon incident, China says",
-      "link": "https://bworldonline.com/world/2026/10/14/786950/taiwan-must-bear-the-consequences-of-water-cannon-incident-china-says/",
-      "description": "BEIJING/TAIPEI — Taiwan must “bear the consequences” of its Coast Guard using a water cannon against a Chinese&#8230;",
-      "date": "2026-10-14T10:38:34+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/12/IMF-300x200.jpg"
-    },
-    {
-      "title": "Trump: ‘Massive’ oil, gas and mineral exploration to begin in Greenland",
-      "link": "https://bworldonline.com/world/2026/10/14/786949/trump-massive-oil-gas-and-mineral-exploration-to-begin-in-greenland/",
-      "description": "US PRESIDENT Donald J. Trump said on Wednesday that “massive” oil, gas and mineral exploration is getting ready&#8230;",
-      "date": "2026-10-14T10:38:30+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Houses-300x200.jpg"
-    },
-    {
-      "title": "Vietnam says trade talks with US nearly completed; US officials more cautious",
-      "link": "https://bworldonline.com/world/2026/10/14/786951/vietnam-says-trade-talks-with-us-nearly-completed-us-officials-more-cautious/",
-      "description": "HANOI — Vietnam and the US have nearly completed negotiations covering a trade deal, Vietnamese Deputy Prime Minister&#8230;",
-      "date": "2026-10-14T10:38:14+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/06/Vietnam-Flag-300x200.jpg"
-    },
-    {
-      "title": "St. Luke’s launches cancer genomics service for personalized care",
-      "link": "https://bworldonline.com/corporate/2026/10/14/786881/st-lukes-launches-cancer-genomics-service-for-personalized-care/",
-      "description": "St. Luke’s Medical Center launched its Cancer Genomics Service on Wednesday at its Quezon City hospital to help&#8230;",
-      "date": "2026-10-14T10:36:42+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/st-lukes-genomics-300x200.jpg"
-    },
-    {
-      "title": "Now… to work",
-      "link": "https://bworldonline.com/opinion/2026/10/14/786940/now-to-work/",
-      "description": "The Sept. 22 Philippines-European Union (EU) joint announcement of their “substantial agreement on a free trade agreement (FTA)&#8230;&#8230;",
-      "date": "2026-10-14T10:34:20+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/PHL-flag-1-300x177.jpg"
-    },
-    {
-      "title": "In the Public Square: Cardinal Chito Tagle, Dean of Cardinals",
-      "link": "https://www.rappler.com/philippines/in-the-public-square-luis-antonio-tagle-dean-catholic-cardinals/",
-      "description": "What does Tagle's elevation to such a post mean? Is it only ceremonial, or is it in fact an important development?",
-      "date": "2026-10-14T10:19:56+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
@@ -306,33 +333,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/10/Negros-Occidental-Tino2.jpeg?resize=75%2C75&crop=139px%2C0px%2C1536px%2C1536px"
-    },
-    {
-      "title": "Dropping 3 impeachment articles vs Sara, who benefits?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/who-benefits-dropping-impeachment-articles-against-sara-duterte/",
-      "description": "The faster we get to a vote, the sooner everyone who wants to imagine a 2028 playing field without Sara Duterte can start planning for it",
-      "date": "2026-10-14T09:15:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/gjXne1uM9S8"
-    },
-    {
-      "title": "FBI arrests Saudi OpenAI engineer over covert recording device, DOJ says",
-      "link": "https://www.rappler.com/technology/fbi-arrests-saudi-openai-engineer-covert-recording-device/",
-      "description": "OpenAI discovers the recording device plugged into a USB port on the back of a television in an executive conference room at one of its San Francisco buildings on September 30",
-      "date": "2026-10-14T08:27:05+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "After prosecution’s bombshells, what does Sara’s defense have?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/after-prosecution-bombshells-sara-duterte-defense-team-moves/",
-      "description": "A lawyer tells Rappler what the defense 'bombshells' might be, when the impeachment trial resumes on November 9",
-      "date": "2026-10-14T07:57:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/iLo51u656Xc"
     },
     {
       "title": "Suspected mastermind in Laos shabu shipment to Philippines identified — PDEA",
