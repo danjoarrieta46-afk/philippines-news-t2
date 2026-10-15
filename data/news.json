@@ -1,6 +1,87 @@
 {
-  "updated": "2026-10-14T23:07:59.608496+00:00",
+  "updated": "2026-10-15T01:40:21.810026+00:00",
   "items": [
+    {
+      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+      "link": "https://bworldonline.com/technology/2026/10/15/787127/eight-us-states-sue-openai-claiming-chatgpt-harms-young-users/",
+      "description": "A BIPARTISAN group of eight states said on Wednesday they had sued OpenAI in courts across the country&#8230;",
+      "date": "2026-10-15T01:14:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/05/OpenAI-ChatGPT-logos-300x200.jpg"
+    },
+    {
+      "title": "Judge extends White House access for CNN, MS NOW, Politico amid legal fight",
+      "link": "https://bworldonline.com/world/2026/10/15/787124/judge-extends-white-house-access-for-cnn-ms-now-politico-amid-legal-fight/",
+      "description": "WASHINGTON — A federal judge extended access to the White House for CNN, MS NOW and Politico journalists,&#8230;",
+      "date": "2026-10-15T00:59:20+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/11/White-House-300x169.jpg"
+    },
+    {
+      "title": "What is lung adenocarcinoma, the cancer diagnosed in Pope Leo?",
+      "link": "https://www.rappler.com/newsbreak/explainers/lung-adenocarcinoma-cancer-pope-leo/",
+      "description": "Adenocarcinoma is the most common subtype of non-small cell lung cancer, often found in non-smokers and typically grows slowly",
+      "date": "2026-10-15T00:57:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/09/pope-leo-xiv-vatican-september-23-2026-reuters-scaled.jpg?resize=75%2C75&crop=804px%2C0px%2C1704px%2C1704px"
+    },
+    {
+      "title": "Two ships sink near Hormuz after being hit by projectiles amid surge in attacks",
+      "link": "https://bworldonline.com/world/2026/10/15/787121/two-ships-sink-near-hormuz-after-being-hit-by-projectiles-amid-surge-in-attacks/",
+      "description": "LONDON — A container ship and a dry bulk carrier have both sunk near the Strait of Hormuz&#8230;",
+      "date": "2026-10-15T00:54:47+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/03/2026-03-12T092802Z_1470907184_RC2B2KA4C2JA_RTRMADP_3_IEA-OIL-300x201.jpg"
+    },
+    {
+      "title": "Trump says he hopes Pope Leo will ‘get better fast’",
+      "link": "https://bworldonline.com/world/2026/10/15/787118/trump-says-he-hopes-pope-leo-will-get-better-fast/",
+      "description": "BULLHEAD CITY, Arizona — President Donald Trump said on Wednesday he hoped that Pope Leo, who has been&#8230;",
+      "date": "2026-10-15T00:53:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/08/Donald-Trump-300x191.jpg"
+    },
+    {
+      "title": "Pope Leo back on his feet after shock cancer diagnosis",
+      "link": "https://www.rappler.com/world/europe/pope-leo-recovery-shock-cancer-diagnosis/",
+      "description": "Blood tests and a chest X-ray show normal post-operative results, the Vatican says, adding that the pontiff had undergone respiratory physiotherapy",
+      "date": "2026-10-15T00:34:03+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/2026-10-14T072016Z_1272926804_RC2U2OA4OMFP_RTRMADP_3_POPE-HEALTH-MASS-scaled.jpg?resize=75%2C75&crop=181px%2C0px%2C1708px%2C1708px"
+    },
+    {
+      "title": "[Vantage Point] Semirara: The government is auctioning an energy crisis",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-semirara-mining-power-auction-energy-crisis/",
+      "description": "The government’s pursuit of the highest financial offer may inadvertently trigger the Philippines' most expensive energy failure",
+      "date": "2026-10-15T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/07/panian-mine-semirara-wikimedia-commons-1.jpg?resize=75%2C75&crop=843px%2C0px%2C1083px%2C1083px"
+    },
+    {
+      "title": "Ombudsman grants over 1,600 SALN requests in a year",
+      "link": "https://www.philstar.com/headlines/2026/10/15/2563219/ombudsman-grants-over-1600-saln-requests-year",
+      "description": "In a statement on Wednesday, October 14, the Office of the Ombudsman said that it has granted 1655 SALN requests.",
+      "date": "2026-10-14T23:44:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Rapper-economist Cielo Magno confirms she will run for Senate",
+      "link": "https://www.rappler.com/philippines/rapper-economist-cielo-magno-running-senate-2028-elections/",
+      "description": "(1st UPDATE) Will anti-corruption crusader Cielo Magno succeed where former NEDA chief Winnie Monsod failed?",
+      "date": "2026-10-14T23:15:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/6dDQWJNIsNY"
+    },
     {
       "title": "DSWD demos water filtration kits to push Marcos’ bucket wisdom",
       "link": "https://www.rappler.com/newsbreak/inside-track/dswd-demonstration-water-filtration-marcos-balde-advice/",
@@ -86,15 +167,6 @@
       "title": "Legarda extends leave anew",
       "link": "https://www.philstar.com/headlines/2026/10/15/2563324/legarda-extends-leave-anew",
       "description": "Sen. Loren Legarda has asked for another extension of her medical leave abroad, Senate Secretary Renato Bantug Jr. confirmed yesterday.",
-      "date": "2026-10-14T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP to House prosecutors: Where’s the evidence?",
-      "link": "https://www.philstar.com/headlines/2026/10/15/2563325/vp-house-prosecutors-wheres-evidence",
-      "description": "Vice President Sara Duterte believes that the House prosecutors had to&nbsp;withdraw three of the four cases in the ongoing Senate impeachment trial against her after failing to present strong evidence.",
       "date": "2026-10-14T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -308,42 +380,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/ASEAN-Go-300x200.jpg"
     },
     {
-      "title": "Vietnam rice import permit canceled after low-grade rice found in 5% broken shipment",
-      "link": "https://bworldonline.com/economy/2026/10/14/786913/vietnam-rice-import-permit-canceled-after-low-grade-rice-found-in-5-broken-shipment/",
-      "description": "THE Department of Agriculture (DA) said it canceled the rice import permit covering a 12,480-metric ton (MT) shipment&#8230;",
-      "date": "2026-10-14T12:49:57+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/08/rice-farmer-300x200.jpg"
-    },
-    {
-      "title": "DBM rejects link between budget utilization, effective service delivery",
-      "link": "https://bworldonline.com/economy/2026/10/14/786912/dbm-rejects-link-between-budget-utilization-effective-service-delivery/",
-      "description": "GOVERNMENT AGENCIES can spend 98% of their budgets and still fail to deliver meaningful results, Acting Budget Secretary&#8230;",
-      "date": "2026-10-14T12:49:53+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/12/dbm-filefoto-300x164.jpg"
-    },
-    {
-      "title": "DoF’s Go calls for evolving relationship between UMICs, multilateral institutions",
-      "link": "https://bworldonline.com/economy/2026/10/14/786910/dofs-go-calls-for-evolving-relationship-between-umics-multilateral-institutions/",
-      "description": "FINANCE SECRETARY Frederick D. Go urged multilateral lenders to offer more flexible financing to countries transitioning to upper-middle&#8230;",
-      "date": "2026-10-14T12:49:28+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/07/residential-area-building-skyline-300x200.jpg"
-    },
-    {
-      "title": "Reclaiming VAT: Good news for exporters",
-      "link": "https://bworldonline.com/economy/2026/10/14/786911/reclaiming-vat-good-news-for-exporters/",
-      "description": "Tax issuances rarely bring good news. Yet for qualified export-oriented enterprises, Revenue Memorandum Circular (RMC) No. 96-2026 may&#8230;",
-      "date": "2026-10-14T12:48:18+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/20260925-BWorld-Website-Opinion-Headers-Taxwise-Or-Otherwise-1080x720-v3-light-C-300x200.jpg"
-    },
-    {
       "title": "New York Public Radio, Rappler co-present ‘Democracy Dialogues’ on October 15, US time",
       "link": "https://www.rappler.com/about/new-york-public-radio-rappler-democracy-dialogues-october-15-2026/",
       "description": "Nobel Peace Prize laureate Maria Ressa joins WNYC’s Brian Lehrer in New York for a live conversation on defending and rebuilding democracy in the age of artificial intelligence",
@@ -369,42 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2025/12/2025-12-09T031523Z_863589627_RC2QCIAR4COP_RTRMADP_3_AUSTRALIA-SOCIALMEDIA-scaled.jpg?resize=75%2C75&crop=420px%2C0px%2C1708px%2C1708px"
-    },
-    {
-      "title": "You can’t add senior discount on top of other deals – SC",
-      "link": "https://www.rappler.com/philippines/supreme-court-decision-senior-citizen-discount-cannot-add-other-deals/",
-      "description": "'When goods or services are offered at promotional prices, senior citizens may choose either the promotional discount or the 20% senior citizen discount, whichever gives them greater savings,' the High Court says",
-      "date": "2026-10-14T10:40:46+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "JV Ejercito flags ‘major changes’ in House-approved 2027 budget bill",
-      "link": "https://www.rappler.com/philippines/national-news/jv-ejercito-flags-major-changes-house-representatives-version-2027-budget-bill/",
-      "description": "'The cuts to preventive health programs are substantial, while medical assistance has increased,' says Senate finance committee chairperson JV Ejercito",
-      "date": "2026-10-14T10:07:36+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Be The Good] Help youth leaders, students attend Social Good Summit 2026",
-      "link": "https://www.rappler.com/voices/newsletters/be-the-good-social-good-summit-2026-ticket-sponsor/",
-      "description": "More than an event, it's a resounding declaration for the need to put humans at the center of any technology, most especially generative AI",
-      "date": "2026-10-14T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/nbi-melvin-matibag-duterte-properties-october-12-2026-002-scaled.jpg?resize=75%2C75&crop=304px%2C0px%2C1707px%2C1707px"
-    },
-    {
-      "title": "Comedian Russell Brand was a sexual predator, UK prosecutors say",
-      "link": "https://www.rappler.com/people/crimes/comedian-russell-brand-sexual-predator-uk-rape-case/",
-      "description": "Brand faces three counts of rape, three counts of sexual assault, and one count of indecent assault relating to six women from 1999 to 2009",
-      "date": "2026-10-14T09:37:43+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
