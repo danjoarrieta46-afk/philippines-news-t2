@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-19T21:20:34.374211+00:00",
+  "updated": "2026-10-20T00:30:33.807916+00:00",
   "items": [
+    {
+      "title": "Pope Leo to hold Wednesday audience for first time since cancer surgery",
+      "link": "https://www.rappler.com/world/europe/pope-leo-hold-wednesday-audience-first-time-cancer-surgery/",
+      "description": "Pope Leo pledges that he would slowly resume his usual activities as the leader of the world's 1.4 billion Catholics",
+      "date": "2026-10-20T00:13:25+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/04/2026-04-13T000157Z_2080227099_RC2YIKADNKFT_RTRMADP_3_POPE-AFRICA.jpg?resize=75%2C75&crop=0px%2C0px%2C1333px%2C1333px"
+    },
+    {
+      "title": "France in turmoil: What might follow a weekend of riots?",
+      "link": "https://www.rappler.com/world/europe/france-turmoil-what-might-follow-weekend-riots/",
+      "description": "Elections next year will see President Emmanuel Macron step down after a decade in power. The unrest is likely to give a boost to far-right presidential candidate Marine Le Pen, the frontrunner in polls who has long talked tough on law and order.",
+      "date": "2026-10-19T23:52:12+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/FRANCE-PROTEST1-2026-10-18-scaled.jpg?resize=75%2C75&crop=342px%2C0px%2C1729px%2C1729px"
+    },
+    {
+      "title": "Super Typhoon Champi maintains strength near Philippines",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564498/super-typhoon-champi-maintains-strength-near-philippines",
+      "description": "In its weather forecast on Tuesday, October 20, PAGASA said Champi is estimated to be 1,605 kilometers east of Central Luzon, with maximum sustained winds of 195 kilometers per hour (kph) and gusts up to 240 kph.",
+      "date": "2026-10-19T23:48:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "7 Filipinos hurt in attacks on Saudi Arabia; 3 in critical condition",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564322/7-filipinos-hurt-attacks-saudi-arabia-3-critical-condition",
+      "description": "&nbsp;\n\n&nbsp;Seven Filipino workers have been wounded in a string of attacks on Saudi Arabia, three of them critically, the Department of Foreign Affair said on Monday, October 19. Manila called on &ldquo;all parties to cease hostilities.&rdquo;",
+      "date": "2026-10-19T23:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Alternergy Holdings Corp. to hold Annual Stockholders’ Meeting on Nov. 10",
       "link": "https://bworldonline.com/spotlight/2026/10/20/787388/alternergy-holdings-corp-to-hold-annual-stockholders-meeting-on-nov-10-2/",
@@ -9,6 +45,78 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/Alternergy-ASM-OL-195x300.jpg"
+    },
+    {
+      "title": "Senators grill DENR on El Niño response",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564414/senators-grill-denr-el-nio-response",
+      "description": "During the Department of Environment and Natural Resources&nbsp;budget hearing yesterday, senators grilled agency officials about the country&rsquo;s El Ni&ntilde;o response, including the deployment of water impounding facilities and the closure of non-essential water services like resorts and fountains",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Champi reintensifies as super typhoon",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564420/champi-reintensifies-super-typhoon",
+      "description": "The super typhoon outside the Philippine area of responsibility, with the international name Champi, reintensified into a super typhoon yesterday, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Vico, Baste among preferred Senate bets in 2028",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564424/vico-baste-among-preferred-senate-bets-2028",
+      "description": "Pasig City Mayor Vico Sotto and Davao City Mayor Sebastian Duterte are among the most preferred personalities to run for the Senate in 2028, according to the latest survey by OCTA Research group.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Marcos: Ensure safety of Filipinos in Paris, Italy",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564428/marcos-ensure-safety-filipinos-paris-italy",
+      "description": "President Marcos has ordered concerned agencies to ensure the safety of all Filipinos living in France and Italy amid massive protests, riots and looting in the two neighboring countries.&nbsp;",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Up to 60 suitcases seen at Zaldy’s units by ex-aides",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564432/60-suitcases-seen-zaldys-units-ex-aides",
+      "description": "Despite maintaining they had &ldquo;no personal knowledge&rdquo; of the contents, two police officers who previously worked as security staff of fugitive former Ako Bicol party-list congressman Zaldy Co claimed they saw up to 60 suitcases delivered to his two units at a high-end residential building in Taguig City.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Jonvic: Atong Ang has left Philippines",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564436/jonvic-atong-ang-has-left-philippines",
+      "description": "Fugitive gaming tycoon Charlie &ldquo;Atong&rdquo; Ang has already left the country and was last seen in Cambodia, according to Interior Secretary Jonvic Remulla.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "CIDG summons 21 over Laos drug shipment probe",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564438/cidg-summons-21-over-laos-drug-shipment-probe",
+      "description": "The Philippine National Police-Criminal Investigation and Detection Group&nbsp;has summoned at least 21 people in connection with the foiled shipment of 521 kilos of suspected shabu worth P3.5 billion from Laos to the Philippines.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Senate urged to scrap House GAA infrastructure insertions",
+      "link": "https://www.philstar.com/headlines/2026/10/20/2564441/senate-urged-scrap-house-gaa-infrastructure-insertions",
+      "description": "A budget watchdog has urged the Senate to remove infrastructure projects inserted by the House of Representatives into the proposed P7.2-trillion national budget, citing lack of proper documentation and underfunding of foreign-assisted projects.",
+      "date": "2026-10-19T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Alex Eala kicks off Ningbo Open campaign with win over Diane Parry",
@@ -297,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/10/2.-Pic-for-Rappler-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Why did 3 SET senator-members favor Erwin Tulfo’s ouster?",
-      "link": "https://www.rappler.com/newsbreak/inside-track/minority-senators-vote-senate-electoral-tribunal-petition-erwin-tulfo/",
-      "description": "'Justice and fairness went out of the window when three minority senator-members voted in favor of an out-of-time motion for reconsideration filed by a petitioner without legal standing,' says Senator Ping Lacson",
-      "date": "2026-10-19T09:15:29+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
-    },
-    {
-      "title": "Three months of experience with an ergonomic vertical mouse",
-      "link": "https://www.rappler.com/culture-desk/fantech-vertical-mouse-review/",
-      "description": "If you get wrist strains, this could be up your alley",
-      "date": "2026-10-19T09:14:38+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/VERTICAL-MOUSE-4-OCT-17-2026.jpg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
