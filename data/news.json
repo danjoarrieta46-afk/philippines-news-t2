@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-20T22:56:29.992607+00:00",
+  "updated": "2026-10-21T01:23:34.358747+00:00",
   "items": [
+    {
+      "title": "Three issues defining the 2026 US midterm elections",
+      "link": "https://www.rappler.com/world/us-canada/issues-defining-2026-us-midterm-elections/",
+      "description": "US President Donald Trump's record-low popularity, voter concerns over affordability and a fierce immigration debate are shaping the November 3 US midterm elections, which will determine control of Congress",
+      "date": "2026-10-21T00:13:02+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "France to deploy troops, admits to failures over weekend unrest",
+      "link": "https://www.rappler.com/world/europe/france-deploy-troops-admits-failures-weekend-unrest/",
+      "description": "Targeted curfews are implemented to restore calm, with the government admitting to intelligence failures and static police deployments during the unrest",
+      "date": "2026-10-20T23:44:01+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/france-student-protest-october-13-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Parts of Northern Luzon to be rainy as Super Typhoon Rosal speeds up",
+      "link": "https://www.rappler.com/philippines/weather/super-typhoon-rosal-update-pagasa-forecast-october-21-2026-5am/",
+      "description": "Super Typhoon Rosal (Champi) is located 990 kilometers east of Northern Luzon at 4 am on Wednesday, October 21",
+      "date": "2026-10-20T23:40:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-21-2026-5am-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Signal No. 1 up in 7 areas as Super Typhoon Rosal intensifies",
+      "link": "https://www.philstar.com/weather/2026/10/21/2564764/signal-no-1-7-areas-super-typhoon-rosal-intensifies",
+      "description": "Tropical Cyclone Wind Signal No. 1 remains in effect over several parts of Luzon as Super Typhoon Rosal&nbsp;(international name: Champi) further intensified while moving over the sea east of Northern Luzon, the state weather bureau PAGASA said Wednesday.",
+      "date": "2026-10-20T23:35:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Padayon Cebu: A new space to chat how to make the province more livable",
+      "link": "https://www.rappler.com/philippines/launch-padayon-cebu-chat-room-muni-livable-province/",
+      "description": "Rappler and civil society groups launch a workspace in the Rappler app to push for a better quality of life in Cebu",
+      "date": "2026-10-20T23:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/move-cebu-forum-01.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "[Vantage Point] GCash ends debut flat at P6.60 as early gains fade",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-gcash-ends-debut-flat-early-gains-ipo-fade/",
+      "description": "Political theater cannot override market valuation",
+      "date": "2026-10-20T23:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/0-1.jpeg?resize=75%2C75&crop=136px%2C0px%2C360px%2C360px"
+    },
     {
       "title": "Mynt successfully lists on the PSE, charting what’s next for digital finance in the Philippines",
       "link": "https://bworldonline.com/spotlight/2026/10/21/788086/mynt-successfully-lists-on-the-pse-charting-whats-next-for-digital-finance-in-the-philippines/",
@@ -86,15 +140,6 @@
       "title": "Jonvic: No evidence linking Dutertes to Laos drugs",
       "link": "https://www.philstar.com/headlines/2026/10/21/2564737/jonvic-no-evidence-linking-dutertes-laos-drugs",
       "description": "Authorities have no evidence linking the Duterte family to the 512-kilo shabu shipment seized in Laos, according to&nbsp;Interior Secretary Jonvic Remulla, even as he noted that alleged drug financier Edrieza Rimbang has long been a political ally of the family.",
-      "date": "2026-10-20T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "OVP budget hearing done in 16 minutes",
-      "link": "https://www.philstar.com/headlines/2026/10/21/2564738/ovp-budget-hearing-done-16-minutes",
-      "description": "Despite a break in her impeachment trial, Vice President Sara Duterte snubbed her office&rsquo;s budget hearing at the Senate yesterday and instead attended the inurnment of her longtime city planner in Davao.",
       "date": "2026-10-20T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -360,51 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/B-o_plblMaQ"
-    },
-    {
-      "title": "Supreme Court declares 2024, 2025 budgets unconstitutional",
-      "link": "https://www.rappler.com/philippines/supreme-court-declares-2024-2025-budgets-unconstitutional/",
-      "description": "(1st UPDATE) The SC rules that in so far as the 2024 and 2025 budgets are concerned, the doctrine of operative fact applies. This recognizes the validity of an assailed act prior to the determination of its unconstitutionality.",
-      "date": "2026-10-20T10:11:12+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "2 Serbian opposition figures targeted with spyware, research group says",
-      "link": "https://www.rappler.com/technology/serbia-opposition-figures-targeted-spyware-citizen-lab/",
-      "description": "The incident is the latest of several in which researchers say surveillance technology was used against students, opposition politicians and others in Serbia, which will hold a parliamentary election on October 25",
-      "date": "2026-10-20T09:42:38+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Disappointed’ Ateneo coach Alas demands maturity from Blue Eagles",
-      "link": "https://www.rappler.com/people/athletes/uaap-ateneo-blue-eagles-coach-louie-alas-disappointed-demands-maturity/",
-      "description": "‘I’m super disappointed, but I will not give up on these guys,’ says Ateneo coach Louie Alas after the Blue Eagles’ dismal first-round run",
-      "date": "2026-10-20T09:29:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "After lower budget in House version, DepEd asks Senate for P147 billion more",
-      "link": "https://www.rappler.com/philippines/department-education-request-senators-additional-2027-budget/",
-      "description": "The school-based feeding program and ARAL are among the Department of Education programs that may receive higher funding from the Senate",
-      "date": "2026-10-20T09:25:06+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/2027-feeding-program-budget-scenarios.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "FACT CHECK: Video of people panic-buying water drums for Super El Niño is AI-generated",
-      "link": "https://www.rappler.com/newsbreak/fact-check/panic-buying-water-drums-super-el-nino-ai-generated/",
-      "description": "Multiple satirical videos surfaced online after Marcos advised people to buy buckets to store water amid concerns over Super El Niño",
-      "date": "2026-10-20T08:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-10.jpg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
