@@ -1,23 +1,176 @@
 {
-  "updated": "2026-10-22T05:11:30.950979+00:00",
+  "updated": "2026-10-22T10:26:17.091489+00:00",
   "items": [
     {
-      "title": "Taiwan probes organized crime links to China’s ‘transnational repression’",
-      "link": "https://www.rappler.com/world/asia-pacific/taiwan-probe-organized-crime-links-transnational-repression/",
-      "description": "Taiwan has complained that Beijing is using various underhanded methods to go after Taiwanese who the Chinese government views as separatists or are otherwise politically suspect",
-      "date": "2026-10-22T05:07:49+00:00",
+      "title": "Rosal downgraded to typhoon east of Batanes",
+      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-22-2026-5pm/",
+      "description": "The maximum sustained winds of Typhoon Rosal (Champi) are down to 165 km/h as of Thursday afternoon, October 22",
+      "date": "2026-10-22T10:25:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-22-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "SolgGen to seek clarification, partial reconsideration of SC ruling on unprogrammed funds",
+      "link": "https://www.rappler.com/philippines/solicitor-general-clarification-partial-reconsideration-supreme-court-ruling-unprogrammed-funds/",
+      "description": "The Office of the Solicitor General notes that  the 12 separate opinions accompanying the Supreme Court ruling 'reflect the complexity of the constitutional questions presented and the differing judicial perspectives on their resolution'",
+      "date": "2026-10-22T10:03:25+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/fHVa_-hRGhA"
+    },
+    {
+      "title": "Former DOH chiefs alarmed over proposed cut for health promotion in 2027",
+      "link": "https://www.rappler.com/philippines/former-doh-secretaries-flag-health-promotion-budget-cut/",
+      "description": "Under the 2027 General Appropriations Bill, the House of Representatives reduced the health promotion budget to P485 million",
+      "date": "2026-10-22T10:02:10+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/Health-advocates-scaled.jpeg?resize=75%2C75&crop=387px%2C0px%2C1920px%2C1920px"
+    },
+    {
+      "title": "[Rappler Investigates] High standards for the High Court",
+      "link": "https://www.rappler.com/voices/newsletters/investigates-high-standards-supreme-court/",
+      "description": "At a time when standards for choices of elective officials seem to be on the decline, many still look to the SC as a stronghold of justice and fairness to which high standards still apply. Has it lived up to those expectations?",
+      "date": "2026-10-22T10:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/marcos-budget-jan-17-2024-2.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIVE UPDATES: First BARMM parliamentary elections",
+      "link": "https://www.rappler.com/philippines/elections/barmm-updates-voting-results-tracking-polls-2026/",
+      "description": "Bookmark and refresh this page for the latest news, photos, videos, and analyses as Rappler closely follows the historic elections",
+      "date": "2026-10-22T09:28:24+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "FACT CHECK: Escudero did not suspend House prosecutor Zamora’s law license",
-      "link": "https://www.rappler.com/newsbreak/fact-check/chiz-escudero-did-not-suspend-ysabel-zamora-law-license/",
-      "description": "Zamora faced sexist remarks over her questioning during the impeachment trial, but no revocation of her law license occurred afterwards, contrary to the claim",
-      "date": "2026-10-22T04:49:23+00:00",
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+      "link": "https://bworldonline.com/technology/2026/10/22/788634/deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race/",
+      "description": "HONG KONG — Chinese AI startup DeepSeek is wrapping up its latest funding round, having generated about 100&#8230;",
+      "date": "2026-10-22T09:00:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/02/deepseek-300x185.jpg"
+    },
+    {
+      "title": "Benitez-Bais spat puts Bacolod’s stalled P765-M project, flood contractor in focus",
+      "link": "https://www.rappler.com/philippines/visayas/albee-benitez-bais-spat-bacolod-stalled-building-project-flood-contractor-legacy/",
+      "description": "Representative Albee Benitez apologizes to Bacolod residents and Councilor Homer Bais for making a scene at a public dinner, but scrutiny continues over the unfinished building funded by a loan during his administration",
+      "date": "2026-10-22T08:53:08+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-02-1-1.jpg?resize=75%2C75&crop_strategy=attention"
+      "image": "https://www.rappler.com/tachyon/2026/10/benitaz-bais-October-19-2026.jpg?resize=75%2C75&crop=310px%2C0px%2C720px%2C720px"
+    },
+    {
+      "title": "China’s natural disaster losses hit $30 billion in first nine months of 2026",
+      "link": "https://bworldonline.com/world/2026/10/22/788635/chinas-natural-disaster-losses-hit-30-billion-in-first-nine-months-of-2026/",
+      "description": "HONG KONG — China recorded 199.36 billion yuan ($29.9 billion) in direct losses from natural disasters in the&#8230;",
+      "date": "2026-10-22T08:35:18+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/08/NEPAL-FLOODS-1-300x200.jpg"
+    },
+    {
+      "title": "Asian governments step up cyber defenses after PHP flaw",
+      "link": "https://bworldonline.com/world/2026/10/22/788629/asian-governments-step-up-cyber-defenses-after-php-flaw/",
+      "description": "TOKYO/BEIJING — Companies and governments around the world raced on Thursday to patch vulnerabilities in the widely used&#8230;",
+      "date": "2026-10-22T08:32:05+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/11/Cybersecurity-hacker-300x200.jpg"
+    },
+    {
+      "title": "Typhoon Champi nears Taiwan, causing flight cancellations and disrupting US-Japan drills",
+      "link": "https://bworldonline.com/world/2026/10/22/788630/typhoon-champi-nears-taiwan-causing-flight-cancellations-and-disrupting-us-japan-drills/",
+      "description": "TAIPEI/TOKYO — Taiwan issued a land warning on Thursday as powerful Typhoon Champi approached, prompting more than 200&#8230;",
+      "date": "2026-10-22T08:30:43+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/12/Taiwan-2025-10-08T144207Z_1109701274_RC2L7HA2R0XF_RTRMADP_3_TAIWAN-POLITICS-300x200.jpg"
+    },
+    {
+      "title": "1 Filipino dead after drone attack on oil field — Saudi Arabia",
+      "link": "https://www.philstar.com/headlines/2026/10/22/2565013/1-filipino-dead-after-drone-attack-oil-field-saudi-arabia",
+      "description": "A Filipino and a Nepali national were killed after debris from a drone intercepted by Saudi air defenses fell near Saudi Aramco&rsquo;s Shaybah oilfield.",
+      "date": "2026-10-22T08:23:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: Mini fire trucks in viral posts not purchased by DILG",
+      "link": "https://www.rappler.com/newsbreak/fact-check/mini-fire-trucks-viral-posts-not-purchased-dilg/",
+      "description": "The DILG says the mini fire trucks were bought by the Nueva Ecija local government and are being falsely linked to its planned procurement of fire trucks worth P10 million each",
+      "date": "2026-10-22T08:22:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-11.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Entry ban a ‘small price to pay,’ says lawmaker on Chinese Embassy ‘list’",
+      "link": "https://www.philstar.com/headlines/2026/10/22/2565006/entry-ban-small-price-pay-says-lawmaker-chinese-embassy-list",
+      "description": "Ten lawmakers now want Marcos to expel the Chinese envoy or seek his recall.",
+      "date": "2026-10-22T08:08:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Rappler Live Jam: Cast of ‘Gregoria Lakambini: A Pinay Pop Musical’",
+      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-gregoria-lakambini-cast-october-2026/",
+      "description": "P-pop meets revolutionary history at Rappler Live Jam with the cast of 'Gregoria Lakambini: A Pinay Pop Musical'",
+      "date": "2026-10-22T07:43:48+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Asian governments step up cyber defenses after PHP flaw",
+      "link": "https://www.rappler.com/technology/asian-governments-step-up-cyber-defense-php-flaw/",
+      "description": "The rush comes after government websites in Europe and elsewhere went offline, with the disclosure of the PHP flaws sending website operators scrambling to protect their systems",
+      "date": "2026-10-22T07:39:01+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "View from Manila: Making sense of the gutter talk from China’s embassy",
+      "link": "https://www.rappler.com/philippines/view-manila-making-sense-china-embassy-manila-gutter-talk/",
+      "description": "‘Let the good aspects prevail over bad ones. Otherwise we may easily fall into the situation of countermeasures and retaliation,’ China’s envoy says. Yet his taunts seem to be sending a different message altogether.",
+      "date": "2026-10-22T07:29:07+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/atin-ito-civilian-mission-pagasa-island-may-28-2025-002-scaled.jpg?resize=75%2C75&crop=255px%2C0px%2C1707px%2C1707px"
+    },
+    {
+      "title": "Philippine central bank hikes key rate by 50 bps amid inflation woes",
+      "link": "https://bworldonline.com/top-stories/2026/10/22/788621/philippine-central-bank-hikes-key-rate-by-50-bps-amid-inflation-woes/",
+      "description": "The Bangko Sentral ng Pilipinas (BSP) raised its key policy rate by a half-point for the first time in nearly four years amid broadening inflation risks from persistent price shocks and the looming El Niño.",
+      "date": "2026-10-22T06:40:11+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/11/BSP-building-logo-300x149.jpg"
+    },
+    {
+      "title": "Cloudflare sees millions of exploit attempts after PHP disclosure",
+      "link": "https://bworldonline.com/technology/2026/10/22/788617/cloudflare-sees-millions-of-exploit-attempts-after-php-disclosure/",
+      "description": "CLOUD services firm Cloudflare saw millions of exploitation attempts after the public disclosure of critical vulnerabilities in the&#8230;",
+      "date": "2026-10-22T05:31:43+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/CF-Logo-2-300x101.jpg"
+    },
+    {
+      "title": "DFA calls out Chinese Embassy for series of 'undiplomatic' posts",
+      "link": "https://www.philstar.com/headlines/2026/10/22/2564995/dfa-calls-out-chinese-embassy-series-undiplomatic-posts",
+      "description": "The Department of Foreign Affairs has rebuked the Chinese Embassy in Manila over a string of increasingly combative social media posts targeting Filipino officials since the Chinese ambassador remarked last week that China could &ldquo;easily win&rdquo; if it used force.",
+      "date": "2026-10-22T04:42:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Signal No. 2 up in Batanes, parts of Babuyan Islands amid Super Typhoon Champi — PAGASA",
@@ -27,15 +180,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/dost-pagasa-10-22-rosal-300x169.jpg"
-    },
-    {
-      "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack",
-      "link": "https://www.rappler.com/technology/chinese-linked-hackers-compromise-connectwise-global-attack/",
-      "description": "The hackers, which Microsoft tracks as Storm-0940, use an open-source penetration testing framework called ARTEX to carry out the campaign",
-      "date": "2026-10-22T04:13:02+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Signal No. 2 remains in 2 areas as Super Typhoon Rosal weakens",
@@ -56,15 +200,6 @@
       "image": ""
     },
     {
-      "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
-      "link": "https://www.rappler.com/technology/ai-discovered-flaw-php-security-scramble/",
-      "description": "Because a fix is now public and artificial intelligence tools are able to reverse engineer the bug with little effort, experts say they are bracing for a wave of intrusions as hackers jump to get ahead of the updates",
-      "date": "2026-10-22T03:34:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Interviews for next chief justice begin",
       "link": "https://www.philstar.com/headlines/2026/10/22/2564983/interviews-next-chief-justice-begin",
       "description": "The JBC has begun public interviews for the country&#39;s next chief justice.",
@@ -74,24 +209,6 @@
       "image": ""
     },
     {
-      "title": "Who is Ginbee Go, BPI’s next president and first female CEO?",
-      "link": "https://www.rappler.com/people/ginbee-go-bpi-next-president-first-female-ceo/",
-      "description": "The 23-year BPI veteran and current consumer banking chief will succeed TG Limcaoco in April 2027",
-      "date": "2026-10-22T02:57:31+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/jaza-philippines-oct-16-2026.jpg?resize=75%2C75&crop=470px%2C0px%2C1080px%2C1080px"
-    },
-    {
-      "title": "[Good Business] The Rags2Riches story: Woven to last",
-      "link": "https://www.rappler.com/business/good-rags-2-riches-story-woven-to-last/",
-      "description": "Every sign pointed to closure. What Rags2Riches founder Reese Fernandez-Ruiz held on to, privately, was a sliver of hope.",
-      "date": "2026-10-22T02:20:08+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/3b-eozVqIJU"
-    },
-    {
       "title": "Government websites go dark after AI-discovered flaw sparks security scramble",
       "link": "https://bworldonline.com/technology/2026/10/22/788606/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/",
       "description": "GOVERNMENT websites in Europe and elsewhere went offline on Wednesday after the disclosure of critical vulnerabilities in a&#8230;",
@@ -99,15 +216,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2025/06/criminal-hacking-system-unsuccessfully-cybersecurity-300x200.jpg"
-    },
-    {
-      "title": "DFA to China embassy: Escalatory, undiplomatic posts not helping bilateral ties",
-      "link": "https://www.rappler.com/philippines/dfa-chinese-embassy-escalatory-undiplomatic-social-media-statements/",
-      "description": "‘The recent public statements of the Embassy do not reflect the longstanding spirit of constructive engagement between the two countries and the two foreign ministries,’ the DFA says",
-      "date": "2026-10-22T01:19:36+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/CHINA-THREAT.jpg?resize=75%2C75&crop=492px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "North Korea’s Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
@@ -144,33 +252,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2023/10/undersea-cable-300x200.jpg"
-    },
-    {
-      "title": "The tree Quezon planted, and Bacolod nearly forgot",
-      "link": "https://www.rappler.com/philippines/tindalo-tree-manuel-quezon-planted-bacolod-nearly-forgot/",
-      "description": "The endangered tree was planted by the late president Manuel L. Quezon on October 19, 1938, to mark Bacolod's proclamation as a chartered city",
-      "date": "2026-10-22T00:46:39+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Manuel-Quezon-tree1-bacolod2.jpg?resize=75%2C75&crop=219px%2C0px%2C1365px%2C1365px"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-10-22T00:32:13+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/gyeC_z1QKlI"
-    },
-    {
-      "title": "[Puso at Diwa] Sara Duterte trial: Is the space for political impunity finally closing?",
-      "link": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-sara-duterte-trial-space-political-impunity-finally-closing/",
-      "description": "Can the Philippines begin to turn the corner from a culture of impunity toward one of responsibility and the rule of law?",
-      "date": "2026-10-22T00:29:57+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/TL-ANTI-POLITICAL-DYNASTIES-SEP-18-2026.jpg?resize=75%2C75&crop=456px%2C0px%2C1080px%2C1080px"
     },
     {
       "title": "Lawmakers hail Supreme Court ruling voiding billions in budget items",
@@ -221,33 +302,6 @@
       "title": "ICC prosecutor updates trial  brief vs Duterte",
       "link": "https://www.philstar.com/headlines/2026/10/22/2564849/icc-prosecutor-updates-trial-brief-vs-duterte",
       "description": "The prosecutor of the International Criminal Court&nbsp; has filed a revised trial brief detailing the charges of crimes against humanity against former president Rodrigo Duterte.",
-      "date": "2026-10-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rosal declared strongest cyclone in 2026",
-      "link": "https://www.philstar.com/headlines/2026/10/22/2564850/rosal-declared-strongest-cyclone-2026",
-      "description": "State weather forecasters have declared Super Typhoon Rosal as the &ldquo;strongest&rdquo; tropical cyclone so far this year as it reached its peak.",
-      "date": "2026-10-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Pinoys split on Sara’s impeachment – OCTA",
-      "link": "https://www.philstar.com/headlines/2026/10/22/2564851/pinoys-split-saras-impeachment-octa",
-      "description": "&nbsp;Although some Filipinos have already taken a stand on the ongoing impeachment trial of Vice President Sara Duterte, most believe it is still too early to decide how senators should vote, according to OCTA Research.\n\n&nbsp;",
-      "date": "2026-10-21T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Palace: Probe possible lapses in Atong Ang’s escape",
-      "link": "https://www.philstar.com/headlines/2026/10/22/2564852/palace-probe-possible-lapses-atong-angs-escape",
-      "description": "Malaca&ntilde;ang has called for an investigation to determine whether there were lapses that allowed businessman Charlie &ldquo;Atong&rdquo; Ang to leave the Philippines, as the government seeks to strengthen border security to prevent fugitives from escaping authorities.",
       "date": "2026-10-21T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -351,60 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/05/Filipino_seaman-seafarer-300x200.jpg"
-    },
-    {
-      "title": "House summons Remulla, PDEA chief in Laos drug probe",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788514/house-summons-remulla-pdea-chief-in-laos-drug-probe/",
-      "description": "THE House Committee on Dangerous Drugs has summoned Interior and Local Government Secretary Juanito Victor C. Remulla and&#8230;",
-      "date": "2026-10-21T13:09:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/07/crystal-meth-shabu-300x200.jpg"
-    },
-    {
-      "title": "CoA flags P3.63-B TESDA misstatements, P3.66-B unsupported expenses",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788513/coa-flags-p3-63-b-tesda-misstatements-p3-66-b-unsupported-expenses/",
-      "description": "THE Commission on Audit (CoA) flagged the Technical Education and Skills Development Authority (TESDA) due to more than&#8230;",
-      "date": "2026-10-21T13:08:53+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/02/Tesda-logo-300x169.jpg"
-    },
-    {
-      "title": "Ombudsman suspends DICT usec",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788512/ombudsman-suspends-dict-usec/",
-      "description": "THE Office of the Ombudsman has ordered the six-month preventive suspension without pay of a Department of Information&#8230;",
-      "date": "2026-10-21T13:08:33+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/09/Ombusdman-300x200.jpg"
-    },
-    {
-      "title": "Bill vs ‘pink tax’ filed in Senate",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788511/bill-vs-pink-tax-filed-in-senate/",
-      "description": "A MEASURE prohibiting gender-based price discrimination in consumer goods and services, when items targeted toward women are more&#8230;",
-      "date": "2026-10-21T13:08:06+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/03/BIR-building-300x199.jpg"
-    },
-    {
-      "title": "Solar-powered irrigation in La Union boosts farmers’ readiness vs El Niño",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788510/solar-powered-irrigation-in-la-union-boosts-farmers-readiness-vs-el-nino/",
-      "description": "SAN GABRIEL, La Union — Thirty hectares of farmland in Barangay Bucao, San Gabriel in La Union will&#8230;",
-      "date": "2026-10-21T13:07:48+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/09/solar-irigation-300x200.jpg"
-    },
-    {
-      "title": "Four BIFF bombmakers surrender to Army in Maguindanao del Sur",
-      "link": "https://bworldonline.com/the-nation/2026/10/21/788509/four-biff-bombmakers-surrender-to-army-in-maguindanao-del-sur/",
-      "description": "COTABATO CITY — Four more remnants of the defunct Bangsamoro Islamic Freedom Fighters (BIFF), all well-versed in assembling&#8230;",
-      "date": "2026-10-21T13:07:29+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/10/bullets-300x200.jpg"
     }
   ]
 }
