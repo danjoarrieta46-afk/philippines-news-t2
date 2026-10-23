@@ -1,6 +1,60 @@
 {
-  "updated": "2026-10-22T22:37:08.984978+00:00",
+  "updated": "2026-10-23T01:14:27.812567+00:00",
   "items": [
+    {
+      "title": "Venezuelans call for elections in first national protest in nearly two years",
+      "link": "https://bworldonline.com/world/2026/10/23/788860/venezuelans-call-for-elections-in-first-national-protest-in-nearly-two-years/",
+      "description": "CARACAS/MARACAY — Thousands of Venezuelans took to the streets on Thursday in the first nationwide opposition protest in&#8230;",
+      "date": "2026-10-23T01:04:02+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Delcy-Rodriguez-UN-ASSEMBLY-300x200.jpg"
+    },
+    {
+      "title": "El Niño rains batter Latin America from Mexico to Chile",
+      "link": "https://bworldonline.com/world/2026/10/23/788858/el-nino-rains-batter-latin-america-from-mexico-to-chile/",
+      "description": "CIUDAD DEL ESTE, Paraguay — An intensifying El Niño-linked storm season this week brought flooding to Paraguay, killed&#8230;",
+      "date": "2026-10-23T01:02:51+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/08/flood-392707_1280-300x200.jpg"
+    },
+    {
+      "title": "Hacking attempts surge as companies, governments rush to patch PHP flaws",
+      "link": "https://bworldonline.com/world/2026/10/23/788855/hacking-attempts-surge-as-companies-governments-rush-to-patch-php-flaws/",
+      "description": "TOKYO/BEIJING/AMSTERDAM — Global firms and governments rushed on Thursday to patch critical flaws in the PHP programming language&#8230;",
+      "date": "2026-10-23T01:01:21+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/12/cyber-crime-binary-hacker-300x200.jpg"
+    },
+    {
+      "title": "Typhoon Rosal still bringing moderate to heavy rain to Batanes",
+      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-23-2026-5am/",
+      "description": "Typhoon Rosal (Champi) is last spotted 275 kilometers east northeast of Itbayat, Batanes, at 4 am on Friday, October 23",
+      "date": "2026-10-23T00:15:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-23-2026-5am-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "[Market Rider] SEC’s market maker push and how it can boost PH stock trading",
+      "link": "https://www.rappler.com/business/market-rider-how-sec-new-rules-maker-boost-philippine-stock-trading/",
+      "description": "SEC Chairman Francis Lim spearheads a daring undertaking into the realm of market making, in a bid to boost stock market trading in the Philippines",
+      "date": "2026-10-23T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/D3bgI6awYR4"
+    },
+    {
+      "title": "Part 2: Old-timer bets in the running to be Marcos’ 2nd SC justice",
+      "link": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-2/",
+      "description": "These bets are part of the list of candidates who vied for the justice post in 2025 that ultimately went to Associate Justice Raul Villanueva",
+      "date": "2026-10-22T23:15:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/nina-antonio-valenzuela.png?resize=75%2C75&crop_strategy=attention"
+    },
     {
       "title": "OSG seeks hold on use of 2026 appropriations",
       "link": "https://www.philstar.com/headlines/2026/10/23/2565121/osg-seeks-hold-use-2026-appropriations",
@@ -299,33 +353,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2025/02/agus-pulangi-plant-hydro-300x200.jpg"
     },
     {
-      "title": "FAO backs crop diversification to mitigate El Niño impact",
-      "link": "https://bworldonline.com/economy/2026/10/22/788757/fao-backs-crop-diversification-to-mitigate-el-nino-impact/",
-      "description": "THE Food and Agriculture Organization (FAO) said the impact of El Niño needs to be managed by  diversifying&#8230;",
-      "date": "2026-10-22T13:31:01+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/12/Food-and-Agriculture-Organisation-FAO-300x200.jpg"
-    },
-    {
-      "title": "Non-renewable energy resources valuation tops P295 billion in 2025",
-      "link": "https://bworldonline.com/economy/2026/10/22/788756/non-renewable-energy-resources-valuation-tops-p295-billion-in-2025/",
-      "description": "THE value of Philippine non-renewable energy resources in 2025 rose 3.2% to P295.04 billion due to the increased&#8230;",
-      "date": "2026-10-22T13:30:43+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/10/Galoc-oilfied--300x200.jpg"
-    },
-    {
-      "title": "BIR provides relief to companies adjusting invoice systems to comply with CWT rules",
-      "link": "https://bworldonline.com/economy/2026/10/22/788754/bir-provides-relief-to-companies-adjusting-invoice-systems-to-comply-with-cwt-rules/",
-      "description": "THE Bureau of Internal Revenue (BIR) said it relaxed the requirements for businesses updating their invoicing systems to&#8230;",
-      "date": "2026-10-22T13:30:26+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/06/BIR-tax-1-300x200.jpg"
-    },
-    {
       "title": "‘Justice is hope’: Here are Leonen’s 9 promises as aspiring chief justice",
       "link": "https://www.rappler.com/philippines/marvic-leonen-plans-chief-justice-candidate-jbc-interviews/",
       "description": "'Whoever is appointed, this reality remains: our people still suffer.... On our watch, we cannot fail them. I will not fail them,' says Senior Associate Justice Marvic Leonen",
@@ -378,33 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/fKsQTic1CQM"
-    },
-    {
-      "title": "Rosal downgraded to typhoon east of Batanes",
-      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-22-2026-5pm/",
-      "description": "The maximum sustained winds of Typhoon Rosal (Champi) are down to 165 km/h as of Thursday afternoon, October 22",
-      "date": "2026-10-22T10:25:48+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-22-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "SolGen to seek clarification, partial reconsideration of SC ruling on unprogrammed funds",
-      "link": "https://www.rappler.com/philippines/solicitor-general-clarification-partial-reconsideration-supreme-court-ruling-unprogrammed-funds/",
-      "description": "The Office of the Solicitor General notes that  the 12 separate opinions accompanying the Supreme Court ruling 'reflect the complexity of the constitutional questions presented and the differing judicial perspectives on their resolution'",
-      "date": "2026-10-22T10:03:25+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/fHVa_-hRGhA"
-    },
-    {
-      "title": "Former DOH chiefs alarmed over proposed cut for health promotion in 2027",
-      "link": "https://www.rappler.com/philippines/former-doh-secretaries-flag-health-promotion-budget-cut/",
-      "description": "Under the 2027 General Appropriations Bill, the House of Representatives reduced the health promotion budget to P485 million",
-      "date": "2026-10-22T10:02:10+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Health-advocates-scaled.jpeg?resize=75%2C75&crop=387px%2C0px%2C1920px%2C1920px"
     }
   ]
 }
