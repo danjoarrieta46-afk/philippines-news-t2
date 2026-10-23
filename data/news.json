@@ -1,23 +1,275 @@
 {
-  "updated": "2026-10-23T06:18:03.408039+00:00",
+  "updated": "2026-10-23T11:55:54.424896+00:00",
   "items": [
     {
-      "title": "Red flags in 2027 agri budget: Coordinates at sea, ‘overpriced’ infra projects",
-      "link": "https://www.rappler.com/philippines/watchdog-red-flags-2027-proposed-department-agriculture-budget/",
-      "description": "Coordinates for farm-to-market roads allegedly point to the Celebes Sea or waters near Brunei",
-      "date": "2026-10-23T05:57:00+00:00",
+      "title": "A shared sense of purpose: 5 career lessons from a Pru Life UK leader",
+      "link": "https://www.rappler.com/brandrap/pru-life-uk-haidee-plopenio-profile/",
+      "description": "What principles helped Haidee Plopenio, Head of Business Continuity Management, power through her journey with the company?",
+      "date": "2026-10-23T11:18:51+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/03/public-market-inflation-oil-price-hike-march-11-2026-001-scaled.jpg?resize=75%2C75&crop=853px%2C0px%2C1707px%2C1707px"
+      "image": "https://www.rappler.com/tachyon/2026/10/Haidee-Plopenio_Pru-Life-UK.png?resize=75%2C75&crop_strategy=attention"
     },
     {
-      "title": "FACT CHECK: No reports link Sandro Marcos, Romualdez to Laos drug bust",
-      "link": "https://www.rappler.com/newsbreak/fact-check/no-reports-link-sandro-marcos-martin-romualdez-laos-drug-bust/",
-      "description": "Remulla rejected claims linking Sandro Marcos to the intercepted drug shipment; there are also no PNP or PDEA statements about the two officials' alleged involvement",
-      "date": "2026-10-23T05:31:33+00:00",
+      "title": "QUIZ: Would you survive a Filipino horror movie?",
+      "link": "https://www.rappler.com/culture-desk/survive-filipino-horror-film-quiz/",
+      "description": "Everyone has a role in a horror movie. The question is: will you make it to the end?",
+      "date": "2026-10-23T11:11:58+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-4.jpg?resize=75%2C75&crop_strategy=attention"
+      "image": ""
+    },
+    {
+      "title": "Rain eases in Batanes as Typhoon Rosal starts moving away",
+      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-23-2026-5pm/",
+      "description": "There may still be scattered rain and thunderstorms due to Typhoon Rosal (Champi), but PAGASA's forecast on Friday afternoon, October 23, shows weather conditions are gradually improving",
+      "date": "2026-10-23T10:50:27+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-23-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Philippine peso sinks to 31st record low at P63.615",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565242/philippine-peso-sinks-31st-record-low-p63615",
+      "description": "The decline came a day after the BSP raised its benchmark rate to 5.5%.",
+      "date": "2026-10-23T10:50:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The urban Filipino is tired, cash-strapped, and sick of the ‘resilience’ excuse",
+      "link": "https://www.rappler.com/philippines/urban-filipino-resilience-study-2026/",
+      "description": "Nearly half of urban Filipinos surveyed in a study reject the romanticized narrative of resilience, as crises beyond their control leave them with little choice but to endure",
+      "date": "2026-10-23T10:21:58+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/dojDo7HzeQU"
+    },
+    {
+      "title": "Recall of House approved-GAB may lead to reenacted budget – senators",
+      "link": "https://www.rappler.com/philippines/senators-reaction-proposal-recall-house-approved-budget-bill-2027/",
+      "description": "Senators say concerns over the House-approved General Appropriations Bill can be addressed  in the consolidated version of the budget bill",
+      "date": "2026-10-23T10:14:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "4 million travelers expected as airports brace for Undas rush",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565239/4-million-travelers-expected-airports-brace-undas-rush",
+      "description": "Airports are preparing for the Undas rush with additional immigration, general and security personnel from Oct. 30 to Nov. 3.",
+      "date": "2026-10-23T10:14:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Wesley So tops 2026 US Chess Championship, bags P3.55 million",
+      "link": "https://www.rappler.com/people/athletes/wesley-so-us-chess-championship-october-22-2026/",
+      "description": "Wesley So, a three-time Philippine champion before moving to the United States over a decade ago, rules the 2026 US Chess Championship, ending the four-year reign of Fabiano Caruana",
+      "date": "2026-10-23T10:05:14+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Alagang Ayala builds Filipino talent from classroom to career",
+      "link": "https://bworldonline.com/spotlight/2026/10/23/788939/alagang-ayala-builds-filipino-talent-from-classroom-to-career/",
+      "description": "In public elementary schools in San Marcelino, Zambales, teachers are gaining a clearer view of how their students&#8230;",
+      "date": "2026-10-23T09:40:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Photo-3-OL-300x200.jpg"
+    },
+    {
+      "title": "MRT-3 privatization eyed by mid-2027 under P103.6-billion deal",
+      "link": "https://www.rappler.com/philippines/mrt3-privatization-target-2027/",
+      "description": "Transportation Secretary Giovanni 'Banoy' Lopez says the government would retain control over fares of MRT-3 under the proposed arrangement.",
+      "date": "2026-10-23T09:37:47+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Kinetix Strength Studio opens at The Podium with a Hybrid Race Simulation",
+      "link": "https://bworldonline.com/spotlight/2026/10/23/788929/kinetix-strength-studio-opens-at-the-podium-with-a-hybrid-race-simulation/",
+      "description": "The newest brand from the Strength in Movement Group marked its official opening by putting hybrid racers through&#8230;",
+      "date": "2026-10-23T09:35:40+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Kinetix-main-photo-1-1-OL-300x200.jpg"
+    },
+    {
+      "title": "Paolo Duterte files libel, cyber libel complaints vs NBI chief, Gracioso, GMA execs",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565234/paolo-duterte-files-libel-cyber-libel-complaints-vs-nbi-chief-gracioso-gma-execs",
+      "description": "The complaints name NBI chief Melvin Matibag, Rodulfo Gracioso Jr. and several GMA Network personalities.",
+      "date": "2026-10-23T09:31:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Digital 2027 report: Global use of GenAI tools rises, web browser activity declines",
+      "link": "https://www.rappler.com/technology/internet-culture/digital-2027-report-launch/",
+      "description": "94.4% of internet users in the Philippines aged 16 and up use AI tools each month, but only 5.5% of internet users in the country aged 16 and up pay for subscriptions to an AI tool each month, the study finds",
+      "date": "2026-10-23T09:20:06+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: No Palace announcement abolishing Grades 11 and 12",
+      "link": "https://www.rappler.com/newsbreak/fact-check/no-palace-announcement-abolishing-grade-11-12/",
+      "description": "The Department of Education has already debunked the false information, calling it fake news",
+      "date": "2026-10-23T08:45:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-12.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "link": "https://www.rappler.com/technology/japan-simulate-cyberattacks-php-flaws-global-internet-updates/",
+      "description": "Government and company websites across the world go offline after the disclosure of critical vulnerabilities in the PHP programming language prompted millions of hacking attempts",
+      "date": "2026-10-23T08:42:05+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/php-security-advisory-guernica-october-22-2026-reuters.jpg?resize=75%2C75&crop=0px%2C0px%2C800px%2C800px"
+    },
+    {
+      "title": "WATCH: Remulla says 'gloves are off' in pursuit of Bato dela Rosa",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565225/watch-remulla-says-gloves-are-off-pursuit-bato-dela-rosa",
+      "description": "Nag-alok si Jonvic Remulla ng P50 milyong pabuya para sa ikadarakip ni Sen. Bato dela Rosa.",
+      "date": "2026-10-23T08:30:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "CINEPROD + PHOTO EXPO 2027 officially launches, uniting the country’s film, photography, and creative media sectors",
+      "link": "https://bworldonline.com/spotlight/2026/10/23/788918/cineprod-photo-expo-2027-officially-launches-uniting-the-countrys-film-photography-and-creative-media-sectors/",
+      "description": "Watch out for CINEPROD + PHOTO EXPO 2027 at the brand new SMXCITE in SM Mall of Asia&#8230;",
+      "date": "2026-10-23T08:20:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Main-photo-1-OL-300x225.jpg"
+    },
+    {
+      "title": "Taiwan says China using militia boats to expand ‘battlefield preparation’ in western Pacific",
+      "link": "https://bworldonline.com/world/2026/10/23/788913/taiwan-says-china-using-militia-boats-to-expand-battlefield-preparation-in-western-pacific/",
+      "description": "TAIPEI — China is combining militia vessels with coast guard ships to expand &#8220;battlefield preparation&#8221; around Taiwan and&#8230;",
+      "date": "2026-10-23T08:04:40+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/05/China-ship-PHL-COAST-GUARD-300x157.jpg"
+    },
+    {
+      "title": "Injuries in China’s Tibet rise to 65 after earthquake, death toll remains at 16",
+      "link": "https://bworldonline.com/world/2026/10/23/788903/injuries-in-chinas-tibet-rise-to-65-after-earthquake-death-toll-remains-at-16/",
+      "description": "BEIJING &#8211; The number of people injured in a magnitude 7 earthquake that struck the southwestern region of&#8230;",
+      "date": "2026-10-23T07:55:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/08/NEPAL-FLOODS-satellite-thumb-1-300x169.jpg"
+    },
+    {
+      "title": "North Korean internet was hit by DDoS cyberattack, network monitoring firm says",
+      "link": "https://bworldonline.com/world/2026/10/23/788900/north-korean-internet-was-hit-by-ddos-cyberattack-network-monitoring-firm-says/",
+      "description": "SEOUL — A cyberattack likely caused intermittent internet outages in North Korea that took down several of the&#8230;",
+      "date": "2026-10-23T07:21:01+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/09/North-Korea-parade-300x200.jpg"
+    },
+    {
+      "title": "Microsoft develops AI tool that can diagnose ‘sequentially’ like a doctor",
+      "link": "https://bworldonline.com/technology/2026/10/23/788896/microsoft-develops-ai-tool-that-can-diagnose-sequentially-like-a-doctor/",
+      "description": "MICROSOFT researchers say an AI tool that diagnoses patients step by step, as doctors do, was more than&#8230;",
+      "date": "2026-10-23T07:18:06+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/03/SF_dreamstime_m_44334565-OL-300x225.jpg"
+    },
+    {
+      "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+      "link": "https://bworldonline.com/world/2026/10/23/788892/japan-to-simulate-cyberattacks-as-php-flaws-roil-global-internet/",
+      "description": "TOKYO — Japan said on Friday it will set up a team to simulate cyberattacks using AI to&#8230;",
+      "date": "2026-10-23T07:14:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/11/Japan-pedestrian-300x200.jpg"
+    },
+    {
+      "title": "Drilon asks Congress to clarify SC ruling on unprogrammed funds",
+      "link": "https://bworldonline.com/the-nation/2026/10/23/788889/drilon-asks-congress-to-clarify-sc-ruling-on-unprogrammed-funds/",
+      "description": "Former Senate President Franklin M. Drilon has urged Congress to seek clarification on the Supreme Court’s ruling on&#8230;",
+      "date": "2026-10-23T07:05:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/04/Drilon-SENATEPRIB-1-300x200.jpg"
+    },
+    {
+      "title": "Nearly half of Filipinos reject resilience narrative — study",
+      "link": "https://bworldonline.com/the-nation/2026/10/23/788886/nearly-half-of-filipinos-reject-resilience-narrative-study/",
+      "description": "Nearly half of Filipino consumers reject the traditional narrative of Filipino resilience as rising living costs and financial&#8230;",
+      "date": "2026-10-23T07:01:56+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/kaya-pa-ba-300x226.jpg"
+    },
+    {
+      "title": "SSS wants 5% of investment reserve fund placed offshore by end-2027",
+      "link": "https://bworldonline.com/banking-finance/2026/10/23/788882/sss-wants-5-of-investment-reserve-fund-placed-offshore-by-end-2027/",
+      "description": "THE SOCIAL Security System (SSS) wants to have 5% of its Investment Reserve Fund (IRF) placed in foreign&#8230;",
+      "date": "2026-10-23T06:58:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/SSS-1-300x170.jpg"
+    },
+    {
+      "title": "Claire Castro to retain post as all PCO execs file courtesy resignations",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565221/claire-castro-retain-post-all-pco-execs-file-courtesy-resignations",
+      "description": "Acting Communications Secretary Lino Cayetano will not accept the courtesy resignation of Palace Press Officer Claire Castro, he said on Friday, October 23.",
+      "date": "2026-10-23T06:44:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The role of business schools in preparing future-ready professionals",
+      "link": "https://bworldonline.com/spotlight/2026/10/23/788915/the-role-of-business-schools-in-preparing-future-ready-professionals/",
+      "description": "The role of business schools is evolving as the demands of the modern workplace continue to change. In&#8230;",
+      "date": "2026-10-23T06:30:12+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/IBA-Photo-OL-300x170.jpg"
+    },
+    {
+      "title": "Philippines reports highest disaster impact among 140 markets in global poll",
+      "link": "https://www.philstar.com/climate-and-environment/2026/10/23/2565208/philippines-reports-highest-disaster-impact-among-140-markets-global-poll",
+      "description": "Four in five Filipino adults said they had personally been affected by a disaster linked to a natural hazard.",
+      "date": "2026-10-23T06:18:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Towne Kids launches TK Cares, its CSR arm, with ‘Give Blood. Give Hope.’ drive with the potential to save 44 lives",
+      "link": "https://bworldonline.com/spotlight/2026/10/23/788905/towne-kids-launches-tk-cares-its-csr-arm-with-give-blood-give-hope-drive-with-the-potential-to-save-44-lives/",
+      "description": "Towne Kids, a pediatric home care staffing company serving families across New Jersey and Massachusetts, has launched TK&#8230;",
+      "date": "2026-10-23T06:00:53+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/TK-Phtoto-OL-300x200.jpg"
+    },
+    {
+      "title": "Teodoro: Use of force vs BRP Sierra Madre an 'act of war'",
+      "link": "https://www.philstar.com/headlines/2026/10/23/2565212/teodoro-use-force-vs-brp-sierra-madre-act-war",
+      "description": "The Philippines&#39; defense chief issued a warning over actions against the BRP Sierra Madre, saying it would be an act of war.",
+      "date": "2026-10-23T05:55:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Apple launches into foldable market as iPhone Duo sales begin",
@@ -27,15 +279,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-hero-300x169.jpg"
-    },
-    {
-      "title": "A decade later, threat of Kidapawan unrest looms again as El Niño ravages farms",
-      "link": "https://www.rappler.com/philippines/threat-kidapawan-unrest-looms-el-nino-ravages-farms/",
-      "description": "The Department of Agriculture estimates damage in the sector hitting P20 billion, affecting millions of farmers and fisherfolk",
-      "date": "2026-10-23T04:30:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/r3-assets/612F469A6EA84F6BAE882D2B94A4B421/img/048D014BDC454EFA8817220731B8E6F0/elnino-ferdh-cabrara.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Signal No. 2 raised over Batanes, parts of Babuyan Islands",
@@ -54,15 +297,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Stewardship not leadership: Chief justice aspirant Caguioa’s plans for the judiciary",
-      "link": "https://www.rappler.com/philippines/alfredo-benjamin-caguioa-plans-chief-justice-candidate-jbc-interviews/",
-      "description": "'The law doesn't mean anything if it does not impact a life positively,' Supreme Court Associate Justice Benjamin Caguioa says in his Judicial and Bar Council interview",
-      "date": "2026-10-23T03:32:44+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/EHPNReWkHn8"
     },
     {
       "title": "US backs Philippines’ ube push with $34.1 million funding",
@@ -90,24 +324,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Taiwan shuts down ahead of typhoon, hundreds of flights canceled",
-      "link": "https://www.rappler.com/world/asia-pacific/taiwan-shuts-down-typhoon-champi-flights-canceled/",
-      "description": "The storm's forecast track shows it will pass just off northeastern Taiwan, turn north toward the Chinese coast and eventually move into southern Japan",
-      "date": "2026-10-23T02:29:29+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/rosal-satellite-october-23-2026-4am.jpg?resize=75%2C75&crop=102px%2C0px%2C544px%2C544px"
-    },
-    {
-      "title": "Will PMA be a gentler, kinder academy with a female commandant at the helm?",
-      "link": "https://www.rappler.com/people/pma-gentler-kinder-academy-female-commandant-leah-lorenzo-santiago/",
-      "description": "PMA’s first female commandant brings a tough record to the academy, challenging assumptions that women in charge will make military training gentler. She looks ahead to a reunion with her classmates.",
-      "date": "2026-10-23T02:02:19+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/LEAH-LORENZO-02.jpeg?resize=75%2C75&crop=327px%2C0px%2C1011px%2C1011px"
     },
     {
       "title": "Venezuelans call for elections in first national protest in nearly two years",
@@ -142,105 +358,6 @@
       "description": "Signal No. 2 remains in Batanes and parts of the Babuyan Islands as Typhoon Rosal (international name: Champi) maintains strength over the sea northeast of Batanes, PAGASA said Friday.",
       "date": "2026-10-23T00:34:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Typhoon Rosal still bringing moderate to heavy rain to Batanes",
-      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-23-2026-5am/",
-      "description": "Typhoon Rosal (Champi) is last spotted 275 kilometers east northeast of Itbayat, Batanes, at 4 am on Friday, October 23",
-      "date": "2026-10-23T00:15:16+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-23-2026-5am-scaled.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "[Market Rider] SEC’s market maker push and how it can boost PH stock trading",
-      "link": "https://www.rappler.com/business/market-rider-how-sec-new-rules-maker-boost-philippine-stock-trading/",
-      "description": "SEC Chairman Francis Lim spearheads a daring undertaking into the realm of market making, in a bid to boost stock market trading in the Philippines",
-      "date": "2026-10-23T00:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/D3bgI6awYR4"
-    },
-    {
-      "title": "Part 2: Old-timer bets in the running to be Marcos’ 2nd SC justice",
-      "link": "https://www.rappler.com/philippines/supreme-court-associate-justice-candidates-marcos-pick-2026-part-2/",
-      "description": "These bets are part of the list of candidates who vied for the justice post in 2025 that ultimately went to Associate Justice Raul Villanueva",
-      "date": "2026-10-22T23:15:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/nina-antonio-valenzuela.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "OSG seeks hold on use of 2026 appropriations",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565121/osg-seeks-hold-use-2026-appropriations",
-      "description": "Government lawyers have advised the Marcos administration to put on hold the implementation of some programs in this year&rsquo;s national budget as they prepare to appeal a Supreme Court ruling declaring the 2024 and 2025 outlays and parts of the 2026 budget unconstitutional.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rosal weakens into typhoon",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565084/rosal-weakens-typhoon",
-      "description": "&nbsp;Tropical cyclone Rosal has been downgraded to a typhoon, the Philippine Atmospheric, Geophysical and Astronomical Services Administration said.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Alcantara’s ex-aide confirms flood cash deliveries",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565087/alcantaras-ex-aide-confirms-flood-cash-deliveries",
-      "description": "A former personal assistant of disgraced Department of Public Works and Highways (DPWH) district engineer Henry Alcantara confirmed that he delivered billions of pesos&rsquo; worth of alleged kickbacks from flood control projects to fugitive former party-list congressman Zaldy Co from 2022 to 2024.&nbsp;",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DA: 60-day ban on pork imports starts November",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565090/da-60-day-ban-pork-imports-starts-november",
-      "description": "The Department of Agriculture will impose a 60-day freeze on imported pork starting next month, according to Secretary Francisco Tiu Laurel Jr.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "More health programs in underserved areas sought",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565096/more-health-programs-underserved-areas-sought",
-      "description": "President Marcos wants two key health programs expanded in underserved areas to enhance access to health services and lower medical costs, Malaca&ntilde;ang said.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "NBI: P3.5 billion shabu from Laos points to Philippines network",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565100/nbi-p35-billion-shabu-laos-points-philippines-network",
-      "description": "The foiled smuggling of 521 kilograms of suspected shabu valued at P3.5 billion from Laos demonstrated how huge the Philippines&rsquo; drug market is and the sophisticated system that attempted ttransport such volume by air, an official of the National Bureau of Investigation said yesterday.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Health promotion budget cut flagged",
-      "link": "https://www.philstar.com/headlines/2026/10/23/2565101/health-promotion-budget-cut-flagged",
-      "description": "Former Department of Health secretaries have expressed alarm over the drastic budget cut to the DOH Health Promotion Bureau, warning lawmakers that it is a violation of the Universal Health Care&nbsp; Act.",
-      "date": "2026-10-22T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Where is Atong Ang? | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/october-22-2026/",
-      "description": "Today’s headlines: Atong Ang, Ping Lacson, Ombudsman",
-      "date": "2026-10-22T14:00:00+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -288,123 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/10/Berberabe-300x200.jpg"
-    },
-    {
-      "title": "Philippines says China’s ‘undiplomatic’ posts erode mutual trust",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788775/philippines-says-chinas-undiplomatic-posts-erode-mutual-trust/",
-      "description": "MANILA warned that Beijing’s “escalatory and undiplomatic tone and language” in social media posts undermine efforts to improve&#8230;",
-      "date": "2026-10-22T13:46:28+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Lazaro-Jing-Quan-300x169.jpg"
-    },
-    {
-      "title": "Six in 10 see Philippine economy as worse off than a decade ago, survey says",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788774/six-in-10-see-philippine-economy-as-worse-off-than-a-decade-ago-survey-says/",
-      "description": "SIX IN 10 registered voters believe that the Philippines’ overall state has deteriorated over the past decade, a&#8230;",
-      "date": "2026-10-22T13:45:26+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/08/Pedestrians-1-300x200.jpg"
-    },
-    {
-      "title": "Tax perks and regulatory framework for secondhand smartphones pushed",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788773/tax-perks-and-regulatory-framework-for-secondhand-smartphones-pushed/",
-      "description": "PUBLIC SECTOR intervention, including potential tax exemptions and regulatory frameworks for secondhand smartphones, is needed to mitigate the impact of rising device costs on the Philippines’ digital productivity.",
-      "date": "2026-10-22T13:44:22+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/09/Mobile-phones-300x198.jpg"
-    },
-    {
-      "title": "Filipino killed in Saudi drone attack",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788772/filipino-killed-in-saudi-drone-attack/",
-      "description": "FALLING DEBRIS from an intercepted drone targeting a Saudi Arabian oil field killed one Filipino and one Nepali&#8230;",
-      "date": "2026-10-22T13:43:04+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/IRAN-CRISIS-SAUDI-AIRPORT-300x200.jpg"
-    },
-    {
-      "title": "No PHL links found in Laos drug bust",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788771/no-phl-links-found-in-laos-drug-bust/",
-      "description": "PHILIPPINE authorities have yet to establish whether a shipment of 521 kilograms of methamphetamine seized in Laos was&#8230;",
-      "date": "2026-10-22T13:43:00+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/07/crystal-meth-shabu-300x200.jpg"
-    },
-    {
-      "title": "P11.6-B smuggled farm goods seized",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788770/p11-6-b-smuggled-farm-goods-seized/",
-      "description": "THE government seized P11.6 billion worth of smuggled agricultural products in 67 operations from February 2025 to July&#8230;",
-      "date": "2026-10-22T13:42:54+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/02/smuggled-food-onion-300x200.jpg"
-    },
-    {
-      "title": "NBI launches probe vs fake citizenship documents",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788769/nbi-launches-probe-vs-fake-citizenship-documents/",
-      "description": "THE National Bureau of Investigation (NBI) on Thursday said it launched a nationwide investigation into the procurement and&#8230;",
-      "date": "2026-10-22T13:42:49+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/05/NBI-Philstar-300x180.jpg"
-    },
-    {
-      "title": "DepEd told to tighten security measures in schools",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788768/deped-told-to-tighten-security-measures-in-schools/",
-      "description": "Photo: https://bworldonline.com/the-nation/2026/09/27/781943/school-violence-prompts-calls-for-teachers-well-being-support/ THE Department of Education (DepEd) must implement stronger security measures alongside anti-bullying policies and comprehensive mental&#8230;",
-      "date": "2026-10-22T13:42:16+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/06/pnp-marikina-hs-300x200.jpg"
-    },
-    {
-      "title": "PSALM fails to secure offers for Diliman property sale",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788842/psalm-fails-to-secure-offers-for-diliman-property-sale/",
-      "description": "STATE-RUN Power Sector Assets and Liabilities Management Corp. (PSALM) failed to sell its Diliman property in Quezon City&#8230;",
-      "date": "2026-10-22T13:41:59+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/08/napocor-mindoro-power-philstar-300x200.jpg"
-    },
-    {
-      "title": "CHR probes QC cops’ alleged use of excessive force vs journo",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788767/chr-probes-qc-cops-alleged-use-of-excessive-force-vs-journo/",
-      "description": "THE Commission on Human Rights (CHR) has launched a motu proprio investigation into allegations of excessive force by&#8230;",
-      "date": "2026-10-22T13:40:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/02/CHR-logo-300x200.jpg"
-    },
-    {
-      "title": "Additional measures up vs El Niño threat in La Union farmlands",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788837/additional-measures-up-vs-el-nino-threat-in-la-union-farmlands/",
-      "description": "SAN FERNANDO CITY, La Union — The National Irrigation Administration-La Union (NIA-LU) is preparing additional measures to mitigate&#8230;",
-      "date": "2026-10-22T13:40:33+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/08/Cagayan-farmers-set-to-benefit-from-NIAs-first-hybrid-irrigation-system-300x169.jpg"
-    },
-    {
-      "title": "Lower Senate budget won’t affect legislation, Bantug says",
-      "link": "https://bworldonline.com/the-nation/2026/10/22/788835/lower-senate-budget-wont-affect-legislation-bantug-says/",
-      "description": "THE Senate on Thursday revealed that it requested a lower allocation in the 2027 proposed budget with P7.7&#8230;",
-      "date": "2026-10-22T13:39:25+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/10/senate-building-300x200.jpg"
-    },
-    {
-      "title": "EV industry hoping to top 20% market share in 2026",
-      "link": "https://bworldonline.com/economy/2026/10/22/788762/ev-industry-hoping-to-top-20-market-share-in-2026/",
-      "description": "THE Electric Vehicle Association of the Philippines (EVAP) called a 20% market share the electric vehicle (EV) industry’s optimistic scenario, likely driven by the oil price volatility that is dampening interest in internal combustion engine (ICE) vehicles.",
-      "date": "2026-10-22T13:34:13+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/11/Spain-electric-vehicle-300x169.jpg"
     }
   ]
 }
