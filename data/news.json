@@ -1,12 +1,84 @@
 {
-  "updated": "2026-10-24T01:48:28.881490+00:00",
+  "updated": "2026-10-24T06:53:45.501862+00:00",
   "items": [
     {
-      "title": "'Rosal' to exit PAR Saturday morning after loop east of Taiwan",
-      "link": "https://www.philstar.com/weather/2026/10/24/2565408/rosal-exit-par-saturday-morning-after-loop-east-taiwan",
-      "description": "The typhoon looped east of Taiwan as Batanes remained under Signal No. 1.",
-      "date": "2026-10-24T01:25:00+00:00",
+      "title": "Veteran journalist Philip Lustre arrested over Davao cyber libel case",
+      "link": "https://www.philstar.com/headlines/2026/10/24/2565439/veteran-journalist-philip-lustre-arrested-over-davao-cyber-libel-case",
+      "description": "Veteran journalist Philip Lustre Jr. was arrested during a Quezon City media forum over a Davao cyber libel case that his lawyer said he hadn&#39;t known about.",
+      "date": "2026-10-24T06:26:00+00:00",
       "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FBI, Philippine authorities probe Meghan Markle's dad over alleged abuse images",
+      "link": "https://www.philstar.com/headlines/2026/10/24/2565423/fbi-philippine-authorities-probe-meghan-markles-dad-over-alleged-abuse-images",
+      "description": "A Philippine task force in Cebu is investigating allegations against Thomas Markle, the father of Meghan, Duchess of Sussex.",
+      "date": "2026-10-24T05:57:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+      "link": "https://www.rappler.com/technology/moonshot-curbs-hacking-ability-kimi-model/",
+      "description": "Moonshot says it removed cyber-related data from the training corpus and reinforcement-learning environments used to develop the model, while retaining general coding skills",
+      "date": "2026-10-24T05:42:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/php-security-advisory-guernica-october-22-2026-reuters.jpg?resize=75%2C75&crop=0px%2C0px%2C800px%2C800px"
+    },
+    {
+      "title": "What community means for a wine shop along Maginhawa Street",
+      "link": "https://www.rappler.com/people/human-interest/maginhawa-food-community-la-rosa-vino-wine-shop/",
+      "description": "Through the Maginhawa Food Community, Rose Abes has found support among fellow entrepreneurs navigating the fulfillment and challenges of running their own \nestablishments",
+      "date": "2026-10-24T05:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/maginhawa-2-la-rosa-oct-2026-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "The week in photos: October 17-23, 2026",
+      "link": "https://www.rappler.com/world/the-week-in-photos-october-17-23-2026/",
+      "description": "A recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the globe",
+      "date": "2026-10-24T03:36:30+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/brussels-students-protest-october-17-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Martha Sazon, GCash’s newly Mynted billionaire",
+      "link": "https://www.rappler.com/newsbreak/inside-track/martha-sazon-gcash-mynt-ceo-billionaire/",
+      "description": "Make way for the fintech queen: top dog of the PSE’s seventh-largest local company, one of Asia’s most powerful women, and now, a paper billionaire",
+      "date": "2026-10-24T03:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/1792491885333.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+      "link": "https://www.rappler.com/technology/openai-resumes-frontier-ai-training-discloses-software-flaw/",
+      "description": "The disclosure comes amid concerns over the ability of increasingly capable AI agents to identify and exploit software flaws, including in the guardrails meant to contain them",
+      "date": "2026-10-24T02:43:41+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "In new ICC request, prosecutors cite 'orders from above,' reward in Duterte case",
+      "link": "https://www.philstar.com/headlines/2026/10/24/2565415/new-icc-request-prosecutors-cite-orders-above-reward-duterte-case",
+      "description": "ICC prosecutors are seeking to admit three additional witness accounts describing alleged orders, planning and payments linked to killings.",
+      "date": "2026-10-24T02:35:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "How a Dubai trip to see his mom launched a film career",
+      "link": "https://www.rappler.com/people/artists/cinematographer-james-durias-arieta-dubai-trip-mom-launched-career/",
+      "description": "James Durias Arieta came to Dubai with no plan other than to be with his ‘TNT’ mother, a visit that unexpectedly launched his career in cinematography",
+      "date": "2026-10-24T02:00:00+00:00",
+      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -27,6 +99,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/10/Ifugao-rice-terraces-2-2026.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Effects linger over sea despite Rosal's exit from PAR",
+      "link": "https://www.philstar.com/weather/2026/10/24/2565408/effects-linger-over-sea-despite-rosals-exit-par",
+      "description": "Typhoon Rosal, the most powerful cyclone this year, has stepped out of the Philippine area of responsibility on Saturday morning.",
+      "date": "2026-10-23T17:15:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Sherwin: Recall of House budget bill unnecessary",
@@ -83,33 +164,6 @@
       "image": ""
     },
     {
-      "title": "Cyprus: UNCLOS can’t be applied selectively",
-      "link": "https://www.philstar.com/headlines/2026/10/24/2565347/cyprus-unclos-cant-be-applied-selectively",
-      "description": "Cyprus supports the peaceful settlement of disputes and believes that international law cannot be applied &ldquo;selectively,&rdquo; Cypriot Foreign Minister Constantinos Kombos said.",
-      "date": "2026-10-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Nearly 100 student groups ban China envoy",
-      "link": "https://www.philstar.com/headlines/2026/10/24/2565351/nearly-100-student-groups-ban-china-envoy",
-      "description": "Amid the decision of the Chinese embassy to prohibit certain officials and personalities from visiting China, close to a hundred student organizations and youth leaders nationwide declared Chinese Ambassador Jing Quan banned from Philippine schools.",
-      "date": "2026-10-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Typhoon Rosal set to exit PAR today",
-      "link": "https://www.philstar.com/headlines/2026/10/24/2565353/typhoon-rosal-set-exit-par-today",
-      "description": "Typhoon Rosal is set to exit the Philippine area of responsibility (PAR) today, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration.",
-      "date": "2026-10-23T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "DILG, PNP to Bato: 1 week to surrender | The wRap",
       "link": "https://www.rappler.com/video/daily-wrap/october-23-2026/",
       "description": "Today’s headlines: Bato dela Rosa, Paolo Duterte, Alex Eala",
@@ -126,60 +180,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/05/ronald-bato-dela-rosa-senate-plenary-may-12-2026-004-scaled.jpg?resize=75%2C75&crop=538px%2C0px%2C1707px%2C1707px"
-    },
-    {
-      "title": "A shared sense of purpose: 5 career lessons from a Pru Life UK leader",
-      "link": "https://www.rappler.com/brandrap/pru-life-uk-haidee-plopenio-profile/",
-      "description": "What principles helped Haidee Plopenio, Head of Business Continuity Management, power through her journey with the company?",
-      "date": "2026-10-23T11:18:51+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Haidee-Plopenio_Pru-Life-UK.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "QUIZ: Would you survive a Filipino horror movie?",
-      "link": "https://www.rappler.com/culture-desk/survive-filipino-horror-film-quiz/",
-      "description": "Everyone has a role in a horror movie. The question is: will you make it to the end?",
-      "date": "2026-10-23T11:11:58+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rain eases in Batanes as Typhoon Rosal starts moving away",
-      "link": "https://www.rappler.com/philippines/weather/typhoon-rosal-update-pagasa-forecast-october-23-2026-5pm/",
-      "description": "There may still be scattered rain and thunderstorms due to Typhoon Rosal (Champi), but PAGASA's forecast on Friday afternoon, October 23, shows weather conditions are gradually improving",
-      "date": "2026-10-23T10:50:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/rosal-track-october-23-2026-5pm-scaled.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "The urban Filipino is tired, cash-strapped, and sick of the ‘resilience’ excuse",
-      "link": "https://www.rappler.com/philippines/urban-filipino-resilience-study-2026/",
-      "description": "Nearly half of urban Filipinos surveyed in a study reject the romanticized narrative of resilience, as crises beyond their control leave them with little choice but to endure",
-      "date": "2026-10-23T10:21:58+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/dojDo7HzeQU"
-    },
-    {
-      "title": "Recall of House approved-GAB may lead to reenacted budget – senators",
-      "link": "https://www.rappler.com/philippines/senators-reaction-proposal-recall-house-approved-budget-bill-2027/",
-      "description": "Senators say concerns over the House-approved General Appropriations Bill can be addressed  in the consolidated version of the budget bill",
-      "date": "2026-10-23T10:14:22+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Wesley So tops 2026 US Chess Championship, bags P3.55 million",
-      "link": "https://www.rappler.com/people/athletes/wesley-so-us-chess-championship-october-22-2026/",
-      "description": "Wesley So, a three-time Philippine champion before moving to the United States over a decade ago, rules the 2026 US Chess Championship, ending the four-year reign of Fabiano Caruana",
-      "date": "2026-10-23T10:05:14+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Alagang Ayala builds Filipino talent from classroom to career",
