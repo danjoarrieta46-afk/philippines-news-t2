@@ -1,6 +1,159 @@
 {
-  "updated": "2026-10-26T00:33:36.947290+00:00",
+  "updated": "2026-10-26T05:47:22.655447+00:00",
   "items": [
+    {
+      "title": "Villar’s Vista Land 2025 net income falls 59% as delayed figures surface",
+      "link": "https://www.rappler.com/business/vista-land-earnings-earnings-report-2025/",
+      "description": "After months of delay, Vista Land celebrates its higher EBITDA despite a plunge in net income and a P5-billion gap between its Q3 2025 and FY 2025 net income figures",
+      "date": "2026-10-26T05:19:43+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/mark-villar-political-move-troubled-firms-october-8-2026.jpg?resize=75%2C75&crop=363px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Who is Giovanni ‘Banoy’ Lopez, the new DPWH secretary?",
+      "link": "https://www.rappler.com/people/newsmakers/giovanni-banoy-lopez-marcos-new-dpwh-secretary/",
+      "description": "After serving in the Department of Transportation for nearly a decade, Giovanni 'Banoy' Lopez moves to the Department of Public Works and Highways",
+      "date": "2026-10-26T04:34:10+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Old playbook vs Duterte critics resurfaces in journalist Philip Lustre's arrest",
+      "link": "https://www.philstar.com/headlines/2026/10/26/2565825/old-playbook-vs-duterte-critics-resurfaces-journalist-philip-lustres-arrest",
+      "description": "&quot;They couldn&rsquo;t find him&quot; to serve the complaint, but police found him when it was time to arrest him.",
+      "date": "2026-10-26T03:54:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Gasoline prices get a rollback, diesel prices rise again on October 27",
+      "link": "https://www.rappler.com/business/fuel-prices-adjustments-october-27-2026/",
+      "description": "Continued tensions and possible escalations in the Middle East conflict continue to put pressure on global supplies",
+      "date": "2026-10-26T03:28:33+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/image-33.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Dizon, Lopez swap Cabinet posts",
+      "link": "https://bworldonline.com/the-nation/2026/10/26/789229/dizon-lopez-swap-cabinet-posts/",
+      "description": "President Ferdinand R. Marcos, Jr. has reassigned Cabinet officials Vivencio “Vince” B. Dizon and Giovanni “Banoy” Z. Lopez&#8230;",
+      "date": "2026-10-26T03:16:50+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/PH-STAR_20260504_PBBM-Calax-Gen-Trias_Noel-B-Pabalate_-11-2-300x198.jpg"
+    },
+    {
+      "title": "Vince Dizon, Giovanni Lopez trade posts at DOTr, DPWH",
+      "link": "https://www.philstar.com/headlines/2026/10/26/2565820/vince-dizon-giovanni-lopez-trade-posts-dotr-dpwh",
+      "description": "Dizon is back to fix Filipinos&#39; commute, while Lopez is tasked to sustain DPWH reforms.",
+      "date": "2026-10-26T03:05:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "[Newspoint] Duterte’s Frankenstein monster",
+      "link": "https://www.rappler.com/voices/thought-leaders/newspoint-rodrigo-duterte-frankenstein-monster/",
+      "description": "One problem remains intractable and self-compounding, and that problem happens to be the Frankenstein monster Rodrigo Duterte created for us",
+      "date": "2026-10-26T03:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "ITCZ brings rain over four areas in Mindanao — PAGASA",
+      "link": "https://bworldonline.com/the-nation/2026/10/26/789224/itcz-brings-rain-over-four-areas-in-mindanao-pagasa/",
+      "description": "The Intertropical Convergence Zone (ITCZ) is expected to bring rain over four areas in Mindanao, raising the risk&#8230;",
+      "date": "2026-10-26T02:57:09+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/dost-pagasa-10-26-300x169.jpg"
+    },
+    {
+      "title": "Dizon returns to DOTr, Lopez takes over DPWH in Marcos Cabinet reshuffle",
+      "link": "https://www.rappler.com/philippines/vince-dizon-returns-dotr-banoy-lopez-dpwh-marcos-cabinet-reshuffle/",
+      "description": "'We are shifting gears to accelerate reform. Secretary Dizon goes to DOTr to fix the daily commute. Secretary Lopez goes to DPWH to make sure the reforms there last,' says President Ferdinand Marcos Jr.",
+      "date": "2026-10-26T02:48:20+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/10/DPWH-Vince-Dizon-October-20-2025.jpeg?resize=75%2C75&crop=193px%2C0px%2C960px%2C960px"
+    },
+    {
+      "title": "Outsource Philippine visas? Ombudsman call draws DFA defense of mandate",
+      "link": "https://www.philstar.com/headlines/2026/10/26/2565817/outsource-philippine-visas-ombudsman-call-draws-dfa-defense-mandate",
+      "description": "DFA pushes back against Boying Remulla&#39;s call to outsource processing to third parties.",
+      "date": "2026-10-26T02:43:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "UK police revisit 2019 claims on Thomas Markle amid Philippine probe",
+      "link": "https://www.philstar.com/headlines/2026/10/26/2565816/uk-police-revisit-2019-claims-thomas-markle-amid-philippine-probe",
+      "description": "The Thomas Markle case has taken a new turn in London as a separate forensic examination is conducted in the Philippines.",
+      "date": "2026-10-26T02:14:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippines denies undersea cable arrangement with Taiwan",
+      "link": "https://www.philstar.com/headlines/2026/10/26/2565812/philippines-denies-undersea-cable-arrangement-taiwan",
+      "description": "DFA says no cooperation arrangement exists after Beijing objected to the Washington discussion.",
+      "date": "2026-10-26T01:50:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Lula, Brazil’s iconic working class president, wins historic fourth term in dramatic comeback",
+      "link": "https://bworldonline.com/world/2026/10/26/789202/lula-brazils-iconic-working-class-president-wins-historic-fourth-term-in-dramatic-comeback/",
+      "description": "SAO PAULO — Brazilian President Luiz Inacio Lula da Silva won an unprecedented fourth term on Sunday, the&#8230;",
+      "date": "2026-10-26T01:27:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/07/Brazils-former-President-Luiz-Inacio-Lula-da-Silva-300x200.jpg"
+    },
+    {
+      "title": "French protest groups demand more rallies as Macron faces tough choices",
+      "link": "https://bworldonline.com/world/2026/10/26/789194/french-protest-groups-demand-more-rallies-as-macron-faces-tough-choices/",
+      "description": "PARIS — French protest groups and unions called on Sunday for further demonstrations as they sought to maintain&#8230;",
+      "date": "2026-10-26T01:20:52+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/FRANCE-PROTEST-1-300x200.jpg"
+    },
+    {
+      "title": "Venezuela opposition leader Machado returns home after fraught year away",
+      "link": "https://bworldonline.com/world/2026/10/26/789190/venezuela-opposition-leader-machado-returns-home-after-fraught-year-away/",
+      "description": "CARACAS/BARQUISIMETO — Venezuelan opposition leader Maria Corina Machado returned home on Sunday after nearly a year away, following&#8230;",
+      "date": "2026-10-26T01:13:18+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/USA-VENEZUELA-EXPLOSIONS-300x200.jpg"
+    },
+    {
+      "title": "Kimi Antonelli closes in on F1 title with dominant US Grand Prix win",
+      "link": "https://bworldonline.com/sports/2026/10/26/789186/kimi-antonelli-closes-in-on-f1-title-with-dominant-us-grand-prix-win/",
+      "description": "AUSTIN, Texas &#8211; Kimi Antonelli delivered a dominant US Grand Prix victory for Mercedes on Sunday to stand&#8230;",
+      "date": "2026-10-26T00:57:30+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/2026-10-25T220257Z_578080789_UP1EMAP1P8WEW_RTRMADP_3_MOTOR-F1-UNITED-STATES-300x207.jpg"
+    },
+    {
+      "title": "Lula, Brazil’s iconic working-class president, wins historic 4th term in dramatic comeback",
+      "link": "https://www.rappler.com/world/latin-america/lula-brazil-wins-historic-term-dramatic-comeback/",
+      "description": "Lula, an icon of the global left and the most dominant force in Brazilian politics this century, defeats Senator Flavio Bolsonaro, the eldest son of former president Jair Bolsonaro",
+      "date": "2026-10-26T00:40:54+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
       "link": "https://www.rappler.com/world/middle-east/saudi-riyadh-airport-partly-reopens-renewed-houthi-threats/",
@@ -18,6 +171,24 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
+    },
+    {
+      "title": "A salute to global Filipino businesses and the people behind them",
+      "link": "https://bworldonline.com/special-features/2026/10/26/789207/a-salute-to-global-filipino-businesses-and-the-people-behind-them/",
+      "description": "By Jomarc Angelo M. Corpuz, Special Features and Content Writer Entrepreneurship, innovation, and industry development took center stage&#8230;",
+      "date": "2026-10-25T16:04:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/1SF_JUR04967-ASIA-CEO-OL-300x200.jpg"
+    },
+    {
+      "title": "Marking a new era for Philippine property",
+      "link": "https://bworldonline.com/special-features/2026/10/26/789192/marking-a-new-era-for-philippine-property/",
+      "description": "Philippines Real Estate Awards 2026 celebrates industry innovation and leadership Developers, agencies, professionals, and stakeholders shaping the country’s&#8230;",
+      "date": "2026-10-25T16:03:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/SF_1_Event-Proper-Photo3_Group-Photo-OL-300x200.jpg"
     },
     {
       "title": "UN flags military use of AI",
@@ -50,51 +221,6 @@
       "title": "PNP probes Thomas Markle over child abuse images",
       "link": "https://www.philstar.com/headlines/2026/10/26/2565675/pnp-probes-thomas-markle-over-child-abuse-images",
       "description": "The Philippine National Police (PNP) has opened an investigation into allegations that Thomas Markle, father of Meghan, duchess of Sussex, possessed images of child sexual abuse reportedly found among his belongings at his former residence in Cebu.",
-      "date": "2026-10-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘TESDA must explain alleged P5 million offer to Lacson’",
-      "link": "https://www.philstar.com/headlines/2026/10/26/2565676/tesda-must-explain-alleged-p5-million-offer-lacson",
-      "description": "The Senate will seek an explanation from the Technical Education and Skills Development Authority during plenary debates on TESDA&rsquo;s proposed 2027 budget after Sen. Panfilo Lacson&rsquo;s allegation of a P5-million &ldquo;allocation fund&rdquo; offer.",
-      "date": "2026-10-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Gatchalian: Absentee senators not receiving salaries, office funds",
-      "link": "https://www.philstar.com/headlines/2026/10/26/2565677/gatchalian-absentee-senators-not-receiving-salaries-office-funds",
-      "description": "Absentee Senators Ronald dela Rosa, Rodante Marcoleta, Jinggoy Estrada and Loren Legarda are currently not receiving their monthly salaries and office operating funds, Senate President Sherwin Gatchalian confirmed yesterday.",
-      "date": "2026-10-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DPWH blacklists 7 erring construction firms",
-      "link": "https://www.philstar.com/headlines/2026/10/26/2565678/dpwh-blacklists-7-erring-construction-firms",
-      "description": "Seven construction companies have been blacklisted by the Department of Public Works and Highways (DPWH), including firms controlled by detained contractors Curlee and Sarah Discaya, fugitive Zaldy Co and other entities linked to the flood control controversy.",
-      "date": "2026-10-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DBM: Budget provisions unaffected by SC ruling implementable",
-      "link": "https://www.philstar.com/headlines/2026/10/26/2565679/dbm-budget-provisions-unaffected-sc-ruling-implementable",
-      "description": "The Department of Budget and Management (DBM) said provisions of the 2026 national budget not covered by the Supreme Court (SC) ruling on unprogrammed appropriations (UA) remain implementable.",
-      "date": "2026-10-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Chiz to refuse VP post if VP Sara is convicted",
-      "link": "https://www.philstar.com/headlines/2026/10/26/2565680/chiz-refuse-vp-post-if-vp-sara-convicted",
-      "description": "Impeachment court presiding officer Francis Escudero on Sunday expressed full confidence in the fairness of the ongoing impeachment trial against Vice President Sara Duterte, while categorically declaring that he would refuse the vice presidency if she is convicted and removed from office.",
       "date": "2026-10-25T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -263,78 +389,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2023/04/telco-tower-300x200.jpg"
     },
     {
-      "title": "DA backs state of calamity declaration as agri losses mount due to El Niño",
-      "link": "https://bworldonline.com/economy/2026/10/25/789085/da-backs-state-of-calamity-declaration-as-agri-losses-mount-due-to-el-nino/",
-      "description": "THE Department of Agriculture (DA) said it supports Senator Francis N. Pangilinan’s call to declare a state of&#8230;",
-      "date": "2026-10-25T12:29:45+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/11/China-Farmer-dry-land-300x200.jpg"
-    },
-    {
-      "title": "Russia seeks FTA exploratory talks with PHL",
-      "link": "https://bworldonline.com/economy/2026/10/25/789083/russia-seeks-fta-exploratory-talks-with-phl/",
-      "description": "A RUSSIAN TRADE official called for exploratory talks on a free trade agreement (FTA) with the Philippines, expressing&#8230;",
-      "date": "2026-10-25T12:29:03+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/03/coconut-farmer-300x200.jpg"
-    },
-    {
-      "title": "MGEN signals potential interest in Mindanao power plant privatization",
-      "link": "https://bworldonline.com/economy/2026/10/25/789071/mgen-signals-potential-interest-in-mindanao-power-plant-privatization/",
-      "description": "MERALCO PowerGen Corp. (MGEN), the power generation arm of Manila Electric Co. (Meralco), said it is open to&#8230;",
-      "date": "2026-10-25T12:28:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/SPI-Power-300x200.jpg"
-    },
-    {
-      "title": "NAIA, Batangas port selected for Customs Processing System pilot",
-      "link": "https://bworldonline.com/economy/2026/10/25/789070/naia-batangas-port-selected-for-customs-processing-system-pilot/",
-      "description": "THE Bureau of Customs (BoC) said it will pilot-test a Customs Processing System (CPS) modeled on a system&#8230;",
-      "date": "2026-10-25T12:28:02+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/10/Bauan-International-Port-in-Batangas--300x169.jpg"
-    },
-    {
-      "title": "Defending the non-dutiability of royalties in customs valuation",
-      "link": "https://bworldonline.com/economy/2026/10/25/789082/defending-the-non-dutiability-of-royalties-in-customs-valuation/",
-      "description": "Royalty payments remain one of the most closely scrutinized areas in customs audits, often resulting in significant duty and tax assessments.",
-      "date": "2026-10-25T12:27:11+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/20260925-BWorld-Website-Opinion-Headers-Suits-the-C-Suite-1080x720-v3-Light-C-300x200.jpg"
-    },
-    {
-      "title": "SEC pushes firms to match ASEAN governance standards",
-      "link": "https://bworldonline.com/corporate/2026/10/25/789093/sec-pushes-firms-to-match-asean-governance-standards/",
-      "description": "THE Securities and Exchange Commission (SEC) urged listed companies to raise corporate governance standards to regional benchmarks, saying the Philippines continues to lag Southeast Asian peers in attracting international capital.",
-      "date": "2026-10-25T12:06:24+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/10/ASEAN-Flag-300x158.jpg"
-    },
-    {
-      "title": "Meralco Q3 sales rise on warmer weather",
-      "link": "https://bworldonline.com/corporate/2026/10/25/789092/meralco-q3-sales-rise-on-warmer-weather/",
-      "description": "MANILA Electric Co. (Meralco) posted stronger electricity sales growth in the third quarter as warmer weather and customer&#8230;",
-      "date": "2026-10-25T12:06:00+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/07/electric-meter-linemen-PHILSTAR-MICHAELVARCAS-300x200.jpg"
-    },
-    {
-      "title": "Mynt slips after record IPO debut",
-      "link": "https://bworldonline.com/corporate/2026/10/25/789091/mynt-slips-after-record-ipo-debut/",
-      "description": "SHARES of Mynt, Inc., the parent company of GCash, fell after its Philippine Stock Exchange (PSE) debut last week as investors took profits and awaited fresh earnings catalysts.",
-      "date": "2026-10-25T12:05:29+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/Gcash-143x300.jpg"
-    },
-    {
       "title": "4 ways US foreign policy could change if Democrats win in November",
       "link": "https://www.rappler.com/world/us-canada/changes-usa-foreign-policy-victory-midterm-elections-2026/",
       "description": "Here are some ways a Democratic Congress could hem in Trump's foreign policy",
@@ -351,60 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Disenchanted Netanyahu supporters are prize of Israel election campaign",
-      "link": "https://www.rappler.com/world/middle-east/israel-election-campaign-disenchanted-netanyahu-supporters-october-2026/",
-      "description": "Some 13% of Israeli voters have yet to decide how they will vote, according to data collected by the Viterbi Family Center for Public Opinion and Policy Research at the Israel Democracy Institute",
-      "date": "2026-10-25T08:59:22+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr.",
-      "link": "https://www.rappler.com/world/latin-america/brazil-runoff-election-updates-october-25-2026/",
-      "description": "Polls show the candidates are practically tied going into the runoff, as Lula has closed the gap in the final days",
-      "date": "2026-10-25T07:51:22+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "What schools will do amid intense heat during El Niño",
-      "link": "https://www.rappler.com/philippines/deped-schools-el-nino-measures-2026/",
-      "description": "How prepared is the Department of Education for the potential effects of El Niño?",
-      "date": "2026-10-25T07:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Malversation, graft charges filed vs 2 ex-DPWH execs over GenSan right-of-way scam",
-      "link": "https://www.rappler.com/philippines/mindanao/malversation-graft-charges-dpwh-officials-general-santos-right-of-way-scam/",
-      "description": "The Office of the Ombudsman files charges against former DPWH Region 12 regional director Subair Saro Diron, former assistant regional director Laureano Suan Jr., and several other DPWH personnel and private individuals",
-      "date": "2026-10-25T06:25:31+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Before the Philippines even had a name, it had gold",
-      "link": "https://www.rappler.com/people/human-interest/gold-pre-colonial-philippines-bahandi/",
-      "description": "“When you look at this gold jewelry, you realize that once upon a time we had a golden age. It gives you a sense of what was pre-colonial culture,” historian Ambeth Ocampo tells Rappler",
-      "date": "2026-10-25T05:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Kanagi-necklace.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Obama unloads on Trump while stumping for Democrats ahead of midterms",
-      "link": "https://www.rappler.com/world/us-canada/obama-stump-speech-trump-midterm-elections-october-24-2026/",
-      "description": "Obama frames the November 3 vote as a 'circuit breaker' to 'at least rein in some of the foolishness' of Trump's presidency",
-      "date": "2026-10-25T04:03:53+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/donald-trump-september-9-2026-reuters.jpg?resize=75%2C75&crop=228px%2C0px%2C812px%2C812px"
     }
   ]
 }
