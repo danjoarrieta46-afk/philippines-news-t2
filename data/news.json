@@ -1,6 +1,33 @@
 {
-  "updated": "2026-10-27T19:49:21.118256+00:00",
+  "updated": "2026-10-27T23:31:09.618129+00:00",
   "items": [
+    {
+      "title": "Fact check: Edited clip turns Castro's Duterte remarks into attack on Marcos",
+      "link": "https://www.philstar.com/headlines/2026/10/28/2566115/fact-check-edited-clip-turns-castros-duterte-remarks-attack-marcos",
+      "description": "An edited video falsely suggests Palace Press Officer Claire Castro accused President Ferdinand Marcos Jr. of marijuana use and fentanyl abuse.",
+      "date": "2026-10-27T23:30:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "PNP orders tighter watch on recruiters targeting Filipinos for military work",
+      "link": "https://www.philstar.com/headlines/2026/10/28/2566114/pnp-orders-tighter-watch-recruiters-targeting-filipinos-military-work",
+      "description": "The PNP is stepping up surveillance of suspected illegal recruiters offering Filipinos high-paying military jobs abroad.",
+      "date": "2026-10-27T23:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Israeli exit polls show deadlock, setback for Netanyahu",
+      "link": "https://www.rappler.com/world/middle-east/israeli-exit-polls-deadlock-setback-netanyahu/",
+      "description": "The turnout was 77.7%, the highest in more than two decades and around 7 percentage points higher than in the previous election in 2022",
+      "date": "2026-10-27T22:31:56+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/israel-elections-october-27-2026-reuters.jpg?resize=75%2C75&crop=468px%2C0px%2C1559px%2C1559px"
+    },
     {
       "title": "Palace defends budget insertions for Sandro",
       "link": "https://www.philstar.com/headlines/2026/10/28/2566234/palace-defends-budget-insertions-sandro",
@@ -68,24 +95,6 @@
       "title": "Justice who penned Imelda acquittal may be next CJ?",
       "link": "https://www.philstar.com/headlines/2026/10/28/2566260/justice-who-penned-imelda-acquittal-may-be-next-cj",
       "description": "As rumors swirled about President Marcos&rsquo; choice for the next chief justice, Malaca&ntilde;ang urged the public to just wait for the announcement, noting that all the candidates are qualified.",
-      "date": "2026-10-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "JV open to inviting budget watchdogs to bicam hearings",
-      "link": "https://www.philstar.com/headlines/2026/10/28/2566261/jv-open-inviting-budget-watchdogs-bicam-hearings",
-      "description": "Senate finance committee chairman JV Ejercito is open to inviting civil society organizations&nbsp; to the bicameral conference committee hearings on the proposed P7.2-trillion national budget for 2027, after the groups flagged up to P1 trillion in potential pork barrel funds in the House of Representatives&rsquo; version of the spending bill.",
-      "date": "2026-10-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Bato urges SC anew to block arrest",
-      "link": "https://www.philstar.com/headlines/2026/10/28/2566262/bato-urges-sc-anew-block-arrest",
-      "description": "Amid the one-week ultimatum issued by the Philippine National Police (PNP) for him to surrender and the P50-million bounty placed on his head, Sen. Ronald &ldquo;Bato&rdquo; dela Rosa has urged the Supreme Court&nbsp; anew to prevent his arrest.",
       "date": "2026-10-27T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -396,15 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "[In This Economy] Pagsadsad ng piso: Ano ang puwedeng gawin?",
-      "link": "https://www.rappler.com/voices/thought-leaders/in-this-economy-peso-depreciation-dollar-exchange-record-low/",
-      "description": "Sa ngayon, makatutulong ang pagplano ng bayarin at pag-iwas sa padalos-dalos na financial decisions. Pero may pananagutan din ang gobyerno na gawing mas matatag ang ekonomiya.",
-      "date": "2026-10-27T09:48:10+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/09/INVESTMENT-DURING-INFLATION-SEP-30-2026.jpg?resize=75%2C75&crop=525px%2C0px%2C1080px%2C1080px"
     }
   ]
 }
