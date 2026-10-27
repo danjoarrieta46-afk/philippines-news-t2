@@ -1,14 +1,185 @@
 {
-  "updated": "2026-10-27T02:18:13.469746+00:00",
+  "updated": "2026-10-27T08:13:12.072817+00:00",
   "items": [
     {
-      "title": "In Marawi, therapy helps mothers find new ways to connect with their children",
-      "link": "https://www.rappler.com/people/human-interest/marawi-therapy-helps-mothers-find-new-ways-connect-children/",
-      "description": "Recovery efforts focused on psychosocial needs after the 2017 Marawi siege uncover the needs of children with developmental delays",
-      "date": "2026-10-27T02:15:28+00:00",
+      "title": "Netanyahu’s political survival on the line as Israel votes",
+      "link": "https://www.rappler.com/world/middle-east/israel-elections-october-27-2026/",
+      "description": "Opinion polls show a close race between Benjamin Netanyahu's Likud party and its right-wing allies and a rival alliance led by Gadi Eisenkot, a former military chief of staff and security hawk with backers on the right and in the center",
+      "date": "2026-10-27T08:08:54+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Marawi-therapy-2.jpg?resize=75%2C75&crop_strategy=attention"
+      "image": ""
+    },
+    {
+      "title": "Singapore foreign minister heads to Indonesia amid tensions over gas and haze",
+      "link": "https://bworldonline.com/world/2026/10/27/789547/singapore-foreign-minister-heads-to-indonesia-amid-tensions-over-gas-and-haze/",
+      "description": "SINGAPORE/JAKARTA — Indonesia will host Singapore’s top diplomat on Tuesday, its foreign ministry said, as tensions simmer between&#8230;",
+      "date": "2026-10-27T08:04:55+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/INDONESIA-WILDFIRE-2026-300x200.jpg"
+    },
+    {
+      "title": "EU seeks to widen market access to counter trade restrictions, Germany’s Merz says",
+      "link": "https://bworldonline.com/world/2026/10/27/789548/eu-seeks-to-widen-market-access-to-counter-trade-restrictions-germanys-merz-says/",
+      "description": "SINGAPORE — German Chancellor Friedrich Merz said on Tuesday that the European Union is seeking to collaborate more&#8230;",
+      "date": "2026-10-27T08:00:38+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/02/Friedrich-Merz-300x200.jpg"
+    },
+    {
+      "title": "Saudi-led coalition says it intercepted Houthi missiles, drones attacking kingdom",
+      "link": "https://bworldonline.com/world/2026/10/27/789549/saudi-led-coalition-says-it-intercepted-houthi-missiles-drones-attacking-kingdom/",
+      "description": "CAIRO — The Saudi-led coalition in Yemen said on Tuesday it intercepted and destroyed ballistic missiles and drones&#8230;",
+      "date": "2026-10-27T07:56:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/IRAN-CRISIS-SAUDI-AIRPORT-300x200.jpg"
+    },
+    {
+      "title": "PHP Foundation ‘under-funded’ with only 1 full-time staff member, director says",
+      "link": "https://www.rappler.com/technology/php-foundation-under-funded-understaffed/",
+      "description": "'We have one full-time staff member (that's me) and 14 mostly part-time contractors,' PHP Foundation executive director Elizabeth Barron says in an email",
+      "date": "2026-10-27T07:53:29+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Dimaampao vies to be PH’s first Muslim chief justice, vows a ‘more human judiciary’",
+      "link": "https://www.rappler.com/philippines/japar-dimaampao-plans-chief-justice-candidate-jbc-interviews/",
+      "description": "'I would like to be remembered not simply as first Muslim to serve as chief justice but as a chief justice who upheld the supremacy of the Constitution, defended and protected the independence of the judiciary, and ensured that justice was served without fear or favor,' Dimaampao says",
+      "date": "2026-10-27T07:45:54+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/nMmal4J-FgA"
+    },
+    {
+      "title": "FACT CHECK: Marcos did not call for SC shutdown over budget ruling",
+      "link": "https://www.rappler.com/newsbreak/fact-check/ferdinand-marcos-jr-call-shut-down-supreme-court-budget-ruling/",
+      "description": "A 2025 video resurfaces out of context, falsely presented as a recent pronouncement by President Ferdinand Marcos Jr. against the SC",
+      "date": "2026-10-27T06:32:26+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-sc-shutdown.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "UST campus declared safe after another bomb threat",
+      "link": "https://www.philstar.com/nation/2026/10/27/2566082/ust-campus-declared-safe-after-another-bomb-threat",
+      "description": "UST&#39;s Manila campus was declared safe Tuesday after another online threat involving explosives.",
+      "date": "2026-10-27T05:40:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "BARMM’s Teduray, Lambangian tribes win ancestral land after 2 decades of struggle",
+      "link": "https://www.rappler.com/philippines/mindanao/barmm-teduray-lambangian-tribes-ancestral-land-long-struggle/",
+      "description": "After more than two decades of legal battles, bureaucratic delays and relentless struggle, the Teduray and Lambangian indigenous communities in the Bangsamoro region secure formal recognition of 117,101 hectares of ancestral land",
+      "date": "2026-10-27T05:07:05+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/BARMM-IPs-ancestyral-land3.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Alibaba wins injunction against Pentagon contract restrictions tied to China blacklist",
+      "link": "https://bworldonline.com/technology/2026/10/27/789538/alibaba-wins-injunction-against-pentagon-contract-restrictions-tied-to-china-blacklist/",
+      "description": "A US federal judge on Monday granted Alibaba Group Holding&#8217;s request for a preliminary injunction, ordering the US&#8230;",
+      "date": "2026-10-27T04:49:53+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/alibaba-300x200.jpg"
+    },
+    {
+      "title": "TP in the Philippines named Sustainability Company of the Year at 17th Asia CEO Awards",
+      "link": "https://bworldonline.com/spotlight/2026/10/27/789541/tp-in-the-philippines-named-sustainability-company-of-the-year-at-17th-asia-ceo-awards/",
+      "description": "Receives Circle of Excellence honors for Most Innovative Company of the Year, Service Excellence Company of the Year,&#8230;",
+      "date": "2026-10-27T04:30:01+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/TP-Asia-CEO-Awards-2026-OL-300x200.jpg"
+    },
+    {
+      "title": "As Dizon exits, DPWH reinforces LGU role in projects",
+      "link": "https://www.philstar.com/headlines/2026/10/27/2566076/dizon-exits-dpwh-reinforces-lgu-role-projects",
+      "description": "Outgoing Public Works Secretary Vince Dizon said that the DPWH has revised its project approval policies to require coordination with local government units, as Giovanni Lopez prepares to take over as the department&#39;s chief.",
+      "date": "2026-10-27T04:13:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "[Vantage Point] Tubig Pilipinas’ backdoor listing move opens into another suspension",
+      "link": "https://www.rappler.com/voices/newsletters/vantage-point-tubig-pilipinas-backdoor-listing-philippine-stock-exchange-suspension/",
+      "description": "A dormant coal shell refashions itself into a piped-water holding enterprise",
+      "date": "2026-10-27T04:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "CIMB said to attract BPI, Metrobank for Philippine unit sale",
+      "link": "https://bworldonline.com/banking-finance/2026/10/27/789532/cimb-said-to-attract-bpi-metrobank-for-philippine-unit-sale/",
+      "description": "CIMB Group Holdings Bhd.’s planned sale of its business in the Philippines has drawn interest from local rivals&#8230;",
+      "date": "2026-10-27T03:57:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/472469146-300x200.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-10-27T03:16:56+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/gyeC_z1QKlI"
+    },
+    {
+      "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+      "link": "https://www.rappler.com/technology/anthropic-discloses-training-pause-ai-security-breaches-ipo-filing/",
+      "description": "Anthropic says in its IPO filing's risk factors section that it delayed pre-training of a new 'frontier' base model to strengthen safeguards against the theft of model weights and intellectual property",
+      "date": "2026-10-27T03:05:53+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "PAGASA to declare onset of northeast monsoon in few days",
+      "link": "https://bworldonline.com/the-nation/2026/10/27/789530/pagasa-to-declare-onset-of-northeast-monsoon-in-few-days/",
+      "description": "The onset of the northeast monsoon is likely to be declared in the next few days amid the&#8230;",
+      "date": "2026-10-27T02:52:43+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/school-suspend-300x200.jpg"
+    },
+    {
+      "title": "Ban or tiered limits? Meta, gov’t agencies discuss child online safety",
+      "link": "https://www.rappler.com/technology/meta-kids-safety-forum-officials-press-platforms-action/",
+      "description": "CICC says child safety ‘cannot be matched by promises alone,’ urging platforms to deliver results on safeguards for minors online",
+      "date": "2026-10-27T02:42:41+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/i.ytimg.com/vi/Y3_Eg2JVRt4/hqdefault.jpg"
+    },
+    {
+      "title": "Who will be VP if Sara Duterte is convicted?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-convicted-who-will-succeed-her/",
+      "description": "A political science professor says the choice of a successor will involve more than simply filling a vacancy",
+      "date": "2026-10-27T02:38:10+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippines urges more equitable UN Security Council as global conflicts on the rise",
+      "link": "https://www.philstar.com/headlines/2026/10/27/2566066/philippines-urges-more-equitable-un-security-council-global-conflicts-rise",
+      "description": "The Philippines is calling for the expansion of the United Nations Security Council to between 21 and 27 members to ensure greater representation of developing countries and small nations.&nbsp;",
+      "date": "2026-10-27T02:36:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Anthropic’s soaring sales, steep losses put AI frenzy to IPO test",
@@ -18,6 +189,15 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/anthropic-dario-amodei-300x200.jpg"
+    },
+    {
+      "title": "Bato’s wife defends fugitive senator: ‘He’s not an enemy’",
+      "link": "https://www.philstar.com/headlines/2026/10/27/2566057/batos-wife-defends-fugitive-senator-hes-not-enemy",
+      "description": "The wife of fugitive Sen. Bato Dela Rosa issued a public appeal defending her husband, urging his former political allies and powerful figures to stop using him for personal agendas and to end what she described as his &quot;persecution.&quot;",
+      "date": "2026-10-27T01:36:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Albay bridge stalled for over 15 years to open before Undas",
@@ -47,15 +227,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/09/NETANYAHU-300x200.jpg"
     },
     {
-      "title": "Rappler Recap: What are Zalameda, Dimaampao, and Marquez’s plans as chief justice bets?",
-      "link": "https://www.rappler.com/philippines/recap-plans-rodil-zalameda-japar-dimaampao-jose-midas-marquez-chief-justice-bets/",
-      "description": "Rappler's justice beat reporter Jairo Bolledo shares in this recap",
-      "date": "2026-10-27T01:12:48+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/U976yOPSy4A"
-    },
-    {
       "title": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds",
       "link": "https://bworldonline.com/world/2026/10/27/789517/trump-approval-rises-from-record-low-to-32-ahead-of-midterm-election-reuters-ipsos-poll-finds/",
       "description": "WASHINGTON — US President Donald Trump&#8217;s public approval rating inched higher to 32%, up a percentage point from&#8230;",
@@ -63,42 +234,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2025/03/Donald-Trump-2-300x200.jpg"
-    },
-    {
-      "title": "After 14 years, P1.49-billion Ifugao irrigation project finally opens",
-      "link": "https://www.rappler.com/philippines/luzon/after-years-billion-ifugao-irrigation-project-finally-opens/",
-      "description": "The project was originally scheduled for completion in 2017, but limited annual funding releases, among other factors, pushed construction years beyond that target, a source tells Rappler",
-      "date": "2026-10-27T00:55:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/el-nino-fueled-waves-california-october-10-2026-reuters.jpg?resize=75%2C75&crop=264px%2C0px%2C1332px%2C1332px"
-    },
-    {
-      "title": "Lessons for the Philippines: AI content surge bypassed Brazil’s election rules — report",
-      "link": "https://www.rappler.com/technology/lessons-philippines-ai-content-surge-bypassed-brazil-election-rules-report/",
-      "description": "As the Philippines moves closer to the 2028 elections, Brazil’s 2026 presidential race gives a wake-up call: electoral rules alone cannot stop the surge of AI–generated political content.",
-      "date": "2026-10-26T23:56:47+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Imagem-relatorio-151026-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Thermal Blueprint: USER INTERFACE 2026 Resurfaces with Technology-Driven Climate Innovation",
-      "link": "https://nowyouknowph.rappler.com/1434/thermal-blueprint-user-interface-2026-resurfaces-with-technology-driven-climate-innovation/",
-      "description": "Explore how technology can drive urban sustainability and heat mitigation at USER INTERFACE 2026.",
-      "date": "2026-10-26T23:39:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Zalameda’s promises as chief justice bet: Solve case delays, more benefits for court staff",
-      "link": "https://www.rappler.com/philippines/rodil-zalameda-plans-chief-justice-candidate-jbc-interviews/",
-      "description": "'We have to gain the trust of the people in the domain of justice. I want a Supreme Court which is being seen by the people as their last bastion,' Associate Justice Rodil Zalameda says",
-      "date": "2026-10-26T23:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "10 percent of pupils in Grades 1-3 are struggling readers",
@@ -142,51 +277,6 @@
       "description": "The Office of the Ombudsman plans to form a group that will review the Supreme Court ruling that struck down the national budgets in 2024 and 2025 along with portions of the 2026 outlay as unconstitutional.",
       "date": "2026-10-26T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DepEd: Complete suspension of classes if temperature hits 42 degrees Celsius",
-      "link": "https://www.philstar.com/headlines/2026/10/27/2565935/deped-complete-suspension-classes-if-temperature-hits-42-degrees-celsius",
-      "description": "Education Secretary Sonny Angara has issued comprehensive guidelines for schools amid the threat of the super El Ni&ntilde;o, ordering the suspension of all physical and home-based academic activities once ambient temperature hits 42 degrees Celsius, to ensure the safety of learners and teachers.",
-      "date": "2026-10-26T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DFA: No deal with Taiwan on undersea cables",
-      "link": "https://www.philstar.com/headlines/2026/10/27/2565937/dfa-no-deal-taiwan-undersea-cables",
-      "description": "The Philippines has no special arrangement with Taiwan for the protection of undersea cables or for dealing with Beijing&rsquo;s &ldquo;gray zone&rdquo; activities, the Department of Foreign Affairs (DFA) clarified yesterday, denying a declaration made by Manila&rsquo;s deputy chief of mission in Washington.",
-      "date": "2026-10-26T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "If Bato doesn’t surrender, what next?",
-      "link": "https://www.philstar.com/headlines/2026/10/27/2565941/if-bato-doesnt-surrender-what-next",
-      "description": "Efforts to track down Sen. Ronald &ldquo;Bato&rdquo;&nbsp;dela Rosa would continue if he does not turn himself over to authorities within the one-week deadline set by the police, Malaca&ntilde;ang said yesterday.",
-      "date": "2026-10-26T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DOTr’s Lopez, DPWH’s Dizon swap posts",
-      "link": "https://www.philstar.com/headlines/2026/10/27/2565943/dotrs-lopez-dpwhs-dizon-swap-posts",
-      "description": "President Marcos carried out yet another change in his Cabinet, with Transportation Secretary Giovanni Lopez and Public Works Secretary Vince Dizon swapping posts, in an arrangement supposedly meant to solve commuters&rsquo; woes and sustain reforms in a system that &ldquo;protected&rdquo; corruption.",
-      "date": "2026-10-26T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Sandro Marcos’ district gets P4.38-B more funds for public works | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/october-26-2026/",
-      "description": "Today’s headlines: Sandro Marcos, DPWH, Alex Eala",
-      "date": "2026-10-26T14:00:00+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -315,96 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2021/08/Congress-072417-PCOO-300x200.jpg"
-    },
-    {
-      "title": "DENR debunks Sierra Madre protected areas mining claim",
-      "link": "https://bworldonline.com/the-nation/2026/10/26/789414/denr-debunks-sierra-madre-protected-areas-mining-claim/",
-      "description": "THE Department of Environment and Natural Resources (DENR) on Monday debunked a social media claim stating they permitted&#8230;",
-      "date": "2026-10-26T13:18:59+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/04/Masungi-300x200.jpg"
-    },
-    {
-      "title": "DoJ: Thomas Markle under probe over alleged child sexual abuse",
-      "link": "https://bworldonline.com/the-nation/2026/10/26/789413/doj-thomas-markle-under-probe-over-alleged-child-sexual-abuse/",
-      "description": "THE Department of Justice (DoJ) on Monday confirmed that an investigation is underway into allegations that Thomas W.&#8230;",
-      "date": "2026-10-26T13:18:41+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/09/DOJ-logo-300x199.jpg"
-    },
-    {
-      "title": "Gov’t expands solar irrigation systems as El Niño threatens farms",
-      "link": "https://bworldonline.com/the-nation/2026/10/26/789412/govt-expands-solar-irrigation-systems-as-el-nino-threatens-farms/",
-      "description": "PRESIDENT Ferdinand R. Marcos, Jr. on Monday said the government is expanding solar-powered irrigation systems to reduce farmers’&#8230;",
-      "date": "2026-10-26T13:18:28+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/PBBM-Marcos-3-300x200.jpg"
-    },
-    {
-      "title": "NUP bill seeks advanced industries zone in New Clark City",
-      "link": "https://bworldonline.com/the-nation/2026/10/26/789411/nup-bill-seeks-advanced-industries-zone-in-new-clark-city/",
-      "description": "THE National Unity Party (NUP) on Monday filed a bill seeking to establish an advanced industries zone in&#8230;",
-      "date": "2026-10-26T13:18:14+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/02/New-Clark-City-300x169.jpg"
-    },
-    {
-      "title": "CoA flags P1.4B in LWUA accounting discrepancies",
-      "link": "https://bworldonline.com/the-nation/2026/10/26/789424/coa-flags-p1-4b-in-lwua-accounting-discrepancies/",
-      "description": "THE Commission on Audit (CoA) flagged P1.4 billion in unreconciled accounting discrepancies and P684.4 million in unutilized disaster&#8230;",
-      "date": "2026-10-26T13:18:03+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/01/water-faucet-300x200.jpg"
-    },
-    {
-      "title": "LemFi launches ‘Ambition has no passport,’ its biggest product expansion yet",
-      "link": "https://www.rappler.com/brandrap/ambition-has-no-passport-lemfi-product-expansion/",
-      "description": "An expanded platform for people living and moving across borders? Meet LemFi's newest milestone",
-      "date": "2026-10-26T13:02:37+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/inline-5-1-1.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Molbog leader raises fears, concerns over Balabac EDCA site",
-      "link": "https://www.rappler.com/philippines/luzon/molbog-leader-raises-fears-concerns-balabac-edca-site/",
-      "description": "Molbog people, still awaiting certifications of their claim to ancestral lands, protest the developments on Balabac Island",
-      "date": "2026-10-26T13:01:30+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "ERC targets full contestability for all electricity users by 2031",
-      "link": "https://bworldonline.com/economy/2026/10/26/789393/erc-targets-full-contestability-for-all-electricity-users-by-2031/",
-      "description": "THE Energy Regulatory Commission (ERC) said it is developing a plan to make all power users eligible to choose their electricity providers by 2031.",
-      "date": "2026-10-26T13:00:44+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/09/electric-meter-040519-300x175.jpg"
-    },
-    {
-      "title": "Port decongestion to boost some warehouse segments",
-      "link": "https://bworldonline.com/economy/2026/10/26/789388/port-decongestion-to-boost-some-warehouse-segments/",
-      "description": "SELECTED segments of the modern warehouse industry could benefit when government clears up the backlog at the ports, analysts said.",
-      "date": "2026-10-26T12:59:40+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/02/ACLOGISTICS.COM_.PH_-300x159.jpg"
-    },
-    {
-      "title": "3 Negros groups unite vs ‘World Bank-DOTr scheme’ on transport modernization",
-      "link": "https://www.rappler.com/philippines/visayas/negros-transport-groups-unite-vs-world-bank-dotr-jeepney-modernization/",
-      "description": "Gerry Llena, LTFRB regional director for Negros Island, tells Rappler the allegation that three traditional jeepneys will be junked in exchange for one modernized unit is 'just a myth’",
-      "date": "2026-10-26T12:05:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Screenshot-2026-10-26-at-3.54.21-PM.png?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
