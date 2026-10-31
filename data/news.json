@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-31T08:40:34.151193+00:00",
+  "updated": "2026-10-31T15:05:19.309723+00:00",
   "items": [
+    {
+      "title": "Tovera-led La Salle wins 3rd straight as rival Ateneo falls in OT thriller",
+      "link": "https://www.rappler.com/sports/uaap/ateneo-blue-eagles-la-salle-green-archers-basketball-results-october-31-2026/",
+      "description": "Super rookie Joaquin Tovera shines with a heroic performance as La Salle trumps rival Ateneo in overtime to stay undefeated in the UAAP Season 89 men’s basketball tournament second round",
+      "date": "2026-10-31T14:01:04+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "France braces for fresh unrest, government vows tough response",
+      "link": "https://www.rappler.com/world/europe/france-braces-fresh-unrest-government-response/",
+      "description": "Some 150 gatherings are planned across France, the interior ministry says",
+      "date": "2026-10-31T10:08:43+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "‘Hope and help’: How the Philippines fights to lower breast cancer deaths",
+      "link": "https://www.rappler.com/people/human-interest/philippines-fights-lower-breast-cancer-deaths/",
+      "description": "While treatments for late-stage breast cancer have reached the Philippines, medical professionals point out that making them available is vastly different from making them affordable and accessible",
+      "date": "2026-10-31T09:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/10/breast-cancer-filipino-oct-25-2025.jpg?resize=75%2C75&crop=414px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Scams from false claims: How to spot them",
+      "link": "https://www.rappler.com/newsbreak/scams-false-claims-how-to-spot/",
+      "description": "Here’s a guide to identify whether the post you’re seeing on social media is a phishing site or scam",
+      "date": "2026-10-31T08:48:28+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "The races that will decide control of the US Senate",
       "link": "https://www.rappler.com/world/us-canada/key-united-states-senate-races-midterm-elections-2026/",
@@ -54,132 +90,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-5.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "10 key US House races that could decide the 2026 midterms",
-      "link": "https://www.rappler.com/world/us-canada/key-united-states-house-races-midterm-elections-2026/",
-      "description": "History suggests Democrats will gain seats but Republicans have kickstarted a national redistricting battle that could make Democrats' path to a majority slightly more difficult",
-      "date": "2026-10-31T04:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "The week in photos: October 24-30, 2026",
-      "link": "https://www.rappler.com/world/the-week-in-photos-october-24-30-2026/",
-      "description": "A recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the globe",
-      "date": "2026-10-31T03:44:42+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/paris-yeloow-vests-protest-october-24-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "LIVE updates: Undas 2026",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566917/live-updates-undas-2026",
-      "description": "Filipinos are observing Undas on November 1 and 2 as families visit cemeteries and memorial parks to remember their departed loved ones.",
-      "date": "2026-10-31T03:10:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "This record shop owner strives to keep cassette, vinyl music alive",
-      "link": "https://www.rappler.com/people/human-interest/spin-the-reel-music-trade-cassette-cd-vinyl-record/",
-      "description": "On a regular day, Ge Timbreza of Spin The Reel Music Trade lets his turntable play music for hours on end as he serves customers looking for their own CD, cassette, or vinyl to take home",
-      "date": "2026-10-31T03:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/i.ytimg.com/vi/19WcpnjFxuE/hqdefault.jpg"
-    },
-    {
-      "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
-      "link": "https://www.rappler.com/technology/crypto-exchanges-move-bolster-defenses-binance-heist/",
-      "description": "Rival crypto exchanges move quickly to shore up their own systems and to reassure customers their tokens were safe",
-      "date": "2026-10-31T02:37:10+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/binance-november-10-2022-reuters.jpg?resize=75%2C75&crop=78px%2C0px%2C833px%2C833px"
-    },
-    {
-      "title": "Men can also be victims of sexual violence — Supreme Court",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566718/men-can-also-be-victims-sexual-violence-supreme-court",
-      "description": "The Supreme Court has upheld the conviction of a woman for statutory acts of lasciviousness after she sexually abused her 11-year-old nephew, stressing that men can also be victims of sexual violence.",
-      "date": "2026-10-31T01:17:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "19 more Philippine restos get Michelin Guide recognition",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566782/19-more-philippine-restos-get-michelin-guide-recognition",
-      "description": "On its second edition in the Philippines, the Michelin Guide recognized 19 new food establishments across Manila, Cebu, Pampanga and Cavite, bringing the number of honorees this year to 127.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "P30 million cloud-seeding brings hope to Visayas sugar farms",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566784/p30-million-cloud-seeding-brings-hope-visayassugarfarms",
-      "description": "&nbsp;As the Visayas sugar industry braces for the looming threat of a projected super El Ni&ntilde;o, a much-needed dose of hope may soon come from the skies.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP camp calls out new ‘tanim witness’",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566789/vp-camp-calls-out-new-tanim-witness",
-      "description": "The camp of Vice President Sara Duterte yesterday dismissed the claim of&nbsp;an alleged former driver of former House speaker Lord Allan Velasco, that he delivered suitcases of cash to her.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Diokno: Concrete plan needed amid peso drop",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566791/diokno-concrete-plan-needed-amid-peso-drop",
-      "description": "Akbayan party-list Rep. Chel Diokno urged the Marcos administration to present a clear and concrete plan to address the peso&rsquo;s continued depreciation and cushion its impact on ordinary families.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "How tech can help Filipinos weather El Niño impact",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566793/how-tech-can-help-filipinos-weather-el-nio-impact",
-      "description": "From low-cost water filtration systems to biofertilizers and automated irrigation, Filipino-made technologies are offering practical solutions to water shortages and agricultural losses as the country braces for the impact of a &ldquo;super&rdquo; El Ni&ntilde;o.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "2-year delay on CCTV turnover at NAIA irks Dizon",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566820/2-year-delay-cctv-turnover-naia-irks-dizon",
-      "description": "Transportation Secretary Vince Dizon expressed dismay at the nearly two-year delay in the transfer of closed-circuit television control at the Ninoy Aquino International Airport.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "BAN Toxics warns of chemicals in Halloween toys",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566825/ban-toxics-warns-chemicals-halloween-toys",
-      "description": "A watchdog group has warned consumers about hazardous chemicals found in Halloween toys and costumes, urging manufacturers and importers to comply with Philippine safety standards to protect children from toxic exposure.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Gas prices seen higher next week; rollback for diesel",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566826/gas-prices-seen-higher-next-week-rollback-diesel",
-      "description": "Motorists should brace for higher gasoline prices next week as the escalating conflict in the Middle East continues to threaten critical oil supply.",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Cojuangco warns PNPP privatization may delay recommissioning",
