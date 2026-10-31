@@ -1,23 +1,104 @@
 {
-  "updated": "2026-10-31T02:02:11.977742+00:00",
+  "updated": "2026-10-31T08:40:34.151193+00:00",
   "items": [
     {
-      "title": "Everywhere, all at once: The year of Nour Hooshmand",
-      "link": "https://www.rappler.com/people/actors/nour-hooshmand-profile/",
-      "description": "A former theater stand-in, Filipino-Iranian actress Nour Hooshmand wants to ‘pave a new path’ for herself, opting for purposeful roles, no matter the screen time",
-      "date": "2026-10-31T02:00:00+00:00",
+      "title": "The races that will decide control of the US Senate",
+      "link": "https://www.rappler.com/world/us-canada/key-united-states-senate-races-midterm-elections-2026/",
+      "description": "Democrats are now competitive in states Donald Trump won handily in 2024, even as Republicans seek to capture Democratic-held seats of their own",
+      "date": "2026-10-31T08:30:00+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/Nour-Hooshmand-Agapito-october-31-2026.png?resize=75%2C75&crop_strategy=attention"
+      "image": ""
     },
     {
-      "title": "Seven cities, one sprawling game of pass the art in Pasa Pasa 2027",
-      "link": "https://www.rappler.com/culture-desk/travel/metro-manila-cities-art-festival-pasa-pasa-2027/",
-      "description": "Rather than keeping art inside galleries, the festival takes it to where people already live, work, and gather.",
-      "date": "2026-10-31T01:34:57+00:00",
+      "title": "For Josh Boutwood, culture of consistency helped Helm retain its two Michelin stars",
+      "link": "https://www.rappler.com/people/newsmakers/josh-boutwood-helm-two-michelin-stars-2027/",
+      "description": "'Everyone knows their responsibilities. Everyone has the passion. Everyone knows what we want to put onto the table. Sharing this collective culture and sharing it to the world that comes and dines with us is probably the answer that has helped keep us consistent,' he says",
+      "date": "2026-10-31T07:30:00+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/PASA-PASA-Official-Poster-.jpeg?resize=75%2C75&crop_strategy=attention"
+      "image": ""
+    },
+    {
+      "title": "El Niño-ready? These infrastructures in Quezon City collect rainwater",
+      "link": "https://www.rappler.com/philippines/metro-manila/rainwater-collection-system-quezon-city-el-nino/",
+      "description": "Underneath these basketball courts in Quezon City are water detention basins, which can address flooding and water supply problems",
+      "date": "2026-10-31T06:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/qc-basketball-court-water-detention-1.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "EXPLAINER: Is going solar affordable now?",
+      "link": "https://www.rappler.com/philippines/rooftop-solar-affordable-financing-options/",
+      "description": "Solar financing options have come a long way in the past year. Here’s a look at the current possibilities — and constraints — for ordinary Filipino households that want to go solar.",
+      "date": "2026-10-31T05:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/05/SOLAR-HEDGE.jpg?resize=75%2C75&crop=434px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Locked up, then fired up: Bo Kyi’s fight for political detainees",
+      "link": "https://www.rappler.com/people/profiles/myanmar-bo-kyi-ramon-magsaysay-awardee-2026/",
+      "description": "Assistance Association for Political Prisoners co-founder Bo Kyi receives the 2026 Ramon Magsaysay Award for his work documenting political arrests and detention, and providing assistance to their families",
+      "date": "2026-10-31T05:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: No reports of SC order ousting Marcos",
+      "link": "https://www.rappler.com/newsbreak/fact-check/no-reports-supreme-court-ousting-ferdinand-marcos-jr/",
+      "description": "There is no ruling or order from the Supreme Court ordering the removal of President Ferdinand Marcos Jr., who, as a sitting president, is immune from suit",
+      "date": "2026-10-31T04:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/fact-check-full-post-5.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "10 key US House races that could decide the 2026 midterms",
+      "link": "https://www.rappler.com/world/us-canada/key-united-states-house-races-midterm-elections-2026/",
+      "description": "History suggests Democrats will gain seats but Republicans have kickstarted a national redistricting battle that could make Democrats' path to a majority slightly more difficult",
+      "date": "2026-10-31T04:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "The week in photos: October 24-30, 2026",
+      "link": "https://www.rappler.com/world/the-week-in-photos-october-24-30-2026/",
+      "description": "A recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the globe",
+      "date": "2026-10-31T03:44:42+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/paris-yeloow-vests-protest-october-24-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIVE updates: Undas 2026",
+      "link": "https://www.philstar.com/headlines/2026/10/31/2566917/live-updates-undas-2026",
+      "description": "Filipinos are observing Undas on November 1 and 2 as families visit cemeteries and memorial parks to remember their departed loved ones.",
+      "date": "2026-10-31T03:10:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "This record shop owner strives to keep cassette, vinyl music alive",
+      "link": "https://www.rappler.com/people/human-interest/spin-the-reel-music-trade-cassette-cd-vinyl-record/",
+      "description": "On a regular day, Ge Timbreza of Spin The Reel Music Trade lets his turntable play music for hours on end as he serves customers looking for their own CD, cassette, or vinyl to take home",
+      "date": "2026-10-31T03:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/i.ytimg.com/vi/19WcpnjFxuE/hqdefault.jpg"
+    },
+    {
+      "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+      "link": "https://www.rappler.com/technology/crypto-exchanges-move-bolster-defenses-binance-heist/",
+      "description": "Rival crypto exchanges move quickly to shore up their own systems and to reassure customers their tokens were safe",
+      "date": "2026-10-31T02:37:10+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/binance-november-10-2022-reuters.jpg?resize=75%2C75&crop=78px%2C0px%2C833px%2C833px"
     },
     {
       "title": "Men can also be victims of sexual violence — Supreme Court",
@@ -27,24 +108,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Pakaskas makers preserve taste of Batangueño heritage",
-      "link": "https://www.rappler.com/people/human-interest/batangas-delicacy-pakaskas-makers-preserve-heritage/",
-      "description": "In Isla Verde, Batangas, a community of local candymakers safeguards a handed-down Batangueño recipe",
-      "date": "2026-10-31T01:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/7.png?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "[Vantage Point] Maya’s IPO meets the accounting test",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-maya-ipo-meets-accounting-test-manny-pangilinan/",
-      "description": "Maya cannot simply copy GCash’s playbook; it must prove how it can generate superior returns from a tighter base.",
-      "date": "2026-10-31T00:07:11+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/10/graph-03.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "19 more Philippine restos get Michelin Guide recognition",
@@ -115,69 +178,6 @@
       "description": "Motorists should brace for higher gasoline prices next week as the escalating conflict in the Middle East continues to threaten critical oil supply.",
       "date": "2026-10-30T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DepEd gains international recognition for improved PISA results",
-      "link": "https://www.philstar.com/headlines/2026/10/31/2566829/deped-gains-international-recognition-improved-pisa-results",
-      "description": "The Department of Education (DepEd) gained international recognition for its recent performance improvements in the Programme for International Student Assessment (PISA).&nbsp;",
-      "date": "2026-10-30T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Macacua is BARMM Parliament’s first elected chief minister | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/october-30-2026/",
-      "description": "Today's headlines: BARMM, Mayon Volcano, Patrick Stewart",
-      "date": "2026-10-30T14:21:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/xdw9DoEukfg"
-    },
-    {
-      "title": "Russian independent paper Novaya Gazeta finally forced to close its doors",
-      "link": "https://www.rappler.com/world/europe/russian-independent-paper-novaya-gazeta-forced-close-doors-november-2026/",
-      "description": "'The newspaper no longer exists. The Russian authorities and the Russian security services have forced our editorial team to cease its operations,' says the publication. Its final issue will be published on November 9.",
-      "date": "2026-10-30T13:18:06+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Hong Kong fire exposes entrenched triad networks in building renovation industry",
-      "link": "https://www.rappler.com/world/asia-pacific/hong-kong-fire-exposes-entrenched-triad-networks-in-building-renovation-industry/",
-      "description": "The government proposes to make bid-rigging in building renovation a criminal offense, punishable by up to 10 years in prison and a HK$10 million fine. Laws against triads will also be tightened.",
-      "date": "2026-10-30T12:00:13+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Tokyo thriller: Alex Eala exits Toray Pan Pacific Open after loss to Diana Shnaider",
-      "link": "https://www.rappler.com/people/athletes/alex-eala-diana-shnaider-tennis-toray-pan-pacific-open-october-30-2026/",
-      "description": "'I didn't believe that I would be able to pull that win off because she played insane,' Russian Diana Shnaider says of Filipina tennis ace Alex Eala",
-      "date": "2026-10-30T11:58:55+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "SSS, DICT to expand social security coverage for 1.5 million freelancers",
-      "link": "https://www.rappler.com/bulletin-board/sss-dict-expand-social-security-coverage-freelancers/",
-      "description": "SSS chief Victor Limlingan notes the vital role of freelancers and virtual assistants in the country’s digital economy",
-      "date": "2026-10-30T11:27:39+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/09/vantagepoint-gig-economy.jpg?resize=75%2C75&crop=293px%2C0px%2C720px%2C720px"
-    },
-    {
-      "title": "What you need to know about the 2026 US midterm elections",
-      "link": "https://www.rappler.com/world/us-canada/things-to-know-united-states-midterm-elections-2026/",
-      "description": "Plenty is at stake in this midterm election as Democrats try to win majority control of the US Congress",
-      "date": "2026-10-30T11:18:45+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
