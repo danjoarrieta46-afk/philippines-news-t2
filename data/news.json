@@ -1,12 +1,156 @@
 {
-  "updated": "2026-11-08T22:43:35.274680+00:00",
+  "updated": "2026-11-09T02:23:43.972317+00:00",
   "items": [
+    {
+      "title": "Philippine economic growth slows further to 2.1% in Q3 2026",
+      "link": "https://www.rappler.com/business/gross-domestic-product-philippines-q3-2026/",
+      "description": "The latest GDP figure is even lower than the revised 2.4% growth recorded in Q2 2026, and also below the revised 4% posted in Q3 2025",
+      "date": "2026-11-09T02:15:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/08/ph-economy-corruption-aug-12-2026.jpg?resize=75%2C75&crop=426px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "The ocean can be our best bet vs climate change. It’s finally at the heart of COP31.",
+      "link": "https://www.rappler.com/world/global-affairs/ocean-agenda-cop31-climate-change-conference-turkey/",
+      "description": "A healthy ocean — which is finally getting its moment at this year's United Nations climate talks — is considered 'nature's greatest climate regulator' and an integral key to reducing emissions.",
+      "date": "2026-11-09T02:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2024/07/masinloc-CHINA-PHILIPPINES-SOUTHCHINASEA.jpg?resize=75%2C75&crop=270px%2C0px%2C882px%2C882px"
+    },
+    {
+      "title": "COP31 to open in Turkey, with climate goals under pressure from war and AI",
+      "link": "https://bworldonline.com/world/2026/11/09/792320/cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-and-ai/",
+      "description": "ANTALYA, Turkey — Representatives from nearly 200 countries will gather on Turkey’s Mediterranean coast on Monday for two&#8230;",
+      "date": "2026-11-09T01:32:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/CLIMATE-COP31-TURKEY-ACTIVISTS-300x200.jpg"
+    },
+    {
+      "title": "Nvidia probes whether CEO Huang was target of foreign spying as he admits affair",
+      "link": "https://bworldonline.com/technology/2026/11/09/792316/nvidia-probes-whether-ceo-huang-was-target-of-foreign-spying-as-he-admits-affair/",
+      "description": "NVIDIA said on Sunday its board was probing whether CEO Jensen Huang had been the target of a&#8230;",
+      "date": "2026-11-09T01:21:44+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/11/jensen-huang-headshot-1-300x200.jpg"
+    },
+    {
+      "title": "Typhoon Cempaka to enter PAR as northeast monsoon drenches Luzon",
+      "link": "https://bworldonline.com/the-nation/2026/11/09/792312/typhoon-cempaka-to-enter-par-as-northeast-monsoon-drenches-luzon/",
+      "description": "Typhoon Cempaka (international name) is expected to enter the Philippine Area of Responsibility (PAR) on Monday morning as&#8230;",
+      "date": "2026-11-09T01:18:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/dost-pagasa-11-9-cempaka-300x169.jpg"
+    },
+    {
+      "title": "Trump says he is highly unlikely to order Iran strikes if talks progress",
+      "link": "https://bworldonline.com/world/2026/11/09/792310/trump-says-he-is-highly-unlikely-to-order-iran-strikes-if-talks-progress/",
+      "description": "WASHINGTON/CAIRO — US President Donald Trump said on Sunday he was highly unlikely to order fresh attacks on&#8230;",
+      "date": "2026-11-09T01:15:31+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/06/2026-06-11T015617Z_1533577230_RC2DRLAPIWO9_RTRMADP_3_IRAN-CRISIS-USA-CENTCOM-300x169.jpg"
+    },
+    {
+      "title": "Pope Leo tells Argentina’s Trump ally Milei that leaders must know limits of power",
+      "link": "https://bworldonline.com/world/2026/11/09/792308/pope-leo-tells-argentinas-trump-ally-milei-that-leaders-must-know-limits-of-power/",
+      "description": "BUENOS AIRES — Pope Leo on Sunday urged Argentina to safeguard its democracy in a closely watched speech&#8230;",
+      "date": "2026-11-09T01:13:55+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/pople-leo-after-surgery-300x200.jpg"
+    },
+    {
+      "title": "Wolff says Antonelli still no Senna, but ‘Senninha’ can grow",
+      "link": "https://bworldonline.com/sports/2026/11/09/792304/wolff-says-antonelli-still-no-senna-but-senninha-can-grow/",
+      "description": "SAO PAULO &#8211; Mercedes boss Toto Wolff may still be reluctant to compare Kimi Antonelli to Ayrton Senna&#8230;",
+      "date": "2026-11-09T01:10:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Mercedes-Andrea-Kimi-Antonelli-300x200.png"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-11-09T01:08:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/rg8gSu8ei2U"
+    },
+    {
+      "title": "SPECIAL COVERAGE: Impeachment trial of Sara Duterte",
+      "link": "https://www.rappler.com/philippines/video-special-coverage-panel-discussion-impeachment-trial-sara-duterte/",
+      "description": "Rappler brings live updates, analysis, and commentary from reporters and experts as the historic impeachment trial unfolds",
+      "date": "2026-11-09T01:08:41+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/rg8gSu8ei2U"
+    },
+    {
+      "title": "Sara Duterte trial: Defense begins presentation of evidence",
+      "link": "https://www.rappler.com/philippines/national-news/defense-begins-presentation-evidence-sara-duterte-impeachment-trial/",
+      "description": "The impeachment trial was paused to give way for the Senate committee hearings on the proposed 2027 budget",
+      "date": "2026-11-09T01:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Plugging the Hidden Financial Leak of Financial Illiteracy",
+      "link": "https://bworldonline.com/spotlight/2026/11/09/791338/plugging-the-hidden-financial-leak-of-financial-illiteracy/",
+      "description": "Every day, millions of Filipino families work hard to build a better future. Yet, much of their hard-earned&#8230;",
+      "date": "2026-11-09T00:35:39+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Article-1-1-OL-300x168.jpg"
+    },
+    {
+      "title": "Democrats plan probes of Musk, Miller, corporate America after midterm rout",
+      "link": "https://www.rappler.com/world/us-canada/democrats-plan-probes-elon-musk-stephen-miller-companies/",
+      "description": "Investigations will focus on Elon Musk’s involvement in the Department of Government Efficiency's firing of federal workers in 2025, and Stephen Miller’s role in US President Donald Trump’s immigration crackdown",
+      "date": "2026-11-09T00:16:58+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "[New Rx] PhilHealth, telcos, and the business of surviving Super El Niño",
+      "link": "https://www.rappler.com/voices/thought-leaders/new-rx-philhealth-telcos-business-surviving-super-el-nino/",
+      "description": "Leverage PhilHealth credits to align private sector capabilities with public health needs. That can make community resilience against Super El Niño commercially viable and sustainable.",
+      "date": "2026-11-09T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/opinion-el-nino-plan-october-2026.jpg?resize=75%2C75&crop=402px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Philippines’ West PH Sea, China discord seeps through fissures",
+      "link": "https://www.rappler.com/newsbreak/inside-track/west-philippine-sea-china-discord-seeps-through-fissures/",
+      "description": "‘Transparency must support diplomacy rather than displace, constrain or collide with it,’ says the DFA, exposing what many observers and analysts have long pointed out — incongruence between the DFA and the country’s maritime frontline agencies",
+      "date": "2026-11-08T23:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
     {
       "title": "Nvidia probes whether CEO Huang was target of foreign intelligence effort as he admits affair",
       "link": "https://www.rappler.com/technology/nvidia-probes-jensen-huang-target-foreign-intelligence-effort-admits-affair/",
       "description": "Jensen Huang admits in a message to employees that he had been unfaithful to his wife and took 'full responsibility' for his actions",
       "date": "2026-11-08T22:37:27+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "DFA: Philippine officials’ comments on China issue ‘regrettable’",
+      "link": "https://www.philstar.com/headlines/2026/11/09/2568895/dfa-philippine-officials-comments-china-issue-regrettable",
+      "description": "Recent public commentary on China by certain government officials is &ldquo;regrettable,&rdquo; the Department of Foreign Affairs (DFA) said yesterday, noting that under the Constitution, the President is the chief architect of Philippine foreign policy.",
+      "date": "2026-11-08T17:00:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -95,15 +239,6 @@
       "title": "Philippines moves to address climate-related loss, damage",
       "link": "https://www.philstar.com/headlines/2026/11/09/2568863/philippines-moves-address-climate-related-loss-damage",
       "description": "The Philippines is advancing a strategic and coordinated response to climate-related loss and damage through the Department of Environment and Natural Resources (DENR), the Climate Change Commission and the United Nations Development Program.",
-      "date": "2026-11-08T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Typhoon Samuel enters PAR",
-      "link": "https://www.philstar.com/headlines/2026/11/09/2568865/typhoon-samuel-enters-par",
-      "description": "Typhoon Samuel is set to enter the Philippine area of responsibility (PAR) today, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration.",
       "date": "2026-11-08T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -270,141 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2024/05/NFA-rice-warehouse-1-300x200.jpg"
-    },
-    {
-      "title": "EV incentive program to accept applications next year",
-      "link": "https://bworldonline.com/economy/2026/11/08/792144/ev-incentive-program-to-accept-applications-next-year/",
-      "description": "THE Department of Trade and Industry (DTI) expects to open applications for carmakers seeking to register with the&#8230;",
-      "date": "2026-11-08T12:20:29+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/11/Spain-electric-vehicle-300x169.jpg"
-    },
-    {
-      "title": "PHL foreign debt grows faster than income-peer average, WB says",
-      "link": "https://bworldonline.com/economy/2026/11/08/792150/phl-foreign-debt-grows-faster-than-income-peer-average-wb-says/",
-      "description": "THE GROWTH of Philippine external debt outpaced the combined average of low- and middle-income countries in 2025, the&#8230;",
-      "date": "2026-11-08T12:19:40+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/06/World-Bank-300x169.jpg"
-    },
-    {
-      "title": "FTI food hub to rise on 30-hectare Quezon site",
-      "link": "https://bworldonline.com/economy/2026/11/08/792143/fti-food-hub-to-rise-on-30-hectare-quezon-site/",
-      "description": "THE Department of Agriculture (DA) said an over 30-hectare site in Tiaong, Quezon will be run as a&#8230;",
-      "date": "2026-11-08T12:18:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/10/Food-Terminal-Inc-300x169.jpg"
-    },
-    {
-      "title": "P65.6-M rice processing facility turned over to Nueva Ecija co-op",
-      "link": "https://bworldonline.com/economy/2026/11/08/792142/p65-6-m-rice-processing-facility-turned-over-to-nueva-ecija-co-op/",
-      "description": "THE Department of Agriculture (DA) said a P65.6-million rice processing facility has been handed over to a farmers’&#8230;",
-      "date": "2026-11-08T12:17:57+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/04/rice-mill-workers-300x200.jpg"
-    },
-    {
-      "title": "ERC considering power-reserve trading price cap",
-      "link": "https://bworldonline.com/economy/2026/11/08/792135/erc-considering-power-reserve-trading-price-cap/",
-      "description": "THE Energy Regulatory Commission (ERC) plans to impose a secondary price cap (SPC) on the trading of power&#8230;",
-      "date": "2026-11-08T12:17:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/06/sf_ERC-logo-OL-300x200.jpg"
-    },
-    {
-      "title": "Lifting the veil: The Philippines’ journey toward tax transparency",
-      "link": "https://bworldonline.com/economy/2026/11/08/792136/lifting-the-veil-the-philippines-journey-toward-tax-transparency-2/",
-      "description": "The first part of this article examined the Philippines’ gradual journey toward greater tax transparency, from its implementation of the US Foreign Account Tax Compliance Act (FATCA) to its continuing efforts to align with the OECD’s Common Reporting Standard (CRS) and its commitment to adopt the Crypto-Asset Reporting Framework (CARF).",
-      "date": "2026-11-08T12:16:46+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/20260925-BWorld-Website-Opinion-Headers-Suits-the-C-Suite-1080x720-v3-Light-A-300x200.jpg"
-    },
-    {
-      "title": "P95-B gas-fired power plant eyed in Quezon province",
-      "link": "https://bworldonline.com/corporate/2026/11/08/792188/p95-b-gas-fired-power-plant-eyed-in-quezon-province/",
-      "description": "QUEZON POWER (Philippines), Limited Co. (QPL) is proposing to build a P95-billion natural gas-fired power plant with a&#8230;",
-      "date": "2026-11-08T12:02:21+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/closeup-industrial-pipelines-around-factor-sunny-day-300x200.jpg"
-    },
-    {
-      "title": "HOMESTRETCH: Surfing legends make history in Siargao",
-      "link": "https://www.rappler.com/sports/homestretch-surfing-legends-make-history-siargao-cloud-9-world-surf-league/",
-      "description": "From a little-known island to a global stage, Cloud 9’s world-class waves capture the charm of Filipino culture and talent",
-      "date": "2026-11-08T12:00:53+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/-4SsQp_vG2Y"
-    },
-    {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-11-08T11:03:52+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/iFFH6KQitGg"
-    },
-    {
-      "title": "Alex Eala suffers season-ending stunner as Liu dominates Hong Kong final",
-      "link": "https://www.rappler.com/people/athletes/alex-eala-claire-liu-tennis-hong-kong-open-final-november-8-2026/",
-      "description": "Alex Eala absorbs a stunning shutout loss against American underdog Claire Liu at the Hong Kong Open finale, bringing a heartbreaking end to her 2026 season",
-      "date": "2026-11-08T10:43:30+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Tesla to pull the plug on Cybertruck after years of poor sales",
-      "link": "https://www.rappler.com/technology/tesla-ending-cybertruck-years-poor-sales/",
-      "description": "Tesla will add an extra production shift to try to complete outstanding Cybertruck orders before dismantling the line next year for a planned expansion of Cybercab production",
-      "date": "2026-11-08T10:02:20+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "[Inside the Newsroom] The struggle with declaring #WalangPasok",
-      "link": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-class-suspension-resumption-framework/",
-      "description": "President Ferdinand Marcos Jr.’s new executive order seems to be an EO that Malacañang itself badly needs, after a string of blanket class suspensions",
-      "date": "2026-11-08T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Judge orders Paraguay’s ex-president Peña held before trial",
-      "link": "https://www.rappler.com/world/latin-america/paraguay-santiago-pena-ordered-detained/",
-      "description": "Prosecutors allege that Santiago Peña used his position as president to influence decisions by government agencies and state-owned entities to keep large amounts of public money deposited with a digital lender he has ties to",
-      "date": "2026-11-08T08:03:09+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Pedro Taduran retains world crown by clear unanimous decision",
-      "link": "https://www.rappler.com/people/athletes/boxing-results-pedro-taduran-brandon-moreno-world-title-november-7-2026/",
-      "description": "Pedro Taduran, the pride of Libon, Albay, still stands as the Philippines' sole world boxing champion after a decisive win over Brandon Moreno of Spain",
-      "date": "2026-11-08T07:57:20+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Trump offers White House press secretary job to UFC CEO Dana White",
-      "link": "https://www.rappler.com/world/us-canada/donald-trump-offers-ufc-dana-white-press-secretary/",
-      "description": "UFC CEO Dana White says he will be traveling to Washington DC to meet with US President Donald Trump but gave no further details",
-      "date": "2026-11-08T07:56:45+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
