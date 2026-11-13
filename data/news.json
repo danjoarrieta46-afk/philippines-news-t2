@@ -1,12 +1,228 @@
 {
-  "updated": "2026-11-13T06:21:16.188239+00:00",
+  "updated": "2026-11-13T14:48:21.800565+00:00",
   "items": [
     {
-      "title": "Small islands aim to use remittances to fund climate resilience",
-      "link": "https://www.rappler.com/world/global-affairs/small-islands-aim-remittances-fund-climate-resilience-cop31/",
-      "description": "Their plan would create the first platform to use earnings sent by the overseas diaspora rather than international development aid to build a permanent endowment fund for climate resilience",
-      "date": "2026-11-13T06:18:35+00:00",
+      "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
+      "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
+      "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
+      "date": "2026-11-13T14:30:00+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Industry disruption continues: GMA’s profit falls 98% in Q3, ABS-CBN still in red",
+      "link": "https://www.rappler.com/business/industry-disruption-continues-gma-network-abs-cbn-q3-2026-earnings/",
+      "description": "GMA cites the 'continued shift of audiences and advertising budgets from traditional media to digital platforms' and the 'challenging business environment' for its disappointing earnings",
+      "date": "2026-11-13T12:38:34+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/V8B_Aopk78g"
+    },
+    {
+      "title": "Sandiganbayan declares Zaldy Co’s 3 co-accused as fugitives",
+      "link": "https://www.rappler.com/philippines/sandiganbayan-declares-zaldy-co-co-accused-fugitives/",
+      "description": "The three are facing graft and malversation charges over alleged irregularities in the procurement and construction of a P289.4-million flood control project in Naujan, Oriental Mindoro",
+      "date": "2026-11-13T12:16:15+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/09/oriental-mindoro-flood-control.jpg?resize=75%2C75&crop=229px%2C0px%2C1365px%2C1365px"
+    },
+    {
+      "title": "Philippines, UAE go after Filipino visa scammers",
+      "link": "https://www.rappler.com/philippines/overseas-filipinos/philippines-uae-go-after-filipino-visa-scammers/",
+      "description": "The Philippines and UAE are collaborating to pursue visa scammers who duped hundreds of OFWs. The two countries also roll out new digital recruitment systems.",
+      "date": "2026-11-13T10:51:21+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/dubai-visa-scam-oct-17-2026.jpg?resize=75%2C75&crop=410px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "FACT CHECK: Old Remulla video misused to falsely claim Dela Rosa has no ICC warrant",
+      "link": "https://www.rappler.com/newsbreak/fact-check/misused-jonvic-remulla-video-bato-dela-rosa-icc-warrant/",
+      "description": "A January 2026 interview clip released months before the ICC unsealed the warrant recirculated on social media and was falsely presented as a current update on Dela Rosa’s arrest",
+      "date": "2026-11-13T09:59:03+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/2023-fact-check-full-post-4.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "TIMELINE: Jensen Huang’s fall from Nvidia grace",
+      "link": "https://www.rappler.com/technology/features/timeline-jensen-huang-fall-nvidia/",
+      "description": "Jensen Huang's extramarital affairs threaten to upend Nvidia amid US-China tensions and a race for AI dominance",
+      "date": "2026-11-13T09:11:24+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/jensen-huang-alice-huang-june-2024-reuters.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Get to know the 11 ASEAN member states",
+      "link": "https://www.rappler.com/world/asia-pacific/things-to-know-asean-member-countries/",
+      "description": "(1st UPDATE) Here are some basic facts about the 11 countries belonging to the Association of Southeast Asian Nations",
+      "date": "2026-11-13T09:10:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/01/stop-and-salute-philippine-flag-january-12-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "ASEAN digital pact seen to help SMEs reach wider regional markets",
+      "link": "https://bworldonline.com/bw-launchpad/2026/11/13/793896/asean-digital-pact-seen-to-help-smes-reach-wider-regional-markets/",
+      "description": "The Association of Southeast Asian Nations (ASEAN) Digital Economy Framework Agreement (DEFA), which is expected to be signed&#8230;",
+      "date": "2026-11-13T09:03:57+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/12/ASEAN-PHL-2026-300x200.jpg"
+    },
+    {
+      "title": "PHL lags two years behind global AI maturity",
+      "link": "https://bworldonline.com/technology/2026/11/13/793893/phl-lags-two-years-behind-global-ai-maturity/",
+      "description": "The Philippines is approximately two years behind the global artificial intelligence (AI) maturity curve despite efforts to boost&#8230;",
+      "date": "2026-11-13T08:50:17+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/admin-using-laptop-maintenance-artificial-intelligence-neural-networks-300x200.jpg"
+    },
+    {
+      "title": "OCTA Research rejects bias claims over Leni-Sara surveys, cites Duterte's lead",
+      "link": "https://www.philstar.com/headlines/2026/11/13/2569911/octa-research-rejects-bias-claims-over-leni-sara-surveys-cites-dutertes-lead",
+      "description": "OCTA Research has rejected claims that its hypothetical 2028 election surveys were rigged to favor Naga City Mayor Leni Robredo.",
+      "date": "2026-11-13T08:48:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Huang exit, US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "link": "https://www.rappler.com/technology/jensen-huang-exit-us-scrutiny-imperil-chinese-ai-projects-reliant-nvidia/",
+      "description": "The projects reveal the scale of continuing demand for Nvidia hardware even as Washington seeks to curb Beijing's access to the technology powering the global AI boom",
+      "date": "2026-11-13T08:42:26+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/jensen-huang-nvidia-december-6-2023-reuters.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "DILG is latest government agency to report data leak",
+      "link": "https://www.rappler.com/philippines/dilg-joins-list-government-agencies-data-leaks/",
+      "description": "The Department of the Interior and Local Government is assessing what kinds of information have been potentially compromised",
+      "date": "2026-11-13T08:41:06+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "WATCH: Brazil's Lula lands in Manila for talks with Marcos, ASEAN Summit",
+      "link": "https://www.philstar.com/headlines/2026/11/13/2569907/watch-brazils-lula-lands-manila-talks-marcos-asean-summit",
+      "description": "The visit is expected to further strengthen ties between the Philippines and Brazil, including cooperation on issues of mutual interest.",
+      "date": "2026-11-13T08:41:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Cebu experts urge gov’t to comply with WHO air quality standards",
+      "link": "https://www.rappler.com/philippines/visayas/cebu-experts-clean-air-network/",
+      "description": "Experts from UP Cebu, in collaboration with Clean Air Asia, are set to deploy new sensor technology to support air quality monitoring in the province",
+      "date": "2026-11-13T08:29:20+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/cebu-can-launch-november-13-2026-002-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Singapore says US offered limited help in its probe of AI chip deals",
+      "link": "https://bworldonline.com/world/2026/11/13/793884/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals/",
+      "description": "SINGAPORE — Singapore seized the passport of Alice Huang in 2025 while investigating the Chinese businesswoman, who is at&#8230;",
+      "date": "2026-11-13T08:16:23+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/ALICE-HUANG-300x211.jpg"
+    },
+    {
+      "title": "Microsoft outage disrupts email services of PHL Supreme Court, businesses",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793882/microsoft-outage-disrupts-email-services-of-phl-supreme-court-businesses/",
+      "description": "The country&#8217;s highest court and several businesses in the banking, hospitality, and airline industries have experienced email disruptions during&#8230;",
+      "date": "2026-11-13T08:10:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/08/SC-Supreme-Court-300x164.jpg"
+    },
+    {
+      "title": "Makati court issues extradition warrant against Quiboloy over US charges",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793880/makati-court-issues-extradition-warrant-against-quiboloy-over-us-charges/",
+      "description": "A Philippine court has issued an extradition warrant of arrest against detained preacher Apollo C. Quiboloy, bringing the&#8230;",
+      "date": "2026-11-13T08:09:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/10/APOLLO-QUIBOLOY-300x200.jpg"
+    },
+    {
+      "title": "Women’s groups oppose Trump’s visit to Philippines for ASEAN summit",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793873/womens-groups-oppose-trumps-visit-to-philippines-for-asean-summit/",
+      "description": "Women’s rights and labor groups on Friday opposed US President Donald Trump’s planned participation in the 49th Association&#8230;",
+      "date": "2026-11-13T08:02:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/women-against-trump-300x225.jpg"
+    },
+    {
+      "title": "LIVE Updates: 49th ASEAN Summit and Related Summits",
+      "link": "https://www.philstar.com/headlines/2026/11/13/2569914/live-updates-49th-asean-summit-and-related-summits",
+      "description": "The Philippines hosts the 49th ASEAN Summit from November 15 to 18, gathering Southeast Asian leaders and global partners to discuss regional and international issues.",
+      "date": "2026-11-13T08:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippines eyes at least $200 million from onshore retail dollar bonds",
+      "link": "https://bworldonline.com/top-stories/2026/11/13/793862/philippines-eyes-at-least-200-million-from-onshore-retail-dollar-bonds/",
+      "description": "By Aaron Michael C. Sy, Reporter THE GOVERNMENT is looking to raise at least $200 million (about P12.8&#8230;",
+      "date": "2026-11-13T07:42:45+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/01/PESO-dollar-curreny-300x200.jpg"
+    },
+    {
+      "title": "Philippines’ Marcos shakes up top revenue and investment posts in late-term push",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793855/philippines-marcos-shakes-up-top-revenue-and-investment-posts-in-late-term-push/",
+      "description": "PRESIDENT Ferdinand R. Marcos Jr. has reassigned officials heading four key government agencies involved in revenue collection and&#8230;",
+      "date": "2026-11-13T07:38:37+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/President-Ferdinand-R.-Marcos-Jr.-swears-in-Rolando-T.-Ligon-Jr-300x200.jpg"
+    },
+    {
+      "title": "Trump’s late arrival won’t affect ASEAN Summit schedule, DFA says",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793832/trumps-late-arrival-wont-affect-asean-summit-schedule-dfa-says/",
+      "description": "The late arrival of US President Donald J. Trump will not delay the schedule of the 49th Association&#8230;",
+      "date": "2026-11-13T07:08:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/07/USA-TRUMP-PBBM-MARCOS-PHILIPPINES-300x200.jpg"
+    },
+    {
+      "title": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+      "link": "https://bworldonline.com/technology/2026/11/13/793830/chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress/",
+      "description": "CHINESE AI shares tumbled on Friday, as investors worried that Jensen Huang&#8217;s departure as Nvidia CEO could further&#8230;",
+      "date": "2026-11-13T07:04:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/nvidia-hgx-h200-300x169.jpg"
+    },
+    {
+      "title": "Philippine economy may recover once inflation risks ease",
+      "link": "https://bworldonline.com/top-stories/2026/11/13/793826/philippine-economy-may-recover-once-inflation-risks-ease/",
+      "description": "By Justine Irish DP. Tabile, Senior Reporter THE PHILIPPINE ECONOMY could still grow by 5%-6% next year if&#8230;",
+      "date": "2026-11-13T06:54:42+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/Public-market-shopper-3-300x200.jpg"
+    },
+    {
+      "title": "Marcos appoints COA chair as Supreme Court justice",
+      "link": "https://www.philstar.com/headlines/2026/11/13/2569896/marcos-appoints-coa-chair-supreme-court-justice",
+      "description": "Gamaliel Cordoba was appointed to the Commission on Audit in 2022 following a 13-year term as&nbsp;commissioner of the National Telecommunications Commision.",
+      "date": "2026-11-13T06:42:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -38,33 +254,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2022/07/BBM-Marcos-congress-300x193.jpg"
     },
     {
-      "title": "Brazil’s Lula arrives in Manila for state visit, ASEAN Summit",
-      "link": "https://www.rappler.com/philippines/brazil-lula-arrives-manila-state-visit-asean-summit-2026/",
-      "description": "This marks the first state visit of a Brazilian president to the Philippines",
-      "date": "2026-11-13T05:42:23+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Sara Duterte held dollar accounts, BPI confirms",
-      "link": "https://www.rappler.com/philippines/sara-duterte-held-dollar-accounts-bpi-confirms/",
-      "description": "The Vice President and her father, former president Rodrigo Duterte also has two time deposit accounts in BPI's Julia Vargas branch",
-      "date": "2026-11-13T05:34:27+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/Np6Dl8Ai244"
-    },
-    {
-      "title": "Court issues arrest warrant vs Quiboloy, others over US extradition request",
-      "link": "https://www.rappler.com/philippines/makati-court-arrest-warrant-apollo-quiboloy-others-united-states-extradition/",
-      "description": "Quiboloy and two others have been on the Federal Bureau of Investigation’s most wanted list since 2022",
-      "date": "2026-11-13T04:56:21+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Food arrives by drone in APEC host Shenzhen, as China expands ‘low-altitude’ economy",
       "link": "https://bworldonline.com/technology/2026/11/13/793784/food-arrives-by-drone-in-apec-host-shenzhen-as-china-expands-low-altitude-economy/",
       "description": "SHENZHEN, China — A steady hum fills the air around busy tourist areas in China&#8217;s southern tech hub&#8230;",
@@ -72,15 +261,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2021/11/shenzhen-g0703f2da6_1280-300x188.jpg"
-    },
-    {
-      "title": "Indonesia VP hands resignation to parliament as Jokowi backs Prabowo",
-      "link": "https://www.rappler.com/world/asia-pacific/indonesia-vice-president-gibran-hands-resignation-parliament-november-12-2026/",
-      "description": "The resignation follows a push by lawmakers for Gibran's impeachment on grounds of inadequate educational credentials",
-      "date": "2026-11-13T04:44:37+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "China-ASEAN Sea code talks progress at 70%  — DFA spox",
@@ -92,38 +272,11 @@
       "image": "https://bworldonline.com/wp-content/uploads/2025/10/China-PHL-coast-guard-water-cannon-300x200.jpg"
     },
     {
-      "title": "Marcos picks COA chair Cordoba as new Supreme Court associate justice",
-      "link": "https://www.rappler.com/philippines/marcos-jr-appoints-gamaliel-cordoba-supreme-court-associate-justice/",
-      "description": "Gamaliel Cordoba was the NTC commissioner when the Duterte government pushed for ABS-CBN's shutdown and the blocking of Bulatlat's website",
-      "date": "2026-11-13T04:22:32+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2024/04/BIG-FISHER-01.jpg?resize=75%2C75&crop=479px%2C0px%2C720px%2C720px"
-    },
-    {
       "title": "Sara Duterte's GenCorp declaration may be 'Freudian slip,' says lawyer",
       "link": "https://www.philstar.com/headlines/2026/11/13/2569881/sara-dutertes-gencorp-declaration-may-be-freudian-slip-says-lawyer",
       "description": "If the vice president wasn&#39;t a GenCorp stockholder, why did she receive P2.14 million?",
       "date": "2026-11-13T04:18:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Asian music takes the stage! Meet the 11 artists of Eurovision Asia 2026",
-      "link": "https://www.rappler.com/people/artists/eurovision-asia-countries-contestants-2026/",
-      "description": "Filipino singing champion Carmelle joins 10 other international artists in the inaugural Asian edition of the widely popular song contest",
-      "date": "2026-11-13T03:57:36+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/eVb4tVR3IJ0"
-    },
-    {
-      "title": "Conditions supporting information integrity being challenged – WEF",
-      "link": "https://www.rappler.com/world/global-affairs/world-economic-forum-future-information-integrity-report/",
-      "description": "The report provides case studies and discusses how stakeholders — from governments and civil society to tech companies and creators of content — can respond to the changing times and keep the information ecosystem whole",
-      "date": "2026-11-13T03:54:10+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -146,29 +299,11 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/dost-pagasa-11-13-300x169.jpg"
     },
     {
-      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-11-13T03:12:41+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/luk7G_D-5YQ"
-    },
-    {
       "title": "ASEAN leaders to agree on new energy measures as Middle East crisis drags on",
       "link": "https://www.philstar.com/headlines/2026/11/13/2569879/asean-leaders-agree-new-energy-measures-middle-east-crisis-drags-on",
       "description": "Southeast Asian leaders are expected to agree on new measures to deal with the energy crunch from the Middle East conflict when they meet in Manila next week, the spokesperson of the Philippines&#39; ASEAN chairship said Friday, November 13.&nbsp;",
       "date": "2026-11-13T03:08:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "link": "https://www.rappler.com/technology/nvidia-jensen-huang-relationship-second-employee/",
-      "description": "The revelation follows two other extramarital affairs that led to his resignation on Thursday, November 12",
-      "date": "2026-11-13T03:02:36+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -227,15 +362,6 @@
       "image": ""
     },
     {
-      "title": "Supreme Court orders probe into Basilan judge's killing in Zamboanga",
-      "link": "https://www.philstar.com/headlines/2026/11/13/2569667/supreme-court-orders-probe-basilan-judges-killing-zamboanga",
-      "description": "Wee Sit, who presided over a Regional Trial Court branch, was gunned down Thursday.&nbsp;",
-      "date": "2026-11-12T23:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "The changing priorities of Filipino car buyers",
       "link": "https://bworldonline.com/special-features/2026/11/13/793675/the-changing-priorities-of-filipino-car-buyers/",
       "description": "The automotive market has become more diverse, giving consumers a wider range of vehicles and technologies to consider.&#8230;",
@@ -263,33 +389,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/SF_Automobiles5-OL-300x200.jpg"
     },
     {
-      "title": "‘Resetting BSKE no longer in Comelec’s hands’",
-      "link": "https://www.philstar.com/headlines/2026/11/13/2569805/resetting-bske-no-longer-comelecs-hands",
-      "description": "The Commission on Elections&nbsp; can no longer set a new date for the postponed barangay and Sangguniang Kabataan elections (BSKE) originally scheduled for Nov. 2, leaving Congress to determine when the polls will be held.",
-      "date": "2026-11-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "AMLC: No flood control money in Martin’s accounts",
-      "link": "https://www.philstar.com/headlines/2026/11/13/2569810/amlc-no-flood-control-money-martins-accounts",
-      "description": "An investigator of the Anti-Money Laundering Council told the Sandiganbayan that the AMLC found no record of contractors, the Department of Public Works and Highways (DPWH), or former lawmaker Zaldy Co sending money to suspended Leyte Rep. Martin Romualdez when he was House speaker.",
-      "date": "2026-11-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DENR chief to ASEAN: Fast-track shift  to low carbon",
-      "link": "https://www.philstar.com/headlines/2026/11/13/2569817/denr-chief-asean-fast-track-shift-low-carbon",
-      "description": "As Southeast Asia continues to confront extreme weather, rising sea levels, severe typhoons and the El Ni&ntilde;o, Environment Secretary Juan Miguel Cuna rallied ASEAN leaders to accelerate low-carbon transitions and secure direct climate finance during the opening of the ASEAN Pavilion at COP31.",
-      "date": "2026-11-12T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Foreign investment pledges surge",
       "link": "https://bworldonline.com/top-stories/2026/11/12/793590/foreign-investment-pledges-surge/",
       "description": "FOREIGN INVESTMENT pledges received by the country’s investment promotion agencies (IPA) more than doubled to P166.03 billion in the third quarter, preliminary data from the Philippine Statistics Authority (PSA) showed.",
@@ -306,105 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/grocery-wc-300x200.jpg"
-    },
-    {
-      "title": "Digital economy, energy security expected to top ASEAN Summit agenda",
-      "link": "https://bworldonline.com/top-stories/2026/11/12/793588/digital-economy-energy-security-expected-to-top-asean-summit-agenda/",
-      "description": "SOUTHEAST ASIA’S leaders are expected to advance measures to strengthen the region’s digital economy and energy security at the upcoming Association of Southeast Asian Nations (ASEAN) Summit this weekend.",
-      "date": "2026-11-12T13:53:56+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/INTERNATIONAL-MEDIA-CENTER-300x200.jpg"
-    },
-    {
-      "title": "Leadership changes at BoC, PEZA may disrupt reforms — Philexport",
-      "link": "https://bworldonline.com/top-stories/2026/11/12/793587/leadership-changes-at-boc-peza-may-disrupt-reforms-philexport/",
-      "description": "POTENTIAL leadership changes at the Bureau of Customs (BoC) and Philippine Economic Zone Authority (PEZA) could disrupt ongoing reforms and weaken investor confidence, the Philippine Exporters Confederation, Inc. (Philexport) said.",
-      "date": "2026-11-12T13:53:53+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/BOC-PEZA-logo-300x169.jpg"
-    },
-    {
-      "title": "ACEN drops nearly 5 GW in RE projects amid strategy shift",
-      "link": "https://bworldonline.com/corporate/2026/11/12/793553/acen-drops-nearly-5-gw-in-re-projects-amid-strategy-shift/",
-      "description": "AYALA-LED renewable energy (RE) producer ACEN Corp. has relinquished 13 service contracts covering nearly 5 gigawatts (GW) of proposed solar and wind projects in Luzon, as it shifts its investment priorities from rapid expansion toward project execution and capital efficiency.",
-      "date": "2026-11-12T13:46:56+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/11/ACEN-wind-farm-300x200.jpg"
-    },
-    {
-      "title": "Alliance Global income rises 18% as liquor sales, property leasing gain",
-      "link": "https://bworldonline.com/corporate/2026/11/12/793552/alliance-global-income-rises-18-as-liquor-sales-property-leasing-gain/",
-      "description": "ALLIANCE GLOBAL Group, Inc. (AGI) reported an 18% increase in third-quarter (Q3) attributable net income to P3.9 billion&#8230;",
-      "date": "2026-11-12T13:46:53+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2024/04/Marriot-300x200.jpg"
-    },
-    {
-      "title": "PLDT Inc. sees lower 2026 core profit on economic headwinds",
-      "link": "https://bworldonline.com/corporate/2026/11/12/793472/pldt-inc-sees-lower-2026-core-profit-on-economic-headwinds/",
-      "description": "PANGILINAN-LED PLDT Inc. expects its telecommunications core income to decline this year amid economic uncertainties, as its third-quarter&#8230;",
-      "date": "2026-11-12T13:46:47+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2020/12/telcom-tower-third-player-013019-300x164.jpg"
-    },
-    {
-      "title": "BIR to surpass P3 trillion in collections this month",
-      "link": "https://bworldonline.com/economy/2026/11/12/793599/bir-to-surpass-p3-trillion-in-collections-this-month/",
-      "description": "THE Bureau of Internal Revenue (BIR) said it expects to breach the P3-trillion collection mark before the end&#8230;",
-      "date": "2026-11-12T13:46:23+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/06/BIR-building-022619-300x164.jpg"
-    },
-    {
-      "title": "Agus-Pulangi hydro rehabilitation wins ED Council approval",
-      "link": "https://bworldonline.com/economy/2026/11/12/793598/agus-pulangi-hydro-rehabilitation-wins-ed-council-approval/",
-      "description": "THE Economy and Development Council (ED Council) approved the P29.98-billion rehabilitation of the Agus-Pulangi Hydropower Complex to boost&#8230;",
-      "date": "2026-11-12T13:46:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/06/Pulangi-300x200.jpg"
-    },
-    {
-      "title": "Malampaya phase-4 wells generate peak output of 400 million scf per day, highest in five years",
-      "link": "https://bworldonline.com/economy/2026/11/12/793597/malampaya-phase-4-wells-generate-peak-output-of-400-million-scf-per-day-highest-in-five-years/",
-      "description": "BATANGAS CITY — Prime Energy Resources Development B.V., the operator of the Malampaya project, said phase 4 of the gas field generated peak output of 400 million standard cubic feet (scf) per day, the highest recorded in five years.",
-      "date": "2026-11-12T13:46:16+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Malampaya-East-1-300x169.jpg"
-    },
-    {
-      "title": "PHL to sign trade deal with Chile on Nov. 19",
-      "link": "https://bworldonline.com/economy/2026/11/12/793596/phl-to-sign-trade-deal-with-chile-on-nov-19/",
-      "description": "THE Philippines and Chile will sign their Comprehensive Economic Partnership Agreement (CEPA) on Nov. 19, the Department of Trade&#8230;",
-      "date": "2026-11-12T13:46:13+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/10/Chile-building-skyline-300x169.jpg"
-    },
-    {
-      "title": "PHL seeking to wean remote areas from diesel power",
-      "link": "https://bworldonline.com/economy/2026/11/12/793595/phl-seeking-to-wean-remote-areas-from-diesel-power/",
-      "description": "THE PHILIPPINES has signed a partnership with Indonesia and Vietnam to reduce the reliance of remote communities on&#8230;",
-      "date": "2026-11-12T13:46:11+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/10/solar-panel-worker-300x200.jpg"
-    },
-    {
-      "title": "Fisherfolk reporting skin, eye damage during El Niño — NGO",
-      "link": "https://bworldonline.com/economy/2026/11/12/793594/fisherfolk-reporting-skin-eye-damage-during-el-nino-ngo/",
-      "description": "OCEANA PHILIPPINES said fisherfolk are exposed to health risks as their working conditions worsen during El Niño. “The&#8230;",
-      "date": "2026-11-12T13:46:08+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/06/Fishermen-300x200.jpg"
     }
   ]
 }
