@@ -1,6 +1,51 @@
 {
-  "updated": "2026-11-13T21:12:20.757558+00:00",
+  "updated": "2026-11-14T01:35:21.181376+00:00",
   "items": [
+    {
+      "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
+      "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
+      "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
+      "date": "2026-11-14T01:27:52+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/dXTLNHJhcyI"
+    },
+    {
+      "title": "Flights grounded across US after air traffic communications outage",
+      "link": "https://www.rappler.com/world/us-canada/flights-grounded-air-traffic-communications-outage/",
+      "description": "The shutdown causes chaos at airports, with airlines canceling more than 1,000 flights and delaying nearly 10,000, according to flight-tracking service FlightAware",
+      "date": "2026-11-14T01:10:06+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "How a Los Baños artist shares ‘ginhawa’ through art for over a decade",
+      "link": "https://www.rappler.com/people/artists/yvette-co-ginhawa-craft-studio-los-banos-laguna/",
+      "description": "From carving fallen trees in Los Baños to teaching art from her home, Yvette Co keeps Ginhawa Craft Studio going, strongly believing that artists nurture people’s emotional well-being",
+      "date": "2026-11-14T01:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/Yvette-Co-Ginhawa-Craft-Studio-2.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "[Vantage Point] Corruption floods Philippine economy",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-corruption-floods-philippine-economy-2026/",
+      "description": "What makes the corruption scandal so damaging is that it has crippled the state’s primary tool for counteracting economic headwinds",
+      "date": "2026-11-14T00:11:49+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/Screenshot-2026-11-14-at-7.39.21-AM.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Prosecution miss? Pia Cayetano hits questioning on support for sports",
+      "link": "https://www.rappler.com/newsbreak/inside-track/prosecution-miss-pia-cayetano-hits-questioning-support-sports/",
+      "description": "During the impeachment trial of Vice President Sara Duterte, Senator-judge Pia Cayetano expresses 'disdain' over the prosecution's questions for defense witness Chadrin Parian",
+      "date": "2026-11-14T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
+    },
     {
       "title": "Private sector opens immersion slots for senior high school",
       "link": "https://www.philstar.com/headlines/2026/11/14/2569987/private-sector-opens-immersion-slots-senior-high-school",
@@ -92,15 +137,6 @@
       "image": ""
     },
     {
-      "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
-      "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
-      "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
-      "date": "2026-11-13T15:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Arrest warrant vs Quiboloy issued over US extradition request | The wRap",
       "link": "https://www.rappler.com/video/daily-wrap/november-13-2026/",
       "description": "Today’s headlines: Apollo Quiboloy, Sara Duterte, Lula da Silva",
@@ -146,24 +182,6 @@
       "image": "https://www.rappler.com/tachyon/2026/11/2023-fact-check-full-post-4.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
-      "title": "TIMELINE: Jensen Huang’s fall from Nvidia grace",
-      "link": "https://www.rappler.com/technology/features/timeline-jensen-huang-fall-nvidia/",
-      "description": "Jensen Huang's extramarital affairs threaten to upend Nvidia amid US-China tensions and a race for AI dominance",
-      "date": "2026-11-13T09:11:24+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/jensen-huang-alice-huang-june-2024-reuters.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Get to know the 11 ASEAN member states",
-      "link": "https://www.rappler.com/world/asia-pacific/things-to-know-asean-member-countries/",
-      "description": "(1st UPDATE) Here are some basic facts about the 11 countries belonging to the Association of Southeast Asian Nations",
-      "date": "2026-11-13T09:10:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/01/stop-and-salute-philippine-flag-january-12-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
       "title": "ASEAN digital pact seen to help SMEs reach wider regional markets",
       "link": "https://bworldonline.com/bw-launchpad/2026/11/13/793896/asean-digital-pact-seen-to-help-smes-reach-wider-regional-markets/",
       "description": "The Association of Southeast Asian Nations (ASEAN) Digital Economy Framework Agreement (DEFA), which is expected to be signed&#8230;",
@@ -180,24 +198,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/01/admin-using-laptop-maintenance-artificial-intelligence-neural-networks-300x200.jpg"
-    },
-    {
-      "title": "Huang exit, US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
-      "link": "https://www.rappler.com/technology/jensen-huang-exit-us-scrutiny-imperil-chinese-ai-projects-reliant-nvidia/",
-      "description": "The projects reveal the scale of continuing demand for Nvidia hardware even as Washington seeks to curb Beijing's access to the technology powering the global AI boom",
-      "date": "2026-11-13T08:42:26+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/jensen-huang-nvidia-december-6-2023-reuters.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "DILG is latest government agency to report data leak",
-      "link": "https://www.rappler.com/philippines/dilg-joins-list-government-agencies-data-leaks/",
-      "description": "The Department of the Interior and Local Government is assessing what kinds of information have been potentially compromised",
-      "date": "2026-11-13T08:41:06+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     },
     {
       "title": "Singapore says US offered limited help in its probe of AI chip deals",
