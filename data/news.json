@@ -1,6 +1,33 @@
 {
-  "updated": "2026-11-14T20:27:09.041420+00:00",
+  "updated": "2026-11-15T00:06:26.885447+00:00",
   "items": [
+    {
+      "title": "The mountain took her family. Now she is fighting to save the hospital that saved her.",
+      "link": "https://www.rappler.com/people/human-interest/good-news-clinic-hospital-banaue-ifugao/",
+      "description": "At 12, Carol Abayao survived a landslide that killed four members of her family. Twenty-eight years later, she is the only full-time doctor at the mission hospital that first treated her injuries, carrying the weight of keeping medical care within reach of Banaue's mountain communities.",
+      "date": "2026-11-15T00:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/Good-News-Clinic-and-Hospital-4.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
+      "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
+      "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
+      "date": "2026-11-14T23:31:36+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/YoB_z7l-8Fw"
+    },
+    {
+      "title": "What to expect as 49th ASEAN Summit begins in Manila",
+      "link": "https://www.rappler.com/philippines/expectations-49th-asean-summit-november-2026/",
+      "description": "The South China Sea Code of Conduct, Myanmar's political standing in ASEAN, and the Middle East crisis' impact on oil and food security will likely top the agenda",
+      "date": "2026-11-14T23:10:09+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Carmelle bags first-ever Eurovision Asia crown",
       "link": "https://www.rappler.com/people/artists/carmelle-collado-philippines-eurovision-song-contest-asia-winner-2026/",
@@ -9,6 +36,15 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/ccfIW1zsNdM"
+    },
+    {
+      "title": "Safeguarding Savings: Deposit Insurance and Financial Literacy",
+      "link": "https://bworldonline.com/spotlight/2026/11/15/791662/safeguarding-savings-deposit-insurance-and-financial-literacy/",
+      "description": "Saving money is an important step toward financial security. But saving alone is not enough. People also need&#8230;",
+      "date": "2026-11-14T16:02:31+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Article-3-2-with-bank-background-OL-300x208.jpg"
     },
     {
       "title": "Satisfaction with Marcos government drops anew – SWS",
@@ -101,15 +137,6 @@
       "image": ""
     },
     {
-      "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
-      "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
-      "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
-      "date": "2026-11-14T16:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/YoB_z7l-8Fw"
-    },
-    {
       "title": "From micro to massive, ASEAN’s entrepreneurs face regulatory hurdles",
       "link": "https://www.rappler.com/business/entrepreneurs-regulatory-hurdles-asean-investment-summit-2026/",
       "description": "‘It's incredibly frustrating that even the simplest of ideas seem to have a lot of difficulty getting implemented,’ former CIMB chairman Nazir Razak says, criticizing ASEAN’s slow progress toward economic integration",
@@ -164,22 +191,220 @@
       "image": ""
     },
     {
-      "title": "The Green Report: Wars, El Niño, and COP’s new sales pitch",
-      "link": "https://www.rappler.com/environment/climate-change/the-green-report-wars-el-nino-cop31-new-sales-pitch/",
-      "description": "Rappler's Jee Geronimo and Iya Gozum talk about what's at stake at COP31 and what this means for vulnerable countries like the Philippines",
-      "date": "2026-11-14T09:00:54+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/sIK96M1_jQQ"
+      "title": "From reusable spoons to school chairs: How llaollao is giving plastic a new purpose",
+      "link": "https://bworldonline.com/spotlight/2026/11/14/793908/from-reusable-spoons-to-school-chairs-how-llaollao-is-giving-plastic-a-new-purpose/",
+      "description": "Through its Spoon to School initiative, llaollao Philippines is turning collected green spoons into school furniture, connecting sustainability&#8230;",
+      "date": "2026-11-14T03:30:59+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/SpoontoSchool_0-OL-300x300.jpg"
     },
     {
-      "title": "Not good enough for the 27 Club",
-      "link": "https://www.rappler.com/people/neighbors/not-good-enough-27-club/",
-      "description": "'Greatness wasn’t my gift, but the potential for it. Now, I think that is somehow worse.'",
-      "date": "2026-11-14T09:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
+      "title": "TELEBAP welcomes Cordoba’s appointment to Supreme Court",
+      "link": "https://bworldonline.com/spotlight/2026/11/13/793902/telebap-welcomes-cordobas-appointment-to-supreme-court/",
+      "description": "The Telecommunications and Broadcast Attorneys of the Philippines (TELEBAP) has welcomed the appointment of Gamaliel Cordoba as an&#8230;",
+      "date": "2026-11-13T09:30:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Cordoba-OL-280x300.jpg"
+    },
+    {
+      "title": "ASEAN digital pact seen to help SMEs reach wider regional markets",
+      "link": "https://bworldonline.com/bw-launchpad/2026/11/13/793896/asean-digital-pact-seen-to-help-smes-reach-wider-regional-markets/",
+      "description": "The Association of Southeast Asian Nations (ASEAN) Digital Economy Framework Agreement (DEFA), which is expected to be signed&#8230;",
+      "date": "2026-11-13T09:03:57+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/12/ASEAN-PHL-2026-300x200.jpg"
+    },
+    {
+      "title": "PHL lags two years behind global AI maturity",
+      "link": "https://bworldonline.com/technology/2026/11/13/793893/phl-lags-two-years-behind-global-ai-maturity/",
+      "description": "The Philippines is approximately two years behind the global artificial intelligence (AI) maturity curve despite efforts to boost&#8230;",
+      "date": "2026-11-13T08:50:17+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/admin-using-laptop-maintenance-artificial-intelligence-neural-networks-300x200.jpg"
+    },
+    {
+      "title": "Singapore says US offered limited help in its probe of AI chip deals",
+      "link": "https://bworldonline.com/world/2026/11/13/793884/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals/",
+      "description": "SINGAPORE — Singapore seized the passport of Alice Huang in 2025 while investigating the Chinese businesswoman, who is at&#8230;",
+      "date": "2026-11-13T08:16:23+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/ALICE-HUANG-300x211.jpg"
+    },
+    {
+      "title": "Microsoft outage disrupts email services of PHL Supreme Court, businesses",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793882/microsoft-outage-disrupts-email-services-of-phl-supreme-court-businesses/",
+      "description": "The country&#8217;s highest court and several businesses in the banking, hospitality, and airline industries have experienced email disruptions during&#8230;",
+      "date": "2026-11-13T08:10:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/08/SC-Supreme-Court-300x164.jpg"
+    },
+    {
+      "title": "Makati court issues extradition warrant against Quiboloy over US charges",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793880/makati-court-issues-extradition-warrant-against-quiboloy-over-us-charges/",
+      "description": "A Philippine court has issued an extradition warrant of arrest against detained preacher Apollo C. Quiboloy, bringing the&#8230;",
+      "date": "2026-11-13T08:09:03+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/10/APOLLO-QUIBOLOY-300x200.jpg"
+    },
+    {
+      "title": "Women’s groups oppose Trump’s visit to Philippines for ASEAN summit",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793873/womens-groups-oppose-trumps-visit-to-philippines-for-asean-summit/",
+      "description": "Women’s rights and labor groups on Friday opposed US President Donald Trump’s planned participation in the 49th Association&#8230;",
+      "date": "2026-11-13T08:02:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/women-against-trump-300x225.jpg"
+    },
+    {
+      "title": "Philippines eyes at least $200 million from onshore retail dollar bonds",
+      "link": "https://bworldonline.com/top-stories/2026/11/13/793862/philippines-eyes-at-least-200-million-from-onshore-retail-dollar-bonds/",
+      "description": "By Aaron Michael C. Sy, Reporter THE GOVERNMENT is looking to raise at least $200 million (about P12.8&#8230;",
+      "date": "2026-11-13T07:42:45+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/01/PESO-dollar-curreny-300x200.jpg"
+    },
+    {
+      "title": "Philippines’ Marcos shakes up top revenue and investment posts in late-term push",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793855/philippines-marcos-shakes-up-top-revenue-and-investment-posts-in-late-term-push/",
+      "description": "PRESIDENT Ferdinand R. Marcos Jr. has reassigned officials heading four key government agencies involved in revenue collection and&#8230;",
+      "date": "2026-11-13T07:38:37+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/President-Ferdinand-R.-Marcos-Jr.-swears-in-Rolando-T.-Ligon-Jr-300x200.jpg"
+    },
+    {
+      "title": "Trump’s late arrival won’t affect ASEAN Summit schedule, DFA says",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793832/trumps-late-arrival-wont-affect-asean-summit-schedule-dfa-says/",
+      "description": "The late arrival of US President Donald J. Trump will not delay the schedule of the 49th Association&#8230;",
+      "date": "2026-11-13T07:08:46+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/07/USA-TRUMP-PBBM-MARCOS-PHILIPPINES-300x200.jpg"
+    },
+    {
+      "title": "China’s access to some Nvidia chips in doubt as curbs gain traction in US Congress",
+      "link": "https://bworldonline.com/technology/2026/11/13/793830/chinas-access-to-some-nvidia-chips-in-doubt-as-curbs-gain-traction-in-us-congress/",
+      "description": "CHINESE AI shares tumbled on Friday, as investors worried that Jensen Huang&#8217;s departure as Nvidia CEO could further&#8230;",
+      "date": "2026-11-13T07:04:49+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/nvidia-hgx-h200-300x169.jpg"
+    },
+    {
+      "title": "Philippine economy may recover once inflation risks ease",
+      "link": "https://bworldonline.com/top-stories/2026/11/13/793826/philippine-economy-may-recover-once-inflation-risks-ease/",
+      "description": "By Justine Irish DP. Tabile, Senior Reporter THE PHILIPPINE ECONOMY could still grow by 5%-6% next year if&#8230;",
+      "date": "2026-11-13T06:54:42+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/Public-market-shopper-3-300x200.jpg"
+    },
+    {
+      "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+      "link": "https://bworldonline.com/technology/2026/11/13/793676/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands/",
+      "description": "MICROSOFT services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech&#8230;",
+      "date": "2026-11-13T06:15:35+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/04/Microsoft-300x188.jpg"
+    },
+    {
+      "title": "Five facts about APEC with Trump, Putin and Xi set to attend",
+      "link": "https://bworldonline.com/world/2026/11/13/793815/five-facts-about-apec-with-trump-putin-and-xi-set-to-attend/",
+      "description": "HONG KONG — Attention will focus next week on a summit of US, Chinese and Russian leaders set&#8230;",
+      "date": "2026-11-13T06:13:50+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/apec-300x200.jpg"
+    },
+    {
+      "title": "Budget watchdog challenges House to reform budget handling by year-end",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793806/budget-watchdog-challenges-house-to-reform-budget-handling-by-year-end/",
+      "description": "A budget watchdog on Friday challenged the House of Representatives to reform its handling of the national budget,&#8230;",
+      "date": "2026-11-13T06:06:09+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/07/BBM-Marcos-congress-300x193.jpg"
+    },
+    {
+      "title": "Food arrives by drone in APEC host Shenzhen, as China expands ‘low-altitude’ economy",
+      "link": "https://bworldonline.com/technology/2026/11/13/793784/food-arrives-by-drone-in-apec-host-shenzhen-as-china-expands-low-altitude-economy/",
+      "description": "SHENZHEN, China — A steady hum fills the air around busy tourist areas in China&#8217;s southern tech hub&#8230;",
+      "date": "2026-11-13T04:46:29+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/11/shenzhen-g0703f2da6_1280-300x188.jpg"
+    },
+    {
+      "title": "China-ASEAN Sea code talks progress at 70%  — DFA spox",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793768/china-asean-sea-code-talks-progress-at-70-dfa-spox/",
+      "description": "NEGOTIATIONS between China and the Association of Southeast Asian Nations (ASEAN) on a code of conduct (CoC) in&#8230;",
+      "date": "2026-11-13T04:32:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/10/China-PHL-coast-guard-water-cannon-300x200.jpg"
+    },
+    {
+      "title": "Easterlies, northeast monsoon to bring rains over parts of PHL",
+      "link": "https://bworldonline.com/the-nation/2026/11/13/793733/easterlies-northeast-monsoon-to-bring-rains-over-parts-of-phl/",
+      "description": "The easterlies and northeast monsoon are expected to bring rains over parts of the country, with possible flooding&#8230;",
+      "date": "2026-11-13T03:34:50+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/dost-pagasa-11-13-300x169.jpg"
+    },
+    {
+      "title": "US handled $12 billion of Venezuela’s oil revenues, report says",
+      "link": "https://bworldonline.com/world/2026/11/13/793670/us-handled-12-billion-of-venezuelas-oil-revenues-report-says/",
+      "description": "WASHINGTON — The United States handled more than $12 billion of Venezuela&#8217;s oil revenues in the first nine&#8230;",
+      "date": "2026-11-13T01:18:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/01/USA-VENEZUELA-EXPLOSIONS-300x200.jpg"
+    },
+    {
+      "title": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+      "link": "https://bworldonline.com/world/2026/11/13/793667/trump-says-us-does-not-need-iran-deal-directs-vance-to-focus-on-domestic-corruption/",
+      "description": "WASHINGTON — President Donald Trump said on Thursday the US does not need a deal with Iran and&#8230;",
+      "date": "2026-11-13T01:14:59+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/12/Donald-Trump-300x200.jpg"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+      "link": "https://bworldonline.com/world/2026/11/13/793664/nvidia-ceo-jensen-huang-resigns-in-blow-to-ai-boom-he-helped-foster/",
+      "description": "NVIDIA CEO Jensen Huang stepped down on Thursday after revelations of extramarital affairs, including one involving a suspected&#8230;",
+      "date": "2026-11-13T01:12:12+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/11/jensen-huang-headshot-1-300x200.jpg"
+    },
+    {
+      "title": "The changing priorities of Filipino car buyers",
+      "link": "https://bworldonline.com/special-features/2026/11/13/793675/the-changing-priorities-of-filipino-car-buyers/",
+      "description": "The automotive market has become more diverse, giving consumers a wider range of vehicles and technologies to consider.&#8230;",
+      "date": "2026-11-12T16:05:44+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/SF_Automobiles4-OL-300x200.jpg"
+    },
+    {
+      "title": "How EV adoption is reshaping auto markets in Southeast Asia and the Asia-Pacific",
+      "link": "https://bworldonline.com/special-features/2026/11/13/793731/how-ev-adoption-is-reshaping-auto-markets-in-southeast-asia-and-the-asia-pacific/",
+      "description": "The global automotive landscape is undergoing a monumental transition, with the center of gravity for electric vehicle (EV)&#8230;",
+      "date": "2026-11-12T16:04:34+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/SF_Automobiles2-OL-300x300.jpg"
     }
   ]
 }
