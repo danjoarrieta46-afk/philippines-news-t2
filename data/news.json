@@ -1,23 +1,212 @@
 {
-  "updated": "2026-11-16T00:10:55.842086+00:00",
+  "updated": "2026-11-16T07:03:31.796759+00:00",
   "items": [
+    {
+      "title": "FACT CHECK: Karen Davila quote on ‘more thieves’ in Marcos admin taken out of context",
+      "link": "https://www.rappler.com/newsbreak/fact-check/karen-davila-quote-thieves-marcos-administration-needs-context/",
+      "description": "The social media posts omitted context showing that Davila was discussing possible public sentiment, not her own personal views",
+      "date": "2026-11-16T07:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/2023-fact-check-full-post-2.jpg?resize=75%2C75&crop=0px%2C68px%2C1275px%2C1275px"
+    },
     {
       "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
       "link": "https://www.rappler.com/philippines/updates-videos-49th-asean-summit-manila-november-2026/",
       "description": "Leaders and representatives of the 11 members of the Association of Southeast Asian Nations, and their allies, are gathering in Manila for the bloc's biggest event of the year",
-      "date": "2026-11-16T00:10:15+00:00",
+      "date": "2026-11-16T06:58:07+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/A2ueaD4lRZE"
+      "image": "https://www.youtube.com/embed/dCMW9zZVNH8"
     },
     {
-      "title": "ASEAN opens ‘progress-based’ path for Myanmar’s return, but keeps restrictions",
-      "link": "https://www.rappler.com/world/asia-pacific/progress-based-myanmar-return-asean-summit-november-2026/",
-      "description": "‘We want to see how Myanmar responds,’ says Philippine Foreign Secretary Maria Theresa Lazaro, as ASEAN weighs restoring Myanmar’s political representation based on its adherence to the bloc’s peace plan",
-      "date": "2026-11-15T23:46:12+00:00",
+      "title": "WATCH: Marcos calls for mutual respect at ASEAN-China meeting",
+      "link": "https://www.philstar.com/headlines/2026/11/16/2570491/watch-marcos-calls-mutual-respect-asean-china-meeting",
+      "description": "He called for mutual respect and practical cooperation at an ASEAN meeting.",
+      "date": "2026-11-16T06:04:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: SC didn’t float Marcos impeachment over unconstitutional budgets",
+      "link": "https://www.rappler.com/newsbreak/fact-check/supreme-court-ferdinand-marcos-impeachment-over-budget-fake/",
+      "description": "Marcos is immune from any impeachment case until January 2027, following the one-year bar rule",
+      "date": "2026-11-16T06:02:55+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/i.ytimg.com/vi/ztHFpd2623A/hqdefault.jpg"
+      "image": "https://www.rappler.com/tachyon/2026/11/2023-fact-check-full-post-1.jpg?resize=75%2C75&crop=0px%2C72px%2C1275px%2C1275px"
+    },
+    {
+      "title": "Philippines, ASEAN leaders back faster rollout of power, fuel solutions",
+      "link": "https://www.philstar.com/business/2026/11/16/2570487/philippines-asean-leaders-back-faster-rollout-power-fuel-solutions",
+      "description": "ASEAN leaders are accelerating regional fuel-sharing and electricity-grid agreements as Middle East conflict disrupts supplies.",
+      "date": "2026-11-16T05:42:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Backing communities, Catholic bishops sound alarm over Pax Silica's potential impact",
+      "link": "https://www.philstar.com/climate-and-environment/2026/11/16/2570325/backing-communities-catholic-bishops-sound-alarm-over-pax-silicas-potential-impact",
+      "description": "Catholic bishops are urging communities in Nueva Vizcaya and Quirino to display banners opposing large-scale mining and Pax Silica.",
+      "date": "2026-11-16T05:30:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "South Korea to inspect glasses worn by exam candidates after AI cheating scandal",
+      "link": "https://bworldonline.com/technology/2026/11/16/794203/south-korea-to-inspect-glasses-worn-by-exam-candidates-after-ai-cheating-scandal/",
+      "description": "SEOUL — South Korea will inspect every pair of glasses worn by students taking this week’s national college&#8230;",
+      "date": "2026-11-16T05:09:17+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/11/SOUTHKOREA-POLITICS-300x200.jpg"
+    },
+    {
+      "title": "[EDITORIAL] Huwag kalimutan ang kuwento ng pekeng propeta: Apollo Quiboloy",
+      "link": "https://www.rappler.com/voices/editorials/do-not-forget-false-prophet-apollo-quiboloy-filipino-version/",
+      "description": "Kailangan siyang managot, saan mang korte ‘yan mangyayari. Pero hindi ‘yan ang katapusan, dapat ding kalasin ang network at kultong nanlinlang at nagsamantala sa mga tagasunod nito.",
+      "date": "2026-11-16T04:29:46+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/animated-quiboloy-extradition-case-november-16-2026.gif?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Inside China’s drive to build an AI-native generation",
+      "link": "https://bworldonline.com/technology/2026/11/16/794197/inside-chinas-drive-to-build-an-ai-native-generation/",
+      "description": "BEIJING — At a top private school in Beijing, 13-year-old Peng Gaodi has used artificial intelligence to build&#8230;",
+      "date": "2026-11-16T04:27:15+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/CHINA-TECH-ROBOT-TIANGONG-300x200.jpg"
+    },
+    {
+      "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
+      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
+      "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
+      "date": "2026-11-16T04:14:14+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/luk7G_D-5YQ"
+    },
+    {
+      "title": "Defense lists 4 more witnesses in Sara Duterte trial",
+      "link": "https://www.rappler.com/philippines/defense-lists-more-witnesses-sara-duterte-trial-november-2026/",
+      "description": "(1st UPDATE) One witness will testify on legal concepts related to the Anti-Money Laundering Council, while three others will take up issues related to Calle88 Foods Corp.",
+      "date": "2026-11-16T04:11:52+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies – report",
+      "link": "https://www.rappler.com/technology/jensen-huang-discusses-comeback-nvidia-ceo/",
+      "description": "An ally of Jensen Huang says they are putting together a 'war room' of Silicon Valley executives to lobby for the former Nvidia chief's return",
+      "date": "2026-11-16T03:29:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "OFW remittances post fastest growth in 8 months",
+      "link": "https://bworldonline.com/top-stories/2026/11/16/794195/ofw-remittances-post-fastest-growth-in-8-months/",
+      "description": "By Katherine K. Chan, Reporter Money sent home by Filipinos abroad climbed by 2.6% year on year in&#8230;",
+      "date": "2026-11-16T03:17:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/04/Dollar-Pound-currencies-300x200.jpg"
+    },
+    {
+      "title": "US forced-labor tariff to figure in Marcos-Trump talks",
+      "link": "https://www.philstar.com/business/2026/11/16/2570481/us-forced-labor-tariff-figure-marcos-trump-talks-",
+      "description": "The Philippines wants the 12.5% duty on covered exports reduced.",
+      "date": "2026-11-16T02:53:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Amnesty urges release of protesters in ASEAN rallies in Manila",
+      "link": "https://www.philstar.com/headlines/2026/11/16/2570482/amnesty-urges-release-protesters-asean-rallies-manila",
+      "description": "Group questions police use of force as authorities defend arrests during demonstrations.",
+      "date": "2026-11-16T02:42:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "EXPLAINER: What is the ASEAN Digital Economy Framework Agreement?",
+      "link": "https://www.rappler.com/business/things-to-know-asean-digital-economy-framework-agreement-defa/",
+      "description": "'DEFA will facilitate paperless trading, cross-border e-commerce, and trusted cross-border data flows, and it will establish interoperable trade systems,' says ASEAN Secretary-General Kao Kim Hourn",
+      "date": "2026-11-16T02:35:08+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/luq1pocdss0.jpg?resize=75%2C75&crop=428px%2C0px%2C720px%2C720px"
+    },
+    {
+      "title": "Nearly 300 protesters arrested in Muntinlupa as ASEAN Summit opens",
+      "link": "https://www.rappler.com/philippines/muntinlupa-city-protest-arrest-asean-2026/",
+      "description": "The protesters, members of Lakbayan Timog Katagalugan, were heading to Liwasang Bonifacio to join other groups opposing Pax Silica and the expected arrival of US President Donald Trump.",
+      "date": "2026-11-16T02:34:43+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "ASEAN, China won’t meet 2026 deadline to finish South China Sea talks",
+      "link": "https://www.rappler.com/philippines/asean-china-fail-meet-deadline-sea-code-conduct-talks-2026/",
+      "description": "‘Konti na lang pag-uusapan nila sa Singapore,’ says Philippine Foreign Secretary Maria Theresa Lazaro, as Singapore becomes ASEAN chair in 2027",
+      "date": "2026-11-16T01:55:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Philippines’ main coal mine in limbo puts nation’s energy supply at risk",
+      "link": "https://bworldonline.com/bloomberg/2026/11/16/794193/philippines-main-coal-mine-in-limbo-puts-nations-energy-supply-at-risk/",
+      "description": "By Cliff Venzon, Bloomberg Sheila Potestad has spent two decades working as a welder at the Philippines’ largest&#8230;",
+      "date": "2026-11-16T01:37:53+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2022/01/China-coal-300x200.jpg"
+    },
+    {
+      "title": "After dropping bank witnesses, Duterte defense seeks trade, FDA records",
+      "link": "https://www.philstar.com/headlines/2026/11/16/2570474/after-dropping-bank-witnesses-duterte-defense-seeks-trade-fda-records",
+      "description": "Vice President Sara Duterte&#39;s defense team is seeking four new witnesses for her impeachment trial, including an anti-money laundering lawyer and officials from DTI, FDA and CITEM.",
+      "date": "2026-11-16T01:29:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Thousands of US flights canceled, delayed for third day in a row",
+      "link": "https://bworldonline.com/world/2026/11/16/794191/thousands-of-us-flights-canceled-delayed-for-third-day-in-a-row/",
+      "description": "WASHINGTON/NEW YORK — US air travel disruptions continued for a third day with more than 10,000 flights affected&#8230;",
+      "date": "2026-11-16T01:05:22+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/05/Airport-plane-man-300x200.jpg"
+    },
+    {
+      "title": "Pope Leo urges stop to Amazon deforestation, decries ‘murders’ of tribal leaders",
+      "link": "https://bworldonline.com/world/2026/11/16/794189/pope-leo-urges-stop-to-amazon-deforestation-decries-murders-of-tribal-leaders/",
+      "description": "PUCALLPA, Peru — Pope Leo on Sunday forcefully condemned what he called the exploitation of the Amazon jungle&#8230;",
+      "date": "2026-11-16T01:01:52+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/06/POPE-DEPARTURE-300x200.jpg"
+    },
+    {
+      "title": "Anti-Houthi forces retreat in Yemen as Iran strikes Bahrain",
+      "link": "https://bworldonline.com/world/2026/11/16/794187/anti-houthi-forces-retreat-in-yemen-as-iran-strikes-bahrain/",
+      "description": "IRAN and its allies ramped up pressure on the US and allied Gulf states on two fronts on&#8230;",
+      "date": "2026-11-16T00:57:51+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/10/IRAN-CRISIS-SAUDI-AIRPORT-300x200.jpg"
     },
     {
       "title": "LIVE Coverage: 49th ASEAN Summit in Manila",
@@ -29,18 +218,9 @@
       "image": ""
     },
     {
-      "title": "[Vantage Point] ASEAN digital deal needs a Philippine dividend",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-asean-digital-deal-needs-philippine-dividend/",
-      "description": "Easier commercial transactions are the real test through which ASEAN’s diplomatic achievement on DEFA must eventually enter the Philippine economy",
-      "date": "2026-11-15T23:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/fxV2lE2MZUA"
-    },
-    {
-      "title": "South Korea pushes stronger ties with Philippines",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570390/south-korea-pushes-stronger-ties-philippines",
-      "description": "Ahead of his arrival in the Philippines today to attend the Association of Southeast Asian Nations (ASEAN) Summit, South Korean President Lee Jae Myung has pledged his government&rsquo;s commitment to strengthen ties and take a more proactive role in promoting stability in the region.",
+      "title": "Republic of Korea pushes stronger ties with Philippines",
+      "link": "https://www.philstar.com/headlines/2026/11/16/2570390/republic-korea-pushes-stronger-ties-philippines",
+      "description": "Ahead of his arrival in the Philippines today to attend the Association of Southeast Asian Nations (ASEAN) Summit, Republic of Korea President Lee Jae Myung has pledged his government&rsquo;s commitment to strengthen ties and take a more proactive role in promoting stability in the region.",
       "date": "2026-11-15T17:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -106,69 +286,6 @@
       "description": "Canada is giving $26 million in assistance to the Philippines for projects that will support community resilience, investment readiness and food logistics in the Luzon Economic Corridor.",
       "date": "2026-11-15T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Government has only until December 2 to collect Marcoses’ estate tax’",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570382/government-has-only-until-december-2-collect-marcoses-estate-tax",
-      "description": "The 1Sambayan coalition has called on newly appointed Bureau of Internal Revenue (BIR) Commissioner Rolando Ligon Jr. to take immediate steps to ensure collection of the Marcos family&rsquo;s unpaid estate.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Defense witnesses’ ties to Dutertes questioned",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570384/defense-witnesses-ties-dutertes-questioned",
-      "description": "The House prosecution panel in the impeachment trial of Vice President Sara Duterte has questioned the credibility of the witnesses presented by the defense team, saying their personal and professional ties to her family raise doubts about their impartiality.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Philippines, Australia forge updated defense cooperation",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570387/philippines-australia-forge-updated-defense-cooperation",
-      "description": "The Philippines and Australia have signed an updated defense cooperation agreement, aimed at expanding joint activities and strengthening the country&rsquo;s military deterrence.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "‘Leverage Asean meet for investments, jobs’",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570392/leverage-asean-meet-investments-jobs",
-      "description": "As the Philippines hosts the 49th Association of Southeast Asian Nations (ASEAN) Summit, Sen. Mark Villar is urging the government to leverage the event to secure new investments, generate jobs and cushion the impact of rising inflation on Filipinos.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DMW: 17 Pinoy seafarers safe in US ship collision",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570394/dmw-17-pinoy-seafarers-safe-us-ship-collision",
-      "description": "All 17 Filipino crewmembers of a tanker carrying asphalt, which figured in a collision with a passenger riverboat on the Mississippi River near the Port of New Orleans in Louisiana have been reported safe.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "New Asean flag, emblem launched",
-      "link": "https://www.philstar.com/headlines/2026/11/16/2570396/new-asean-flag-emblem-launched",
-      "description": "The Association of Southeast Asian Nations (ASEAN) launched yesterday its updated flag and emblem to reflect the official admission of Timor-Leste to the regional bloc.",
-      "date": "2026-11-15T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Rappler Recap: Myanmar, South China Sea among issues as 49th ASEAN Summit opens",
-      "link": "https://www.rappler.com/philippines/video-recap-opening-49th-asean-summit-november-15-2026/",
-      "description": "Rappler’s Lance Spencer Yu and Jelo Mantaring walk you through events and developments on the opening day of the summit",
-      "date": "2026-11-15T13:20:02+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -288,123 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/03/DL-Chemrez-300x200.jpg"
-    },
-    {
-      "title": "SM Hotels eyes MICE growth with expanded events portfolio",
-      "link": "https://bworldonline.com/corporate/2026/11/15/794103/sm-hotels-eyes-mice-growth-with-expanded-events-portfolio/",
-      "description": "SM HOTELS and Convention Centers Corp. (SMHCC), the hospitality arm of listed SM Prime Holdings, Inc., is expanding&#8230;",
-      "date": "2026-11-15T13:15:24+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/SM-Hotels-300x181.jpg"
-    },
-    {
-      "title": "Evolution eyes early game access for Casino Plus players",
-      "link": "https://bworldonline.com/corporate/2026/11/15/794101/evolution-eyes-early-game-access-for-casino-plus-players/",
-      "description": "SWEDEN-LISTED online casino game provider Evolution is considering offering Casino Plus players early access to selected new games&#8230;",
-      "date": "2026-11-15T13:14:13+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Evan-Spytma-300x200.jpg"
-    },
-    {
-      "title": "AC Health backs Valenzuela early intervention program",
-      "link": "https://bworldonline.com/corporate/2026/11/15/794100/ac-health-backs-valenzuela-early-intervention-program/",
-      "description": "AYALA Healthcare Holdings, Inc. (AC Health) is supporting a Valenzuela City early intervention program that will be housed&#8230;",
-      "date": "2026-11-15T13:13:40+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Ayala-300x200.jpg"
-    },
-    {
-      "title": "Philippines and Australia sign defense pact with eye on China",
-      "link": "https://bworldonline.com/the-nation/2026/11/15/794079/philippines-and-australia-sign-defense-pact-with-eye-on-china/",
-      "description": "THE Philippines and Australia signed a defense pact on Sunday that Manila said would lower bureaucratic hurdles to joint military activities, as the two countries further deepen security ties.",
-      "date": "2026-11-15T13:07:18+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/49th-ASEAN-Summit-300x200.jpg"
-    },
-    {
-      "title": "Lula invites Marcos to Brazil, pitches deeper Southeast Asia trade ties",
-      "link": "https://bworldonline.com/the-nation/2026/11/15/794078/lula-invites-marcos-to-brazil-pitches-deeper-southeast-asia-trade-ties/",
-      "description": "By Erika Mae P. Sinaking, Reporter BRAZILIAN President Luiz Inácio Lula da Silva said on Sunday that Philippine&#8230;",
-      "date": "2026-11-15T13:07:14+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Luiz-Inacio-Lula-da-Silva-300x200.jpg"
-    },
-    {
-      "title": "ASEAN reaffirms engagement with Myanmar, seeks to advance peace plan",
-      "link": "https://bworldonline.com/the-nation/2026/11/15/793984/asean-reaffirms-engagement-with-myanmar-seeks-to-advance-peace-plan/",
-      "description": "MANILA — Southeast Asian leaders reaffirmed the need to keep engaging with Myanmar while sticking with a plan&#8230;",
-      "date": "2026-11-15T13:06:54+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/20261115_ASEAN-Summit-300x200.jpg"
-    },
-    {
-      "title": "CoA flags PUP over unused funds, delayed projects and overdue student stipends",
-      "link": "https://bworldonline.com/the-nation/2026/11/15/793986/coa-flags-pup-over-unused-funds-delayed-projects-and-overdue-student-stipends/",
-      "description": "THE Polytechnic University of the Philippines (PUP) left hundreds of millions of pesos in budget allocations unutilized in&#8230;",
-      "date": "2026-11-15T13:05:14+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/08/CoA-Audit-300x169.jpg"
-    },
-    {
-      "title": "[Inside the Newsroom] A fellowship for the planet",
-      "link": "https://www.rappler.com/voices/newsletters/inside-the-newsroom-cop31-ocean-issues-fellowship/",
-      "description": "'I am going to Batangas to stay at a marine station with scientists working to bring citizen science closer to the public'",
-      "date": "2026-11-15T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Police arrest anti-Pax Silica protesters as ASEAN Summit opens in Manila",
-      "link": "https://www.rappler.com/philippines/pax-silica-protest-arrest-asean-opening-manila/",
-      "description": "At least 11 protesters were arrested by police within the freedom park, according to Manila Police District Spokesperson Philip Ines",
-      "date": "2026-11-15T09:32:52+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/protest-asean-summit-november-15-2026-003-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Why Gabby Lopez wants Rockwell as ABS-CBN struggles",
-      "link": "https://www.rappler.com/newsbreak/inside-track/why-gabby-lopez-wants-rockwell-abs-cbn-struggles/",
-      "description": "Three months after leaving Lopez Inc., Gabby Lopez’s new game plan is clear",
-      "date": "2026-11-15T06:33:45+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2025/05/newsbreak-inside-track.jpeg?resize=75%2C75&crop=307px%2C0px%2C576px%2C576px"
-    },
-    {
-      "title": "Maria Ressa speaks at 2026 ASEAN Business and Investment Summit",
-      "link": "https://www.rappler.com/technology/maria-ressa-keynote-fireside-chat-asean-business-investment-summit-2026/",
-      "description": "Artificial intelligence can reproduce ‘the worst of who we are,’ says Rappler CEO and Nobel Peace Prize laureate Maria Ressa",
-      "date": "2026-11-15T05:25:19+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/jwn7OvfFT5s"
-    },
-    {
-      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskyy says",
-      "link": "https://www.rappler.com/world/europe/us-floated-ukraine-ceding-donbas-nato-membership/",
-      "description": "President Volodymyr Zelenskyy says Kyiv would not concede territory but would put the question to a national referendum if Ukraine received security guarantees, a right to a strong military, and reconstruction funds",
-      "date": "2026-11-15T05:05:35+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda",
-      "link": "https://www.rappler.com/world/us-canada/democrats-split-over-trump-cost-cutting-agenda/",
-      "description": "US President Donald Trump retains significant executive authority to block much of the Democrats' agenda, complicating the party's efforts to lower costs, the central issue voters gave Democrats control of Congress to fix",
-      "date": "2026-11-15T04:53:25+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
     }
   ]
 }
