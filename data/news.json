@@ -1,6 +1,15 @@
 {
-  "updated": "2026-11-17T18:13:04.808825+00:00",
+  "updated": "2026-11-18T01:09:01.706159+00:00",
   "items": [
+    {
+      "title": "Trump to meet Marcos in Manila before China talks",
+      "link": "https://www.rappler.com/philippines/trump-meet-marcos-manila-china-talks/",
+      "description": "Trump's meeting with Marcos will give Marcos an opportunity to press for stronger US security commitments as China steps up its activities in the disputed South China Sea",
+      "date": "2026-11-18T00:56:51+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/i.ytimg.com/vi/pUoCr2Nchug/hqdefault.jpg"
+    },
     {
       "title": "ASEAN leaders, 8 dialogue partners commit to UNCLOS",
       "link": "https://www.philstar.com/headlines/2026/11/18/2570887/asean-leaders-8-dialogue-partners-commit-unclos",
@@ -90,6 +99,15 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
+    },
+    {
+      "title": "49th ASEAN Summit closes, Philippines turns over chairmanship to Singapore",
+      "link": "https://www.rappler.com/philippines/video-closing-ceremony-49th-asean-summit-november-2026/",
+      "description": "Watch the closing ceremony of the 49th ASEAN Summit here",
+      "date": "2026-11-17T15:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/pUoCr2Nchug"
     },
     {
       "title": "LIVE UPDATES: 49th ASEAN Summit in Manila",
@@ -387,24 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": "https://www.youtube.com/embed/tdExDpLSI1o"
-    },
-    {
-      "title": "China taps US AI models to train homegrown rivals as chip curbs bite",
-      "link": "https://www.rappler.com/technology/china-taps-us-ai-models-train-homegrown-rivals/",
-      "description": "China's use of distillation could undercut the effectiveness of US curbs on the sale of advanced chips to China, as its developers can build AI capabilities by drawing on those of their American rivals",
-      "date": "2026-11-17T08:07:57+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Is solar energy only for the rich?",
-      "link": "https://www.rappler.com/philippines/video-rooftop-solar-financing-options/",
-      "description": "Learn about the current options and possibilities for going solar",
-      "date": "2026-11-17T07:37:46+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/o_0ewlX6gOE"
     }
   ]
 }
