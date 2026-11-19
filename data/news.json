@@ -1,30 +1,219 @@
 {
-  "updated": "2026-11-18T23:55:30.958628+00:00",
+  "updated": "2026-11-19T06:14:18.991290+00:00",
   "items": [
+    {
+      "title": "[New Rx] Pax Silica: Street protesters vs boardroom promoters. But where’s the beef?",
+      "link": "https://www.rappler.com/voices/thought-leaders/new-rx-pax-silica-protesters-boardrooms-ask-economic-value/",
+      "description": "The Philippines is overlooking a more fundamental question: Why would global technology companies choose to invest here over other Asian economies?",
+      "date": "2026-11-19T06:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
       "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
       "description": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "date": "2026-11-18T23:52:21+00:00",
+      "date": "2026-11-19T05:55:51+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/luk7G_D-5YQ"
+      "image": "https://www.youtube.com/embed/tLO0ZVkLm3o"
     },
     {
-      "title": "[Puso at Diwa] A lost opportunity to test the truth in Sara Duterte’s trial",
-      "link": "https://www.rappler.com/voices/thought-leaders/puso-at-diwa-lost-opportunity-test-truth-sara-duterte-trial/",
-      "description": "The withdrawal of witnesses may be a tactical decision for the defense. But for the Filipino people, it is also a lost opportunity to test the truth.",
-      "date": "2026-11-18T23:44:31+00:00",
+      "title": "What to see and do at Social Good Summit 2026’s XChange",
+      "link": "https://www.rappler.com/moveph/social-good-summit/what-see-do-2026-xchange/",
+      "description": "At this year’s Social Good Summit, participants can explore interactive booths and activities from organizations working on human rights, local governance, digital safety, and other social issues",
+      "date": "2026-11-19T05:49:49+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.youtube.com/embed/jWsaP_Cpp5E"
+      "image": "https://www.rappler.com/tachyon/2026/11/viber_image_2026-11-18_16-00-39-302.png?resize=75%2C75&crop_strategy=attention"
     },
     {
-      "title": "How the NBI foiled an alleged school shooting plot in Ilocos Norte",
-      "link": "https://www.rappler.com/philippines/how-nbi-foiled-school-shooting-plot-batac-ilocos-norte-november-2026/",
-      "description": "The foiled shooting plot in Ilocos Norte comes amid growing concerns over school safety. This year alone, three deadly school shootings occurred between June and September 2026.",
-      "date": "2026-11-18T23:15:00+00:00",
+      "title": "As Meta bets big on Muse AI agent, early safety mishaps surface",
+      "link": "https://www.rappler.com/technology/features/meta-muse-ai-agent-early-safety-mishaps/",
+      "description": "Meta staffers report Muse sending them messages about a childcare request they had not made, career advice they had not sought, product orders they had not placed, and bank account balances that were not theirs",
+      "date": "2026-11-19T05:39:21+00:00",
       "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Why on earth is Sara’s team playing videos of departed people for her defense?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/why-sara-duterte-defense-playing-videos-departed-renato-corona-miriam-santiago/",
+      "description": "'They are exploiting the dead,' one prosecutor says of the defense team after it played videos of Renato Corona and Miriam Santiago in Sara Duterte's trial",
+      "date": "2026-11-19T05:19:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/IDw_gDQxbFQ"
+    },
+    {
+      "title": "Fujfilm brings House of Photography concept to the Philippines",
+      "link": "https://bworldonline.com/technology/2026/11/19/795014/fujfilm-brings-house-of-photography-concept-to-the-philippines/",
+      "description": "FUJIFILM Corp. is opening its brand house in the Philippines that will serve as a showroom, retail hub,&#8230;",
+      "date": "2026-11-19T05:15:54+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/FUJIVERSE-Main-KV-300x200.jpg"
+    },
+    {
+      "title": "US seeks $2-billion defense loan for Philippines, pledges $400 million in military aid",
+      "link": "https://bworldonline.com/top-stories/2026/11/19/795012/us-seeks-2-billion-defense-loan-for-philippines-pledges-400-million-in-military-aid/",
+      "description": "The US will pursue a defense financing package worth more than $2 billion for the Philippines and provide&#8230;",
+      "date": "2026-11-19T05:09:02+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2023/04/Balikatan-US_PHL-soldiers-300x192.jpg"
+    },
+    {
+      "title": "No terms yet in Trump's 'biggest trade deal' with the Philippines",
+      "link": "https://www.philstar.com/headlines/2026/11/19/2571199/no-terms-yet-trumps-biggest-trade-deal-philippines",
+      "description": "&ldquo;Basically, the US market is being opened for us to get good quality agricultural products, things we need for food security that we import anyway,&rdquo; Romualdez said.",
+      "date": "2026-11-19T04:28:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
+      "link": "https://www.rappler.com/technology/surge-software-patches-likely-behind-recent-tech-outages/",
+      "description": "The advent of easily accessible AI tools and large language models has supercharged the discovery of vulnerabilities in software",
+      "date": "2026-11-19T03:49:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "FACT CHECK: Trump did not call an ABS-CBN reporter ‘stupid’",
+      "link": "https://www.rappler.com/newsbreak/fact-check/donald-trump-did-not-call-abs-cbn-reporter-stupid/",
+      "description": "In the video, the person US President Donald Trump addressed as ‘stupid’ was a reporter from ABC News, not ABS-CBN News",
+      "date": "2026-11-19T03:43:22+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/fact-check-full-post-2.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
+      "link": "https://bworldonline.com/technology/2026/11/19/794989/surge-in-software-patches-likely-behind-recent-tech-outages-bank-regulators-on-alert/",
+      "description": "Recent disruptions to the way people work, access bank accounts and travel are likely linked to corporate efforts&#8230;",
+      "date": "2026-11-19T03:42:25+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2021/09/Hacker-300x231.jpg"
+    },
+    {
+      "title": "‘GTA VI’ to supercharge Sony — just not in Japan",
+      "link": "https://bworldonline.com/arts-and-leisure/2026/11/19/794982/gta-vi-to-supercharge-sony-just-not-in-japan/",
+      "description": "TOKYO — The global launch of &#8220;Grand Theft Auto VI&#8221; on Thursday is expected to provide a major&#8230;",
+      "date": "2026-11-19T03:37:48+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/GTA-6-300x169.jpg"
+    },
+    {
+      "title": "Four weather systems to bring rain over PHL",
+      "link": "https://bworldonline.com/the-nation/2026/11/19/794979/four-weather-systems-to-bring-rain-over-phl/",
+      "description": "Four weather systems are expected to bring rain across the Philippines, with a heavy rainfall warning raised over&#8230;",
+      "date": "2026-11-19T03:31:33+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/dost-pagasa-11-19-300x169.jpg"
+    },
+    {
+      "title": "Navigating Our Future Together Means Leaving No One Behind",
+      "link": "https://youthforceph.rappler.com/302/navigating-our-future-together-means-leaving-no-one-behind/",
+      "description": "Hindi matatawag na tunay na pag-unlad ang anumang pagsulong na nakakamit kapalit ng karapatan at kapakanan ng mamamayan.",
+      "date": "2026-11-19T03:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Alagang Ayala advances social infrastructure to power nation-building and business growth",
+      "link": "https://www.rappler.com/brandrap/alagang-ayala-social-infrastructure-2026/",
+      "description": "Ayala chairman Jaime Augusto Zobel de Ayala shares he believes the three pillars for countries to move forward are education, health, and livelihood",
+      "date": "2026-11-19T03:28:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/Ginhawang-Barangayan.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Things you should know about new SC Justice Gamaliel Cordoba",
+      "link": "https://www.rappler.com/philippines/things-to-know-supreme-court-associate-justice-gamaliel-cordoba/",
+      "description": "MANILA, Philippines – Former Commission on Audit chairperson Gamaliel Cordoba is the newest Supreme Court associate justice. He was the",
+      "date": "2026-11-19T02:47:38+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2022/11/gamaliel-cordova-coa-commission-appointment-november-23-2022-003.jpg?resize=75%2C75&crop=133px%2C0px%2C934px%2C934px"
+    },
+    {
+      "title": "VinFast Philippines introduces VF 3 Plus and VF 3 Eco, bringing more style and choice to a new generation of customers",
+      "link": "https://bworldonline.com/spotlight/2026/11/19/794988/vinfast-philippines-introduces-vf-3-plus-and-vf-3-eco-bringing-more-style-and-choice-to-a-new-generation-of-customers/",
+      "description": "VinFast officially introduces the VF 3 Plus and VF 3 Eco in the Philippines, adding technology, safety and&#8230;",
+      "date": "2026-11-19T02:45:32+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/KV-1-VINFAST-PHILIPPINES-OL-300x169.jpg"
+    },
+    {
+      "title": "F1 drivers go small as Lego puts entire grid in plastic",
+      "link": "https://bworldonline.com/sports/2026/11/19/794924/f1-drivers-go-small-as-lego-puts-entire-grid-in-plastic/",
+      "description": "LAS VEGAS &#8211; Formula One has long been a sport of tiny margins, and now Lego has made&#8230;",
+      "date": "2026-11-19T02:44:06+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/The-Lego-Group-and-F1-300x200.jpg"
+    },
+    {
+      "title": "Anthropic clinches biggest IPO ever with $81 billion offering",
+      "link": "https://bworldonline.com/technology/2026/11/19/794922/anthropic-clinches-biggest-ipo-ever-with-81-billion-offering/",
+      "description": "ANTHROPIC&#8217;s IPO raised $81.31 billion on Wednesday, eclipsing SpaceX’s offering to claim the title of the largest stock-market&#8230;",
+      "date": "2026-11-19T01:29:14+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/09/anthropic-dario-amodei-300x200.jpg"
+    },
+    {
+      "title": "Trump’s historic meeting with Xi, Putin headlines Asia trip",
+      "link": "https://bworldonline.com/world/2026/11/19/794918/trumps-historic-meeting-with-xi-putin-headlines-asia-trip/",
+      "description": "SHENZHEN, China — US President Donald Trump will cap his Asia trip on Thursday with an unprecedented meeting&#8230;",
+      "date": "2026-11-19T01:13:13+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/xi-trump-300x200.jpg"
+    },
+    {
+      "title": "Top UN court to rule on alleged genocide of Myanmar’s Rohingya",
+      "link": "https://bworldonline.com/world/2026/11/19/794916/top-un-court-to-rule-on-alleged-genocide-of-myanmars-rohingya/",
+      "description": "THE HAGUE — The United Nations&#8217; highest court hands down a long-awaited judgment on Thursday in a case&#8230;",
+      "date": "2026-11-19T01:11:04+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/07/BANGLADESH-ROHINGYA-CAPSIZE-1-300x200.jpg"
+    },
+    {
+      "title": "Takeaways from Day 2 of Trump’s Asia tour: Putin’s handshake, fried chicken and high-stakes diplomacy",
+      "link": "https://bworldonline.com/world/2026/11/19/794909/takeaways-from-day-2-of-trumps-asia-tour-putins-handshake-fried-chicken-and-high-stakes-diplomacy/",
+      "description": "SHENZHEN, China — US President Donald Trump arrived in China on Wednesday ahead of the highest-stakes leg of&#8230;",
+      "date": "2026-11-19T01:07:11+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/TRUMP-XI-PUTIN-APEC-SUMMIT-300x200.jpg"
+    },
+    {
+      "title": "LIVE: Sara Duterte impeachment trial, Nov. 19",
+      "link": "https://www.philstar.com/headlines/2026/11/19/2571179/live-sara-duterte-impeachment-trial-nov-19",
+      "description": "The Senate impeachment court resumes Vice President Sara Duterte&rsquo;s impeachment trial Thursday, November 19, with the defense set to present four government officials as witnesses.",
+      "date": "2026-11-19T00:19:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "After 3 days in detention, ASEAN protesters ordered released",
+      "link": "https://www.philstar.com/headlines/2026/11/19/2571177/after-3-days-detention-asean-protesters-ordered-released",
+      "description": "Prosecutors dismissed complaints of malicious mischief and alarms and scandals for lack of evidence.",
+      "date": "2026-11-18T23:57:00+00:00",
+      "source": "Philstar.com",
       "category": "news",
       "image": ""
     },
@@ -88,42 +277,6 @@
       "description": "The Association of Southeast Asian Nations&nbsp;and the United States urged governments to recognize online scams as a security matter that needs public-private partnership to combat the transnational organized criminal networks that may be behind the illegal activity.",
       "date": "2026-11-18T16:00:00+00:00",
       "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Lower airfares seen",
-      "link": "https://www.philstar.com/headlines/2026/11/19/2571149/lower-airfares-seen",
-      "description": "Filipinos planning a trip for the Christmas holiday will get a slight relief in airfares, as the Civil Aeronautics Board&nbsp;has lowered the fuel surcharge by a notch until end-November.",
-      "date": "2026-11-18T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Carpio: Political dynasties feed on national budget",
-      "link": "https://www.philstar.com/headlines/2026/11/19/2571150/carpio-political-dynasties-feed-national-budget",
-      "description": "Political dynasties have been &ldquo;feeding on the budget&rdquo; passed by Congress every year, and there is a need to remove them, according to retired Supreme Court senior associate justice Antonio Carpio.",
-      "date": "2026-11-18T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "You have very good genetics, Trump tells Marcos",
-      "link": "https://www.philstar.com/headlines/2026/11/19/2571151/you-have-very-good-genetics-trump-tells-marcos",
-      "description": "United States President Donald Trump praised President Marcos&rsquo; &ldquo;very good genetics&rdquo; and called his son, House Majority Leader Sandro Marcos, &ldquo;a beautiful young man.&rdquo;",
-      "date": "2026-11-18T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Marcos welcomes Trump to Malacañang | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/november-18-2026/",
-      "description": "Today’s headlines: Donald Trump, Pax Silica, COP31",
-      "date": "2026-11-18T14:00:00+00:00",
-      "source": "Rappler",
       "category": "news",
       "image": ""
     },
@@ -252,159 +405,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2023/03/women-taking-selfie-mall-300x200.jpg"
-    },
-    {
-      "title": "PCCI sees revamp as opening to boost collaboration with gov’t",
-      "link": "https://bworldonline.com/economy/2026/11/18/794819/pcci-sees-revamp-as-opening-to-boost-collaboration-with-govt/",
-      "description": "THE Philippine Chamber of Commerce and Industry (PCCI) said it welcomes opportunities to improve collaboration with government agencies&#8230;",
-      "date": "2026-11-18T12:34:59+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2022/05/PCCI-Logo-300x169.jpg"
-    },
-    {
-      "title": "Land use law remains key to harmonizing regulations; EO a stopgap, chambers say",
-      "link": "https://bworldonline.com/economy/2026/11/18/794818/land-use-law-remains-key-to-harmonizing-regulations-eo-a-stopgap-chambers-say/",
-      "description": "FOREIGN BUSINESS chambers welcomed the government’s plan to issue an executive order (EO) clarifying the roles of agencies &#8230;",
-      "date": "2026-11-18T12:34:49+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/rice-field-farmer-300x200.jpg"
-    },
-    {
-      "title": "Hog industry needs to raise output 14% in Q1 to satisfy pork demand after import ban — USDA",
-      "link": "https://bworldonline.com/economy/2026/11/18/794817/hog-industry-needs-to-raise-output-14-in-q1-to-satisfy-pork-demand-after-import-ban-usda/",
-      "description": "PHILIPPINE farmers will need to raise swine output by 14% in the first quarter to satisfy consumer demand,&#8230;",
-      "date": "2026-11-18T12:34:38+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2021/04/pigs-Philstar-300x200.jpg"
-    },
-    {
-      "title": "Laos double-taxation negotiations expected to conclude next week",
-      "link": "https://bworldonline.com/economy/2026/11/18/794816/laos-double-taxation-negotiations-expected-to-conclude-next-week/",
-      "description": "THE Department of Finance (DoF) hopes to conclude double taxation agreement (DTA) negotiations with Laos next week, with&#8230;",
-      "date": "2026-11-18T12:34:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/Laos-flag-300x169.jpg"
-    },
-    {
-      "title": "MSME lending growth lagged demand for financing in 2019-2023, IFC says",
-      "link": "https://bworldonline.com/economy/2026/11/18/794815/msme-lending-growth-lagged-demand-for-financing-in-2019-2023-ifc-says/",
-      "description": "THE GROWTH in lending to micro, small and medium enterprises (MSMEs) between 2019 and 2023 lagged that of demand for credit as economies emerged from the pandemic, the International Finance Corp. (IFC) said.",
-      "date": "2026-11-18T12:33:57+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/IFC-logo-300x300.jpg"
-    },
-    {
-      "title": "Mactan ecozone water system set for upgrades",
-      "link": "https://bworldonline.com/economy/2026/11/18/794814/mactan-ecozone-water-system-set-for-upgrades/",
-      "description": "THE Philippine Economic Zone Authority (PEZA) said it signed a memorandum of understanding with Twinfra Corp. to upgrade&#8230;",
-      "date": "2026-11-18T12:33:42+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/06/export-safety-seal-300x200.jpg"
-    },
-    {
-      "title": "LGUs tapped to localize climate action programs",
-      "link": "https://bworldonline.com/economy/2026/11/18/794812/lgus-tapped-to-localize-climate-action-programs/",
-      "description": "THE Department of Environment and Natural Resources (DENR) said it is establishing the Philippines Leadership on Climate Action&#8230;",
-      "date": "2026-11-18T12:32:39+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/CLIMATE-COP31-300x200.jpg"
-    },
-    {
-      "title": "BIR’s transfer pricing roadmap",
-      "link": "https://bworldonline.com/economy/2026/11/18/794811/birs-transfer-pricing-roadmap/",
-      "description": "The Philippine transfer pricing landscape is set for further development as the BIR strengthens its transfer pricing capabilities over the next three years.",
-      "date": "2026-11-18T12:32:08+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/20260925-BWorld-Website-Opinion-Headers-Taxwise-Or-Otherwise-1080x720-v3-light-D-300x200.jpg"
-    },
-    {
-      "title": "Megawide’s Q3 profit more than doubles on real-estate growth, lower finance costs",
-      "link": "https://bworldonline.com/corporate/2026/11/18/794823/megawides-q3-profit-more-than-doubles-on-real-estate-growth-lower-finance-costs/",
-      "description": "MEGAWIDE CONSTRUCTION Corp. reported a 117.2% increase in third-quarter (Q3) attributable net income to P335.38 million from P154.40&#8230;",
-      "date": "2026-11-18T12:23:43+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/09/Megawide3-OL-300x138.jpg"
-    },
-    {
-      "title": "OceanaGold advances potential gold-copper resource",
-      "link": "https://bworldonline.com/corporate/2026/11/18/794824/oceanagold-advances-potential-gold-copper-resource/",
-      "description": "OCEANAGOLD (Philippines), Inc. is advancing technical work on a potential new gold-copper mineral resource near its Didipio mine&#8230;",
-      "date": "2026-11-18T12:23:37+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/11/DIDIPIO-MINE-300x157.jpg"
-    },
-    {
-      "title": "Dominion Holdings’ Q3 income rises 11% on lower taxes",
-      "link": "https://bworldonline.com/corporate/2026/11/18/794792/dominion-holdings-q3-income-rises-11-on-lower-taxes/",
-      "description": "DOMINION HOLDINGS, Inc. (DHI) reported an 11.3% increase in third-quarter (Q3) net income to P38.73 million from P34.81&#8230;",
-      "date": "2026-11-18T12:23:33+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/10/TAMPAKAN-300x200.jpg"
-    },
-    {
-      "title": "AI a ‘growing concern’ at ASEAN’s parliamentary org, but no concrete measures yet",
-      "link": "https://www.rappler.com/philippines/artificial-intelligence-growing-concern-asean-inter-parliamentary-assembly-november-2026/",
-      "description": "'Artificial intelligence is advancing faster than many of our laws can keep pace with. No single parliament can manage these challenges alone,' House Speaker Bojie Dy tells ASEAN parliamentarians",
-      "date": "2026-11-18T12:21:35+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Why the Lopez cousins are breaking up — and what other feuding dynasties teach us",
-      "link": "https://www.rappler.com/business/why-lopez-cousins-breaking-up-what-lessons-family-feud-dynasties/",
-      "description": "Is keeping a family business together always worth the cost?",
-      "date": "2026-11-18T12:08:09+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/WhY18mWD7iw"
-    },
-    {
-      "title": "In the Public Square: Is impeachment democratic?",
-      "link": "https://www.rappler.com/philippines/in-the-public-square-sara-duterte-impeachment-trial-democratic/",
-      "description": "In this new episode of In the Public Square, Rappler columnist John Nery is joined by lawyer and constitutionalist Michael Henry Yusingco",
-      "date": "2026-11-18T12:00:29+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "NASA Voyager 1 probe believed to have reached ‘light-day’ milestone",
-      "link": "https://www.rappler.com/science/earth-space/nasa-voyager-1-probe-believed-reached-light-day-milestone/",
-      "description": "Officials at NASA's Jet Propulsion Laboratory in California will have to wait about a day to get a signal from the probe, confirming it has reached this distance",
-      "date": "2026-11-18T11:17:28+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Investing in AI Literacy Means Investing in Judgment",
-      "link": "https://btf.rappler.com/390/investing-in-ai-literacy-means-investing-in-judgment/",
-      "description": "Knowing how to use an AI tool does not settle when to use it, what to trust it with, or",
-      "date": "2026-11-18T10:21:17+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://btf.rappler.com/tachyon/sites/9/2026/11/Image-2-1-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "[DECODED] Scam season and the leaks that may make it worse",
-      "link": "https://www.rappler.com/voices/newsletters/decoded-scam-season-christmas/",
-      "description": "If recent leaks and scam warnings made you rethink your digital habits, there’s a place to start",
-      "date": "2026-11-18T10:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/image-17.jpeg?resize=75%2C75&crop_strategy=attention"
     }
   ]
 }
