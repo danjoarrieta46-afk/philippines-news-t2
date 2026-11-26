@@ -1,6 +1,105 @@
 {
-  "updated": "2026-11-25T18:06:12.813740+00:00",
+  "updated": "2026-11-26T01:53:54.428168+00:00",
   "items": [
+    {
+      "title": "How China got access to Nvidia’s AI chips despite rules to stop them",
+      "link": "https://www.rappler.com/world/us-canada/how-china-got-access-nvidia-ai-chips/",
+      "description": "The drama around Nvidia, the top US exporter of AI chips to China, thrusts the rules into the spotlight",
+      "date": "2026-11-26T01:08:31+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/jensen-huang-december-3-2025-reuters.jpg?resize=75%2C75&crop=114px%2C0px%2C760px%2C760px"
+    },
+    {
+      "title": "How China got access to Nvidia’s AI chips despite rules to stop them",
+      "link": "https://bworldonline.com/technology/2026/11/26/796899/how-china-got-access-to-nvidias-ai-chips-despite-rules-to-stop-them/",
+      "description": "AI chips are a central battleground in the US-China technology race. To preserve its lead, in recent years&#8230;",
+      "date": "2026-11-26T01:06:51+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2026/11/nvidia-hgx-h200-300x169.jpg"
+    },
+    {
+      "title": "US Army declares success in detonation of lead-based explosives stockpile in Iowa",
+      "link": "https://bworldonline.com/world/2026/11/26/796896/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/",
+      "description": "MIDDLETOWN, Iowa — The US Army conducted a controlled detonation of an aging stockpile of lead-based explosives in&#8230;",
+      "date": "2026-11-26T01:00:24+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2024/12/US-Typhon-missile-system-300x192.jpg"
+    },
+    {
+      "title": "Canada’s foreign student restrictions test Carney’s push to attract research talent",
+      "link": "https://bworldonline.com/world/2026/11/26/796894/canadas-foreign-student-restrictions-test-carneys-push-to-attract-research-talent/",
+      "description": "TORONTO — Canadian universities are working to send a message that they still want international students, after the&#8230;",
+      "date": "2026-11-26T00:58:54+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/04/Mark-Carney-300x200.jpg"
+    },
+    {
+      "title": "Japan’s data center boom faces growing revolt from urban residents",
+      "link": "https://bworldonline.com/world/2026/11/26/796892/japans-data-center-boom-faces-growing-revolt-from-urban-residents/",
+      "description": "KASHIWA, Japan — Until a few years ago, Susumu Goto’s house in Kashiwa, northeast of Tokyo, looked out&#8230;",
+      "date": "2026-11-26T00:56:58+00:00",
+      "source": "BusinessWorld",
+      "category": "business",
+      "image": "https://bworldonline.com/wp-content/uploads/2025/09/corridor-server-room-data-center-300x200.jpg"
+    },
+    {
+      "title": "76% of Australians struggling to tell apart real and AI content – new report",
+      "link": "https://www.rappler.com/technology/australians-struggling-real-ai-content-report/",
+      "description": "The challenge is not just that AI-generated content is becoming more realistic. It’s that many people are unsure whether they’re able to recognize it at all.",
+      "date": "2026-11-26T00:43:28+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/10/brazil-elections-AI-oct-26-2026.jpg?resize=75%2C75&crop=355px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "[Vantage Point] The Marcos estate tax: A test of presidential statesmanship",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-marcos-estate-tax-test-presidential-statesmanship/",
+      "description": "Taking the high ground would give real substance to the President’s own appeals for tax compliance",
+      "date": "2026-11-26T00:27:45+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Duran Duran guitarist and songwriter Andy Taylor dies at 65",
+      "link": "https://www.rappler.com/people/obituary/duran-duran-guitarist-songwriter-andy-taylor-dies/",
+      "description": "'To the world, Andy was a brilliant guitarist, but to us, he was the most wonderful husband, a loving dad and the proudest grandfather,' says Taylor's wife, Tracy Wilson-Taylor",
+      "date": "2026-11-26T00:20:34+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "DAR earmarks P600 million for El Niño response in 2027",
+      "link": "https://www.philstar.com/business/2026/11/26/2572594/dar-earmarks-p600-million-el-nio-response-2027",
+      "description": "The fund will benefit 26,900 agrarian reform beneficiaries, 734 organizations and 579 communities.",
+      "date": "2026-11-25T23:58:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "EXPLAINER: How scammers reach you, with or without your data",
+      "link": "https://www.rappler.com/technology/explainer-how-scammers-reach-you-with-or-without-your-data/",
+      "description": "Scammers are no longer just sliding into your DMs; they have found new ways to slip onto your screen",
+      "date": "2026-11-25T23:27:16+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/christmas-scams-nov-12-2026.jpg?resize=75%2C75&crop=428px%2C0px%2C1080px%2C1080px"
+    },
+    {
+      "title": "Taiwanese firms waiting to see US commitment before betting on Pax Silica",
+      "link": "https://www.philstar.com/headlines/2026/11/26/2572593/taiwanese-firms-waiting-see-us-commitment-betting-pax-silica",
+      "description": "Taiwanese businesses are taking a &quot;wait-and-see&quot; stance on the proposed Pax Silica hub in New Clark City until Washington signs agreements for the project, a Taiwanese business leader said, amid signs the US is in no hurry to finalize the deal.",
+      "date": "2026-11-25T22:46:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
     {
       "title": "Philippines misses crown bids in Miss Universe, Miss International",
       "link": "https://www.philstar.com/headlines/2026/11/26/2572686/philippines-misses-crown-bids-miss-universe-miss-international",
@@ -68,24 +167,6 @@
       "title": "Flood control back; House vows no ghost, substandard projects",
       "link": "https://www.philstar.com/headlines/2026/11/26/2572716/flood-control-back-house-vows-no-ghost-substandard-projects",
       "description": "Despite the massive flak lawmakers have received, House leaders yesterday confirmed that flood control projects have been restored in the 2027 national budget and gave assurance there will be no irregularities.",
-      "date": "2026-11-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "9.8 million families poor, 5.8 million experienced hunger – OCTA",
-      "link": "https://www.philstar.com/headlines/2026/11/26/2572717/98-million-families-poor-58-million-experienced-hunger-octa",
-      "description": "Self-rated poverty hardly moved in the third quarter of the year, with an estimated 9.8 million Filipino families rating themselves poor, a survey by the OCTA Research group showed.",
-      "date": "2026-11-25T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP: The majority won’t support me if I’m wrong",
-      "link": "https://www.philstar.com/headlines/2026/11/26/2572718/vp-majority-wont-support-me-if-im-wrong",
-      "description": "Vice President Sara Duterte has maintained her innocence, saying she still enjoys the support of the majority of the people despite all the accusations hurled against her before the Senate impeachment court.",
       "date": "2026-11-25T16:00:00+00:00",
       "source": "Philstar.com",
       "category": "news",
@@ -290,42 +371,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/Romualdez-300x169.jpeg"
     },
     {
-      "title": "Ilocos, Cagayan Valley minimum wage workers get higher pay",
-      "link": "https://bworldonline.com/the-nation/2026/11/25/796808/ilocos-cagayan-valley-minimum-wage-workers-get-higher-pay/",
-      "description": "MINIMUM wage earners in the Ilocos Region and Cagayan Valley will receive daily pay increases of up to&#8230;",
-      "date": "2026-11-25T13:26:22+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2025/06/Infra-construction-workers-300x200.jpg"
-    },
-    {
-      "title": "Truth body seeks drug war justice in PHL",
-      "link": "https://bworldonline.com/the-nation/2026/11/25/796807/truth-body-seeks-drug-war-justice-in-phl/",
-      "description": "THE Philippine Truth Commission called for justice for drug war victims in the Philippines ahead of former President&#8230;",
-      "date": "2026-11-25T13:26:19+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/06/Memorial-Wall-300x200.jpg"
-    },
-    {
-      "title": "US pledges $4-M El Niño aid",
-      "link": "https://bworldonline.com/the-nation/2026/11/25/796806/us-pledges-4-m-el-nino-aid/",
-      "description": "THE US is activating $4 million (P254.64 million) in disaster assistance to help 38,000 families affected by drought&#8230;",
-      "date": "2026-11-25T13:26:17+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2023/05/carabao-farmer-300x200.jpg"
-    },
-    {
-      "title": "Self-rated poor Filipinos unchanged in Q3",
-      "link": "https://bworldonline.com/the-nation/2026/11/25/796805/self-rated-poor-filipinos-unchanged-in-q3/",
-      "description": "AN ESTIMATED 9.8 million Filipino families considered themselves poor in the third quarter, while 5.8 million experienced involuntary&#8230;",
-      "date": "2026-11-25T13:26:11+00:00",
-      "source": "BusinessWorld",
-      "category": "business",
-      "image": "https://bworldonline.com/wp-content/uploads/2026/10/poverty-slum-area-300x200.jpg"
-    },
-    {
       "title": "Here are the Philippine Navy’s newest warships",
       "link": "https://www.rappler.com/philippines/video-navy-newest-warships/",
       "description": "Meet the latest acquisitions that comprise the Navy's modern fleet",
@@ -360,51 +405,6 @@
       "source": "Rappler",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Pope Leo calls COP31 failure ‘troubling,’ urges action on climate change",
-      "link": "https://www.rappler.com/world/global-affairs/pope-leo-xiv-calls-cop31-failure-troubling/",
-      "description": "'This situation calls for a renewed sense of shared responsibility, new forms of solidarity among nations and fundamental changes in behaviors, socio-economic systems, and the governance of our societies,' says the Pope",
-      "date": "2026-11-25T10:41:34+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "More connected but lonelier than ever: How do we navigate an AI-reliant world?",
-      "link": "https://www.rappler.com/people/human-interest/navigating-connections-artificial-intelligence-age/",
-      "description": "Mental health advocates say that tools like AI chatbots normalize isolation and provide a false sense of connection. Where do we draw the line, especially for the youth?",
-      "date": "2026-11-25T09:31:04+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/sgs-soft-edits-masterclass-mental-health-november-20-2026-018-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "The Green Report: Worst COP ever? What went down at 2026 UN climate talks",
-      "link": "https://www.rappler.com/environment/the-green-report-what-went-down-2026-un-climate-talks/",
-      "description": "Catch this episode on Wednesday, November 25, at 5 pm",
-      "date": "2026-11-25T09:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "FACT CHECK: ICC chamber order on ‘Incident 57’ doesn’t mean Duterte will be released",
-      "link": "https://www.rappler.com/newsbreak/fact-check/icc-chamber-order-incident-57-does-not-mean-duterte-release/",
-      "description": "While the ICC Trial Chamber III did order the removal of ‘Incident 57’ from the list of incidents in the charges against Duterte, this does not mean the entire case itself has been dismissed or that Duterte is set to be released",
-      "date": "2026-11-25T08:45:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/fact-check-full-post-02-3.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "Senate prioritizes feeding program in push for higher 2027 DepEd budget",
-      "link": "https://www.rappler.com/philippines/deped-budget-school-feeding-program-senate-plenary-november-24-2026/",
-      "description": "Senator Bam Aquino wants to increase the school-based feeding program's budget to P28.7 billion. Meanwhile, the ARAL Program has no allocation in the Senate committee report.",
-      "date": "2026-11-25T08:03:49+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/School-based-feeding-program-in-Bulacan.jpeg?resize=75%2C75&crop=303px%2C0px%2C1066px%2C1066px"
     }
   ]
 }
