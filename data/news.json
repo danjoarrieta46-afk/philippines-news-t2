@@ -1,19 +1,127 @@
 {
-  "updated": "2026-11-27T20:43:45.390778+00:00",
+  "updated": "2026-11-28T03:05:59.017632+00:00",
   "items": [
     {
-      "title": "Nobel Committee chair pushes human accountability for AI’s potential harms | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/november-27-2026/",
-      "description": "Today’s headlines: Artificial Intelligence, Sara Duterte, Ping Lacson",
-      "date": "2026-11-27T14:00:00+00:00",
+      "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
+      "link": "https://www.rappler.com/philippines/rodrigo-duterte-trial-international-criminal-court-hague-updates-videos/",
+      "description": "Bookmark this page for the latest developments in former president Rodrigo Duterte’s landmark trial at the International Criminal Court",
+      "date": "2026-11-28T02:00:00+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
-      "link": "https://www.rappler.com/philippines/rodrigo-duterte-trial-international-criminal-court-hague-updates-videos/",
-      "description": "Bookmark this page for the latest developments in former president Rodrigo Duterte’s landmark trial at the International Criminal Court",
+      "title": "[Vantage Point] The Legarda-Leviste solar empire: From government contracts to private billions",
+      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-legarda-leviste-solar-empire-from-government-contracts-private-billions/",
+      "description": "In renewable energy, the true measure of entrepreneurial success is electricity delivered to the grid—not merely shares sold or paper valuations achieved.",
+      "date": "2026-11-28T01:28:44+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/Screenshot-2026-11-28-at-8.30.59-AM.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Actual malice must be proven in cyber libel cases vs gov't officials — Supreme Court",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573074/actual-malice-must-be-proven-cyber-libel-cases-vs-govt-officials-supreme-court",
+      "description": "Press freedom groups have long raised concerns about the use of cyber libel against Filipino journalists, especially during the presidency of Rodrigo Duterte.&nbsp;",
+      "date": "2026-11-28T01:08:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Saving reefs: Coral Triangle expedition makes its way to the Philippines",
+      "link": "https://www.rappler.com/environment/coral-triangle-expedition-philippines-stop-2026/",
+      "description": "Researchers aboard the Tara schooner are taking coral samples in Palawan and Mindoro to understand why the region's corals are so resilient",
+      "date": "2026-11-28T01:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/2026-10-01_Palau_Science_CSE_CBASSDSC09965_%C2%A9Adrien-Poquet-Fondation-Tara-Ocean-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Internal probe led to graft case vs employees – Landbank",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573113/internal-probe-led-graft-case-vs-employees-landbank",
+      "description": "The Land Bank of the Philippines (LBP) said its internal investigation prompted the filing of a graft complaint against three long-sacked employees and a businessman over alleged irregularities involving a P115-million loan.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sandiganbayan affirms grant of bail to Revilla",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573115/sandiganbayan-affirms-grant-bail-revilla",
+      "description": "The Sandiganbayan Third Division has upheld its granting of bail to former senator Ramon Revilla Jr. in his malversation case involving an alleged ghost flood control project in Pandi, Bulacan.&nbsp;",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Public officials told: No Christmas solicitations",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573116/public-officials-told-no-christmas-solicitations",
+      "description": "The Office of the Ombudsman has&nbsp;warned public officials and employees against soliciting donations for Christmas parties and other unauthorized purposes, after suspending a barangay secretary in Makati over solicitation letters using official government letterhead.&nbsp;&nbsp;",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Group pushes back on coffee tax",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573117/group-pushes-back-coffee-tax",
+      "description": "A local coffee group has called out a proposal to impose excise taxes on coffee, warning that this could undermine the development of the country&rsquo;s coffee industry.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "President Marcos to non-commissioned AFP officers: We stand behind you",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573118/president-marcos-non-commissioned-afp-officers-we-stand-behind-you",
+      "description": "President Marcos has asked non-commissioned officers (NCOs) of the Armed Forces of the Philippines (AFP) to keep up the good work as he assured them of the government&rsquo;s full support in the performance of their duties.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Impeachment  court summons BOC official, Carpio business partner",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573119/impeachment-court-summons-boc-official-carpio-business-partner",
+      "description": "The Senate impeachment court has subpoenaed a Bureau of Customs (BOC) official and a former co-owner of Cale88 Foods Corp. to testify on the company&rsquo;s business operations and export records when proceedings on the trial of Vice President Sara Duterte resume on Dec. 1.?",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "ERC orders P1.99 billion Meralco refund",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573120/erc-orders-p199-billion-meralco-refund",
+      "description": "The Energy Regulatory Commission (ERC) has ordered Manila Electric Co. (Meralco) to return around P1.99 billion to its more than eight million customers over three months.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Pump prices seen going down by P3 per liter",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573121/pump-prices-seen-going-down-p3-liter",
+      "description": "Gasoline and diesel prices could be headed for another rollback next week, with industry projections of P3 to P3.50 per liter decrease for both following four days of trading in the Mean of Platts Singapore.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "VP incurs P5 million debt from impeach defense, trips",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573122/vp-incurs-p5-million-debt-impeach-defense-trips",
+      "description": "Vice President Sara Duterte says she has incurred a debt of P5 million in 2025 to fund her visits to The Hague, Netherlands where her father, former president Rodrigo Duterte, has been detained, and to cover the initial cost of the defense lawyers for her impeachment.",
+      "date": "2026-11-27T16:00:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Nobel Committee chair pushes human accountability for AI’s potential harms | The wRap",
+      "link": "https://www.rappler.com/video/daily-wrap/november-27-2026/",
+      "description": "Today’s headlines: Artificial Intelligence, Sara Duterte, Ping Lacson",
       "date": "2026-11-27T14:00:00+00:00",
       "source": "Rappler",
       "category": "news",
@@ -101,15 +209,6 @@
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/dnd-cayetano-300x200.jpg"
     },
     {
-      "title": "X launches parental controls to help manage teen use",
-      "link": "https://www.rappler.com/technology/social-media/x-launches-parental-controls-manage-teen-use/",
-      "description": "The parental controls feature launch comes some 20 years after X, formerly Twitter, was built",
-      "date": "2026-11-27T08:37:22+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
       "title": "Fuse Warns Public Against Fake Facebook Loan Offers,  Reminds Customers to Transact Only Through the GCash App",
       "link": "https://bworldonline.com/spotlight/2026/11/27/797287/fuse-warns-public-against-fake-facebook-loan-offers-reminds-customers-to-transact-only-through-the-gcash-app/",
       "description": "Fuse Financing Inc., the lending arm of GCash, is issuing a warning to the public regarding a coordinated&#8230;",
@@ -117,15 +216,6 @@
       "source": "BusinessWorld",
       "category": "business",
       "image": "https://bworldonline.com/wp-content/uploads/2026/11/spotlight2-240x300.jpg"
-    },
-    {
-      "title": "FACT CHECK: Suan did not propose parliamentary gov’t if VP Sara isn’t impeached",
-      "link": "https://www.rappler.com/newsbreak/fact-check/lordan-suan-fake-audio-parliamentary-if-sara-duterte-not-impeached/",
-      "description": "The Cagayan de Oro Press Club also debunked the claim, saying the congressman never made the remarks shown in the altered videos circulating online",
-      "date": "2026-11-27T08:01:18+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/fact-check-full-post-19.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Group urges PHL crackdown on illicit Cebu cigarette trade",
