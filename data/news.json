@@ -1,23 +1,113 @@
 {
-  "updated": "2026-11-28T03:05:59.017632+00:00",
+  "updated": "2026-11-28T12:09:31.629672+00:00",
   "items": [
+    {
+      "title": "Rappler Live Jam: ALAMAT",
+      "link": "https://www.rappler.com/entertainment/live-jam/music-sessions-alamat-november-2026/",
+      "description": "ALAMAT returns to the Rappler HQ to perform songs from their sophomore album 'DESTINO'!",
+      "date": "2026-11-28T11:59:56+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/aoPTD9sDUWM"
+    },
     {
       "title": "LIVE UPDATES: Rodrigo Duterte on trial at the ICC",
       "link": "https://www.rappler.com/philippines/rodrigo-duterte-trial-international-criminal-court-hague-updates-videos/",
       "description": "Bookmark this page for the latest developments in former president Rodrigo Duterte’s landmark trial at the International Criminal Court",
-      "date": "2026-11-28T02:00:00+00:00",
+      "date": "2026-11-28T11:00:00+00:00",
       "source": "Rappler",
       "category": "news",
       "image": ""
     },
     {
-      "title": "[Vantage Point] The Legarda-Leviste solar empire: From government contracts to private billions",
-      "link": "https://www.rappler.com/voices/thought-leaders/vantage-point-legarda-leviste-solar-empire-from-government-contracts-private-billions/",
-      "description": "In renewable energy, the true measure of entrepreneurial success is electricity delivered to the grid—not merely shares sold or paper valuations achieved.",
-      "date": "2026-11-28T01:28:44+00:00",
+      "title": "Buklod: Songs of an unfinished struggle",
+      "link": "https://www.rappler.com/people/artists/buklod-songs-unfinished-struggle/",
+      "description": "Forty years after the EDSA Revolution, the music of folk group Buklod remains a haunting reminder of a promise left unfulfilled — and a fight that is far from over",
+      "date": "2026-11-28T10:00:00+00:00",
       "source": "Rappler",
       "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/Screenshot-2026-11-28-at-8.30.59-AM.png?resize=75%2C75&crop_strategy=attention"
+      "image": ""
+    },
+    {
+      "title": "Will Sara Duterte finally attend her impeachment trial?",
+      "link": "https://www.rappler.com/newsbreak/inside-track/sara-duterte-impeachment-trial-attendance/",
+      "description": "Vice President Sara Duterte says she had repeatedly told her defense lawyer, Michael Poa, 'Allow me to lawyer for myself and stand there as a lawyer'",
+      "date": "2026-11-28T09:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/V7JonpICKy4"
+    },
+    {
+      "title": "What are AI chips, and what’s so special about Nvidia’s?",
+      "link": "https://www.rappler.com/technology/features/what-are-ai-chips-whats-so-special-about-nvidias/",
+      "description": "How Nvidia’s GPUs evolved from powering video games to becoming the backbone of the global AI race",
+      "date": "2026-11-28T08:30:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.youtube.com/embed/RBmOgQi4Fr0"
+    },
+    {
+      "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "link": "https://www.rappler.com/philippines/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+      "description": "The breach of Cloud One, a one-stop shop for the US Air Force's IT needs, raises concerns over sensitive military data security and operational disruptions",
+      "date": "2026-11-28T07:53:03+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "In ‘Shux,’ Bicol band Kilyab calls out ‘ayuda’ politics, climate neglect",
+      "link": "https://www.rappler.com/people/artists/bicol-band-kilyab-shux-ayuda-politics-climate-neglect/",
+      "description": "Drawn from a Gen Z expression of disappointment, the track urges voters in Camarines Sur and across Bicol to look beyond band-aid relief efforts",
+      "date": "2026-11-28T07:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/SHUX5-Kilyab-Bicol.jpeg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "Senate concludes marathon debates on P7.2-trillion 2027 budget",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573252/senate-concludes-marathon-debates-p72-trillion-2027-budget",
+      "description": "The Senate concluded its deliberations on the proposed P7.2-trillion national budget for 2027 early Saturday, November 28, after suspending the impeachment proceedings against Vice President Sara Duterte to make way for the debates.",
+      "date": "2026-11-28T06:40:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Food for feed: The price paid beyond the plate",
+      "link": "https://www.rappler.com/environment/food-for-feed-price-paid-beyond-plate/",
+      "description": "Much of the fishmeal and fish oil that support imported farmed seafood consumed in the Philippines comes from global supply chains linked to pollution, labor abuses, overfishing, and food insecurity in other countries",
+      "date": "2026-11-28T05:00:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/india-still-workers-ullal-fish-offload-01.png?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "The week in photos: November 21-27, 2026",
+      "link": "https://www.rappler.com/world/the-week-in-photos-november-21-27-2026/",
+      "description": "A recap of news, sports, lifestyle, entertainment, and human interest images from the Philippines and around the globe",
+      "date": "2026-11-28T04:45:00+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": "https://www.rappler.com/tachyon/2026/11/salvacion-ramos-duterte-icc-november-26-2026-001-scaled.jpg?resize=75%2C75&crop_strategy=attention"
+    },
+    {
+      "title": "LIST: December 2026 special non-working days in PH provinces, cities, towns",
+      "link": "https://www.rappler.com/philippines/special-non-working-days-proclamations-provinces-cities-towns-december-2026/",
+      "description": "Here are the December 2026 special non-working days in various localities, as proclaimed by the President",
+      "date": "2026-11-28T04:28:57+00:00",
+      "source": "Rappler",
+      "category": "news",
+      "image": ""
+    },
+    {
+      "title": "Sara Duterte doubts fairness of father's ICC trial, says court wants to 'make a statement'",
+      "link": "https://www.philstar.com/headlines/2026/11/28/2573235/sara-duterte-doubts-fairness-fathers-icc-trial-says-court-wants-make-statement",
+      "description": "Vice President Sara Duterte said she does not expect a fair trial for her father, former president Rodrigo Duterte, before the International Criminal Court, claiming the tribunal wants to &quot;make a statement&quot; following criticism from major powers.",
+      "date": "2026-11-28T02:53:00+00:00",
+      "source": "Philstar.com",
+      "category": "news",
+      "image": ""
     },
     {
       "title": "Actual malice must be proven in cyber libel cases vs gov't officials — Supreme Court",
@@ -27,15 +117,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Saving reefs: Coral Triangle expedition makes its way to the Philippines",
-      "link": "https://www.rappler.com/environment/coral-triangle-expedition-philippines-stop-2026/",
-      "description": "Researchers aboard the Tara schooner are taking coral samples in Palawan and Mindoro to understand why the region's corals are so resilient",
-      "date": "2026-11-28T01:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/2026-10-01_Palau_Science_CSE_CBASSDSC09965_%C2%A9Adrien-Poquet-Fondation-Tara-Ocean-scaled.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "Internal probe led to graft case vs employees – Landbank",
@@ -99,87 +180,6 @@
       "source": "Philstar.com",
       "category": "news",
       "image": ""
-    },
-    {
-      "title": "Pump prices seen going down by P3 per liter",
-      "link": "https://www.philstar.com/headlines/2026/11/28/2573121/pump-prices-seen-going-down-p3-liter",
-      "description": "Gasoline and diesel prices could be headed for another rollback next week, with industry projections of P3 to P3.50 per liter decrease for both following four days of trading in the Mean of Platts Singapore.",
-      "date": "2026-11-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "VP incurs P5 million debt from impeach defense, trips",
-      "link": "https://www.philstar.com/headlines/2026/11/28/2573122/vp-incurs-p5-million-debt-impeach-defense-trips",
-      "description": "Vice President Sara Duterte says she has incurred a debt of P5 million in 2025 to fund her visits to The Hague, Netherlands where her father, former president Rodrigo Duterte, has been detained, and to cover the initial cost of the defense lawyers for her impeachment.",
-      "date": "2026-11-27T16:00:00+00:00",
-      "source": "Philstar.com",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Nobel Committee chair pushes human accountability for AI’s potential harms | The wRap",
-      "link": "https://www.rappler.com/video/daily-wrap/november-27-2026/",
-      "description": "Today’s headlines: Artificial Intelligence, Sara Duterte, Ping Lacson",
-      "date": "2026-11-27T14:00:00+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "Boatwright debuts strong as Gilas routs Syria in FIBA World Cup qualifiers",
-      "link": "https://www.rappler.com/sports/gilas-pilipinas/philippines-syria-fiba-world-cup-asian-qualifiers-november-27-2026/",
-      "description": "New naturalized Filipino Bennie Boatwright and star center Kai Sotto live up to the hype as Gilas Pilipinas pummels Syria to kick off its fifth-window campaign in the 2027 FIBA World Cup Asian qualifiers",
-      "date": "2026-11-27T13:59:55+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "DOH eyes faster upgrades for LGU-run hospitals in 2027",
-      "link": "https://www.rappler.com/philippines/doh-eyes-faster-upgrades-lgu-run-hospitals-2027/",
-      "description": "The Senate finance committee recommends an additional P5.4 billion for the Health Facilities Enhancement Program, pushing its proposed 2027 allocation to P15.58 billion",
-      "date": "2026-11-27T13:12:38+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": ""
-    },
-    {
-      "title": "SKIT: What happened this time at COP31?",
-      "link": "https://www.rappler.com/world/global-affairs/skit-what-happened-cop31/",
-      "description": "Watch this skit to look back on how this year's heated climate negotiations went down",
-      "date": "2026-11-27T11:39:02+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.youtube.com/embed/e8nKTLIRrTs"
-    },
-    {
-      "title": "Order in the Court: Why did SC junk petitions vs Duterte’s ICC arrest?",
-      "link": "https://www.rappler.com/philippines/order-in-the-court-reasons-sc-junk-petitions-rodrigo-duterte-icc-arrest/",
-      "description": "How did this happen? Watch this episode with Jairo Bolledo.",
-      "date": "2026-11-27T10:42:50+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/08/supreme-court.jpeg?resize=75%2C75&crop=224px%2C0px%2C853px%2C853px"
-    },
-    {
-      "title": "The coral reef watchers saving our ocean",
-      "link": "https://www.rappler.com/environment/coral-reef-watchers-saving-ocean/",
-      "description": "Filipino marine scientists and volunteer divers work together to keep an eye on coral reefs — a collective pursuit in protecting the country's marine environment",
-      "date": "2026-11-27T09:39:04+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/DSC08338_CoralBleaching-scaled.jpg?resize=75%2C75&crop_strategy=attention"
-    },
-    {
-      "title": "SM Nuvali brings a new flagship mall – and traffic – to Laguna",
-      "link": "https://www.rappler.com/business/sm-nuvali-opening-november-27-2026-traffic/",
-      "description": "SM's 91st mall distinguishes itself with an indoor garden inspired by Singapore's Gardens by the Bay",
-      "date": "2026-11-27T09:34:11+00:00",
-      "source": "Rappler",
-      "category": "news",
-      "image": "https://www.rappler.com/tachyon/2026/11/sm-nuvali-opening-november-26-2026-013-scaled.jpg?resize=75%2C75&crop_strategy=attention"
     },
     {
       "title": "DoST urges shift to technology-driven agriculture amid extreme climate threats",
